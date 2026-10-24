@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-24T15:19:08+09:00",
+ "built": "2026-10-24T16:00:08+09:00",
  "prev": null,
  "next": null,
  "alerts": [
@@ -102,7 +102,7 @@
  "unko": {
   "source": "東海汽船",
   "url": "https://www.tokaikisen.co.jp/schedule/",
-  "as_of": "2026年10月24日（土）13:33 現在",
+  "as_of": "2026年10月24日（土）15:43 現在",
   "routes": [
    {
     "island": "八丈島",
@@ -132,7 +132,7 @@
     "ship": "大型客船 2500便さるびあ丸",
     "port": "底土港",
     "status": "就航",
-    "note": "遅延見込"
+    "note": "海上不良の為遅延見込"
    },
    {
     "island": "青ヶ島",
@@ -203,8 +203,6 @@
    }
   ]
  },
- "programs": [],
- "chart": null,
  "letters": [],
  "corrections": [],
  "column": null,

@@ -92,8 +92,6 @@ figcaption{font-family:var(--goth);font-size:12px;line-height:1.5;color:var(--in
 .side h3{font-weight:800;font-size:22px;line-height:1.35;margin-bottom:6px}
 
 /* テレビ小窓 */
-.tv .frame{position:relative;aspect-ratio:16/9;background:#000}
-.tv iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 .tv .live{display:flex;align-items:center;gap:6px;font-family:var(--goth);font-size:12px;font-weight:700;margin-bottom:6px}
 .tv .live i{width:8px;height:8px;border-radius:50%;background:var(--red);display:inline-block}
 @media (prefers-reduced-motion:no-preference){.tv .live i{animation:blink 2s steps(1) infinite}}
@@ -117,11 +115,6 @@ tr.day:first-child th{padding-top:0}
 .pop span{display:block;font-size:10.5px;color:var(--ink-3)}
 .note{font-family:var(--goth);font-size:11.5px;line-height:1.6;color:var(--ink-3);margin-top:8px}
 .note a{text-decoration:underline}
-.rate td:first-child{width:3.4em;font-variant-numeric:tabular-nums}
-.rate tr.on td{font-weight:700}
-.rate tr.on td:first-child::after{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--red);margin-left:5px;vertical-align:middle}
-.chart td:first-child{width:1.8em;font-weight:900;font-size:16px}
-.chart td.mv{text-align:right;color:var(--ink-3);font-size:12px;white-space:nowrap}
 .koe p{font-size:15px}
 .koyomi{margin-top:14px}
 /* 一面コラム:広い画面では縦組み、段落は▼でつなぐ */
@@ -179,18 +172,19 @@ tr.day:first-child th{padding-top:0}
   .lower{grid-template-columns:4fr 5fr 3fr}
   .lower>section+section{border-left:1px solid var(--hair);padding-left:28px}
   .lower2{grid-template-columns:8fr 4fr}
+  .lower-yt{grid-template-columns:7fr 5fr}
 }
 </style>
 </head>
 <body>
 <div class="wrap" id="paper"></div>
-<script type="application/json" id="edition">{"date": "2026-10-24", "edition": "朝刊", "published": "05:30", "proof": false, "built": "2026-10-24T15:19:08+09:00", "prev": null, "next": null, "alerts": [{"kind": "波浪注意報", "area": "八丈島", "issued": "2026-10-24T04:15", "status": "継続", "additions": ["うねり"]}], "weather": {"issued": "2026-10-24T11:00", "area": "伊豆諸島南部", "days": [{"label": "きょう", "weather": "くもり 昼過ぎ から 夕方 雨 三宅島 では 昼過ぎ 雷を伴い 激しく 降る", "main": "くもり 昼過ぎ から 夕方 雨", "others": "三宅島 では 昼過ぎ 雷を伴い 激しく 降る", "wind": "南東の風 やや強く 後 南西の風", "wave": "3メートル うねり を伴う", "pops": [["12〜18時", "70"], ["18〜24時", "30"]], "min": null, "max": 26}, {"label": "あす", "weather": "くもり 三宅島 では 昼過ぎ から 雨", "main": "くもり", "others": "三宅島 では 昼過ぎ から 雨", "wind": "南西の風 やや強く", "wave": "2.5メートル うねり を伴う", "pops": [["0〜6時", "10"], ["6〜12時", "20"], ["12〜18時", "30"], ["18〜24時", "30"]], "min": 22, "max": 28}]}, "koyomi": {"sunrise": "5:51", "sunset": "16:59", "moon": 12.7, "tide": {"place": "八丈島(神湊)", "high": [["3:38", 119], ["15:44", 124]], "low": [["9:40", 44], ["22:00", 25]]}}, "unko": {"source": "東海汽船", "url": "https://www.tokaikisen.co.jp/schedule/", "as_of": "2026年10月24日（土）13:33 現在", "routes": [{"island": "八丈島", "direction": "八丈島行き", "time": "22:30", "place": "東京発（昨晩）発", "ship": "大型客船 3500便さるびあ丸", "port": "底土港", "status": "就航", "note": "10/23(金)発便 11:15入港"}, {"island": "八丈島", "direction": "八丈島行き", "time": "22:30", "place": "東京発（今晩）発", "ship": "大型客船 3500便さるびあ丸", "port": "---", "status": "天候調査中", "note": "17時頃決定"}, {"island": "八丈島", "direction": "八丈島発", "time": "11:45", "place": "東京行", "ship": "大型客船 2500便さるびあ丸", "port": "底土港", "status": "就航", "note": "遅延見込"}, {"island": "青ヶ島", "direction": "青ヶ島行き", "time": "09:30", "place": "八丈島発", "ship": "客船 あおがしま丸", "port": "三宝港", "status": "欠航", "note": ""}, {"island": "青ヶ島", "direction": "青ヶ島発", "time": "13:30", "place": "八丈島行", "ship": "客船 あおがしま丸", "port": "三宝港", "status": "欠航", "note": ""}]}, "number": null, "top": null, "side": [], "shorts": [], "agenda": {"today": [], "soon": [{"date": "2026-10-31", "end": null, "what": "東京文化財ウィーク2026公開事業 八丈島の民謡（大賀郷公民館）", "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026", "src": "八丈島観光協会"}, {"date": "2026-11-01", "end": null, "what": "クルーズ客船「三井オーシャンサクラ」寄港", "url": "https://www.mitsuioceancruises.com/", "src": "八丈島観光協会"}, {"date": "2026-11-01", "end": null, "what": "発酵中フェス2026", "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/", "src": "八丈島観光協会"}, {"date": "2026-11-07", "end": null, "what": "優婆夷宝明神社例祭 （7日神輿､8日芸能大会､13日例祭式典）", "url": "https://x.com/go_sha1113/status/2108363943085539389?s=20", "src": "八丈島観光協会"}], "ongoing": [{"date": "2026-09-14", "end": "2027-01-11", "what": "実証事業 AIデマンドタクシー （9月14日～1月11日）", "url": "https://x.com/hachijodemand", "src": "八丈島観光協会", "left": 80}]}, "programs": [], "chart": null, "letters": [], "corrections": [], "column": null, "ronten": null, "weekly": []}</script>
+<script type="application/json" id="edition">{"date": "2026-10-24", "edition": "朝刊", "published": "05:30", "proof": false, "built": "2026-10-24T16:00:08+09:00", "prev": null, "next": null, "alerts": [{"kind": "波浪注意報", "area": "八丈島", "issued": "2026-10-24T04:15", "status": "継続", "additions": ["うねり"]}], "weather": {"issued": "2026-10-24T11:00", "area": "伊豆諸島南部", "days": [{"label": "きょう", "weather": "くもり 昼過ぎ から 夕方 雨 三宅島 では 昼過ぎ 雷を伴い 激しく 降る", "main": "くもり 昼過ぎ から 夕方 雨", "others": "三宅島 では 昼過ぎ 雷を伴い 激しく 降る", "wind": "南東の風 やや強く 後 南西の風", "wave": "3メートル うねり を伴う", "pops": [["12〜18時", "70"], ["18〜24時", "30"]], "min": null, "max": 26}, {"label": "あす", "weather": "くもり 三宅島 では 昼過ぎ から 雨", "main": "くもり", "others": "三宅島 では 昼過ぎ から 雨", "wind": "南西の風 やや強く", "wave": "2.5メートル うねり を伴う", "pops": [["0〜6時", "10"], ["6〜12時", "20"], ["12〜18時", "30"], ["18〜24時", "30"]], "min": 22, "max": 28}]}, "koyomi": {"sunrise": "5:51", "sunset": "16:59", "moon": 12.7, "tide": {"place": "八丈島(神湊)", "high": [["3:38", 119], ["15:44", 124]], "low": [["9:40", 44], ["22:00", 25]]}}, "unko": {"source": "東海汽船", "url": "https://www.tokaikisen.co.jp/schedule/", "as_of": "2026年10月24日（土）15:43 現在", "routes": [{"island": "八丈島", "direction": "八丈島行き", "time": "22:30", "place": "東京発（昨晩）発", "ship": "大型客船 3500便さるびあ丸", "port": "底土港", "status": "就航", "note": "10/23(金)発便 11:15入港"}, {"island": "八丈島", "direction": "八丈島行き", "time": "22:30", "place": "東京発（今晩）発", "ship": "大型客船 3500便さるびあ丸", "port": "---", "status": "天候調査中", "note": "17時頃決定"}, {"island": "八丈島", "direction": "八丈島発", "time": "11:45", "place": "東京行", "ship": "大型客船 2500便さるびあ丸", "port": "底土港", "status": "就航", "note": "海上不良の為遅延見込"}, {"island": "青ヶ島", "direction": "青ヶ島行き", "time": "09:30", "place": "八丈島発", "ship": "客船 あおがしま丸", "port": "三宝港", "status": "欠航", "note": ""}, {"island": "青ヶ島", "direction": "青ヶ島発", "time": "13:30", "place": "八丈島行", "ship": "客船 あおがしま丸", "port": "三宝港", "status": "欠航", "note": ""}]}, "number": null, "top": null, "side": [], "shorts": [], "agenda": {"today": [], "soon": [{"date": "2026-10-31", "end": null, "what": "東京文化財ウィーク2026公開事業 八丈島の民謡（大賀郷公民館）", "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026", "src": "八丈島観光協会"}, {"date": "2026-11-01", "end": null, "what": "クルーズ客船「三井オーシャンサクラ」寄港", "url": "https://www.mitsuioceancruises.com/", "src": "八丈島観光協会"}, {"date": "2026-11-01", "end": null, "what": "発酵中フェス2026", "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/", "src": "八丈島観光協会"}, {"date": "2026-11-07", "end": null, "what": "優婆夷宝明神社例祭 （7日神輿､8日芸能大会､13日例祭式典）", "url": "https://x.com/go_sha1113/status/2108363943085539389?s=20", "src": "八丈島観光協会"}], "ongoing": [{"date": "2026-09-14", "end": "2027-01-11", "what": "実証事業 AIデマンドタクシー （9月14日～1月11日）", "url": "https://x.com/hachijodemand", "src": "八丈島観光協会", "left": 80}]}, "letters": [], "corrections": [], "column": null, "ronten": null, "weekly": []}</script>
 <script>
 /* ============================================================
    毎朝のパイプラインが書き出す edition.json を読んで1枚に組む。
    本番では SAMPLE を null にする(読めない朝は休刊を表示)。
    ============================================================ */
-const TV_EMBED = "https://tv.hachijojima.jp/?embed=1";
+const TV_EMBED = "https://tv.hachijojima.jp/embed.html";   // 埋め込み専用プレーヤー(2026-10-24 公開)
 const SAMPLE = {
   sample:true, date:"2026-10-24", edition:"朝刊", published:"05:30",
   prev:null, next:null,
@@ -215,13 +209,6 @@ const SAMPLE = {
     days:[
       { label:"きょう", weather:"くもり 所により 雨", wind:"北東の風 やや強く", wave:"3メートル うねりを伴う", pops:[["0〜6時","—"],["6〜12時","30"],["12〜18時","40"],["18〜24時","20"]], min:null, max:24 },
       { label:"あす", weather:"くもり 時々 晴れ", wind:"北東の風", wave:"2.5メートル", pops:[["一日","20"]], min:19, max:25 } ] },
-  programs:[
-    {start:"05:00",end:"07:00",title:"朝の島(見本)"}, {start:"07:00",end:"09:00",title:"港だより(見本)"},
-    {start:"09:00",end:"12:00",title:"昼前の音楽(見本)"}, {start:"12:00",end:"13:00",title:"HACHIJOHOT 10"},
-    {start:"13:00",end:"18:00",title:"午後の窓(見本)"}, {start:"18:00",end:"24:00",title:"夜の島(見本)"} ],
-  chart:{ week:"十月第四週", items:[
-    {rank:1,title:"曲名一(見本)",artist:"アーティスト",prev:2}, {rank:2,title:"曲名二(見本)",artist:"アーティスト",prev:1},
-    {rank:3,title:"曲名三(見本)",artist:"アーティスト",prev:null} ] },
   letters:[{ body:"見本の投書です。リクエストと同じ受付から届いた声を載せます。", from:"三根 匿名" }],
   corrections:[]
 };
@@ -256,15 +243,8 @@ function agendaSection(e){
   if(a.soon.length) blocks.push(`<div><h3>近日</h3><ul>${a.soon.map(x=>`<li><span>${md(x.date)}${x.end?`〜${md(x.end)}`:""}</span>${x.url?`<a href="${esc(x.url)}" rel="noopener">${esc(x.what)}</a>`:esc(x.what)}</li>`).join("")}</ul></div>`);
   return `<section class="men" id="yotei" aria-labelledby="yotei-h"><h2 class="band" id="yotei-h">予定</h2><div class="yotei">${blocks.join("")}</div></section>`;
 }
-function nowProgram(list, isToday){
-  if(!isToday) return null;
-  const n=new Date(Date.now()+9*3600e3), cur=`${String(n.getUTCHours()).padStart(2,"0")}:${String(n.getUTCMinutes()).padStart(2,"0")}`;
-  return list.find(p=>p.start<=cur && cur<p.end) || null;
-}
 
 function render(e){
-  const today = new Date(Date.now()+9*3600e3).toISOString().slice(0,10);
-  const isToday = e.date===today, onair = nowProgram(e.programs,isToday);
   const w0 = e.weather.days[0];
   document.title = `八丈島新聞 ${seireki(e.date)} ${e.edition}`;
   document.getElementById("paper").innerHTML = `
@@ -276,7 +256,7 @@ function render(e){
     </div>
     <div class="dateline"><span>${wareki(e.date)}</span><span class="c seireki">${seireki(e.date)}</span><span>${e.edition}</span></div>
     <nav class="kyo" aria-label="きょうの紙面"><span>きょうの紙面</span>
-      <a href="#ichimen">一面</a>${e.column?`<a href="#column">${esc(e.column.name)}</a>`:""}${e.ronten?'<a href="#ronten">論点</a>':""}<a href="#beta">短報</a><a href="#yotei">予定</a><a href="#tenki">天気</a><a href="#rate">ラテ欄</a><a href="#ongaku">音楽</a><a href="#koe">島の声</a><a href="#shakoku">社告</a>
+      <a href="#ichimen">一面</a>${e.column?`<a href="#column">${esc(e.column.name)}</a>`:""}${e.ronten?'<a href="#ronten">論点</a>':""}<a href="#beta">短報</a><a href="#yotei">予定</a><a href="#tenki">天気</a><a href="#koe">島の声</a><a href="#shakoku">社告</a>
       <a href="/shukusatsu/">縮刷版</a>
     </nav>
     ${e.alerts.map(a=>`<div class="keiho" role="status"><b>${esc(a.area)}に${esc(a.kind)}</b><small>気象庁 ${hm(a.issued)}発表。発行後に変わっていることがあります。</small></div>`).join("")}
@@ -290,12 +270,12 @@ function render(e){
         ${figure(e.top.photo)}
         <div class="honbun">${paras(e.top.body)}${src(e.top.sources)}</div>
       </div>
-    </article>`:`<article class="top"><h2>けさは大きな話題がありません</h2><p>短報と天気、ラテ欄をどうぞ。</p></article>`}
+    </article>`:`<article class="top"><h2>けさは大きな話題がありません</h2><p>短報と予定、天気をどうぞ。</p></article>`}
     <aside class="side">
       <section class="tv" aria-label="FM八丈島テレビ">
         <div class="live"><i aria-hidden="true"></i>FM八丈島テレビ いま放送中</div>
-        <div class="frame"><iframe src="${TV_EMBED}" title="FM八丈島テレビ" loading="lazy" allow="autoplay; fullscreen" referrerpolicy="strict-origin"></iframe></div>
-        <p class="now">${onair?`${esc(onair.start)}〜 ${esc(onair.title)}`:"番組はラテ欄で"}<br><a href="https://tv.hachijojima.jp/" rel="noopener">テレビで大きく観る</a></p>
+        <iframe src="${TV_EMBED}" title="FM八丈島テレビ" style="display:block;width:100%;aspect-ratio:16/9;border:0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe>
+        <p class="now"><a href="https://tv.hachijojima.jp/" rel="noopener">テレビで大きく観る</a></p>
       </section>
       ${e.side.map(s=>`<article><h3>${esc(s.headline)}</h3><div class="honbun">${paras(s.body)}</div>${src(s.sources)}</article>`).join("")}
     </aside>
@@ -320,8 +300,8 @@ function render(e){
     <div class="beta">${e.shorts.length?e.shorts.map(s=>`<article><h3>${esc(s.headline)}</h3>${paras(s.body)}${src(s.sources)}</article>`).join(""):"<p>けさの短報はありません。</p>"}</div>
   </section>
 
+  <div class="lower lower-yt">
   ${agendaSection(e)}
-  <div class="lower">
     <section class="men" id="tenki" aria-labelledby="tenki-h">
       <h2 class="band" id="tenki-h">天気</h2>
       <table>${e.weather.days.map(d=>`
@@ -339,16 +319,6 @@ function render(e){
       </table>`:""}
       <p class="note">${esc(e.weather.area)}(三宅島・御蔵島・八丈島・青ヶ島)の予報。気温は八丈島。気象庁 ${hm(e.weather.issued)}発表。${e.koyomi&&e.koyomi.tide?`潮は${esc(e.koyomi.tide.place)}の推算値。`:""}日の出入りと月齢は本紙の計算。出典:気象庁ホームページ。最新は<a href="https://www.jma.go.jp/bosai/forecast/#area_type=class10s&area_code=130030" rel="noopener">気象庁</a>で。</p>
     </section>
-    <section class="men" id="rate" aria-labelledby="rate-h">
-      <h2 class="band" id="rate-h">ラテ欄 FM八丈島</h2>
-      ${e.programs.length?"":`<p class="note">番組表は準備中です。</p>`}<table class="rate">${e.programs.map(p=>`<tr${onair===p?' class="on"':""}><td>${esc(p.start)}</td><td>${esc(p.title)}</td></tr>`).join("")}</table>
-      <p class="note">ラジオとテレビの同時放送。<a href="https://tv.hachijojima.jp/" rel="noopener">FM八丈島テレビ</a></p>
-    </section>
-    <section class="men" id="ongaku" aria-labelledby="ongaku-h">
-      <h2 class="band" id="ongaku-h">HACHIJOHOT 10</h2>
-      ${e.chart?`<table class="chart">${e.chart.items.map(i=>`<tr><td>${i.rank}</td><td>${esc(i.title)}<br><small>${esc(i.artist)}</small></td><td class="mv">${i.prev==null?"初":i.prev===i.rank?"→":i.prev>i.rank?"↑"+i.prev:"↓"+i.prev}</td></tr>`).join("")}</table>
-      <p class="note">${esc(e.chart.week)}。曲のリクエストは<a href="https://tv.hachijojima.jp/" rel="noopener">FM八丈島テレビ</a>から。</p>`:`<p class="note">ランキングは準備中です。曲のリクエストは<a href="https://tv.hachijojima.jp/" rel="noopener">FM八丈島テレビ</a>から。</p>`}
-    </section>
   </div>
 
   <div class="lower lower2">
@@ -359,7 +329,7 @@ function render(e){
     <section class="men" id="shakoku" aria-labelledby="shakoku-h">
       <h2 class="band" id="shakoku-h">社告</h2>
       ${e.corrections.length?`<div class="teisei"><b>おわびと訂正</b>${e.corrections.map(c=>`<p>${esc(c)}</p>`).join("")}</div>`:""}
-      <p>本紙の記事と番組表は、間違えることがあります。お気づきの点は島の声へ。確かめたうえで、この欄で訂正します。</p>
+      <p>本紙の記事は、間違えることがあります。お気づきの点は島の声へ。確かめたうえで、この欄で訂正します。</p>
     </section>
   </div>
 
