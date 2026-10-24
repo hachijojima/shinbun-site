@@ -1,0 +1,208 @@
+{
+ "date": "2026-10-24",
+ "edition": "朝刊",
+ "published": "05:30",
+ "proof": false,
+ "prev": null,
+ "next": null,
+ "alerts": [
+  {
+   "kind": "波浪注意報",
+   "area": "八丈島",
+   "issued": "2026-10-24T04:15",
+   "status": "継続",
+   "additions": [
+    "うねり"
+   ]
+  }
+ ],
+ "weather": {
+  "issued": "2026-10-24T11:00",
+  "area": "伊豆諸島南部",
+  "days": [
+   {
+    "label": "きょう",
+    "weather": "くもり 昼過ぎ から 夕方 雨 三宅島 では 昼過ぎ 雷を伴い 激しく 降る",
+    "wind": "南東の風 やや強く 後 南西の風",
+    "wave": "3メートル うねり を伴う",
+    "pops": [
+     [
+      "12〜18時",
+      "70"
+     ],
+     [
+      "18〜24時",
+      "30"
+     ]
+    ],
+    "min": null,
+    "max": 26
+   },
+   {
+    "label": "あす",
+    "weather": "くもり 三宅島 では 昼過ぎ から 雨",
+    "wind": "南西の風 やや強く",
+    "wave": "2.5メートル うねり を伴う",
+    "pops": [
+     [
+      "0〜6時",
+      "10"
+     ],
+     [
+      "6〜12時",
+      "20"
+     ],
+     [
+      "12〜18時",
+      "30"
+     ],
+     [
+      "18〜24時",
+      "30"
+     ]
+    ],
+    "min": 22,
+    "max": 28
+   }
+  ]
+ },
+ "koyomi": {
+  "sunrise": "5:51",
+  "sunset": "16:59",
+  "moon": 12.7,
+  "tide": {
+   "place": "八丈島(神湊)",
+   "high": [
+    [
+     "3:38",
+     119
+    ],
+    [
+     "15:44",
+     124
+    ]
+   ],
+   "low": [
+    [
+     "9:40",
+     44
+    ],
+    [
+     "22:00",
+     25
+    ]
+   ]
+  }
+ },
+ "unko": {
+  "source": "東海汽船",
+  "url": "https://www.tokaikisen.co.jp/schedule/",
+  "as_of": "2026年10月24日（土）13:33 現在",
+  "routes": [
+   {
+    "island": "八丈島",
+    "direction": "八丈島行き",
+    "time": "22:30",
+    "place": "東京発（昨晩）発",
+    "ship": "大型客船 3500便さるびあ丸",
+    "port": "底土港",
+    "status": "就航",
+    "note": "10/23(金)発便 11:15入港"
+   },
+   {
+    "island": "八丈島",
+    "direction": "八丈島行き",
+    "time": "22:30",
+    "place": "東京発（今晩）発",
+    "ship": "大型客船 3500便さるびあ丸",
+    "port": "---",
+    "status": "天候調査中",
+    "note": "17時頃決定"
+   },
+   {
+    "island": "八丈島",
+    "direction": "八丈島発",
+    "time": "11:45",
+    "place": "東京行",
+    "ship": "大型客船 2500便さるびあ丸",
+    "port": "底土港",
+    "status": "就航",
+    "note": "遅延見込"
+   },
+   {
+    "island": "青ヶ島",
+    "direction": "青ヶ島行き",
+    "time": "09:30",
+    "place": "八丈島発",
+    "ship": "客船 あおがしま丸",
+    "port": "三宝港",
+    "status": "欠航",
+    "note": ""
+   },
+   {
+    "island": "青ヶ島",
+    "direction": "青ヶ島発",
+    "time": "13:30",
+    "place": "八丈島行",
+    "ship": "客船 あおがしま丸",
+    "port": "三宝港",
+    "status": "欠航",
+    "note": ""
+   }
+  ]
+ },
+ "number": null,
+ "top": null,
+ "side": [],
+ "shorts": [],
+ "agenda": {
+  "today": [],
+  "soon": [
+   {
+    "date": "2026-10-31",
+    "end": null,
+    "what": "東京文化財ウィーク2026公開事業 八丈島の民謡（大賀郷公民館）",
+    "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026",
+    "src": "八丈島観光協会"
+   },
+   {
+    "date": "2026-11-01",
+    "end": null,
+    "what": "クルーズ客船「三井オーシャンサクラ」寄港",
+    "url": "https://www.mitsuioceancruises.com/",
+    "src": "八丈島観光協会"
+   },
+   {
+    "date": "2026-11-01",
+    "end": null,
+    "what": "発酵中フェス2026",
+    "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/",
+    "src": "八丈島観光協会"
+   },
+   {
+    "date": "2026-11-07",
+    "end": null,
+    "what": "優婆夷宝明神社例祭 （7日神輿､8日芸能大会､13日例祭式典）",
+    "url": "https://x.com/go_sha1113/status/2108363943085539389?s=20",
+    "src": "八丈島観光協会"
+   }
+  ],
+  "ongoing": [
+   {
+    "date": "2026-09-14",
+    "end": "2027-01-11",
+    "what": "実証事業 AIデマンドタクシー （9月14日～1月11日）",
+    "url": "https://x.com/hachijodemand",
+    "src": "八丈島観光協会",
+    "left": 80
+   }
+  ]
+ },
+ "programs": [],
+ "chart": null,
+ "letters": [],
+ "corrections": [],
+ "column": null,
+ "ronten": null,
+ "weekly": []
+}
