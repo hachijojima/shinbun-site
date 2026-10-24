@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-24T18:24:12+09:00",
+ "built": "2026-10-24T19:09:01+09:00",
  "prev": null,
  "next": null,
  "alerts": [
@@ -157,9 +157,212 @@
   ]
  },
  "number": null,
- "top": null,
- "side": [],
- "shorts": [],
+ "top": {
+  "headline": "大賀郷と樫立で民謡・場踊り公開",
+  "sode": "",
+  "body": [
+   "八丈島文化財協会によると、東京文化財ウィーク公開事業が24日から11月3日まで開かれる。大賀郷公民館で「八丈島の民謡（大賀郷）」、服部屋敷で「樫立の場踊り」を公開する。",
+   "「樫立の場踊り」は、樫立踊り保存会が実施する。「八丈島の民謡（大賀郷）」は、保存会の情報が協会のホームページに載った。",
+   "公開期間は、24日を含めて残り11日である。"
+  ],
+  "sources": [
+   {
+    "label": "八丈島文化財協会(X)",
+    "url": "https://x.com/8jobunka"
+   }
+  ],
+  "audience": "両方",
+  "thread_id": "t20261024-1"
+ },
+ "side": [
+  {
+   "headline": "ダイバー8人、全員救助",
+   "sode": "",
+   "body": [
+    "22日、八丈島沖でドリフトダイビング中だった8人が浮上せず、第三管区海上保安本部が全員を救助した。",
+    "同本部によると、118番に通報があった。ダイバーは急な潮流の変化で流され、所在が分からなくなったという。",
+    "同本部は巡視船、飛行機、ヘリコプターを出して捜索に当たった。"
+   ],
+   "sources": [
+    {
+     "label": "第三管区海上保安本部(X)",
+     "url": "https://x.com/JCG_3rd_RCGH"
+    }
+   ],
+   "audience": "両方",
+   "thread_id": "t20261024-2"
+  }
+ ],
+ "shorts": [
+  {
+   "headline": "ビジターセンターで鳥の講演会",
+   "body": [
+    "八丈ビジターセンターで24日、講演会「天然記念物の鳥たち」が開かれる。"
+   ],
+   "sources": [
+    {
+     "label": "八丈ビジターセンター(X)",
+     "url": "https://x.com/8jo_vc"
+    }
+   ],
+   "audience": "両方",
+   "thread_id": null
+  },
+  {
+   "headline": "八丈高校図書館を開放",
+   "body": [
+    "都立八丈高等学校によると、同校の図書館を24日と25日の2日間、地域の人に開放している。"
+   ],
+   "sources": [
+    {
+     "label": "都立八丈高等学校(X)",
+     "url": "https://x.com/tokyo8jouhs"
+    }
+   ],
+   "audience": "島民",
+   "thread_id": null
+  },
+  {
+   "headline": "例祭の担ぎ手を募集",
+   "body": [
+    "優婆夷宝明神社例祭が、11月7日、8日、13日に八丈島で開かれる。"
+   ],
+   "sources": [
+    {
+     "label": "優婆夷宝明神社例祭(X)",
+     "url": "https://x.com/go_sha1113"
+    }
+   ],
+   "audience": "両方",
+   "thread_id": null
+  },
+  {
+   "headline": "ミス八丈島の新名称決定",
+   "body": [
+    "八丈町は5日、ミス八丈島に代わる新名称を決めた。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町のお知らせ",
+     "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261022/"
+    }
+   ],
+   "audience": "島民",
+   "thread_id": null
+  },
+  {
+   "headline": "資料館がグッドデザイン賞",
+   "body": [
+    "八丈町によると、八丈島歴史民俗資料館が22日までにGOOD DESIGN AWARD2026を受賞した。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町(ロベレニくん)(X)",
+     "url": "https://x.com/hachijomachi"
+    }
+   ],
+   "audience": "両方",
+   "thread_id": null
+  },
+  {
+   "headline": "大型客船、11月1日に寄港",
+   "body": [
+    "11月1日、大型客船の三井オーシャンサクラが八丈島に寄港する。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町(ロベレニくん)(X)",
+     "url": "https://x.com/hachijomachi"
+    }
+   ],
+   "audience": "両方",
+   "thread_id": null
+  },
+  {
+   "headline": "山下人形こころみ、2日間休診",
+   "body": [
+    "山下人形こころみクリニックは、インフルエンザ集団接種のため、24日と25日の2日間、外来診療を休診する。"
+   ],
+   "sources": [
+    {
+     "label": "山下人形こころみクリニック(X)",
+     "url": "https://x.com/cocoromi_island"
+    }
+   ],
+   "audience": "島民",
+   "thread_id": null
+  },
+  {
+   "headline": "底土港で漁協女性部の朝市",
+   "body": [
+    "東京都 島しょによると、八丈島漁協女性部が24日10時から11時まで、底土港(船客)待合所3階売店で朝市を開く。"
+   ],
+   "sources": [
+    {
+     "label": "東京都 島しょ(X)",
+     "url": "https://x.com/tosyokasseika"
+    }
+   ],
+   "audience": "両方",
+   "thread_id": null
+  },
+  {
+   "headline": "ふらっと、3日休止へ",
+   "body": [
+    "八丈町社会福祉協議会は、こどもの学習・生活支援事業「ふらっと」を24日、26日、31日の3日間休止する。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町社会福祉協議会(X)",
+     "url": "https://x.com/8jo_Syakyo"
+    }
+   ],
+   "audience": "島民",
+   "thread_id": null
+  },
+  {
+   "headline": "119ライデンに不正アクセス",
+   "body": [
+    "八丈町は23日、「119ライデン」と「NET119」への第三者による不正アクセスを明らかにした。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町のお知らせ",
+     "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261023/"
+    }
+   ],
+   "audience": "島民",
+   "thread_id": null
+  },
+  {
+   "headline": "クロアシアホウドリの模型",
+   "body": [
+    "八丈町によると、クロアシアホウドリの実物大模型が23日までに八丈ビジターセンターに来た。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町(ロベレニくん)(X)",
+     "url": "https://x.com/hachijomachi"
+    }
+   ],
+   "audience": "両方",
+   "thread_id": null
+  },
+  {
+   "headline": "植物公園が臨時職員を募集",
+   "body": [
+    "八丈植物公園で臨時職員を募集している。"
+   ],
+   "sources": [
+    {
+     "label": "八丈ビジターセンター(X)",
+     "url": "https://x.com/8jo_vc"
+    }
+   ],
+   "audience": "島民",
+   "thread_id": null
+  }
+ ],
  "agenda": {
   "today": [],
   "soon": [
