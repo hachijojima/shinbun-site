@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-26T09:49:44+09:00",
+ "built": "2026-10-26T09:55:06+09:00",
  "prev": "/2026/10/25/",
  "next": null,
  "alerts": [
@@ -339,5 +339,63 @@
   "households": 4028,
   "households_diff": -21,
   "url": "https://www.town.hachijo.tokyo.jp/"
- }
+ },
+ "giin": [
+  {
+   "name": "伊藤しょう",
+   "at": "2026-10-25T20:50:00+09:00",
+   "url": "https://x.com/ito_man1223/status/2114323587377119708",
+   "what": "例大祭の準備に参加",
+   "when": "きのう",
+   "medal": "🥇"
+  },
+  {
+   "name": "佐々木丈",
+   "at": "2026-10-25T00:52:45+09:00",
+   "url": "https://note.com/sasaki8joe/n/n309d0962e93c",
+   "what": "講演会を聴講",
+   "when": "きのう",
+   "medal": "🥈"
+  },
+  {
+   "name": "山下のりこ",
+   "at": "2026-10-24T18:14:33+09:00",
+   "url": "https://x.com/norikoba1014/status/2113922082220437897",
+   "what": "小学校の音楽会を鑑賞",
+   "when": "2日前",
+   "medal": "🥉"
+  },
+  {
+   "name": "浅沼碧海",
+   "at": "2026-10-24T09:34:39+09:00",
+   "url": "https://x.com/aomi_asa/status/2113791244728139784",
+   "what": "特別支援学校の見学会に参加",
+   "when": "2日前",
+   "medal": ""
+  },
+  {
+   "name": "岩崎由美",
+   "at": "2026-10-20T14:48:50+09:00",
+   "url": "https://x.com/yumi_iwasaki/status/2112420757263507462",
+   "what": "資料館の受賞を紹介",
+   "when": "6日前",
+   "medal": ""
+  },
+  {
+   "name": "伊勢崎唯",
+   "at": "2026-10-19T17:41:16+09:00",
+   "url": "https://x.com/YuiIsezaki8jo/status/2112101764405375082",
+   "what": "八高生と交流イベントに参加",
+   "when": "10月19日",
+   "medal": ""
+  },
+  {
+   "name": "山本忠志",
+   "at": null,
+   "url": "https://x.com/20ucivXRxgFSkxm",
+   "what": null,
+   "when": null,
+   "medal": ""
+  }
+ ]
 }
