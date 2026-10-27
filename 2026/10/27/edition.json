@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-27T09:44:30+09:00",
+ "built": "2026-10-27T09:57:38+09:00",
  "prev": "/2026/10/26/",
  "next": null,
  "alerts": [
@@ -86,9 +86,9 @@
    }
   ],
   "obs": {
-   "at": "2026-10-27T09:30",
-   "wind_dir": "西",
-   "wind": 4.1
+   "at": "2026-10-27T09:50",
+   "wind_dir": "南西",
+   "wind": 5.5
   }
  },
  "koyomi": {
@@ -122,7 +122,7 @@
  "unko": {
   "source": "東海汽船",
   "url": "https://www.tokaikisen.co.jp/schedule/",
-  "as_of": "2026年10月27日（火）9:33 現在",
+  "as_of": "2026年10月27日（火）9:46 現在",
   "routes": [
    {
     "island": "八丈島",
@@ -247,14 +247,7 @@
   }
  ],
  "agenda": {
-  "today": [
-   {
-    "date": "2026-10-27",
-    "end": null,
-    "what": "ANA明日27日の運航見通し",
-    "url": "https://x.com/ANA_flight_info/status/2114635648187367927"
-   }
-  ],
+  "today": [],
   "soon": [
    {
     "date": "2026-10-31",
