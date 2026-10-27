@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shinbun.hachijojima.jp/sitemap.xml
