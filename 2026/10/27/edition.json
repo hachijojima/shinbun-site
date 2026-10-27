@@ -3,25 +3,32 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-27T09:57:38+09:00",
+ "built": "2026-10-27T10:06:55+09:00",
  "prev": "/2026/10/26/",
  "next": null,
  "alerts": [
-  {
-   "kind": "波浪注意報",
-   "area": "八丈島",
-   "issued": "2026-10-27T04:03",
-   "status": "継続",
-   "additions": [
-    "うねり"
-   ]
-  },
   {
    "kind": "濃霧注意報",
    "area": "八丈島",
    "issued": "2026-10-27T04:03",
    "status": "継続",
    "additions": []
+  },
+  {
+   "kind": "強風注意報",
+   "area": "八丈島",
+   "issued": "2026-10-27T10:04",
+   "status": "発表",
+   "additions": []
+  },
+  {
+   "kind": "波浪注意報",
+   "area": "八丈島",
+   "issued": "2026-10-27T10:04",
+   "status": "継続",
+   "additions": [
+    "うねり"
+   ]
   }
  ],
  "weather": {
