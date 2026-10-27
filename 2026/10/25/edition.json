@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-27T12:55:01+09:00",
+ "built": "2026-10-27T13:13:31+09:00",
  "prev": "/2026/10/24/",
  "next": "/2026/10/26/",
  "alerts": [
@@ -197,7 +197,8 @@
    }
   ],
   "label": "暮らし",
-  "audience": "両方"
+  "audience": "両方",
+  "id": "35d678"
  },
  "side": [],
  "shorts": [
@@ -224,7 +225,8 @@
     }
    ],
    "label": "交通・防災",
-   "audience": "両方"
+   "audience": "両方",
+   "id": "b10bca"
   },
   {
    "headline": "町HPなど4サイト対策済み",
@@ -241,7 +243,8 @@
     }
    ],
    "label": "町政",
-   "audience": "両方"
+   "audience": "両方",
+   "id": "f39860"
   },
   {
    "headline": "ダイバー8人救助の映像公開",
@@ -257,7 +260,8 @@
     }
    ],
    "label": "交通・防災",
-   "audience": "両方"
+   "audience": "両方",
+   "id": "143aff"
   },
   {
    "headline": "ミス八丈島の新名称決定",
@@ -274,7 +278,8 @@
     }
    ],
    "label": "催し・文化",
-   "audience": "両方"
+   "audience": "両方",
+   "id": "d6b658"
   }
  ],
  "agenda": {

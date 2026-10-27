@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-27T12:55:01+09:00",
+ "built": "2026-10-27T13:13:31+09:00",
  "prev": "/2026/10/26/",
  "next": null,
  "alerts": [
@@ -201,7 +201,8 @@
   ],
   "label": "交通・防災",
   "audience": "両方",
-  "thread_id": "t20261027-6"
+  "thread_id": "t20261027-6",
+  "id": "2b621d"
  },
  "side": [],
  "shorts": [
@@ -219,7 +220,8 @@
    ],
    "label": "町政",
    "audience": "島民",
-   "thread_id": "t20261027-9"
+   "thread_id": "t20261027-9",
+   "id": "387edd"
   },
   {
    "headline": "町のデジタル教室 31日締切",
@@ -236,7 +238,8 @@
    ],
    "label": "催し・文化",
    "audience": "島民",
-   "thread_id": "t20261027-8"
+   "thread_id": "t20261027-8",
+   "id": "f76b85"
   },
   {
    "headline": "親子留学の家族、テレビで特集",
@@ -262,7 +265,8 @@
    ],
    "audience": "島民",
    "thread_id": "t20261027-5",
-   "label": "暮らし"
+   "label": "暮らし",
+   "id": "ed6991"
   },
   {
    "headline": "玉置周啓さんの八丈島への思い",
@@ -278,7 +282,8 @@
    ],
    "label": "催し・文化",
    "audience": "両方",
-   "thread_id": "t20261027-7"
+   "thread_id": "t20261027-7",
+   "id": "3d2fc7"
   }
  ],
  "agenda": {

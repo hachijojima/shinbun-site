@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-27T12:55:01+09:00",
+ "built": "2026-10-27T13:13:31+09:00",
  "prev": null,
  "next": "/2026/10/25/",
  "alerts": [
@@ -176,7 +176,8 @@
    }
   ],
   "label": "催し・文化",
-  "audience": "両方"
+  "audience": "両方",
+  "id": "024e63"
  },
  "side": [],
  "shorts": [
@@ -201,7 +202,8 @@
     }
    ],
    "label": "町政",
-   "audience": "両方"
+   "audience": "両方",
+   "id": "825bc2"
   },
   {
    "headline": "大型客船が11月1日寄港",
@@ -216,7 +218,8 @@
     }
    ],
    "label": "交通・防災",
-   "audience": "両方"
+   "audience": "両方",
+   "id": "d18050"
   },
   {
    "headline": "文化財ウィーク、島内で公開",
@@ -243,7 +246,8 @@
     }
    ],
    "label": "催し・文化",
-   "audience": "両方"
+   "audience": "両方",
+   "id": "915257"
   },
   {
    "headline": "集団接種で24日と25日休診",
@@ -259,7 +263,8 @@
     }
    ],
    "label": "暮らし",
-   "audience": "両方"
+   "audience": "両方",
+   "id": "c5c324"
   }
  ],
  "agenda": {
