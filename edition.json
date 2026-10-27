@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-27T11:35:01+09:00",
+ "built": "2026-10-27T11:44:29+09:00",
  "prev": "/2026/10/26/",
  "next": null,
  "alerts": [
@@ -89,9 +89,9 @@
    }
   ],
   "obs": {
-   "at": "2026-10-27T11:20",
+   "at": "2026-10-27T11:30",
    "wind_dir": "西南西",
-   "wind": 6.1
+   "wind": 6.6
   }
  },
  "koyomi": {
@@ -125,7 +125,7 @@
  "unko": {
   "source": "東海汽船",
   "url": "https://www.tokaikisen.co.jp/schedule/",
-  "as_of": "2026年10月27日（火）11:13 現在",
+  "as_of": "2026年10月27日（火）11:44 現在",
   "routes": [
    {
     "island": "八丈島",

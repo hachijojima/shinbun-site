@@ -23,19 +23,22 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500;700;800&family=Zen+Kaku+Gothic+New:wght@500;700;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@800&display=swap" rel="stylesheet">
 <style>
 :root{
-  --paper:#ffffff; --ink:#000000; --ink-2:#4d4d4d; --ink-3:#8a8a8a; --rule:#000000; --hair:#c8c8c8;
-  --band-bg:#000000; --band-ink:#ffffff; --red:#d1001f; --photo:#e4e4e4;
+  --paper:#ffffff; --ink:#1f1f1f; --ink-2:#555555; --ink-3:#8a8a8a; --rule:#000000; --hair:#c8c8c8;
+  --band-bg:#000000; --band-ink:#ffffff; --tamamushi:#00562B;   /* 社の色(玉虫色) */ --red:#d1001f; --photo:#e4e4e4;
   --min:"Shippori Mincho B1","Hiragino Mincho ProN","Yu Mincho","Noto Serif CJK JP","Noto Serif JP",serif;
-  --goth:"Zen Kaku Gothic New","Hiragino Sans","Yu Gothic","Noto Sans CJK JP","Noto Sans JP",sans-serif;
+  --goth:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Hiragino Kaku Gothic ProN","Hiragino Sans","Noto Sans JP",Meiryo,sans-serif;   /* 端末の標準のゴシック(主な新聞社サイトと同じ。2026-10-27) */
+  /* 文字の大きさは4つだけ(題字と題字の左右は別):見出し・小見出し・本文・添え書き。2026-10-27 */
+  /* 書体:明朝は題字と見出しだけ。本文・一覧・添え書きはゴシック(新聞社サイトの記事本文と同じ。2026-10-27) */
+  --fs-h:clamp(24px,5.6vw,34px); --fs-s:clamp(18px,4.4vw,21px); --fs-b:17px; --fs-m:13px;
   color-scheme:only light; box-sizing:border-box;   /* いつも白地(端末のダークモードに合わせない。2026-10-24 決定) */
   padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
 }
 *,*::before,*::after{box-sizing:inherit}
 html{scroll-padding-top:env(safe-area-inset-top,0px)}
-body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--min);font-size:16px;line-height:1.85;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--goth);font-size:var(--fs-b);line-height:1.8;-webkit-text-size-adjust:100%}
 a{color:inherit;text-decoration:none}
 a:hover{text-decoration:underline;text-underline-offset:.2em}
 a:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
@@ -43,29 +46,30 @@ h1,h2,h3,p{margin:0}
 .wrap{max-width:1200px;margin:0 auto;padding:0 16px 40px}
 
 /* ── 題字と耳 ── */
-.mast{display:grid;grid-template-columns:auto auto;justify-content:space-between;align-items:end;gap:10px 12px;padding:18px 0 8px;border-bottom:3px solid var(--rule)}
+.mast{display:grid;grid-template-columns:auto auto;justify-content:space-between;align-items:baseline;gap:10px 12px;padding:18px 0 8px;border-bottom:3px solid var(--rule)}
 .mast .daiji{grid-column:1/-1;grid-row:1}
-.daiji{font-weight:800;font-size:clamp(44px,11vw,96px);line-height:1;letter-spacing:-.02em;text-align:center;white-space:nowrap}
+.daiji{font-family:var(--min);font-weight:800;font-size:clamp(40px,8vw,76px);line-height:1;letter-spacing:-.02em;text-align:center;white-space:nowrap}
 .daiji a:hover{text-decoration:none}
 .mast .hi,.mast .ten{font-family:var(--goth);font-size:clamp(14px,3.8vw,21px);font-weight:700;line-height:1.4;white-space:nowrap}   /* 字の大きさは前のまま。スマホでも1行 */
 .mast .ten{text-align:right}
-@media (min-width:920px){.mast{grid-template-columns:1fr auto 1fr}.mast .daiji{grid-column:2}.mast .hi,.mast .ten{grid-row:1;padding-bottom:6px}}
-.deg{font-family:-apple-system,"Helvetica Neue",Arial,sans-serif;font-weight:600}   /* 和文の書体だと「°」が全角幅で間が空く */
+@media (min-width:920px){.mast{grid-template-columns:1fr auto 1fr}.mast .daiji{grid-column:2}.mast .hi,.mast .ten{grid-row:1}}
+.deg{line-height:1;font-family:-apple-system,"Helvetica Neue",Arial,sans-serif;font-weight:600}   /* 和文の書体だと「°」が全角幅で間が空く */
 
 /* ── 帯見出し(白抜き) ── */
-.band{display:inline-block;background:var(--band-bg);color:var(--band-ink);font-family:var(--goth);font-weight:900;
-  font-size:13px;letter-spacing:.08em;padding:2px 10px 3px;margin:0 0 12px}
+.band{display:inline-block;width:9.5em;background:var(--paper);color:var(--tamamushi);border:1px solid var(--tamamushi);font-family:var(--goth);font-weight:900;
+  font-size:var(--fs-m);letter-spacing:.08em;padding:1px 9px 2px;margin:0 0 12px}   /* 欄の見出し:白地に玉虫色。どの欄も同じ長さ */
 .men{padding-top:20px}
 
 /* ── 一面 ── */
 .ichimen{display:grid;gap:20px;padding-top:18px}
-.top h2{font-weight:800;font-size:clamp(26px,5vw,38px);line-height:1.22;letter-spacing:-.01em;margin-bottom:10px}   /* 一面の2本は同じ大きさ */
-@media (min-width:720px){.top h2{font-size:clamp(38px,5.2vw,50px)}}
-.label{display:inline-block;font-family:var(--goth);font-weight:700;font-size:12px;line-height:1.4;letter-spacing:.06em;border:1px solid var(--ink);padding:1px 7px;margin-bottom:8px}
+.top h2{font-family:var(--goth);font-weight:700;font-feature-settings:"palt";letter-spacing:.01em;font-size:var(--fs-h);line-height:1.4;margin-bottom:8px}   /* 見出しはゴシックの太字、約物を詰める(新聞社サイトの作法) */
+
+/* 記事のラベル:欄の見出しと同じ形と大きさで、色を反転(玉虫色の地に白) */
+.labels{display:flex;gap:6px;margin-bottom:8px}
+.label{display:inline-block;width:9.5em;font-family:var(--goth);font-weight:900;font-size:var(--fs-m);letter-spacing:.08em;background:var(--tamamushi);color:var(--band-ink);border:1px solid var(--tamamushi);padding:1px 9px 2px}
 .top2{border-top:1px solid var(--rule);margin-top:28px;padding-top:20px}
-.top .sode{font-family:var(--goth);font-weight:700;font-size:17px;line-height:1.5;margin-bottom:14px}
 figure{margin:0 0 12px}
-.photo{aspect-ratio:3/2;background:var(--photo);display:grid;place-items:center;color:var(--ink-3);font-family:var(--goth);font-size:13px}
+.photo{aspect-ratio:3/2;background:var(--photo);display:grid;place-items:center;color:var(--ink-3);font-family:var(--goth);font-size:var(--fs-m)}
 .photo img{width:100%;height:100%;object-fit:cover;display:block}
 .zu{display:block;width:100%;height:auto;max-width:520px}
 .zu text{font-family:var(--goth);fill:var(--ink)}
@@ -80,22 +84,21 @@ figure{margin:0 0 12px}
 .zu .don{fill:var(--paper);font-size:12px;font-weight:700}
 .zu .doff{font-size:12px;fill:var(--ink-2)}
 .zu-fig{border-top:1px solid var(--rule);padding-top:10px}
-.zt-h{font-family:var(--goth);font-weight:900;font-size:17px;margin-bottom:6px}
+.zt-h{font-family:var(--goth);font-weight:900;font-size:var(--fs-s);margin-bottom:6px}
 .zu-tbl td{font-weight:700;white-space:nowrap}
 .zu-tbl td.warn{color:var(--red)}
 .zu-tbl th{white-space:normal;font-weight:500}
 .embed{max-width:540px}
 .embed>blockquote{margin:0 !important;min-width:0 !important}
-figcaption{font-family:var(--goth);font-size:12px;line-height:1.5;color:var(--ink-2);padding-top:5px}
+figcaption{font-family:var(--goth);font-size:var(--fs-m);line-height:1.5;color:var(--ink-2);padding-top:5px}
 .honbun p{text-indent:1em;text-align:justify}
 .honbun p+p{margin-top:.15em}
-.src{display:block;margin-top:6px;font-family:var(--goth);font-size:11.5px;line-height:1.5;color:var(--ink-3)}
+.src{display:block;margin-top:6px;font-family:var(--goth);font-size:var(--fs-m);line-height:1.5;color:var(--ink-3)}
 .src a{text-decoration:underline;text-underline-offset:.15em}
-.rail{display:grid;gap:26px;align-content:start}
-.rail .band{width:9.5em}   /* 右の列の帯見出しは同じ長さ */
+.rail{display:grid;grid-template-columns:minmax(0,1fr);gap:26px;align-content:start}
 
 /* テレビ小窓 */
-.band.onair{display:inline-flex;align-items:center;gap:6px;background:var(--red)}   /* 帯見出しと同じ形で、放送中だけ赤 */
+.band.onair{display:inline-flex;align-items:center;gap:6px;background:var(--red);border-color:var(--red);color:var(--band-ink)}   /* 帯見出しと同じ形で、放送中だけ赤 */
 .onair i{width:7px;height:7px;border-radius:50%;background:var(--band-ink);display:inline-block}
 @media (prefers-reduced-motion:no-preference){.onair i{animation:blink 2s steps(1) infinite}}
 .tv .head{display:flex;align-items:center;gap:10px;margin-bottom:12px}.tv .head .band{margin:0}
@@ -104,37 +107,44 @@ figcaption{font-family:var(--goth);font-size:12px;line-height:1.5;color:var(--in
 /* 島の足 */
 .ashi th{white-space:normal;font-weight:700}
 .ashi td.st{font-weight:700;white-space:nowrap;text-align:right}
-.ashi small{display:block;color:var(--ink-2);font-size:12px}
-.ashi .note{font-family:var(--goth);font-size:11.5px;color:var(--ink-3);margin-top:4px}
+.ashi small{display:block;color:var(--ink-2);font-size:var(--fs-m)}
+.ashi .note{font-family:var(--goth);font-size:var(--fs-m);color:var(--ink-3);margin-top:4px}
 
 /* 天気(右の列):1日1行 */
-.wx-row{display:flex;flex-wrap:wrap;align-items:center;gap:2px 10px;padding:7px 0;border-bottom:1px solid var(--hair);font-family:var(--goth);font-size:14px;line-height:1.5}
+.wx-row{display:flex;flex-wrap:nowrap;align-items:center;gap:2px 9px;white-space:nowrap;padding:7px 0;border-bottom:1px solid var(--hair);font-family:var(--goth);font-size:var(--fs-b);line-height:1.5}
 .wx-row b{min-width:2.6em;font-weight:900}
 .wx-row .ic{display:inline-flex;align-items:center;gap:4px;font-weight:700}
 .wx-row svg{width:20px;height:20px;stroke:var(--ink);fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .wx-row .t{font-weight:700}.wx-row .t small{color:var(--ink-3);font-weight:500}
-.wx-row .s{color:var(--ink-2)}
+.wx-row .s{color:var(--ink-2);font-size:var(--fs-m);min-width:0;overflow:hidden;text-overflow:ellipsis}
 /* 今週の一面・人口 */
-.week{list-style:none;margin:0;padding:0;font-family:var(--goth);font-size:15.5px;line-height:1.5}
+.week{list-style:none;margin:0;padding:0;font-family:var(--goth);font-size:var(--fs-b);line-height:1.5}
 .week li{padding:3px 0}
 .week a{display:block;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}   /* 1日1行 */
-.week time{display:inline-block;width:2.6em;font-weight:500;color:var(--ink-3);font-size:13.5px}
-.giin{list-style:none;margin:0;padding:0;font-family:var(--goth);font-size:15.5px;line-height:1.5}
+.week time{display:inline-block;width:7.6em;color:var(--ink-3);font-size:var(--fs-m);font-weight:400}
+.giin{list-style:none;margin:0;padding:0;font-family:var(--goth);font-size:var(--fs-b);line-height:1.5}
 .giin li{padding:3px 0}
 .giin a,.giin span{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.giin i{display:inline-block;width:1.6em;font-style:normal}
+.giin q{quotes:none}
+.giin i{display:inline-flex;align-items:center;justify-content:center;width:1.25em;height:1.25em;margin-right:.45em;border-radius:50%;
+  font-style:normal;font-size:var(--fs-m);font-weight:700;color:#fff;vertical-align:.1em;font-feature-settings:"tnum"}
+.giin i.r1{background:#b8912f}.giin i.r2{background:#8e9499}.giin i.r3{background:#a5673f}.giin i.r0{background:none}
 .giin b{font-weight:900;margin-right:.6em}
-.giin time{color:var(--ink-3);font-size:13.5px;margin-right:.6em}
+.giin time{color:var(--ink-3);font-size:var(--fs-m);margin-right:.6em}
 /* 島のいま:天気・暦・船・人口を1つの欄に。見出しは左の小さな列 */
-.kurashi{display:grid;grid-template-columns:3.2em 1fr;margin:6px 0 0;font-family:var(--goth);font-size:14px;line-height:1.5}
+.kurashi{display:grid;grid-template-columns:2.6em minmax(0,1fr);margin:6px 0 0;font-family:var(--goth);font-size:var(--fs-b);line-height:1.5}
 .kurashi dt,.kurashi dd{margin:0;padding:6px 0;border-bottom:1px solid var(--hair)}
 .kurashi dt{font-weight:900}
 .kurashi dd b{font-weight:900}.kurashi .fune b{white-space:nowrap}
-.kurashi small{color:var(--ink-2);font-size:12.5px}
-.kurashi .fune{display:flex;justify-content:space-between;gap:8px}
+.kurashi small{color:var(--ink-2);font-size:var(--fs-m)}
+.kurashi .fune{display:flex;justify-content:space-between;gap:8px;white-space:nowrap}
+.kurashi .fune span{min-width:0;overflow:hidden;text-overflow:ellipsis}
 .kurashi .fune+.fune{margin-top:4px}
+.kurashi dd{white-space:nowrap;min-width:0;overflow:hidden;text-overflow:ellipsis}
+.kurashi .fune b{flex:none}
+.note .nw{white-space:nowrap}
 /* 注意報は黄、警報は赤、特別警報は紫(気象庁の色分けにならう) */
-.keiho{display:flex;flex-wrap:wrap;gap:4px 6px;margin-bottom:8px;font-family:var(--goth);font-weight:900;font-size:14px}
+.keiho{display:flex;flex-wrap:wrap;gap:4px 6px;margin-bottom:8px;font-family:var(--goth);font-weight:900;font-size:var(--fs-b)}
 .keiho span{padding:1px 8px}
 .keiho .lv1{background:#f2d000;color:#000}
 .keiho .lv2{background:var(--red);color:#fff}
@@ -142,50 +152,51 @@ figcaption{font-family:var(--goth);font-size:12px;line-height:1.5;color:var(--in
 /* きょうの一曲 */
 .kyoku .kk{display:flex;gap:12px;align-items:flex-start;margin-bottom:8px}
 .kyoku img{width:96px;height:96px;object-fit:cover;flex:none;display:block;background:var(--photo)}
-.kyoku h3{font-weight:800;font-size:19px;line-height:1.35}
-.kyoku .who{font-family:var(--goth);font-weight:700;font-size:14px;line-height:1.5;margin-top:2px}
-.kyoku .who small{display:block;color:var(--ink-3);font-weight:500;font-size:12.5px}
-.kyoku p.txt{font-size:15px;line-height:1.8;text-align:justify}
-.kyoku .kiku{display:flex;flex-wrap:wrap;gap:4px 16px;margin-top:6px;font-family:var(--goth);font-size:13px;font-weight:700}
+.kyoku h3{font-family:var(--goth);font-weight:700;font-feature-settings:"palt";letter-spacing:.01em;font-size:var(--fs-s);line-height:1.4}
+.kyoku .who{font-family:var(--goth);font-weight:700;font-size:var(--fs-b);line-height:1.5;margin-top:2px}
+.kyoku .who small{display:block;color:var(--ink-3);font-weight:500;font-size:var(--fs-m)}
+.kyoku p.txt{font-size:var(--fs-b);line-height:1.8;text-align:justify}
+.kyoku .kiku{display:flex;flex-wrap:wrap;gap:4px 16px;margin-top:6px;font-family:var(--goth);font-size:var(--fs-m);font-weight:700}
 .kyoku .kiku a{text-decoration:underline;text-underline-offset:.2em}
 /* 島のたより */
-.tayori{border-top:3px solid var(--rule);margin-top:28px;padding-top:12px}
-.tayori h3{font-weight:800;font-size:clamp(22px,4vw,28px);line-height:1.3;margin-bottom:10px}
+.tayori{border-top:1px solid var(--rule);margin-top:28px;padding-top:20px}   /* 記事の間の線と同じ */
+.tayori h3{font-family:var(--goth);font-weight:700;font-feature-settings:"palt";letter-spacing:.01em;font-size:var(--fs-h);line-height:1.4;margin-bottom:8px}   /* 記事の見出しと同じ */
 .tayori .honbun a{text-decoration:underline;text-underline-offset:.2em;text-decoration-color:var(--ink-3)}
 
 /* ── 表組み ── */
-table{width:100%;border-collapse:collapse;font-family:var(--goth);font-size:13.5px;line-height:1.5}
+table{width:100%;border-collapse:collapse;font-family:var(--goth);font-size:var(--fs-b);line-height:1.5}
 th,td{padding:6px 4px;border-bottom:1px solid var(--hair);text-align:left;vertical-align:top}
 th{font-weight:700;white-space:nowrap}
-tr.day th{white-space:normal;font-size:15px;font-weight:900;border-bottom:1px solid var(--rule);padding-top:12px}
+tr.day th{white-space:normal;font-size:var(--fs-b);font-weight:900;border-bottom:1px solid var(--rule);padding-top:12px}
 tr.day:first-child th{padding-top:0}
-.note{font-family:var(--goth);font-size:11.5px;line-height:1.6;color:var(--ink-3);margin-top:8px}
+.note{font-family:var(--goth);font-size:var(--fs-m);line-height:1.6;color:var(--ink-3);margin-top:8px}
 .note a{text-decoration:underline}
 .koyomi{margin-top:14px}
 .koyomi td{white-space:nowrap}
-.ronten-t{font-weight:800;font-size:24px;line-height:1.35;margin-bottom:10px}
+.ronten-t{font-family:var(--goth);font-weight:700;font-size:var(--fs-s);line-height:1.35;margin-bottom:10px}
 .ronten-g{display:grid;gap:4px 28px}
-.ronten-g h4{margin:0 0 6px;font-family:var(--goth);font-weight:900;font-size:14px;border-bottom:1px solid var(--rule);padding-bottom:3px}
-.ronten-g ul{margin:0 0 12px;padding:0;list-style:none;font-size:15px;line-height:1.7}
+.ronten-g h4{margin:0 0 6px;font-family:var(--goth);font-weight:900;font-size:var(--fs-b);border-bottom:1px solid var(--rule);padding-bottom:3px}
+.ronten-g ul{margin:0 0 12px;padding:0;list-style:none;font-size:var(--fs-b);line-height:1.7}
 .ronten-g li{padding:4px 0;border-bottom:1px solid var(--hair)}
 .yotei{display:grid;gap:4px 28px}
-.rail .yotei{grid-template-columns:1fr !important}
-.yotei ul{list-style:none;margin:0;padding:0;font-family:var(--goth);font-size:14px;line-height:1.55}
-.yotei li{padding:5px 0;border-bottom:1px solid var(--hair)}
-.yotei li span{display:block;font-size:12px;color:var(--ink-3)}
+.rail .yotei{grid-template-columns:minmax(0,1fr) !important}
+.yotei ul{list-style:none;margin:0;padding:0;font-family:var(--goth);font-size:var(--fs-b);line-height:1.55}
+.yotei li{display:flex;align-items:baseline;gap:0;padding:5px 0;border-bottom:1px solid var(--hair);white-space:nowrap}
+.yotei li span{flex:none;width:8.2em;font-size:var(--fs-m);color:var(--ink-3)}
+.yotei li a,.yotei li em{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;font-style:normal}
 .yotei b{color:var(--red)}
-.yotei p{font-family:var(--goth);font-size:13px;color:var(--ink-3)}
-.weekly{list-style:none;margin:0;padding:0;font-family:var(--goth);font-size:15px;font-weight:700}
+.yotei p{font-family:var(--goth);font-size:var(--fs-m);color:var(--ink-3)}
+.weekly{list-style:none;margin:0;padding:0;font-family:var(--goth);font-size:var(--fs-b);font-weight:700}
 .weekly li{border-bottom:1px solid var(--hair);padding:7px 0}
-.weekly span{display:inline-block;width:5.5em;font-weight:500;color:var(--ink-3);font-size:13px}
+.weekly span{display:inline-block;width:5.5em;font-weight:500;color:var(--ink-3);font-size:var(--fs-m)}
 
 /* ── 奥付 ── */
 .oku{margin-top:28px;border-top:3px solid var(--rule);padding-top:10px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px 20px;
-  font-family:var(--goth);font-size:12.5px}
+  font-family:var(--goth);font-size:var(--fs-m)}
 .oku nav{display:flex;gap:18px;font-weight:700}
 .oku .meta{color:var(--ink-3)}
 .kyukan{text-align:center;padding:72px 0;border-bottom:1px solid var(--rule)}
-.kyukan h2{font-weight:800;font-size:32px;margin-bottom:8px}
+.kyukan h2{font-family:var(--min);font-weight:800;font-size:var(--fs-s);margin-bottom:8px}
 
 /* ── スマホ・狭い画面の並び(左右の列をほどいて order で並べる)── */
 @media (max-width:999px){
@@ -193,7 +204,7 @@ tr.day:first-child th{padding-top:0}
   .ichimen-main,.rail{display:contents}
   .ichimen .top2,.ichimen .tayori{margin-top:0}
   #week{order:2} #giin{order:3} .side{order:4} .short{order:5} .tayori,.ronten{order:6}
-  .tv{order:7} .kyoku{order:8} #yotei{order:9} #shima{order:10}
+  .tv{order:7;border-top:1px solid var(--rule);padding-top:20px}   /* 記事の並びとテレビの間に線 */ .kyoku{order:8} #yotei{order:9} #shima{order:10}
 }
 /* ── 段組み(広い画面)── */
 @media (min-width:1000px){
@@ -208,7 +219,7 @@ tr.day:first-child th{padding-top:0}
 </head>
 <body>
 <div class="wrap" id="paper"></div>
-<script type="application/json" id="edition">{"date": "2026-10-26", "edition": "朝刊", "published": "05:30", "proof": false, "built": "2026-10-26T09:55:06+09:00", "prev": "/2026/10/25/", "next": "/2026/10/27/", "alerts": [{"kind": "雷注意報", "area": "八丈島", "issued": "2026-10-25T21:07", "status": "継続", "additions": ["突風"]}, {"kind": "強風注意報", "area": "八丈島", "issued": "2026-10-26T06:47", "status": "発表", "additions": []}, {"kind": "波浪注意報", "area": "八丈島", "issued": "2026-10-26T06:47", "status": "発表", "additions": ["うねり"]}], "weather": {"issued": "2026-10-26T05:00", "area": "伊豆諸島南部", "days": [{"label": "きょう", "weather": "雨 三宅島 では 昼過ぎ から 夕方 雷を伴い 非常に 激しく 降る", "main": "雨", "hachijo": "雨", "wind": "南西の風 やや強く 後 強く", "wave": "2.5メートル 後 3メートル うねり を伴う", "wind_full": "南西の風 やや強く 後 強く", "wave_full": "2.5メートル 後 3メートル うねり を伴う", "pops": [["6〜12時", "80"], ["12〜18時", "90"], ["18〜24時", "70"]], "min": null, "max": 25}, {"label": "あす", "weather": "雨 昼過ぎ から くもり 後 晴れ 三宅島 では 未明 雷を伴い 激しく 降る", "main": "雨 昼過ぎ から くもり 後 晴れ", "hachijo": "雨 昼過ぎ から くもり 後 晴れ", "wind": "南西の風 強く 後 北西の風 強く", "wave": "3メートル 後 4メートル うねり を伴う", "wind_full": "南西の風 強く 後 北西の風 強く", "wave_full": "3メートル 後 4メートル うねり を伴う", "pops": [["0〜6時", "60"], ["6〜12時", "50"], ["12〜18時", "20"], ["18〜24時", "10"]], "min": 23, "max": 27}], "obs": {"at": "2026-10-26T09:40", "wind_dir": "南西", "wind": 2.7}}, "koyomi": {"sunrise": "5:53", "sunset": "16:56", "moon": 14.7, "tide": {"place": "八丈島(神湊)", "high": [["5:08", 132], ["16:34", 131]], "low": [["10:51", 53], ["23:07", -1]]}}, "unko": {"source": "東海汽船", "url": "https://www.tokaikisen.co.jp/schedule/", "as_of": "2026年10月26日（月）9:07 現在", "routes": [{"island": "八丈島", "direction": "八丈島行き", "time": "22:30", "place": "東京発（昨晩）発", "ship": "大型客船 3500便さるびあ丸", "port": "底土港", "status": "就航", "note": "08:55入港予定"}, {"island": "八丈島", "direction": "八丈島行き", "time": "22:30", "place": "東京発（今晩）発", "ship": "大型客船 3500便さるびあ丸", "port": "---", "status": "天候調査中", "note": "※最終決定17：00の運航状況をご確認ください。"}, {"island": "八丈島", "direction": "八丈島発", "time": "09:40", "place": "東京行", "ship": "大型客船 2500便さるびあ丸", "port": "底土港", "status": "就航", "note": ""}, {"island": "青ヶ島", "direction": "青ヶ島行き", "time": "09:30", "place": "八丈島発", "ship": "客船 あおがしま丸", "port": "---", "status": "欠航", "note": "海上不良のため"}, {"island": "青ヶ島", "direction": "青ヶ島発", "time": "12:50", "place": "八丈島行", "ship": "客船 あおがしま丸", "port": "---", "status": "欠航", "note": ""}]}, "number": null, "top": {"headline": "八丈島・小島の展示が開始", "sode": "国立公園90周年のPRイベント", "body": ["八丈町は24日、パネル展示「見たらちょっと気になる八丈島 & 八丈小島」を八丈ビジターセンターと八丈町役場ギャラリーで始めた。", "富士箱根伊豆国立公園の90周年を記念したPRイベントである。八丈島と八丈小島も同公園に含まれる。", "展示では、八丈島のクイズや豆知識、現在の八丈小島の様子を紹介する。", "「海・山・くらし館」に展示されていたクロアシアホウドリの模型も展示する。", "問い合わせは八丈町企画財政課エコツーリズム推進担当(04996-2-1120)、八丈ビジターセンター(04996-2-4811)。"], "figure": {"type": "place", "name": "八丈ビジターセンター"}, "sources": [{"label": "八丈町", "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261016/"}], "audience": "両方", "thread_id": "t20261026-2"}, "side": [{"headline": "優婆夷宝明神社 例祭の準備整う", "sode": "", "body": ["優婆夷宝明神社は25日、例祭(秋祭り)の準備が滞りなく終わったと伝えた。", "同神社は八丈島、八丈小島、青ヶ島の総鎮守である。例祭は例年11月中旬に八丈島で行われる。式典は11月13日に行われる。", "式典の直前の土曜日には、神輿が境内を出て各地域を巡行する。翌日の日曜日は境内に夜店が並び、ステージで八丈太鼓や踊りが披露される。"], "sources": [{"label": "優婆夷宝明神社例祭(X)", "url": "https://x.com/go_sha1113/status/2114248817378050487"}, {"label": "内閣府(国境離島の祭・イベント)", "url": "https://www8.cao.go.jp/ocean/kokkyouritou/ritou_kankou/event/event_8.html"}], "audience": "両方", "thread_id": "t20261026-3"}], "shorts": [{"headline": "八丈町震度1、M7.0深発地震", "body": ["気象庁によると、25日11時10分ごろ小笠原諸島西方沖でM7.0の地震があり、八丈町は震度1だった。"], "sources": [{"label": "気象庁", "url": "https://www.jma.go.jp/bosai/quake/data/20261025111715_20261025111028_VXSE5k_1.json"}, {"label": "気象庁", "url": "https://www.jma.go.jp/bosai/quake/data/list.json"}], "audience": "両方", "thread_id": null}, {"headline": "町公式HPなど4サイト対策済み", "body": ["八丈町は23日、21日ごろから世界的に問題になったPHPの脆弱性への対応を、町のお知らせで伝えた。"], "sources": [{"label": "八丈町のお知らせ", "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261023-2/"}], "audience": "島民", "thread_id": null}], "agenda": {"today": [], "soon": [{"date": "2026-10-31", "end": null, "what": "東京文化財ウィーク2026公開事業 八丈島の民謡（大賀郷公民館）", "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026", "src": "八丈島観光協会"}, {"date": "2026-11-01", "end": null, "what": "クルーズ客船「三井オーシャンサクラ」寄港", "url": "https://www.mitsuioceancruises.com/", "src": "八丈島観光協会"}, {"date": "2026-11-01", "end": null, "what": "発酵中フェス2026", "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/", "src": "八丈島観光協会"}, {"date": "2026-11-07", "end": null, "what": "優婆夷宝明神社例祭 （7日神輿､8日芸能大会､13日例祭式典）", "url": "https://x.com/go_sha1113/status/2108363943085539389?s=20", "src": "八丈島観光協会"}], "ongoing": [{"date": "2026-09-14", "end": "2027-01-11", "what": "実証事業 AIデマンドタクシー （9月14日～1月11日）", "url": "https://x.com/hachijodemand", "src": "八丈島観光協会", "left": 78}]}, "letters": [], "corrections": [], "column": null, "ronten": null, "weekly": [], "ichimen_week": [{"date": "2026-10-25", "url": "/2026/10/25/", "headlines": ["アシタバ料理で銅賞 八丈高校", "119ライデンに不正アクセス"]}, {"date": "2026-10-24", "url": "/2026/10/24/", "headlines": ["文化財ウィーク、島内で公開", "3日のダイバー救助、映像公開"]}], "population": {"as_of": "2026-10-01", "people": 6499, "people_diff": -24, "households": 4028, "households_diff": -21, "url": "https://www.town.hachijo.tokyo.jp/"}, "giin": [{"name": "伊藤しょう", "at": "2026-10-25T20:50:00+09:00", "url": "https://x.com/ito_man1223/status/2114323587377119708", "what": "例大祭の準備に参加", "when": "きのう", "medal": "🥇"}, {"name": "佐々木丈", "at": "2026-10-25T00:52:45+09:00", "url": "https://note.com/sasaki8joe/n/n309d0962e93c", "what": "講演会を聴講", "when": "きのう", "medal": "🥈"}, {"name": "山下のりこ", "at": "2026-10-24T18:14:33+09:00", "url": "https://x.com/norikoba1014/status/2113922082220437897", "what": "小学校の音楽会を鑑賞", "when": "2日前", "medal": "🥉"}, {"name": "浅沼碧海", "at": "2026-10-24T09:34:39+09:00", "url": "https://x.com/aomi_asa/status/2113791244728139784", "what": "特別支援学校の見学会に参加", "when": "2日前", "medal": ""}, {"name": "岩崎由美", "at": "2026-10-20T14:48:50+09:00", "url": "https://x.com/yumi_iwasaki/status/2112420757263507462", "what": "資料館の受賞を紹介", "when": "6日前", "medal": ""}, {"name": "伊勢崎唯", "at": "2026-10-19T17:41:16+09:00", "url": "https://x.com/YuiIsezaki8jo/status/2112101764405375082", "what": "八高生と交流イベントに参加", "when": "10月19日", "medal": ""}, {"name": "山本忠志", "at": null, "url": "https://x.com/20ucivXRxgFSkxm", "what": null, "when": null, "medal": ""}]}</script>
+<script type="application/json" id="edition">{"date": "2026-10-26", "edition": "朝刊", "published": "05:30", "proof": false, "built": "2026-10-26T09:55:06+09:00", "prev": "/2026/10/25/", "next": "/2026/10/27/", "alerts": [{"kind": "雷注意報", "area": "八丈島", "issued": "2026-10-25T21:07", "status": "継続", "additions": ["突風"]}, {"kind": "強風注意報", "area": "八丈島", "issued": "2026-10-26T06:47", "status": "発表", "additions": []}, {"kind": "波浪注意報", "area": "八丈島", "issued": "2026-10-26T06:47", "status": "発表", "additions": ["うねり"]}], "weather": {"issued": "2026-10-26T05:00", "area": "伊豆諸島南部", "days": [{"label": "きょう", "weather": "雨 三宅島 では 昼過ぎ から 夕方 雷を伴い 非常に 激しく 降る", "main": "雨", "hachijo": "雨", "wind": "南西の風 やや強く 後 強く", "wave": "2.5メートル 後 3メートル うねり を伴う", "wind_full": "南西の風 やや強く 後 強く", "wave_full": "2.5メートル 後 3メートル うねり を伴う", "pops": [["6〜12時", "80"], ["12〜18時", "90"], ["18〜24時", "70"]], "min": null, "max": 25}, {"label": "あす", "weather": "雨 昼過ぎ から くもり 後 晴れ 三宅島 では 未明 雷を伴い 激しく 降る", "main": "雨 昼過ぎ から くもり 後 晴れ", "hachijo": "雨 昼過ぎ から くもり 後 晴れ", "wind": "南西の風 強く 後 北西の風 強く", "wave": "3メートル 後 4メートル うねり を伴う", "wind_full": "南西の風 強く 後 北西の風 強く", "wave_full": "3メートル 後 4メートル うねり を伴う", "pops": [["0〜6時", "60"], ["6〜12時", "50"], ["12〜18時", "20"], ["18〜24時", "10"]], "min": 23, "max": 27}], "obs": {"at": "2026-10-26T09:40", "wind_dir": "南西", "wind": 2.7}}, "koyomi": {"sunrise": "5:53", "sunset": "16:56", "moon": 14.7, "tide": {"place": "八丈島(神湊)", "high": [["5:08", 132], ["16:34", 131]], "low": [["10:51", 53], ["23:07", -1]]}}, "unko": {"source": "東海汽船", "url": "https://www.tokaikisen.co.jp/schedule/", "as_of": "2026年10月26日（月）9:07 現在", "routes": [{"island": "八丈島", "direction": "八丈島行き", "time": "22:30", "place": "東京発（昨晩）発", "ship": "大型客船 3500便さるびあ丸", "port": "底土港", "status": "就航", "note": "08:55入港予定"}, {"island": "八丈島", "direction": "八丈島行き", "time": "22:30", "place": "東京発（今晩）発", "ship": "大型客船 3500便さるびあ丸", "port": "---", "status": "天候調査中", "note": "※最終決定17：00の運航状況をご確認ください。"}, {"island": "八丈島", "direction": "八丈島発", "time": "09:40", "place": "東京行", "ship": "大型客船 2500便さるびあ丸", "port": "底土港", "status": "就航", "note": ""}, {"island": "青ヶ島", "direction": "青ヶ島行き", "time": "09:30", "place": "八丈島発", "ship": "客船 あおがしま丸", "port": "---", "status": "欠航", "note": "海上不良のため"}, {"island": "青ヶ島", "direction": "青ヶ島発", "time": "12:50", "place": "八丈島行", "ship": "客船 あおがしま丸", "port": "---", "status": "欠航", "note": ""}]}, "number": null, "top": {"headline": "八丈島・小島の展示が開始", "body": ["八丈町は24日、パネル展示「見たらちょっと気になる八丈島 & 八丈小島」を八丈ビジターセンターと八丈町役場ギャラリーで始めた。", "富士箱根伊豆国立公園の90周年を記念したPRイベントである。八丈島と八丈小島も同公園に含まれる。", "展示では、八丈島のクイズや豆知識、現在の八丈小島の様子を紹介する。", "「海・山・くらし館」に展示されていたクロアシアホウドリの模型も展示する。", "問い合わせは八丈町企画財政課エコツーリズム推進担当(04996-2-1120)、八丈ビジターセンター(04996-2-4811)。"], "figure": {"type": "place", "name": "八丈ビジターセンター"}, "sources": [{"label": "八丈町", "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261016/"}], "audience": "両方", "thread_id": "t20261026-2", "label": "催し・文化"}, "side": [{"headline": "優婆夷宝明神社 例祭の準備整う", "body": ["優婆夷宝明神社は25日、例祭(秋祭り)の準備が滞りなく終わったと伝えた。", "同神社は八丈島、八丈小島、青ヶ島の総鎮守である。例祭は例年11月中旬に八丈島で行われる。式典は11月13日に行われる。", "式典の直前の土曜日には、神輿が境内を出て各地域を巡行する。翌日の日曜日は境内に夜店が並び、ステージで八丈太鼓や踊りが披露される。"], "sources": [{"label": "優婆夷宝明神社例祭(X)", "url": "https://x.com/go_sha1113/status/2114248817378050487"}, {"label": "内閣府(国境離島の祭・イベント)", "url": "https://www8.cao.go.jp/ocean/kokkyouritou/ritou_kankou/event/event_8.html"}], "audience": "両方", "thread_id": "t20261026-3", "label": "催し・文化"}], "shorts": [{"headline": "八丈町震度1、M7.0深発地震", "body": ["気象庁によると、25日11時10分ごろ小笠原諸島西方沖でM7.0の地震があり、八丈町は震度1だった。"], "sources": [{"label": "気象庁", "url": "https://www.jma.go.jp/bosai/quake/data/20261025111715_20261025111028_VXSE5k_1.json"}, {"label": "気象庁", "url": "https://www.jma.go.jp/bosai/quake/data/list.json"}], "audience": "両方", "thread_id": null, "label": "交通・防災"}, {"headline": "町公式HPなど4サイト対策済み", "body": ["八丈町は23日、21日ごろから世界的に問題になったPHPの脆弱性への対応を、町のお知らせで伝えた。"], "sources": [{"label": "八丈町のお知らせ", "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261023-2/"}], "audience": "島民", "thread_id": null, "label": "町政"}], "agenda": {"today": [], "soon": [{"date": "2026-10-31", "end": null, "what": "東京文化財ウィーク2026公開事業 八丈島の民謡（大賀郷公民館）", "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026", "src": "八丈島観光協会"}, {"date": "2026-11-01", "end": null, "what": "クルーズ客船「三井オーシャンサクラ」寄港", "url": "https://www.mitsuioceancruises.com/", "src": "八丈島観光協会"}, {"date": "2026-11-01", "end": null, "what": "発酵中フェス2026", "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/", "src": "八丈島観光協会"}, {"date": "2026-11-07", "end": null, "what": "優婆夷宝明神社例祭 （7日神輿､8日芸能大会､13日例祭式典）", "url": "https://x.com/go_sha1113/status/2108363943085539389?s=20", "src": "八丈島観光協会"}], "ongoing": [{"date": "2026-09-14", "end": "2027-01-11", "what": "実証事業 AIデマンドタクシー （9月14日～1月11日）", "url": "https://x.com/hachijodemand", "src": "八丈島観光協会", "left": 78}]}, "letters": [], "corrections": [], "column": {"name": "島のたより", "title": "雑談の輪の外側で", "body": ["三人で話していると、発言する順番を探しているあいだに話題が変わってしまう。うなずくことはできる。でも、思いついた言葉を口にする頃には笑い声が次へ移っている。", "[雑談に入るのが苦手](https://note.com/not4u/n/n111fd53caecc)でも、人間そのものが嫌いなわけではない。相手が言い終わるまで聞いているうちに、返す言葉が追いつかなくなる。話題をすぐ手放さない人ほど、大勢の会話では発言の隙間を見つけにくい。", "会話の上手さを、発言回数や笑わせた人数だけで測るのは無理がある。大勢の輪では黙っていても、帰り道に一対一で話せば、忘れられない言葉が出てくる人もいる。一つの話題をじっくり考える人にとって、話題が次々変わる場は、それだけで忙しい。", "集まりを開くなら、話すのが速い人だけで場を満たさない工夫がほしい。沈黙は、参加していない証拠ではない。次の言葉が来るまでの時間でもある。"]}, "ronten": null, "weekly": [], "ichimen_week": [{"date": "2026-10-25", "url": "/2026/10/25/", "headlines": ["アシタバ料理で銅賞 八丈高校", "119ライデンに不正アクセス"]}, {"date": "2026-10-24", "url": "/2026/10/24/", "headlines": ["文化財ウィーク、島内で公開", "3日のダイバー救助、映像公開"]}], "population": {"as_of": "2026-10-01", "people": 6499, "people_diff": -24, "households": 4028, "households_diff": -21, "url": "https://www.town.hachijo.tokyo.jp/"}, "giin": [{"name": "伊藤しょう", "at": "2026-10-25T20:50:00+09:00", "url": "https://x.com/ito_man1223/status/2114323587377119708", "what": "例大祭の準備に参加", "when": "きのう", "medal": "🥇"}, {"name": "佐々木丈", "at": "2026-10-25T00:52:45+09:00", "url": "https://note.com/sasaki8joe/n/n309d0962e93c", "what": "講演会を聴講", "when": "きのう", "medal": "🥈"}, {"name": "山下のりこ", "at": "2026-10-24T18:14:33+09:00", "url": "https://x.com/norikoba1014/status/2113922082220437897", "what": "小学校の音楽会を鑑賞", "when": "2日前", "medal": "🥉"}, {"name": "浅沼碧海", "at": "2026-10-24T09:34:39+09:00", "url": "https://x.com/aomi_asa/status/2113791244728139784", "what": "特別支援学校の見学会に参加", "when": "2日前", "medal": ""}, {"name": "岩崎由美", "at": "2026-10-20T14:48:50+09:00", "url": "https://x.com/yumi_iwasaki/status/2112420757263507462", "what": "資料館の受賞を紹介", "when": "6日前", "medal": ""}, {"name": "伊勢崎唯", "at": "2026-10-19T17:41:16+09:00", "url": "https://x.com/YuiIsezaki8jo/status/2112101764405375082", "what": "八高生と交流イベントに参加", "when": "10月19日", "medal": ""}, {"name": "山本忠志", "at": null, "url": "https://x.com/20ucivXRxgFSkxm", "what": null, "when": null, "medal": ""}], "kyoku": {"artist": "Mr.Children", "title": "名もなき詩", "text": "桜井和寿の言葉は、ときどき自分で自分に追いつけなくなるほど急ぎます。Mr.Childrenの「名もなき詩」は、きれいな名言を並べるのではなく、言いたいことがあふれる勢いそのものを歌にしたようです。伝わらない苛立ちも、自分への腹立ちも隠せない。整った説明より、途中でつまずく言葉の方が届くこともある。その必死さが胸を打ちます。", "art": {"img": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7e/5e/9b7e5e86-e4fa-722c-58ec-2a46f4da5445/dj.toijfdmn.jpg/300x300bb.jpg", "album": "Mr.Children 1996-2000", "url": "https://music.apple.com/jp/album/%E5%90%8D%E3%82%82%E3%81%AA%E3%81%8D%E8%A9%A9/1374996896?i=1374997554&uo=4"}}, "sora": {"status": "条件付きの可能性", "reason": "強風", "url": "https://x.com/ANA_flight_info/status/2114277030959141282", "at": "2026-10-25T17:45:00+09:00"}}</script>
 <script>
 /* ============================================================
    毎朝のパイプラインが書き出す edition.json を読んで1枚に組む。
@@ -248,13 +259,14 @@ const KD="〇一二三四五六七八九", WD="日月火水木金土";
 function kan(n){ n=Number(n); if(!n) return "〇"; let s=""; for(const [c,v] of [["千",1000],["百",100],["十",10]]){const d=Math.floor(n/v); if(d){s+=(d===1?"":KD[d])+c; n%=v;}} return s+(n?KD[n]:""); }
 function ymd(iso){ const [y,m,d]=iso.split("-").map(Number); return {y,m,d,w:new Date(Date.UTC(y,m-1,d)).getUTCDay()}; }
 const seireki = iso => { const t=ymd(iso); return `${t.y}年${t.m}月${t.d}日`; };
+const tsuki = iso => { const t=ymd(iso); return `${t.m}月${t.d}日(${WD[t.w]})`; };   // 欄の中の日付はこの書き方
 const hiduke = iso => `${seireki(iso)}(${WD[ymd(iso).w]})`;   // 紙面の日付はこの書き方ひとつ
 const hm = iso => { const [h,m]=(iso.split("T")[1]||"").split(":"); return `${Number(h)}時${Number(m)?Number(m)+"分":""}`; };
 const esc = s => String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const srcName = l => String(l||"").replace(/(?:[(（][^()（）]*[)）])?[(（]X[)）]$/,"");   // 愛称と「(X)」は出さない
 const src = list => { const seen=new Set(), l=(list||[]).filter(s=>{const n=srcName(s.label); return !seen.has(n)&&seen.add(n);});   // 同じ名前は1回だけ
-  return l.length ? `<span class="src">出典 ${l.map(s=>`<a href="${esc(s.url)}" rel="noopener">${esc(srcName(s.label))}</a>`).join("、")}</span>` : ""; };
-const lbl = a => a.label?`<span class="label">${esc(a.label)}</span>`:"";   // 記事のラベル(町政・交通・防災・暮らし・産業・催し・文化)
+  return l.length ? `<span class="src">出典 ${l.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(srcName(s.label))}</a>`).join("、")}</span>` : ""; };
+const lbl = a => a.label?`<p class="labels"><span class="label">${esc(a.label)}</span></p>`:"";   // 記事のラベル(町政・交通・防災・暮らし・産業・催し・文化)
 const paras = b => (Array.isArray(b)?b:[b]).map(p=>`<p>${esc(p)}</p>`).join("");
 
 function figure(f){
@@ -263,7 +275,7 @@ function figure(f){
   if(f.type==="svg") return `<figure class="zu-fig">${f.svg}${cap}</figure>`;
   if(f.type==="table") return `<figure class="zu-fig zu-tbl"><p class="zt-h">${esc(f.title)}</p><table>${f.rows.map(([k,v,w])=>`<tr><th>${esc(k)}</th><td class="${w?"warn":""}">${esc(v)}</td></tr>`).join("")}</table>${cap}</figure>`;
   if(f.type==="embed") return `<figure class="embed" data-provider="${esc(f.provider)}">${f.html}
-    <noscript><a href="${esc(f.url)}">元の投稿を見る</a></noscript>${cap}</figure>`;
+    <noscript><a href="${esc(f.url)}" target="_blank" rel="noopener">元の投稿を見る</a></noscript>${cap}</figure>`;
   return `<figure><div class="photo"><img src="${esc(f.src)}" alt="${esc(f.caption)}" loading="lazy"></div>${cap}</figure>`;
 }
 /* 題字下の1行:天気はおおまかに(のち・時々・一時は省く)、風はアメダスの観測、気温はきょうの最高。半角スペースで区切る */
@@ -290,7 +302,7 @@ function wxRow(d){
   const t=[d.max!=null?esc(d.max):"",d.min!=null?esc(d.min):""];
   return `<div class="wx-row"><b>${esc(d.label)}</b><span class="ic">${ICON[ten]||""}${esc(ten)}</span>
     ${d.max!=null||d.min!=null?`<span class="t">${t.filter(Boolean).join("/")}<span class="deg">°C</span></span>`:""}
-    ${pop!=null?`<span>降水 ${pop}%</span>`:""}${kaze?`<span class="s">${esc(kaze)}</span>`:""}${nami?`<span class="s">波 ${esc(nami)}m</span>`:""}</div>`;
+    ${pop!=null?`<span>降水 ${pop}%</span>`:""}${nami||kaze?`<span class="s" title="${esc([d.wind,d.wave].filter(Boolean).join(" "))}">${nami?`波 ${esc(nami)}m `:""}${esc(kaze)}</span>`:""}</div>`;
 }
 const JOKEN = /(出航いたしますが、?)?海上・港内状況等により接岸できない場合があります。?/;
 /* 島の足:東海汽船の表を、島の人が読む形に並べ直す(言葉は表のまま)。「島のいま」の「船」の項になる */
@@ -307,59 +319,68 @@ function funeRows(u){
     if(!st&&JOKEN.test(note)){st="条件付き"; note=note.replace(JOKEN,"").trim();}
     const m=note.match(/運休日|\d+時\d*分?頃更新/); if(!st&&m){st=m[0]; note=note.replace(m[0],"").trim();}
     const t=String(r.time||"").replace(/^0/,"");
-    return `<div class="fune"><span>${esc(label)} <small>${t?`${esc(t)}発 `:""}${esc(ship(r.ship))}${note?` ${esc(note)}`:""}</small></span><b>${esc(st)}</b></div>`;
+    return `<div class="fune"${note?` title="${esc(note)}"`:""}><span>${esc(label)} <small>${t?`${esc(t)}発 `:""}${esc(ship(r.ship))}</small></span><b>${esc(st)}</b></div>`;
   }).join("");
+}
+function soraRow(f){
+  if(!f) return "";
+  return `<div class="fune"><span>羽田→八丈島 <small>${esc(f.reason||"")}</small></span><b>${esc(f.status.replace(/の可能性$/,""))}${/の可能性$/.test(f.status)?"<small>の可能性</small>":""}</b></div>`;
 }
 function agendaSection(e){
   const a=e.agenda; if(!a) return "";
-  const md=d=>{const t=ymd(d);return `${t.m}月${t.d}日(${WD[t.w]})`;};
-  const what=x=>x.url?`<a href="${esc(x.url)}" rel="noopener">${esc(x.what)}</a>`:esc(x.what);
+  // 1件1行。期間ものは始まりの日に「〜」を添え、終わりの日は名前にかざすと出す
+  const what=x=>{const t=x.end?`${x.what}(${tsuki(x.date)}〜${tsuki(x.end)})`:x.what;
+    return x.url?`<a href="${esc(x.url)}" target="_blank" rel="noopener" title="${esc(t)}">${esc(x.what)}</a>`:`<em title="${esc(t)}">${esc(x.what)}</em>`;};
   const items=[...(a.today||[]).map(x=>`<li><span><b>きょう</b></span>${what(x)}</li>`),
-               ...(a.soon||[]).map(x=>`<li><span>${md(x.date)}${x.end?`〜${md(x.end)}`:""}</span>${what(x)}</li>`)];
+               ...(a.soon||[]).map(x=>`<li><span>${tsuki(x.date)}${x.end?"〜":""}</span>${what(x)}</li>`)];
   if(!items.length) return "";
   return `<section id="yotei" aria-labelledby="yotei-h"><h2 class="band" id="yotei-h">イベント</h2><div class="yotei"><ul>${items.join("")}</ul></div></section>`;
 }
 
+const MEDAL={"🥇":1,"🥈":2,"🥉":3};
+const rankMark = m => MEDAL[m]?`<i class="r${MEDAL[m]}" aria-label="${MEDAL[m]}位">${MEDAL[m]}</i>`:`<i class="r0" aria-hidden="true"></i>`;
 /* 議員動静:中身のある発信の新しい順に上位5人(同じ日は同じメダル)。1人1行、本人の投稿へのリンク */
 function giinSection(e){
   const g=(e.giin||[]); if(!g.some(r=>r.at)) return "";
   return `<section id="giin" aria-labelledby="giin-h"><h2 class="band" id="giin-h">議員動静</h2>
-    <ol class="giin">${g.map(r=>`<li>${r.at?`<a href="${esc(r.url)}" rel="noopener">`:"<span>"}<i>${r.medal||""}</i><b>${esc(r.name)}</b>${r.at?`<time>${esc(r.when)}</time>${esc(r.what||"")}`:`<time>発信なし</time>`}${r.at?"</a>":"</span>"}</li>`).join("")}</ol></section>`;
+    <ol class="giin">${g.map(r=>`<li>${r.at?`<a href="${esc(r.url)}" target="_blank" rel="noopener" title="${esc(r.name+" "+(r.what||""))}">`:"<span>"}${rankMark(r.medal)}<b>${esc(r.name)}</b>${r.at?`<time>${esc(r.when)}</time><q>${esc(r.what||"")}</q>`:`<time>発信なし</time>`}${r.at?"</a>":"</span>"}</li>`).join("")}</ol></section>`;
 }
 /* 島のいま:注意報・天気・暦・船・人口を1つの欄に。値は発表のまま */
 function shimaSection(e){
   const lv=k=>/特別警報/.test(k)?"lv3":/警報/.test(k)?"lv2":"lv1";
-  const k=e.koyomi, u=e.unko, p=e.population, fune=funeRows(u);
-  const diff=(n,u)=>n==null?"":` <small>前月比 ${n===0?"増減なし":`${Math.abs(n).toLocaleString()}${u}${n<0?"減":"増"}`}</small>`;
+  const k=e.koyomi, u=e.unko, p=e.population, fune=funeRows(u), sora=soraRow(e.sora);
+  const diff=n=>n==null?"":`<small>(${n>0?"+":n<0?"−":"±"}${Math.abs(n).toLocaleString()})</small>`;
   const asof=u&&String(u.as_of||"").match(/(\d{1,2}):(\d{2})/);
   const pt=p&&ymd(p.as_of);
-  const notes=[`<a href="https://www.jma.go.jp/bosai/forecast/#area_type=class10s&area_code=130030" rel="noopener">気象庁</a> ${hm(e.weather.issued)}発表`,
-    fune?`<a href="${esc(u.url)}" rel="noopener">東海汽船</a>${asof?` ${Number(asof[1])}時${asof[2]}分現在`:""}`:"",
-    p?`<a href="${esc(p.url)}" rel="noopener">八丈町</a> ${pt.m}月${pt.d}日現在`:""].filter(Boolean);
+  const st=e.sora&&e.sora.at?ymd(e.sora.at.slice(0,10)):null, sh=e.sora&&e.sora.at?hm(e.sora.at):"";
+  const notes=[`<a href="https://www.jma.go.jp/bosai/forecast/#area_type=class10s&area_code=130030" target="_blank" rel="noopener">気象庁</a> ${hm(e.weather.issued)}発表`,
+    e.sora?`<a href="${esc(e.sora.url)}" target="_blank" rel="noopener">ANA</a>${st?` ${st.d}日${sh}の案内`:""}`:"",
+    fune?`<a href="${esc(u.url)}" target="_blank" rel="noopener">東海汽船</a>${asof?` ${Number(asof[1])}時${asof[2]}分現在`:""}`:"",
+    p?`<a href="${esc(p.url)}" target="_blank" rel="noopener">八丈町</a> ${pt.m}月${pt.d}日現在`:""].filter(Boolean);
   return `<section id="shima" aria-labelledby="shima-h"><h2 class="band" id="shima-h">島のいま</h2>
     ${e.alerts.length?`<p class="keiho" role="status">${e.alerts.map(a=>`<span class="${lv(a.kind)}">${esc(a.kind)}</span>`).join("")}</p>`:""}
     ${e.weather.days.map(wxRow).join("")}
     <dl class="kurashi">
+      ${sora?`<dt>空</dt><dd>${sora}</dd>`:""}
       ${fune?`<dt>船</dt><dd>${fune}</dd>`:""}
       ${k?`<dt>日</dt><dd>日の出 <b>${esc(k.sunrise)}</b> 日の入り <b>${esc(k.sunset)}</b></dd>`:""}
-      ${k&&k.tide?`<dt>潮</dt><dd>満潮 <b>${k.tide.high.map(([t])=>esc(t)).join("・")}</b> 干潮 <b>${k.tide.low.map(([t])=>esc(t)).join("・")}</b></dd>`:""}
-      ${k?`<dt>月齢</dt><dd>${esc(k.moon)}</dd>`:""}
-      ${p?`<dt>人口</dt><dd><b>${Number(p.people).toLocaleString()}</b>人${diff(p.people_diff,"人")}${p.households!=null?`<br><b>${Number(p.households).toLocaleString()}</b>世帯${diff(p.households_diff,"世帯")}`:""}</dd>`:""}
+      ${k&&k.tide?`<dt>潮</dt><dd>満潮 <b>${k.tide.high.map(([t])=>esc(t)).join(" ")}</b> 干潮 <b>${k.tide.low.map(([t])=>esc(t)).join(" ")}</b></dd>`:""}
+      ${p?`<dt>人口</dt><dd class="jinko"><b>${Number(p.people).toLocaleString()}</b>人${diff(p.people_diff)}${p.households!=null?` <b>${Number(p.households).toLocaleString()}</b>世帯${diff(p.households_diff)}`:""}</dd>`:""}
     </dl>
-    <p class="note">${notes.join("、")}</p></section>`;
+    <p class="note">${notes.map(n=>`<span class="nw">${n}</span>`).join("、")}${p&&p.people_diff!=null?` <span class="nw">※人口の( )は前月比</span>`:""}</p></section>`;
 }
 /* きょうの一曲:CSV の文章のまま。ジャケットは見つかった日だけ(Apple の画像を Apple Music へのリンクつきで) */
 function kyokuSection(k){
   if(!k) return "";
   const q=encodeURIComponent(`${k.artist} ${k.title}`), a=k.art;
   return `<section class="kyoku" id="kyoku" aria-labelledby="kyoku-h"><h2 class="band" id="kyoku-h">きょうの一曲</h2>
-    <div class="kk">${a?`<a href="${esc(a.url)}" rel="noopener"><img src="${esc(a.img)}" alt="${esc(a.album||k.title)}のジャケット" width="96" height="96" loading="lazy"></a>`:""}
+    <div class="kk">${a?`<a href="${esc(a.url)}" target="_blank" rel="noopener"><img src="${esc(a.img)}" alt="${esc(a.album||k.title)}のジャケット" width="96" height="96" loading="lazy"></a>`:""}
       <div><h3>${esc(k.title)}</h3><p class="who">${esc(k.artist)}${a&&a.album?`<small>${esc(a.album)}</small>`:""}</p></div></div>
     <p class="txt">${esc(k.text)}</p>
-    <p class="kiku"><a href="https://www.youtube.com/results?search_query=${q}" rel="noopener">YouTubeで聴く</a>${a&&a.url?`<a href="${esc(a.url)}" rel="noopener">Apple Musicで聴く</a>`:""}</p></section>`;
+    <p class="kiku"><a href="https://www.youtube.com/results?search_query=${q}" target="_blank" rel="noopener">YouTubeで聴く</a>${a&&a.url?`<a href="${esc(a.url)}" target="_blank" rel="noopener">Apple Musicで聴く</a>`:""}</p></section>`;
 }
 /* 島のたより:CSV の文章のまま。本文の [語](URL) だけリンクにする */
-const mdLink = t => esc(t).replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g,(m,w,u)=>`<a href="${u}" rel="noopener">${w}</a>`);
+const mdLink = t => esc(t).replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g,(m,w,u)=>`<a href="${u}" target="_blank" rel="noopener">${w}</a>`);
 function tayoriSection(c){
   if(!c) return "";
   return `<section class="tayori" id="tayori" aria-labelledby="tayori-h"><h2 class="band" id="tayori-h">${esc(c.name||"島のたより")}</h2>
@@ -379,14 +400,12 @@ function render(e){
   <div class="ichimen" id="ichimen">
     <div class="ichimen-main">${e.top?`<article class="top">
       ${lbl(e.top)}<h2>${esc(e.top.headline)}</h2>
-      ${e.top.sode?`<p class="sode">${esc(e.top.sode)}</p>`:""}
       <div class="top-body${e.top.photo?"":" nophoto"}">
         ${figure(e.top.photo)}
         <div class="honbun">${paras(e.top.body)}${src(e.top.sources)}</div>
       </div>
     </article>${[...e.side.map(s=>[s,"top2 side"]),...e.shorts.map(s=>[s,"top2 top3 short"])].map(([s,c])=>`<article class="top ${c}">
       ${lbl(s)}<h2>${esc(s.headline)}</h2>
-      ${s.sode?`<p class="sode">${esc(s.sode)}</p>`:""}
       <div class="top-body nophoto"><div class="honbun">${paras(s.body)}${src(s.sources)}</div></div>
     </article>`).join("")}`:""}
     ${tayoriSection(e.column)}
@@ -404,7 +423,7 @@ function render(e){
       </section>
       ${(e.ichimen_week||[]).length?`<section id="week" aria-labelledby="week-h">
         <h2 class="band" id="week-h">今週の一面</h2>
-        <ol class="week">${e.ichimen_week.map(w=>`<li><a href="${esc(w.url)}"><time datetime="${esc(w.date)}">${ymd(w.date).d}日</time>${esc(w.headlines[0])}</a></li>`).join("")}</ol>
+        <ol class="week">${e.ichimen_week.map(w=>`<li><a href="${esc(w.url)}"><time datetime="${esc(w.date)}">${tsuki(w.date)}</time>${esc(w.headlines[0])}</a></li>`).join("")}</ol>
       </section>`:""}
       ${giinSection(e)}
       ${kyokuSection(e.kyoku)}
@@ -414,7 +433,7 @@ function render(e){
   </div>
 
   <footer class="oku">
-    <nav aria-label="号">${e.prev?`<a href="${esc(e.prev)}">前の号</a>`:""}<a href="/shukusatsu/">縮刷版</a>${e.next?`<a href="${esc(e.next)}">次の号</a>`:""}</nav>
+    <nav aria-label="号">${e.prev?`<a href="${esc(e.prev)}">前の号</a>`:""}<a href="/shukusatsu/">バックナンバー</a>${e.next?`<a href="${esc(e.next)}">次の号</a>`:""}</nav>
     <span class="meta">八丈島新聞 ${hiduke(e.date)}${e.sample?" この紙面は見本データで組んでいます":""}${e.proof?" この号は試し刷りです":""}</span>
   </footer>`;
 }
@@ -422,7 +441,7 @@ function render(e){
 function kyukan(){
   document.getElementById("paper").innerHTML = `
   <header><div class="mast"><h1 class="daiji"><a href="/">八丈島新聞</a></h1></div></header>
-  <section class="kyukan"><h2>本日は休刊です</h2><p>けさの号を組めませんでした。<a href="/shukusatsu/">縮刷版</a>で前の号を読めます。</p></section>`;
+  <section class="kyukan"><h2>本日は休刊です</h2><p>けさの号を組めませんでした。<a href="/shukusatsu/">バックナンバー</a>で前の号を読めます。</p></section>`;
 }
 
 const EMB = document.getElementById("edition").textContent.trim();
