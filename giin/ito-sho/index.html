@@ -32,7 +32,8 @@ h1,h2,h3,p{margin:0}
 .band{display:inline-block;min-width:9.5em;white-space:nowrap;background:var(--paper);color:var(--tamamushi);border:1px solid var(--tamamushi);font-family:var(--goth);font-weight:900;
   font-size:var(--fs-m);letter-spacing:.08em;padding:1px 9px 2px;margin:0 0 12px}   /* 欄の見出し:白地に玉虫色。どの欄も同じ長さ */
 .label{display:inline-block;width:9.5em;font-family:var(--goth);font-weight:900;font-size:var(--fs-m);letter-spacing:.08em;background:var(--tamamushi);color:var(--band-ink);border:1px solid var(--tamamushi);padding:1px 9px 2px}
-a.label:hover{text-decoration:none;opacity:.85}
+a.label,.band:not(.onair) a{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}   /* 押せるラベルと帯見出しには下線 */
+a.label:hover,.band:not(.onair) a:hover{opacity:.85}
 .band.solid{background:var(--tamamushi);color:var(--band-ink)}.band.solid a{color:var(--band-ink)}
 /* 議員動静の順位の印(金・銀・銅の丸数字。紙面と一覧で同じ) */
 .giin i{display:inline-flex;align-items:center;justify-content:center;width:1.25em;height:1.25em;margin-right:.45em;border-radius:50%;
