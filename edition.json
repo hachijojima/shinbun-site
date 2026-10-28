@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-28T08:43:39+09:00",
+ "built": "2026-10-28T09:11:25+09:00",
  "prev": "/2026/10/27/",
  "next": null,
  "alerts": [
@@ -234,11 +234,11 @@
    ],
    "sources": [
     {
-     "label": "八丈町立三根小学校のお知らせ",
+     "label": "三根小学校",
      "url": "https://mitsune-es.8jo.ed.jp/n/nd60a93b49b3e"
     },
     {
-     "label": "八丈町立大賀郷中学校のお知らせ",
+     "label": "大賀郷中学校",
      "url": "https://okago-jhs.8jo.ed.jp/n/n642f035e6823"
     }
    ],
@@ -397,12 +397,12 @@
  },
  "giin": [
   {
-   "name": "岩崎由美",
-   "slug": "iwasaki-yumi",
-   "at": "2026-10-27T13:54:59+09:00",
-   "url": "https://x.com/yumi_iwasaki/status/2114943923915550768",
-   "what": "雨水貯留設備補助について",
-   "kind": "話題",
+   "name": "伊藤しょう",
+   "slug": "ito-sho",
+   "at": "2026-10-27T20:43:46+09:00",
+   "url": "https://x.com/ito_man1223/status/2115046794845663240",
+   "what": "委員会の所属を報告",
+   "kind": "行動",
    "when": "きのう",
    "medal": "🥇"
   },
@@ -437,13 +437,13 @@
    "medal": "🥈"
   },
   {
-   "name": "伊藤しょう",
-   "slug": "ito-sho",
-   "at": "2026-10-25T20:50:00+09:00",
-   "url": "https://x.com/ito_man1223/status/2114323587377119708",
-   "what": "優婆夷宝明神社例大祭準備",
+   "name": "山下のりこ",
+   "slug": "yamashita-noriko",
+   "at": "2026-10-24T18:14:33+09:00",
+   "url": "https://x.com/norikoba1014/status/2113922082220437897",
+   "what": "大中音楽会",
    "kind": "行動",
-   "when": "3日前",
+   "when": "4日前",
    "medal": ""
   }
  ]
