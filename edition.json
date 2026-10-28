@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-28T10:09:50+09:00",
+ "built": "2026-10-28T10:13:29+09:00",
  "prev": "/2026/10/27/",
  "next": null,
  "alerts": [
@@ -403,23 +403,10 @@
    "url": "https://x.com/ito_man1223/status/2115046794845663240",
    "what": "議員就任と委員会の所属",
    "kind": "報告",
-   "duty": 2,
+   "duty": true,
    "when": "きのう",
-   "days": 2,
-   "points": 4,
-   "medal": "🥇"
-  },
-  {
-   "name": "佐々木丈",
-   "slug": "sasaki-takeshi",
-   "at": "2026-10-26T20:26:42+09:00",
-   "url": "https://note.com/sasaki8joe/n/nfedcd94f2d46",
-   "what": "優婆夷宝明神社例祭準備",
-   "kind": "活動",
-   "duty": 2,
-   "when": "2日前",
-   "days": 2,
-   "points": 4,
+   "day": "2026-10-27",
+   "pt": 2,
    "medal": "🥇"
   },
   {
@@ -429,11 +416,11 @@
    "url": "https://x.com/yumi_iwasaki/status/2114943923915550768",
    "what": "雨水貯留設備の補助金",
    "kind": "意見",
-   "duty": 0,
+   "duty": false,
    "when": "きのう",
-   "days": 2,
-   "points": 2,
-   "medal": "🥉"
+   "day": "2026-10-27",
+   "pt": 1,
+   "medal": "🥈"
   },
   {
    "name": "浅沼碧海",
@@ -441,11 +428,11 @@
    "at": "2026-10-26T21:56:23+09:00",
    "url": "https://x.com/aomi_asa/status/2114702682510565624",
    "what": "東海汽船アンケート",
-   "kind": "呼びかけ",
-   "duty": 1,
+   "kind": "募集",
+   "duty": true,
    "when": "2日前",
-   "days": 1,
-   "points": 2,
+   "day": "2026-10-26",
+   "pt": 2,
    "medal": "🥉"
   },
   {
@@ -455,10 +442,23 @@
    "url": "https://x.com/YuiIsezaki8jo/status/2114696775303082310",
    "what": "樫立大演芸会実行委員会",
    "kind": "活動",
-   "duty": 1,
+   "duty": true,
    "when": "2日前",
-   "days": 1,
-   "points": 2,
+   "day": "2026-10-26",
+   "pt": 2,
+   "medal": "🥉"
+  },
+  {
+   "name": "佐々木丈",
+   "slug": "sasaki-takeshi",
+   "at": "2026-10-26T20:26:42+09:00",
+   "url": "https://note.com/sasaki8joe/n/nfedcd94f2d46",
+   "what": "優婆夷宝明神社例祭準備",
+   "kind": "活動",
+   "duty": true,
+   "when": "2日前",
+   "day": "2026-10-26",
+   "pt": 2,
    "medal": "🥉"
   }
  ]
