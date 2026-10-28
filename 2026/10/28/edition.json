@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-28T09:11:25+09:00",
+ "built": "2026-10-28T10:00:15+09:00",
  "prev": "/2026/10/27/",
  "next": null,
  "alerts": [
@@ -397,24 +397,56 @@
  },
  "giin": [
   {
+   "name": "佐々木丈",
+   "slug": "sasaki-takeshi",
+   "at": "2026-10-26T20:26:42+09:00",
+   "url": "https://note.com/sasaki8joe/n/nfedcd94f2d46",
+   "what": "優婆夷宝明神社例祭準備",
+   "kind": "活動",
+   "duty": 4,
+   "when": "2日前",
+   "days": 4,
+   "points": 8,
+   "medal": "🥇"
+  },
+  {
    "name": "伊藤しょう",
    "slug": "ito-sho",
    "at": "2026-10-27T20:43:46+09:00",
    "url": "https://x.com/ito_man1223/status/2115046794845663240",
-   "what": "委員会の所属を報告",
-   "kind": "行動",
+   "what": "議員就任と委員会の所属",
+   "kind": "報告",
+   "duty": 3,
    "when": "きのう",
-   "medal": "🥇"
+   "days": 3,
+   "points": 6,
+   "medal": "🥈"
   },
   {
    "name": "浅沼碧海",
    "slug": "asanuma-aomi",
    "at": "2026-10-26T21:56:23+09:00",
    "url": "https://x.com/aomi_asa/status/2114702682510565624",
-   "what": "東海汽船アンケート依頼",
-   "kind": "行動",
+   "what": "東海汽船アンケート",
+   "kind": "呼びかけ",
+   "duty": 2,
    "when": "2日前",
-   "medal": "🥈"
+   "days": 2,
+   "points": 4,
+   "medal": "🥉"
+  },
+  {
+   "name": "岩崎由美",
+   "slug": "iwasaki-yumi",
+   "at": "2026-10-27T13:54:59+09:00",
+   "url": "https://x.com/yumi_iwasaki/status/2114943923915550768",
+   "what": "雨水貯留設備の補助金",
+   "kind": "意見",
+   "duty": 0,
+   "when": "きのう",
+   "days": 2,
+   "points": 2,
+   "medal": ""
   },
   {
    "name": "伊勢崎唯",
@@ -422,28 +454,11 @@
    "at": "2026-10-26T21:32:55+09:00",
    "url": "https://x.com/YuiIsezaki8jo/status/2114696775303082310",
    "what": "樫立大演芸会実行委員会",
-   "kind": "行動",
+   "kind": "活動",
+   "duty": 1,
    "when": "2日前",
-   "medal": "🥈"
-  },
-  {
-   "name": "佐々木丈",
-   "slug": "sasaki-takeshi",
-   "at": "2026-10-26T20:26:42+09:00",
-   "url": "https://note.com/sasaki8joe/n/nfedcd94f2d46",
-   "what": "選管へ会計報告を提出",
-   "kind": "行動",
-   "when": "2日前",
-   "medal": "🥈"
-  },
-  {
-   "name": "山下のりこ",
-   "slug": "yamashita-noriko",
-   "at": "2026-10-24T18:14:33+09:00",
-   "url": "https://x.com/norikoba1014/status/2113922082220437897",
-   "what": "大中音楽会",
-   "kind": "行動",
-   "when": "4日前",
+   "days": 1,
+   "points": 2,
    "medal": ""
   }
  ]
