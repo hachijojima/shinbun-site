@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-28T10:00:15+09:00",
+ "built": "2026-10-28T10:01:39+09:00",
  "prev": "/2026/10/27/",
  "next": null,
  "alerts": [
@@ -397,43 +397,30 @@
  },
  "giin": [
   {
-   "name": "佐々木丈",
-   "slug": "sasaki-takeshi",
-   "at": "2026-10-26T20:26:42+09:00",
-   "url": "https://note.com/sasaki8joe/n/nfedcd94f2d46",
-   "what": "優婆夷宝明神社例祭準備",
-   "kind": "活動",
-   "duty": 4,
-   "when": "2日前",
-   "days": 4,
-   "points": 8,
-   "medal": "🥇"
-  },
-  {
    "name": "伊藤しょう",
    "slug": "ito-sho",
    "at": "2026-10-27T20:43:46+09:00",
    "url": "https://x.com/ito_man1223/status/2115046794845663240",
    "what": "議員就任と委員会の所属",
    "kind": "報告",
-   "duty": 3,
+   "duty": 2,
    "when": "きのう",
-   "days": 3,
-   "points": 6,
-   "medal": "🥈"
+   "days": 2,
+   "points": 4,
+   "medal": "🥇"
   },
   {
-   "name": "浅沼碧海",
-   "slug": "asanuma-aomi",
-   "at": "2026-10-26T21:56:23+09:00",
-   "url": "https://x.com/aomi_asa/status/2114702682510565624",
-   "what": "東海汽船アンケート",
-   "kind": "呼びかけ",
+   "name": "佐々木丈",
+   "slug": "sasaki-takeshi",
+   "at": "2026-10-26T20:26:42+09:00",
+   "url": "https://note.com/sasaki8joe/n/nfedcd94f2d46",
+   "what": "優婆夷宝明神社例祭準備",
+   "kind": "活動",
    "duty": 2,
    "when": "2日前",
    "days": 2,
    "points": 4,
-   "medal": "🥉"
+   "medal": "🥇"
   },
   {
    "name": "岩崎由美",
@@ -446,7 +433,20 @@
    "when": "きのう",
    "days": 2,
    "points": 2,
-   "medal": ""
+   "medal": "🥉"
+  },
+  {
+   "name": "浅沼碧海",
+   "slug": "asanuma-aomi",
+   "at": "2026-10-26T21:56:23+09:00",
+   "url": "https://x.com/aomi_asa/status/2114702682510565624",
+   "what": "東海汽船アンケート",
+   "kind": "呼びかけ",
+   "duty": 1,
+   "when": "2日前",
+   "days": 1,
+   "points": 2,
+   "medal": "🥉"
   },
   {
    "name": "伊勢崎唯",
@@ -459,7 +459,7 @@
    "when": "2日前",
    "days": 1,
    "points": 2,
-   "medal": ""
+   "medal": "🥉"
   }
  ]
 }
