@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-28T10:55:50+09:00",
+ "built": "2026-10-28T11:05:20+09:00",
  "prev": "/2026/10/26/",
  "next": "/2026/10/28/",
  "alerts": [
@@ -393,54 +393,69 @@
  },
  "giin": [
   {
-   "name": "岩崎由美",
-   "at": "2026-10-26T22:47:56+09:00",
-   "url": "https://x.com/yumi_iwasaki/status/2114715656532922752",
-   "what": "東海汽船アンケート紹介",
-   "kind": "話題",
-   "when": "きのう",
-   "medal": "🥇",
-   "slug": "iwasaki-yumi"
-  },
-  {
    "name": "浅沼碧海",
+   "slug": "asanuma-aomi",
    "at": "2026-10-26T21:56:23+09:00",
    "url": "https://x.com/aomi_asa/status/2114702682510565624",
-   "what": "東海汽船アンケート依頼",
-   "kind": "行動",
+   "what": "東海汽船アンケート",
+   "kind": "募集",
+   "duty": true,
    "when": "きのう",
-   "medal": "🥇",
-   "slug": "asanuma-aomi"
+   "day": "2026-10-26",
+   "pt": 2,
+   "medal": "🥇"
   },
   {
    "name": "伊勢崎唯",
+   "slug": "isezaki-yui",
    "at": "2026-10-26T21:32:55+09:00",
    "url": "https://x.com/YuiIsezaki8jo/status/2114696775303082310",
    "what": "樫立大演芸会実行委員会",
-   "kind": "行動",
+   "kind": "活動",
+   "duty": true,
    "when": "きのう",
-   "medal": "🥇",
-   "slug": "isezaki-yui"
+   "day": "2026-10-26",
+   "pt": 2,
+   "medal": "🥇"
   },
   {
    "name": "佐々木丈",
+   "slug": "sasaki-takeshi",
    "at": "2026-10-26T20:26:42+09:00",
    "url": "https://note.com/sasaki8joe/n/nfedcd94f2d46",
-   "what": "選管へ会計報告を提出",
-   "kind": "行動",
+   "what": "優婆夷宝明神社例祭準備",
+   "kind": "活動",
+   "duty": true,
    "when": "きのう",
-   "medal": "🥇",
-   "slug": "sasaki-takeshi"
+   "day": "2026-10-26",
+   "pt": 2,
+   "medal": "🥇"
+  },
+  {
+   "name": "岩崎由美",
+   "slug": "iwasaki-yumi",
+   "at": "2026-10-26T22:47:56+09:00",
+   "url": "https://x.com/yumi_iwasaki/status/2114715656532922752",
+   "what": "東海汽船アンケート",
+   "kind": "紹介",
+   "duty": false,
+   "when": "きのう",
+   "day": "2026-10-26",
+   "pt": 1,
+   "medal": ""
   },
   {
    "name": "伊藤しょう",
+   "slug": "ito-sho",
    "at": "2026-10-25T20:50:00+09:00",
    "url": "https://x.com/ito_man1223/status/2114323587377119708",
    "what": "優婆夷宝明神社例大祭準備",
-   "kind": "行動",
+   "kind": "活動",
+   "duty": true,
    "when": "2日前",
-   "medal": "",
-   "slug": "ito-sho"
+   "day": "2026-10-25",
+   "pt": 2,
+   "medal": ""
   }
  ]
 }

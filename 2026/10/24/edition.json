@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-28T10:55:50+09:00",
+ "built": "2026-10-28T11:05:20+09:00",
  "prev": null,
  "next": "/2026/10/25/",
  "alerts": [
@@ -337,7 +337,73 @@
   }
  },
  "ichimen_week": [],
- "giin": [],
+ "giin": [
+  {
+   "name": "佐々木丈",
+   "slug": "sasaki-takeshi",
+   "at": "2026-10-23T15:47:13+09:00",
+   "url": "https://x.com/greenblue8jo/status/2113522616858488907",
+   "what": "ごみ処理施設の打ち合わせ",
+   "kind": "活動",
+   "duty": true,
+   "when": "きのう",
+   "day": "2026-10-23",
+   "pt": 2,
+   "medal": "🥇"
+  },
+  {
+   "name": "伊藤しょう",
+   "slug": "ito-sho",
+   "at": "2026-10-23T12:30:35+09:00",
+   "url": "https://x.com/ito_man1223/status/2113473130555654432",
+   "what": "大里の祭り実行委員",
+   "kind": "活動",
+   "duty": true,
+   "when": "きのう",
+   "day": "2026-10-23",
+   "pt": 2,
+   "medal": "🥇"
+  },
+  {
+   "name": "岩崎由美",
+   "slug": "iwasaki-yumi",
+   "at": "2026-10-20T14:48:50+09:00",
+   "url": "https://x.com/yumi_iwasaki/status/2112420757263507462",
+   "what": "歴史民俗資料館の受賞",
+   "kind": "紹介",
+   "duty": false,
+   "when": "4日前",
+   "day": "2026-10-20",
+   "pt": 1,
+   "medal": "🥉"
+  },
+  {
+   "name": "伊勢崎唯",
+   "slug": "isezaki-yui",
+   "at": "2026-10-19T17:41:16+09:00",
+   "url": "https://x.com/YuiIsezaki8jo/status/2112101764405375082",
+   "what": "八高ネパール交流会",
+   "kind": "活動",
+   "duty": true,
+   "when": "5日前",
+   "day": "2026-10-19",
+   "pt": 2,
+   "medal": ""
+  },
+  {
+   "name": "浅沼碧海",
+   "slug": "asanuma-aomi",
+   "at": "2026-10-19T13:58:41+09:00",
+   "url": "https://x.com/aomi_asa/status/2112045751241216098",
+   "what": "お礼",
+   "kind": "話題",
+   "duty": false,
+   "when": "5日前",
+   "day": "2026-10-19",
+   "pt": 1,
+   "medal": ""
+  }
+ ],
  "population": {
   "as_of": "2026-10-01",
   "people": 6499,

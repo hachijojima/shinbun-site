@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-28T10:55:50+09:00",
+ "built": "2026-10-28T11:05:20+09:00",
  "prev": "/2026/10/24/",
  "next": "/2026/10/26/",
  "alerts": [
@@ -371,7 +371,21 @@
    ]
   }
  ],
- "giin": [],
+ "giin": [
+  {
+   "name": "佐々木丈",
+   "slug": "sasaki-takeshi",
+   "at": "2026-10-25T00:52:45+09:00",
+   "url": "https://note.com/sasaki8joe/n/n309d0962e93c",
+   "what": "天然記念物の鳥たち講演会",
+   "kind": "活動",
+   "duty": true,
+   "when": "きょう",
+   "day": "2026-10-25",
+   "pt": 2,
+   "medal": "🥇"
+  }
+ ],
  "population": {
   "as_of": "2026-10-01",
   "people": 6499,

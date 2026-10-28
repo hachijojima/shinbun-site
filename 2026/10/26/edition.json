@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-28T10:55:50+09:00",
+ "built": "2026-10-28T11:05:20+09:00",
  "prev": "/2026/10/25/",
  "next": "/2026/10/27/",
  "alerts": [
@@ -386,53 +386,29 @@
  "giin": [
   {
    "name": "伊藤しょう",
+   "slug": "ito-sho",
    "at": "2026-10-25T20:50:00+09:00",
    "url": "https://x.com/ito_man1223/status/2114323587377119708",
    "what": "優婆夷宝明神社例大祭準備",
+   "kind": "活動",
+   "duty": true,
    "when": "きのう",
-   "medal": "🥇",
-   "kind": "行動",
-   "slug": "ito-sho"
+   "day": "2026-10-25",
+   "pt": 2,
+   "medal": "🥇"
   },
   {
    "name": "佐々木丈",
+   "slug": "sasaki-takeshi",
    "at": "2026-10-25T00:52:45+09:00",
    "url": "https://note.com/sasaki8joe/n/n309d0962e93c",
    "what": "天然記念物の鳥たち講演会",
+   "kind": "活動",
+   "duty": true,
    "when": "きのう",
-   "medal": "🥇",
-   "kind": "行動",
-   "slug": "sasaki-takeshi"
-  },
-  {
-   "name": "山下のりこ",
-   "at": "2026-10-24T18:14:33+09:00",
-   "url": "https://x.com/norikoba1014/status/2113922082220437897",
-   "what": "大中音楽会",
-   "when": "2日前",
-   "medal": "🥉",
-   "kind": "行動",
-   "slug": "yamashita-noriko"
-  },
-  {
-   "name": "浅沼碧海",
-   "at": "2026-10-24T09:34:39+09:00",
-   "url": "https://x.com/aomi_asa/status/2113791244728139784",
-   "what": "青鳥分教室 学校見学会",
-   "when": "2日前",
-   "medal": "🥉",
-   "kind": "行動",
-   "slug": "asanuma-aomi"
-  },
-  {
-   "name": "岩崎由美",
-   "at": "2026-10-20T14:48:50+09:00",
-   "url": "https://x.com/yumi_iwasaki/status/2112420757263507462",
-   "what": "歴史民俗資料館受賞の紹介",
-   "when": "6日前",
-   "medal": "",
-   "kind": "話題",
-   "slug": "iwasaki-yumi"
+   "day": "2026-10-25",
+   "pt": 2,
+   "medal": "🥇"
   }
  ],
  "kyoku": {
