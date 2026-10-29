@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-29T11:03:06+09:00",
+ "built": "2026-10-29T11:39:27+09:00",
  "prev": "/2026/10/28/",
  "next": null,
  "alerts": [],
@@ -259,106 +259,38 @@
    "id": "720007"
   }
  ],
- "agenda": {
-  "today": [],
-  "soon": [
-   {
-    "date": "2026-10-31",
-    "end": null,
-    "what": "東京文化財ウィーク2026公開事業 八丈島の民謡（大賀郷公民館）",
-    "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026",
-    "src": "八丈島観光協会"
-   },
-   {
-    "date": "2026-10-31",
-    "end": null,
-    "what": "富士中学校の合唱コンクール開催",
-    "url": "https://fuji-jhs.8jo.ed.jp/n/n28db719f7a29"
-   },
-   {
-    "date": "2026-11-01",
-    "end": null,
-    "what": "クルーズ客船「三井オーシャンサクラ」寄港",
-    "url": "https://www.mitsuioceancruises.com/",
-    "src": "八丈島観光協会"
-   },
-   {
-    "date": "2026-11-01",
-    "end": null,
-    "what": "発酵中フェス2026",
-    "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/",
-    "src": "八丈島観光協会"
-   },
-   {
-    "date": "2026-11-01",
-    "end": "2026-11-02",
-    "what": "雑貨屋ラミが物産展でワークショップ",
-    "url": "https://x.com/rami8jo/status/2115020052886090115"
-   },
-   {
-    "date": "2026-11-01",
-    "end": null,
-    "what": "発酵中フェスに八丈島大使が来場",
-    "url": "https://x.com/hachijomachi/status/2114973501165895840"
-   },
-   {
-    "date": "2026-11-03",
-    "end": null,
-    "what": "三根小学校の運動会",
-    "url": "https://mitsune-es.8jo.ed.jp/n/n88afbd584229",
-    "src": "八丈町立三根小学校"
-   },
-   {
-    "date": "2026-11-03",
-    "end": null,
-    "what": "大賀郷小学校の運動会(雨天は4日以降に順延)",
-    "url": "https://okago-es.8jo.ed.jp/n/n11699b357ed3",
-    "src": "八丈町立大賀郷小学校"
-   },
-   {
-    "date": "2026-11-06",
-    "end": null,
-    "what": "大賀郷小学校の創立150周年記念事業「石油と地球の未来」講演会",
-    "url": "https://okago-es.8jo.ed.jp/n/nbfccfbeef39d"
-   },
-   {
-    "date": "2026-11-07",
-    "end": null,
-    "what": "優婆夷宝明神社例祭 （7日神輿､8日芸能大会､13日例祭式典）",
-    "url": "https://x.com/go_sha1113/status/2108363943085539389?s=20",
-    "src": "八丈島観光協会"
-   },
-   {
-    "date": "2026-11-07",
-    "end": "2026-11-20",
-    "what": "東京都「どこでもスマホ」教室の八丈町での開催",
-    "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261028/"
-   },
-   {
-    "date": "2026-11-07",
-    "end": "2026-11-08",
-    "what": "優婆夷宝明神社例祭の日程",
-    "url": "https://x.com/go_sha1113/status/2115247182458900962"
-   }
-  ],
-  "ongoing": [
-   {
-    "date": "2026-09-14",
-    "end": "2027-01-11",
-    "what": "実証事業 AIデマンドタクシー （9月14日～1月11日）",
-    "url": "https://x.com/hachijodemand",
-    "src": "八丈島観光協会",
-    "left": 75
-   },
-   {
-    "date": "2026-10-22",
-    "end": "2026-12-31",
-    "what": "東京諸島フォトセッション写真展",
-    "url": "https://www.tokyoislands-net.jp/news/22034/",
-    "left": 64
-   }
-  ]
- },
+ "agenda": [
+  {
+   "date": "2026-10-31",
+   "end": null,
+   "text": "東京文化財ウィーク 八丈島の民謡(大賀郷公民館)",
+   "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026"
+  },
+  {
+   "date": "2026-10-31",
+   "end": null,
+   "text": "富士中学校の合唱コンクール",
+   "url": "https://fuji-jhs.8jo.ed.jp/n/n28db719f7a29"
+  },
+  {
+   "date": "2026-11-01",
+   "end": null,
+   "text": "クルーズ客船「三井オーシャンサクラ」寄港",
+   "url": "https://www.mitsuioceancruises.com/"
+  },
+  {
+   "date": "2026-11-01",
+   "end": null,
+   "text": "発酵中フェス2026",
+   "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/"
+  },
+  {
+   "date": "2026-11-03",
+   "end": null,
+   "text": "小学校の運動会(三根・大賀郷)",
+   "url": "https://mitsune-es.8jo.ed.jp/n/n88afbd584229"
+  }
+ ],
  "letters": [],
  "corrections": [],
  "column": {
