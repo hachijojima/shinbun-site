@@ -389,7 +389,7 @@ function agendaSection(e){
   const items=[...(a.today||[]).map(x=>`<li><span><b>きょう</b></span>${what(x)}</li>`),
                ...(a.soon||[]).map(x=>`<li><span>${tsuki(x.date)}${x.end?"〜":""}</span>${what(x)}</li>`)];
   if(!items.length) return "";
-  return `<section id="yotei" aria-labelledby="yotei-h"><h2 class="band" id="yotei-h"><a href="/yotei/">イベント</a></h2><div class="yotei"><ul>${items.join("")}</ul></div></section>`;
+  return `<section id="yotei" aria-labelledby="yotei-h"><h2 class="band" id="yotei-h"><a href="/shima/">イベント</a></h2><div class="yotei"><ul>${items.join("")}</ul></div></section>`;
 }
 
 const MEDAL={"🥇":1,"🥈":2,"🥉":3};
