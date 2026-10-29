@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-29T16:00:05+09:00",
+ "built": "2026-10-29T18:58:54+09:00",
  "prev": "/2026/10/28/",
  "next": null,
  "alerts": [],
@@ -428,5 +428,5 @@
    "medal": ""
   }
  ],
- "chrome": "8df9dcce27b6"
+ "chrome": "c3fdb8854b06"
 }
