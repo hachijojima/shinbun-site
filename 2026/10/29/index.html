@@ -389,7 +389,7 @@ function giinSection(e){
   const g=(e.giin||[]); if(!g.some(r=>r.at)) return "";
   return `<section id="giin" aria-labelledby="giin-h"><h2 class="band" id="giin-h"><a href="/giin/">議員動静</a></h2>
     <ol class="giin">${g.map(r=>{const nm=`${rankMark(r.medal)}<b>${esc(r.name)}</b>`;
-      return `<li>${r.slug?`<a class="nm" href="/giin/${esc(r.slug)}/">${nm}</a>`:`<span class="nm">${nm}</span>`}${r.at?`<a class="ps${r.kind&&!r.duty?" nd":""}" href="${esc(r.url)}" target="_blank" rel="noopener" title="${esc(r.name+" "+(r.kind?r.kind+" ":"")+(r.what||""))}"><time>${esc(r.when)}</time><q>${r.kind?`<span class="ik${r.duty?"":" nd"}">${esc(r.kind)}</span> `:""}${esc(r.what||"")}</q></a>`:`<span class="ps"><time>発信なし</time></span>`}</li>`;}).join("")}</ol><p class="more"><a href="/giin/">全員の一覧</a></p></section>`;
+      return `<li>${r.slug?`<a class="nm" href="/giin/${esc(r.slug)}/">${nm}</a>`:`<span class="nm">${nm}</span>`}${r.at?`<a class="ps${r.kind&&!r.duty?" nd":""}" href="${esc(r.url)}" target="_blank" rel="noopener" title="${esc(r.name+" "+(r.kind?r.kind+" ":"")+(r.what||""))}"><time>${esc(r.when)}</time><q>${r.kind?`<span class="ik${r.duty?"":" nd"}">${esc(r.kind)}</span> `:""}${esc(r.what||"")}</q></a>`:`<span class="ps"><time>発信なし</time></span>`}</li>`;}).join("")}</ol><p class="more"><a href="/gikai/">議員・議会</a><a href="/giin/" style="margin-left:1.2em">全員の一覧</a></p></section>`;
 }
 /* 島のいま:注意報・天気・暦・船・人口を1つの欄に。値は発表のまま */
 function shimaSection(e){
