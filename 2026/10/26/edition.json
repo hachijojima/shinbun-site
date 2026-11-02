@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-29T15:51:03+09:00",
+ "built": "2026-11-03T06:04:01+09:00",
  "prev": "/2026/10/25/",
  "next": "/2026/10/27/",
  "alerts": [
@@ -225,16 +225,12 @@
    },
    "sources": [
     {
-     "label": "優婆夷宝明神社例祭(X)",
+     "label": "優婆夷宝明神社例祭",
      "url": "https://x.com/go_sha1113/status/2114248817378050487"
     },
     {
-     "label": "内閣府(国境離島の祭・イベント)",
+     "label": "内閣府",
      "url": "https://www8.cao.go.jp/ocean/kokkyouritou/ritou_kankou/event/event_8.html"
-    },
-    {
-     "label": "優婆夷宝明神社例祭(X)",
-     "url": "https://x.com/go_sha1113"
     }
    ],
    "label": "文化・催し",
@@ -252,10 +248,6 @@
     {
      "label": "気象庁",
      "url": "https://www.jma.go.jp/bosai/quake/data/20261025111715_20261025111028_VXSE5k_1.json"
-    },
-    {
-     "label": "気象庁",
-     "url": "https://www.jma.go.jp/bosai/quake/data/list.json"
     }
    ],
    "label": "交通・防災",
@@ -277,7 +269,7 @@
    },
    "sources": [
     {
-     "label": "八丈町社会福祉協議会(X)",
+     "label": "八丈町社会福祉協議会",
      "url": "https://x.com/8jo_Syakyo"
     }
    ],
@@ -293,7 +285,7 @@
    "figure": null,
    "sources": [
     {
-     "label": "八丈ビジターセンター(X)",
+     "label": "八丈ビジターセンター",
      "url": "https://x.com/8jo_vc"
     }
    ],

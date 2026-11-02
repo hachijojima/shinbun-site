@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-29T15:51:03+09:00",
+ "built": "2026-11-03T06:04:01+09:00",
  "prev": "/2026/10/24/",
  "next": "/2026/10/26/",
  "alerts": [
@@ -180,20 +180,16 @@
   "figure": null,
   "sources": [
    {
-    "label": "都立八丈高等学校(X)",
+    "label": "東京都立八丈高等学校",
     "url": "https://x.com/tokyo8jouhs/status/2113918849666138487"
    },
    {
-    "label": "JA東京中央会(企画制作 株式会社STORY)",
+    "label": "JA東京中央会",
     "url": "https://prtimes.jp/main/html/rd/p/000000023.000041737.html"
    },
    {
-    "label": "八丈島あしたば加工工場(X)",
+    "label": "八丈島あしたば加工工場",
     "url": "https://x.com/ashitabaya8jo/status/2113875045571555587"
-   },
-   {
-    "label": "都立八丈高等学校(X)",
-    "url": "https://x.com/tokyo8jouhs/status/2113919585103781978"
    }
   ],
   "label": "暮らし",
@@ -216,12 +212,8 @@
    },
    "sources": [
     {
-     "label": "八丈島観光協会(X)",
+     "label": "八丈島観光協会",
      "url": "https://x.com/Go_Hachijo_JP/status/2113860511490298224"
-    },
-    {
-     "label": "八丈島観光協会(X)",
-     "url": "https://x.com/Go_Hachijo_JP/status/2113900885340569819"
     }
    ],
    "label": "交通・防災",
@@ -238,7 +230,7 @@
    "figure": null,
    "sources": [
     {
-     "label": "八丈町のお知らせ",
+     "label": "八丈町",
      "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261023-2/"
     }
    ],
@@ -255,7 +247,7 @@
    "figure": null,
    "sources": [
     {
-     "label": "第三管区海上保安本部(X)",
+     "label": "第三管区海上保安本部",
      "url": "https://x.com/JCG_3rd_RCGH"
     }
    ],
@@ -273,7 +265,7 @@
    "figure": null,
    "sources": [
     {
-     "label": "八丈町のお知らせ",
+     "label": "八丈町",
      "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261022/"
     }
    ],

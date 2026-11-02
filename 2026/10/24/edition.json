@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-29T15:51:03+09:00",
+ "built": "2026-11-03T06:04:01+09:00",
  "prev": null,
  "next": "/2026/10/25/",
  "alerts": [
@@ -171,7 +171,7 @@
   },
   "sources": [
    {
-    "label": "八丈町(ロベレニくん)(X)",
+    "label": "八丈町",
     "url": "https://x.com/hachijomachi"
    }
   ],
@@ -193,11 +193,11 @@
    "figure": null,
    "sources": [
     {
-     "label": "八丈町のお知らせ",
+     "label": "八丈町",
      "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261023/"
     },
     {
-     "label": "アルカディア(サービス提供事業者)",
+     "label": "アルカディア",
      "url": "https://www.arcadia.co.jp/info/4076"
     }
    ],
@@ -213,7 +213,7 @@
    "figure": null,
    "sources": [
     {
-     "label": "八丈町(ロベレニくん)(X)",
+     "label": "八丈町",
      "url": "https://x.com/hachijomachi"
     }
    ],
@@ -241,7 +241,7 @@
      "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026"
     },
     {
-     "label": "八丈島文化協会(X)",
+     "label": "八丈島文化協会",
      "url": "https://x.com/8jobunka"
     }
    ],
@@ -258,7 +258,7 @@
    "figure": null,
    "sources": [
     {
-     "label": "八丈島こころみクリニック(X)",
+     "label": "八丈島こころみクリニック",
      "url": "https://x.com/cocoromi_island"
     }
    ],

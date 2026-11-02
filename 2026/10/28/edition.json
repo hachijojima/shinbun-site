@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-29T15:51:04+09:00",
+ "built": "2026-11-03T06:04:02+09:00",
  "prev": "/2026/10/27/",
  "next": "/2026/10/29/",
  "alerts": [
@@ -192,11 +192,11 @@
     "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261018/"
    },
    {
-    "label": "note.com",
+    "label": "八丈島の選挙をサポートする有志の会",
     "url": "https://note.com/8jo_vote_support/n/nbbd03cb16108"
    },
    {
-    "label": "伊藤しょう町議(X)",
+    "label": "伊藤しょう町議",
     "url": "https://x.com/ito_man1223/status/2115046794845663240"
    }
   ],
@@ -255,7 +255,7 @@
    ],
    "sources": [
     {
-     "label": "八丈町(ロベレニくん)(X)",
+     "label": "八丈町",
      "url": "https://x.com/hachijomachi/status/2115020119265177942"
     }
    ],

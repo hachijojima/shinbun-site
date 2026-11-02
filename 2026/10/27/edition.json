@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-10-29T15:51:03+09:00",
+ "built": "2026-11-03T06:04:01+09:00",
  "prev": "/2026/10/26/",
  "next": "/2026/10/28/",
  "alerts": [
@@ -195,7 +195,7 @@
   ],
   "sources": [
    {
-    "label": "東海汽船のお知らせ",
+    "label": "東海汽船",
     "url": "https://www.tokaikisen.co.jp/news/835173/"
    }
   ],
@@ -214,7 +214,7 @@
    ],
    "sources": [
     {
-     "label": "浅沼碧海町議(X)",
+     "label": "浅沼碧海町議",
      "url": "https://x.com/aomi_asa/status/2114702682510565624"
     }
    ],
@@ -251,16 +251,8 @@
    ],
    "sources": [
     {
-     "label": "八丈町(ロベレニくん)(X)",
+     "label": "八丈町",
      "url": "https://x.com/hachijomachi/status/2114543020716765509"
-    },
-    {
-     "label": "八丈町",
-     "url": "https://www.town.hachijo.tokyo.jp/iju/iju-guide/oyako-ryugaku/"
-    },
-    {
-     "label": "八丈町",
-     "url": "https://hachijo.info/info/wp-content/uploads/2026/03/%E8%A6%AA%E5%AD%90%E7%95%99%E5%AD%A6%E5%9E%8B%E9%9B%A2%E5%B3%B6%E7%95%99%E5%AD%A6.pdf"
     }
    ],
    "audience": "島民",
