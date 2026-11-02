@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T06:29:55+09:00",
+ "built": "2026-11-03T07:12:14+09:00",
  "prev": "/2026/11/01/",
  "next": "/2026/11/03/",
  "alerts": [
@@ -394,13 +394,13 @@
    "slug": "sasaki-takeshi",
    "at": "2026-11-01T08:31:36+09:00",
    "url": "https://x.com/greenblue8jo/status/2116674478826819630",
-   "what": "一般質問の作成",
-   "kind": "活動",
-   "duty": true,
+   "what": "一般質問の作成再掲",
+   "kind": "話題",
+   "duty": false,
    "when": "きのう",
    "day": "2026-11-01",
-   "pt": 2,
-   "medal": "🥇"
+   "pt": 1,
+   "medal": "🥉"
   },
   {
    "name": "伊藤しょう",
