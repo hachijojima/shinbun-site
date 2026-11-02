@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://shinbun.hachijojima.jp/sitemap.xml
+Sitemap: https://shinbun.hachijojima.jp/news-sitemap.xml
