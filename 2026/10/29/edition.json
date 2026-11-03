@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T07:12:13+09:00",
+ "built": "2026-11-03T16:51:34+09:00",
  "prev": "/2026/10/28/",
  "next": "/2026/10/30/",
  "alerts": [],
@@ -443,5 +443,25 @@
    "medal": ""
   }
  ],
- "chrome": "bff7f2bc616b"
+ "chrome": "bff7f2bc616b",
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年10月29日(金)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><path d=\"M24 7C13.5 7 6 14.5 5 24c2.2-2 4.6-2 6.4 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.8-2 4.2-2 6.4 0C42 14.5 34.5 7 24 7z\" fill=\"#2f7fd8\"/><path d=\"M24 24v14a3.5 3.5 0 0 1-7 0\" fill=\"none\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M24 4v3\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg></span>",
+   "hi": "22",
+   "lo": "19",
+   "rn": "雨 12.9mm"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年10月29日(木)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><path d=\"M13 37h23a8.5 8.5 0 0 0 1.4-16.9A12 12 0 0 0 14.6 19 9 9 0 0 0 13 37z\" fill=\"#a9b2ba\"/></svg></span><i class=c>→</i><span class=\"ic s\"><svg viewBox=\"0 0 48 48\"><path d=\"M24 7C13.5 7 6 14.5 5 24c2.2-2 4.6-2 6.4 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.8-2 4.2-2 6.4 0C42 14.5 34.5 7 24 7z\" fill=\"#2f7fd8\"/><path d=\"M24 24v14a3.5 3.5 0 0 1-7 0\" fill=\"none\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M24 4v3\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg></span>",
+   "hi": "23",
+   "lo": "—",
+   "lo_note": "",
+   "rn": "降水 60%"
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
+ }
 }

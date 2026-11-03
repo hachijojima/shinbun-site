@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T16:36:57+09:00",
+ "built": "2026-11-03T16:51:33+09:00",
  "prev": "/2026/10/24/",
  "next": "/2026/10/26/",
  "alerts": [
@@ -378,5 +378,25 @@
   "url": "https://x.com/ANA_flight_info/status/2113914643257389230",
   "at": "2026-10-24T17:45:00+09:00"
  },
- "chrome": "bff7f2bc616b"
+ "chrome": "bff7f2bc616b",
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年10月25日(月)",
+   "pic": "",
+   "hi": "22",
+   "lo": "13",
+   "rn": "降水なし"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年10月25日(日)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><path d=\"M13 37h23a8.5 8.5 0 0 0 1.4-16.9A12 12 0 0 0 14.6 19 9 9 0 0 0 13 37z\" fill=\"#a9b2ba\"/></svg></span>",
+   "hi": "28",
+   "lo": "—",
+   "lo_note": "",
+   "rn": "降水 40%"
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
+ }
 }

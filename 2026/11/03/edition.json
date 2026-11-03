@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T16:41:31+09:00",
+ "built": "2026-11-03T16:51:36+09:00",
  "prev": "/2026/11/02/",
  "next": null,
  "alerts": [],
@@ -289,50 +289,38 @@
   {
    "date": "2026-11-03",
    "end": null,
-   "text": "三根小学校の運動会",
+   "text": "小学校の運動会(三根・大賀郷)",
    "url": "https://mitsune-es.8jo.ed.jp/n/n88afbd584229"
   },
   {
    "date": "2026-11-03",
    "end": null,
-   "text": "大賀郷小学校の運動会(雨天は4日以降に順延)",
-   "url": "https://okago-es.8jo.ed.jp/n/n11699b357ed3"
-  },
-  {
-   "date": "2026-11-03",
-   "end": null,
-   "text": "大賀郷小学校150周年記念大運動会（11月3日）",
-   "url": "https://okago-es.8jo.ed.jp/n/n85b18c64280d"
-  },
-  {
-   "date": "2026-11-03",
-   "end": null,
-   "text": "ショメ節の舞台（11/3の上演時間）",
+   "text": "ショメ節の舞台",
    "url": "https://x.com/hattoriyashiki/status/2117182425768104080"
   },
   {
    "date": "2026-11-06",
    "end": null,
-   "text": "大賀郷小学校の創立150周年記念事業「石油と地球の未来」講演会",
+   "text": "大賀郷小学校150周年講演会",
    "url": "https://okago-es.8jo.ed.jp/n/nbfccfbeef39d"
   },
   {
    "date": "2026-11-07",
-   "end": null,
-   "text": "優婆夷宝明神社例祭 （7日神輿､8日芸能大会､13日例祭式典）",
+   "end": "2026-11-13",
+   "text": "優婆夷宝明神社例祭(神輿・芸能大会・式典)",
    "url": "https://x.com/go_sha1113/status/2108363943085539389?s=20"
   },
   {
    "date": "2026-11-07",
    "end": "2026-11-20",
-   "text": "東京都「どこでもスマホ」教室の八丈町での開催",
+   "text": "スマホ教室・個別相談会(八丈町)",
    "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261028/"
   },
   {
-   "date": "2026-11-07",
-   "end": "2026-11-13",
-   "text": "優婆夷宝明神社祭礼が、令和八年の優婆夷宝明神社例祭を11月7日(土)の神輿、8日(日)の演芸・夜店・抽選会、13日(金)の式典で行う。",
-   "url": "https://x.com/go_sha1113/status/2115247182458900962"
+   "date": "2026-11-08",
+   "end": "2026-11-28",
+   "text": "ビジターセンターの自然観察会・講座",
+   "url": "https://www.tokyo-park.or.jp/park/hachijo/news/kokkome/2026/2026_11.html"
   }
  ],
  "letters": [],
@@ -484,5 +472,25 @@
    "medal": ""
   }
  ],
- "chrome": "bff7f2bc616b"
+ "chrome": "bff7f2bc616b",
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年11月3日(水)",
+   "pic": "",
+   "hi": "22",
+   "lo": "13",
+   "rn": "雨 0.2mm"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年11月3日(火)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><g stroke=\"#f08c00\" stroke-width=\"3.2\" stroke-linecap=\"round\"><path d=\"M24 3v6M24 39v6M3 24h6M39 24h6M9.2 9.2l4.2 4.2M34.6 34.6l4.2 4.2M9.2 38.8l4.2-4.2M34.6 13.4l4.2-4.2\"/></g><circle cx=\"24\" cy=\"24\" r=\"10\" fill=\"#f7a21b\"/></svg></span><i class=c>→</i><span class=\"ic s\"><svg viewBox=\"0 0 48 48\"><path d=\"M13 37h23a8.5 8.5 0 0 0 1.4-16.9A12 12 0 0 0 14.6 19 9 9 0 0 0 13 37z\" fill=\"#a9b2ba\"/></svg></span>",
+   "hi": "25",
+   "lo": "19",
+   "lo_note": "けさ",
+   "rn": "降水 30%"
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
+ }
 }

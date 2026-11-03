@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T07:12:12+09:00",
+ "built": "2026-11-03T16:51:34+09:00",
  "prev": "/2026/10/25/",
  "next": "/2026/10/27/",
  "alerts": [
@@ -294,49 +294,56 @@
    "id": "1b0739"
   }
  ],
- "agenda": {
-  "today": [],
-  "soon": [
-   {
-    "date": "2026-10-31",
-    "end": null,
-    "what": "東京文化財ウィーク2026公開事業 八丈島の民謡（大賀郷公民館）",
-    "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026",
-    "src": "八丈島観光協会"
-   },
-   {
-    "date": "2026-11-01",
-    "end": null,
-    "what": "クルーズ客船「三井オーシャンサクラ」寄港",
-    "url": "https://www.mitsuioceancruises.com/",
-    "src": "八丈島観光協会"
-   },
-   {
-    "date": "2026-11-01",
-    "end": null,
-    "what": "発酵中フェス2026",
-    "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/",
-    "src": "八丈島観光協会"
-   },
-   {
-    "date": "2026-11-07",
-    "end": null,
-    "what": "優婆夷宝明神社例祭 （7日神輿､8日芸能大会､13日例祭式典）",
-    "url": "https://x.com/go_sha1113/status/2108363943085539389?s=20",
-    "src": "八丈島観光協会"
-   }
-  ],
-  "ongoing": [
-   {
-    "date": "2026-09-14",
-    "end": "2027-01-11",
-    "what": "実証事業 AIデマンドタクシー （9月14日～1月11日）",
-    "url": "https://x.com/hachijodemand",
-    "src": "八丈島観光協会",
-    "left": 78
-   }
-  ]
- },
+ "agenda": [
+  {
+   "date": "2026-10-26",
+   "end": "2026-10-27",
+   "text": "服部屋敷のショメ節と踊り",
+   "url": "https://x.com/hattoriyashiki/status/2114643202837750241"
+  },
+  {
+   "date": "2026-10-31",
+   "end": null,
+   "text": "八丈島の民謡 公開練習会(大賀郷公民館)",
+   "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026"
+  },
+  {
+   "date": "2026-10-31",
+   "end": null,
+   "text": "富士中学校の合唱コンクール",
+   "url": "https://fuji-jhs.8jo.ed.jp/n/n28db719f7a29"
+  },
+  {
+   "date": "2026-10-31",
+   "end": null,
+   "text": "ショメ節の舞台",
+   "url": "https://x.com/hattoriyashiki/status/2116103112641659074"
+  },
+  {
+   "date": "2026-11-01",
+   "end": null,
+   "text": "三原大運動会(三原小学校)",
+   "url": "https://mihara-es.8jo.ed.jp/n/nab03fe05249e"
+  },
+  {
+   "date": "2026-11-01",
+   "end": null,
+   "text": "クルーズ客船「三井オーシャンサクラ」寄港",
+   "url": "https://www.mitsuioceancruises.com/"
+  },
+  {
+   "date": "2026-11-01",
+   "end": null,
+   "text": "発酵中フェス(役場)",
+   "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/"
+  },
+  {
+   "date": "2026-11-01",
+   "end": null,
+   "text": "くさや×島焼酎 FEST2026",
+   "url": "https://x.com/kikuchiyakuhin/status/2116126778058281179"
+  }
+ ],
  "letters": [],
  "corrections": [],
  "column": {
@@ -419,5 +426,25 @@
   "url": "https://x.com/ANA_flight_info/status/2114277030959141282",
   "at": "2026-10-25T17:45:00+09:00"
  },
- "chrome": "bff7f2bc616b"
+ "chrome": "bff7f2bc616b",
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年10月26日(火)",
+   "pic": "",
+   "hi": "24",
+   "lo": "14",
+   "rn": "降水なし"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年10月26日(月)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><path d=\"M24 7C13.5 7 6 14.5 5 24c2.2-2 4.6-2 6.4 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.8-2 4.2-2 6.4 0C42 14.5 34.5 7 24 7z\" fill=\"#2f7fd8\"/><path d=\"M24 24v14a3.5 3.5 0 0 1-7 0\" fill=\"none\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M24 4v3\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg></span>",
+   "hi": "25",
+   "lo": "—",
+   "lo_note": "",
+   "rn": "降水 90%"
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
+ }
 }

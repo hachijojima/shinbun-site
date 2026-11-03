@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T16:47:39+09:00",
+ "built": "2026-11-03T16:51:35+09:00",
  "prev": "/2026/11/01/",
  "next": "/2026/11/03/",
  "alerts": [
@@ -430,5 +430,25 @@
    "medal": ""
   }
  ],
- "chrome": "bff7f2bc616b"
+ "chrome": "bff7f2bc616b",
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年11月2日(火)",
+   "pic": "",
+   "hi": "21",
+   "lo": "10",
+   "rn": "降水なし"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年11月2日(月)",
+   "pic": "",
+   "hi": "—",
+   "lo": "17",
+   "lo_note": "けさ",
+   "rn": ""
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
+ }
 }

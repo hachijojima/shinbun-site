@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T07:12:13+09:00",
+ "built": "2026-11-03T16:51:35+09:00",
  "prev": "/2026/10/31/",
  "next": "/2026/11/02/",
  "alerts": [
@@ -522,5 +522,25 @@
    "medal": ""
   }
  ],
- "chrome": "bff7f2bc616b"
+ "chrome": "bff7f2bc616b",
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年11月1日(月)",
+   "pic": "",
+   "hi": "19",
+   "lo": "11",
+   "rn": "降水なし"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年11月1日(日)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><g stroke=\"#f08c00\" stroke-width=\"3.2\" stroke-linecap=\"round\"><path d=\"M24 3v6M24 39v6M3 24h6M39 24h6M9.2 9.2l4.2 4.2M34.6 34.6l4.2 4.2M9.2 38.8l4.2-4.2M34.6 13.4l4.2-4.2\"/></g><circle cx=\"24\" cy=\"24\" r=\"10\" fill=\"#f7a21b\"/></svg></span><span class=\"ic s\"><svg viewBox=\"0 0 48 48\"><path d=\"M13 37h23a8.5 8.5 0 0 0 1.4-16.9A12 12 0 0 0 14.6 19 9 9 0 0 0 13 37z\" fill=\"#a9b2ba\"/></svg></span>",
+   "hi": "24",
+   "lo": "18",
+   "lo_note": "けさ",
+   "rn": "降水 10%"
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
+ }
 }
