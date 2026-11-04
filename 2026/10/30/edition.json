@@ -251,7 +251,7 @@
      "url": "https://www8.cao.go.jp/ocean/kokkyouritou/ritou_kankou/event/event_8.html"
     }
    ],
-   "label": "文化・催し",
+   "label": "教育・文化",
    "audience": "両方",
    "thread_id": "t20261026-3",
    "followup": true,
@@ -419,7 +419,13 @@
   "people_diff": -24,
   "households": 4028,
   "households_diff": -21,
-  "url": "https://www.town.hachijo.tokyo.jp/"
+  "url": "https://www.town.hachijo.tokyo.jp/",
+  "ido": {
+   "in": 6,
+   "birth": 2,
+   "out": 19,
+   "death": 10
+  }
  },
  "giin": [
   {
@@ -488,7 +494,7 @@
    "medal": ""
   }
  ],
- "chrome": "bff7f2bc616b",
+ "chrome": "bd0a5b50d438",
  "hyakunen": {
   "then": {
    "ago": "100年前",
@@ -504,8 +510,7 @@
    "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><path d=\"M13 37h23a8.5 8.5 0 0 0 1.4-16.9A12 12 0 0 0 14.6 19 9 9 0 0 0 13 37z\" fill=\"#a9b2ba\"/></svg></span><i class=c>|</i><span class=\"ic s\"><svg viewBox=\"0 0 48 48\"><path d=\"M24 7C13.5 7 6 14.5 5 24c2.2-2 4.6-2 6.4 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.8-2 4.2-2 6.4 0C42 14.5 34.5 7 24 7z\" fill=\"#2f7fd8\"/><path d=\"M24 24v14a3.5 3.5 0 0 1-7 0\" fill=\"none\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M24 4v3\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg></span>",
    "hi": "25",
    "lo": "19",
-   "lo_note": "けさ",
-   "rn": "降水 60%"
+   "rn": ""
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  }

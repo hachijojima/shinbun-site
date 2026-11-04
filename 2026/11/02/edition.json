@@ -155,7 +155,7 @@
     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23114458/hachijo2510.pdf"
    }
   ],
-  "label": "暮らし",
+  "label": "教育・文化",
   "audience": "島民",
   "thread_id": "t20261102-24",
   "id": "16ecab"
@@ -176,7 +176,7 @@
      "url": "https://forms.gle/C6c3qq46nJwX3EvV8"
     }
    ],
-   "label": "文化・催し",
+   "label": "教育・文化",
    "audience": "両方",
    "thread_id": "t20261102-25",
    "id": "d0f060",
@@ -241,7 +241,7 @@
      "url": "https://mihara-jhs.8jo.ed.jp/n/n29943fb9d15e"
     }
    ],
-   "label": "暮らし",
+   "label": "教育・文化",
    "audience": "島民",
    "thread_id": "t20261031-21",
    "followup": true,
@@ -361,7 +361,13 @@
   "people_diff": -24,
   "households": 4028,
   "households_diff": -21,
-  "url": "https://www.town.hachijo.tokyo.jp/"
+  "url": "https://www.town.hachijo.tokyo.jp/",
+  "ido": {
+   "in": 6,
+   "birth": 2,
+   "out": 19,
+   "death": 10
+  }
  },
  "giin": [
   {
@@ -430,7 +436,7 @@
    "medal": ""
   }
  ],
- "chrome": "bff7f2bc616b",
+ "chrome": "bd0a5b50d438",
  "hyakunen": {
   "then": {
    "ago": "100年前",
@@ -446,7 +452,6 @@
    "pic": "",
    "hi": "—",
    "lo": "17",
-   "lo_note": "けさ",
    "rn": ""
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"

@@ -242,7 +242,7 @@
      "url": "https://okago-jhs.8jo.ed.jp/n/n642f035e6823"
     }
    ],
-   "label": "暮らし",
+   "label": "教育・文化",
    "audience": "島民",
    "thread_id": "t20261028-10",
    "id": "2184e7"
@@ -277,7 +277,7 @@
      "url": "https://okago-es.8jo.ed.jp/n/n28b6406b5701"
     }
    ],
-   "label": "暮らし",
+   "label": "教育・文化",
    "audience": "島民",
    "thread_id": "t20261028-34",
    "id": "5620a7"
@@ -411,7 +411,13 @@
   "people_diff": -24,
   "households": 4028,
   "households_diff": -21,
-  "url": "https://www.town.hachijo.tokyo.jp/"
+  "url": "https://www.town.hachijo.tokyo.jp/",
+  "ido": {
+   "in": 6,
+   "birth": 2,
+   "out": 19,
+   "death": 10
+  }
  },
  "giin": [
   {
@@ -480,7 +486,7 @@
    "medal": "🥉"
   }
  ],
- "chrome": "bff7f2bc616b",
+ "chrome": "bd0a5b50d438",
  "hyakunen": {
   "then": {
    "ago": "100年前",
@@ -496,8 +502,7 @@
    "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><g stroke=\"#f08c00\" stroke-width=\"3.2\" stroke-linecap=\"round\"><path d=\"M24 3v6M24 39v6M3 24h6M39 24h6M9.2 9.2l4.2 4.2M34.6 34.6l4.2 4.2M9.2 38.8l4.2-4.2M34.6 13.4l4.2-4.2\"/></g><circle cx=\"24\" cy=\"24\" r=\"10\" fill=\"#f7a21b\"/></svg></span><i class=c>→</i><span class=\"ic s\"><svg viewBox=\"0 0 48 48\"><path d=\"M13 37h23a8.5 8.5 0 0 0 1.4-16.9A12 12 0 0 0 14.6 19 9 9 0 0 0 13 37z\" fill=\"#a9b2ba\"/></svg></span>",
    "hi": "23",
    "lo": "—",
-   "lo_note": "",
-   "rn": "降水 30%"
+   "rn": ""
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  }

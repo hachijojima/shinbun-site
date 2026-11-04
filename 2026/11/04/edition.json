@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-04T12:18:59+09:00",
+ "built": "2026-11-04T13:12:25+09:00",
  "prev": "/2026/11/03/",
  "next": null,
  "alerts": [
@@ -195,7 +195,7 @@
     "url": "https://oms.tokyo/8taiko/"
    }
   ],
-  "label": "文化・催し",
+  "label": "教育・文化",
   "audience": "両方",
   "thread_id": "t20261104-36",
   "id": "85fbd0",
@@ -245,7 +245,7 @@
      "url": "https://tdff-neoneo.com/"
     }
    ],
-   "label": "文化・催し",
+   "label": "教育・文化",
    "audience": "両方",
    "thread_id": "t20261104-37",
    "id": "455826"
@@ -490,5 +490,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "bff7f2bc616b"
+ "chrome": "bd0a5b50d438"
 }

@@ -175,7 +175,7 @@
     "url": "https://x.com/hachijomachi"
    }
   ],
-  "label": "文化・催し",
+  "label": "教育・文化",
   "audience": "両方",
   "id": "024e63"
  },
@@ -245,7 +245,7 @@
      "url": "https://x.com/8jobunka"
     }
    ],
-   "label": "文化・催し",
+   "label": "教育・文化",
    "audience": "両方",
    "id": "915257"
   },
@@ -262,7 +262,7 @@
      "url": "https://x.com/cocoromi_island"
     }
    ],
-   "label": "暮らし",
+   "label": "くらし",
    "audience": "両方",
    "id": "c5c324"
   }
@@ -410,10 +410,16 @@
   "people_diff": -24,
   "households": 4028,
   "households_diff": -21,
-  "url": "https://www.town.hachijo.tokyo.jp/"
+  "url": "https://www.town.hachijo.tokyo.jp/",
+  "ido": {
+   "in": 6,
+   "birth": 2,
+   "out": 19,
+   "death": 10
+  }
  },
  "sora": null,
- "chrome": "bff7f2bc616b",
+ "chrome": "bd0a5b50d438",
  "hyakunen": {
   "then": {
    "ago": "100年前",
@@ -429,8 +435,7 @@
    "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><path d=\"M13 37h23a8.5 8.5 0 0 0 1.4-16.9A12 12 0 0 0 14.6 19 9 9 0 0 0 13 37z\" fill=\"#a9b2ba\"/></svg></span>",
    "hi": "—",
    "lo": "—",
-   "lo_note": "",
-   "rn": "降水 30%"
+   "rn": ""
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  }
