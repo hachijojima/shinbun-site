@@ -20,20 +20,20 @@ h1,h2,h3,p{margin:0}
 .wrap{max-width:1200px;margin:0 auto;padding:0 16px 40px}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}   /* 読み上げだけの見出し(帯の地で今いる分野が分かるページ) */
 
-/* 題字の段:PC は左に日付、中央に題字、右に天気(紙面の外のページは題字だけ) */
+/* 題字の段:PC は中央に題字、右に日付(紙面の外のページは題字だけ) */
 .mast{display:grid;grid-template-columns:auto auto;justify-content:space-between;align-items:baseline;gap:10px 12px;padding:18px 0 8px;border-bottom:3px solid var(--rule)}
 .mast .daiji{grid-column:1/-1;grid-row:1}
 .daiji{font-family:var(--min);font-weight:800;font-size:clamp(40px,8vw,76px);line-height:1;letter-spacing:-.02em;text-align:center;white-space:nowrap}
 .daiji a:hover{text-decoration:none}
 .mast .hi{font-family:var(--goth);font-size:clamp(14px,3.8vw,21px);font-weight:700;line-height:1.4;white-space:nowrap}   /* 字の大きさは前のまま。スマホでも1行 */
 .mast .ten{text-align:right}
-/* 号の日付:PC は題字の左、スマホは題字の右 */
-@media (max-width:919px){   /* スマホ:新聞社サイトのスマホ版に寄せる。題字は左、日付は右(トップと過去の紙面だけ)、☰ なし(2026-11-04 利用者) */
-  .mast{grid-template-columns:auto auto;align-items:center;padding:12px 0 8px}
+/* 号の日付:PC もスマホも題字の右 */
+@media (max-width:919px){   /* スマホ:新聞社サイトのスマホ版に寄せる。題字は左、日付は右(トップと過去の紙面だけ)、☰ は戻すと出る帯だけ(2026-11-04 利用者) */
+  .mast{grid-template-columns:auto auto;align-items:end;padding:12px 0 8px}
   .mast .daiji{grid-column:1;font-size:clamp(26px,8vw,32px);text-align:left}
   .mast .hi{grid-column:2;grid-row:1;text-align:right;font-size:clamp(13px,3.8vw,15px)}
-  .menu,.sbar .menu{display:none!important}.sbar .in{justify-content:flex-start}}
-@media (min-width:920px){.mast{grid-template-columns:1fr auto 1fr}.mast .daiji{grid-column:2}.mast .hi{grid-row:1}}
+  .mast .menu{display:none!important}.sbar .in{justify-content:flex-start!important}}
+@media (min-width:920px){.mast{grid-template-columns:1fr auto 1fr}.mast .daiji{grid-column:2}.mast .hi{grid-column:3;grid-row:1;text-align:right}}   /* 日付は PC も右 */
 .mast{position:relative}
 /* 帯見出しと記事のラベル(同じ形。ラベルは色を反転) */
 .band{display:inline-block;min-width:9.5em;white-space:nowrap;background:var(--paper);color:var(--tamamushi);border:1px solid var(--tamamushi);font-family:var(--goth);font-weight:900;
