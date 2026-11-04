@@ -27,8 +27,8 @@ h1,h2,h3,p{margin:0}
 .mast .hi{font-family:var(--goth);font-size:clamp(14px,3.8vw,21px);font-weight:700;line-height:1.4;white-space:nowrap}   /* 字の大きさは前のまま。スマホでも1行 */
 .mast .ten{text-align:right}
 /* 号の日付:PC は題字の左、スマホは帯の下に1行 */
-.gou{display:none;font-family:var(--goth);font-weight:900;font-size:var(--fs-b);padding:10px 0 0}
-@media (max-width:919px){.mast .hi{display:none}.gou{display:block}}
+.hdate{display:none;font-family:var(--goth);font-weight:900;font-size:var(--fs-b);padding:10px 0 2px}
+@media (max-width:919px){.mast .hi{display:none}.hdate{display:block}}
 @media (min-width:920px){.mast{grid-template-columns:1fr auto 1fr}.mast .daiji{grid-column:2}.mast .hi{grid-row:1}}
 .mast{position:relative}
 /* 帯見出しと記事のラベル(同じ形。ラベルは色を反転) */
