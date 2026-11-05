@@ -103,7 +103,7 @@ a.label:hover,.band:not(.onair) a:hover{opacity:.85}
 .onair i{width:7px;height:7px;border-radius:50%;background:var(--band-ink);display:inline-block}
 @media (prefers-reduced-motion:no-preference){.onair i{animation:blink 2s steps(1) infinite}}
 .tv .head{display:flex;align-items:center;gap:var(--sp-m);margin-bottom:var(--sp-m)}.tv .head .band{margin:0}
-.tv .chl{display:block}.tv .ch{height:30px;width:auto;display:block}   /* ON AIR の帯と同じ高さに見える大きさ */
+.tv .chl{display:block;min-width:0}.tv .ch{width:auto;height:auto;max-height:30px;max-width:100%;display:block}   /* ON AIR の帯と同じ高さに見える大きさ。360px 幅では列に収まるまで縮める */
 @keyframes blink{50%{opacity:.25}}
 /* ☰ の頭の検索窓。打つと下に候補(「○○で検索」と当たった題名)。検索の結果はバックナンバーのページ */
 .ms{display:flex;gap:8px;padding:12px 16px;background:#f3f3f1}
