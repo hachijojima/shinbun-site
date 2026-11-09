@@ -158,7 +158,14 @@
   "label": "教育・文化",
   "audience": "島民",
   "thread_id": "t20261102-24",
-  "id": "16ecab"
+  "id": "16ecab",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/16ecab.jpg",
+   "og": "/img/kiji/16ecab-og.jpg",
+   "caption": "東京都立八丈高等学校",
+   "credit": "本紙撮影"
+  }
  },
  "side": [],
  "shorts": [
@@ -436,7 +443,7 @@
    "medal": ""
   }
  ],
- "chrome": "b211ade371e7",
+ "chrome": "eac8b70d7e5a",
  "hyakunen": {
   "then": {
    "ago": "100年前",

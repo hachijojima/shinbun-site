@@ -207,7 +207,14 @@
   "label": "町政",
   "audience": "両方",
   "thread_id": "t20261030-15",
-  "id": "5b7d9f"
+  "id": "5b7d9f",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/5b7d9f.jpg",
+   "og": "/img/kiji/5b7d9f-og.jpg",
+   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+   "credit": "本紙撮影"
+  }
  },
  "side": [],
  "shorts": [
@@ -228,7 +235,14 @@
    "audience": "両方",
    "thread_id": "t20261030-14",
    "followup": true,
-   "id": "4ce2d9"
+   "id": "4ce2d9",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/4ce2d9.jpg",
+    "og": "/img/kiji/4ce2d9-og.jpg",
+    "caption": "東海汽船「橘丸」回頭",
+    "credit": "写真AC"
+   }
   },
   {
    "headline": "優婆夷宝明神社、11月7日に神輿",
@@ -255,7 +269,14 @@
    "audience": "両方",
    "thread_id": "t20261026-3",
    "followup": true,
-   "id": "37a716"
+   "id": "37a716",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/37a716.jpg",
+    "og": "/img/kiji/37a716-og.jpg",
+    "caption": "八丈島「優婆夷宝明神社」本殿",
+    "credit": "写真AC"
+   }
   },
   {
    "headline": "水道料金、12月請求から再開",
@@ -298,7 +319,14 @@
    "label": "産業",
    "audience": "島民",
    "thread_id": "t20261030-30",
-   "id": "6fb8c2"
+   "id": "6fb8c2",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/6fb8c2.jpg",
+    "og": "/img/kiji/6fb8c2-og.jpg",
+    "caption": "八丈町役場",
+    "credit": "写真AC"
+   }
   }
  ],
  "agenda": [
@@ -494,7 +522,7 @@
    "medal": ""
   }
  ],
- "chrome": "b211ade371e7",
+ "chrome": "eac8b70d7e5a",
  "hyakunen": {
   "then": {
    "ago": "100年前",

@@ -223,7 +223,14 @@
    "label": "交通・防災",
    "audience": "両方",
    "thread_id": "t20261028-8",
-   "id": "1881b6"
+   "id": "1881b6",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/1881b6.jpg",
+    "og": "/img/kiji/1881b6-og.jpg",
+    "caption": "八丈島・底土港客船待合所",
+    "credit": "写真AC"
+   }
   },
   {
    "headline": "小中学校で八丈方言の授業",
@@ -245,7 +252,14 @@
    "label": "教育・文化",
    "audience": "島民",
    "thread_id": "t20261028-10",
-   "id": "2184e7"
+   "id": "2184e7",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/2184e7.jpg",
+    "og": "/img/kiji/2184e7-og.jpg",
+    "caption": "八丈町立三根小学校",
+    "credit": "本紙撮影"
+   }
   },
   {
    "headline": "協力隊イベント「閉会まで盛況」",
@@ -280,7 +294,14 @@
    "label": "教育・文化",
    "audience": "島民",
    "thread_id": "t20261028-34",
-   "id": "5620a7"
+   "id": "5620a7",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/5620a7.jpg",
+    "og": "/img/kiji/5620a7-og.jpg",
+    "caption": "八丈町立大賀郷小学校",
+    "credit": "本紙撮影"
+   }
   }
  ],
  "agenda": {
@@ -486,7 +507,7 @@
    "medal": "🥉"
   }
  ],
- "chrome": "b211ade371e7",
+ "chrome": "eac8b70d7e5a",
  "hyakunen": {
   "then": {
    "ago": "100年前",

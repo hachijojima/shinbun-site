@@ -194,7 +194,14 @@
   ],
   "label": "教育・文化",
   "audience": "両方",
-  "id": "35d678"
+  "id": "35d678",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/35d678.jpg",
+   "og": "/img/kiji/35d678-og.jpg",
+   "caption": "東京都立八丈高等学校",
+   "credit": "本紙撮影"
+  }
  },
  "side": [],
  "shorts": [
@@ -384,7 +391,7 @@
   "url": "https://x.com/ANA_flight_info/status/2113914643257389230",
   "at": "2026-10-24T17:45:00+09:00"
  },
- "chrome": "b211ade371e7",
+ "chrome": "eac8b70d7e5a",
  "hyakunen": {
   "then": {
    "ago": "100年前",

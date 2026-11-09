@@ -202,7 +202,14 @@
   "audience": "島民",
   "thread_id": "t20261108-50",
   "id": "2e37ea",
-  "edited": "2026-11-08T08:43:15+09:00"
+  "edited": "2026-11-08T08:43:15+09:00",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/2e37ea.jpg",
+   "og": "/img/kiji/2e37ea-og.jpg",
+   "caption": "八丈町役場",
+   "credit": "写真AC"
+  }
  },
  "side": [],
  "shorts": [
@@ -273,7 +280,14 @@
    "label": "教育・文化",
    "audience": "両方",
    "thread_id": "t20261108-51",
-   "id": "065618"
+   "id": "065618",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/065618.jpg",
+    "og": "/img/kiji/065618-og.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "本紙撮影"
+   }
   },
   {
    "headline": "ゆーゆー牧場で牛の削蹄見学",
@@ -532,5 +546,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "b211ade371e7"
+ "chrome": "eac8b70d7e5a"
 }

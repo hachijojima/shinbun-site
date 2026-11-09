@@ -227,7 +227,14 @@
   "thread_id": "t20261026-3",
   "followup": true,
   "edited": "2026-11-06T08:41:59+09:00",
-  "id": "44d450"
+  "id": "44d450",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/44d450.jpg",
+   "og": "/img/kiji/44d450-og.jpg",
+   "caption": "八丈島 優婆夷宝明神社",
+   "credit": "写真AC"
+  }
  },
  "side": [],
  "shorts": [
@@ -270,7 +277,14 @@
    "audience": "島民",
    "thread_id": "t20261028-10",
    "followup": true,
-   "id": "24e58e"
+   "id": "24e58e",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/24e58e.jpg",
+    "og": "/img/kiji/24e58e-og.jpg",
+    "caption": "八丈町立大賀郷中学校",
+    "credit": "本紙撮影"
+   }
   },
   {
    "headline": "あしたば加工工場の一部商品休止",
@@ -511,5 +525,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "b211ade371e7"
+ "chrome": "eac8b70d7e5a"
 }

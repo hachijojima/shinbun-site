@@ -215,7 +215,14 @@
    "label": "くらし",
    "audience": "島民",
    "thread_id": "t20261029-11",
-   "id": "8a39a5"
+   "id": "8a39a5",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/8a39a5.jpg",
+    "og": "/img/kiji/8a39a5-og.jpg",
+    "caption": "八丈町コミュニティセンター",
+    "credit": "本紙撮影"
+   }
   },
   {
    "headline": "東海汽船が改善計画の進捗を報告",
@@ -449,7 +456,7 @@
    "medal": ""
   }
  ],
- "chrome": "b211ade371e7",
+ "chrome": "eac8b70d7e5a",
  "hyakunen": {
   "then": {
    "ago": "100年前",

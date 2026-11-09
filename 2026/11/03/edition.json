@@ -196,7 +196,14 @@
   "thread_id": "t20261031-21",
   "followup": true,
   "id": "e7b7e9",
-  "edited": "2026-11-03T20:02:49+09:00"
+  "edited": "2026-11-03T20:02:49+09:00",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/e7b7e9.jpg",
+   "og": "/img/kiji/e7b7e9-og.jpg",
+   "caption": "八丈町立大賀郷小学校",
+   "credit": "本紙撮影"
+  }
  },
  "side": [],
  "shorts": [
@@ -235,7 +242,14 @@
    "label": "交通・防災",
    "audience": "両方",
    "thread_id": "t20261103-28",
-   "id": "9092bc"
+   "id": "9092bc",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/9092bc.jpg",
+    "og": "/img/kiji/9092bc-og.jpg",
+    "caption": "八丈島 藍ヶ江港 全体",
+    "credit": "写真AC"
+   }
   },
   {
    "headline": "発酵中フェス、来場1,090人",
@@ -263,7 +277,14 @@
    "audience": "両方",
    "thread_id": "t20261030-15",
    "followup": true,
-   "id": "7ee3f6"
+   "id": "7ee3f6",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/7ee3f6.jpg",
+    "og": "/img/kiji/7ee3f6-og.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "本紙撮影"
+   }
   },
   {
    "headline": "FDAチャーター機、八丈島へ",
@@ -284,7 +305,14 @@
    "label": "交通・防災",
    "audience": "両方",
    "thread_id": "t20261103-29",
-   "id": "cd4291"
+   "id": "cd4291",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/cd4291.jpg",
+    "og": "/img/kiji/cd4291-og.jpg",
+    "caption": "八丈島空港ターミナル(Hachijojima Airport Terminal Building, Tokyo)",
+    "credit": "写真AC"
+   }
   }
  ],
  "agenda": [
@@ -480,7 +508,7 @@
    "medal": ""
   }
  ],
- "chrome": "b211ade371e7",
+ "chrome": "eac8b70d7e5a",
  "hyakunen": {
   "then": {
    "ago": "100年前",

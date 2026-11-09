@@ -304,7 +304,14 @@
    "audience": "島民",
    "thread_id": "t20261031-33",
    "followup": true,
-   "id": "533986"
+   "id": "533986",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/533986.jpg",
+    "og": "/img/kiji/533986-og.jpg",
+    "caption": "八丈町立大賀郷小学校",
+    "credit": "本紙撮影"
+   }
   }
  ],
  "agenda": [
@@ -509,7 +516,7 @@
    "medal": ""
   }
  ],
- "chrome": "b211ade371e7",
+ "chrome": "eac8b70d7e5a",
  "hyakunen": {
   "then": {
    "ago": "100年前",

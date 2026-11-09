@@ -206,7 +206,14 @@
   ],
   "label": "教育・文化",
   "audience": "両方",
-  "id": "012175"
+  "id": "012175",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/012175.jpg",
+   "og": "/img/kiji/012175-og.jpg",
+   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+   "credit": "本紙撮影"
+  }
  },
  "side": [],
  "shorts": [
@@ -235,7 +242,14 @@
    ],
    "label": "教育・文化",
    "audience": "両方",
-   "id": "08c682"
+   "id": "08c682",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/08c682.jpg",
+    "og": "/img/kiji/08c682-og.jpg",
+    "caption": "八丈島・優婆夷宝明神社の社殿",
+    "credit": "写真AC"
+   }
   },
   {
    "headline": "八丈町は震度1 深発地震",
@@ -291,7 +305,14 @@
    ],
    "label": "くらし",
    "audience": "両方",
-   "id": "1b0739"
+   "id": "1b0739",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/1b0739.jpg",
+    "og": "/img/kiji/1b0739-og.jpg",
+    "caption": "八丈島「八丈植物公園」入口",
+    "credit": "写真AC"
+   }
   }
  ],
  "agenda": [
@@ -432,7 +453,7 @@
   "url": "https://x.com/ANA_flight_info/status/2114277030959141282",
   "at": "2026-10-25T17:45:00+09:00"
  },
- "chrome": "b211ade371e7",
+ "chrome": "eac8b70d7e5a",
  "hyakunen": {
   "then": {
    "ago": "100年前",

@@ -177,7 +177,14 @@
   ],
   "label": "教育・文化",
   "audience": "両方",
-  "id": "024e63"
+  "id": "024e63",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/024e63.jpg",
+   "og": "/img/kiji/024e63-og.jpg",
+   "caption": "八丈島歴史民俗資料館",
+   "credit": "本紙撮影"
+  }
  },
  "side": [],
  "shorts": [
@@ -419,7 +426,7 @@
   }
  },
  "sora": null,
- "chrome": "b211ade371e7",
+ "chrome": "eac8b70d7e5a",
  "hyakunen": {
   "then": {
    "ago": "100年前",

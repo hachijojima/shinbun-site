@@ -202,7 +202,14 @@
   "label": "交通・防災",
   "audience": "両方",
   "thread_id": "t20261027-6",
-  "id": "2b621d"
+  "id": "2b621d",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/2b621d.jpg",
+   "og": "/img/kiji/2b621d-og.jpg",
+   "caption": "東海汽船「橘丸」",
+   "credit": "写真AC"
+  }
  },
  "side": [],
  "shorts": [
@@ -239,7 +246,14 @@
    "label": "教育・文化",
    "audience": "島民",
    "thread_id": "t20261027-8",
-   "id": "f76b85"
+   "id": "f76b85",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/f76b85.jpg",
+    "og": "/img/kiji/f76b85-og.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "本紙撮影"
+   }
   },
   {
    "headline": "親子留学の家族、テレビで特集",
@@ -456,7 +470,7 @@
    "medal": ""
   }
  ],
- "chrome": "b211ade371e7",
+ "chrome": "eac8b70d7e5a",
  "hyakunen": {
   "then": {
    "ago": "100年前",
