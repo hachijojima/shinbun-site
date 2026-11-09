@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-06T08:47:39+09:00",
+ "built": "2026-11-10T07:29:34+09:00",
  "prev": "/2026/11/05/",
  "next": "/2026/11/07/",
  "alerts": [
@@ -232,8 +232,10 @@
    "type": "img",
    "src": "/img/kiji/44d450.jpg",
    "og": "/img/kiji/44d450-og.jpg",
+   "s": "/img/kiji/44d450-s.jpg",
    "caption": "八丈島・優婆夷宝明神社の社殿",
-   "credit": ""
+   "credit": "",
+   "file": "ac/24824871.jpg"
   }
  },
  "side": [],
@@ -259,8 +261,10 @@
     "type": "img",
     "src": "/img/kiji/ad8076.jpg",
     "og": "/img/kiji/ad8076-og.jpg",
-    "caption": "橘丸 八丈島 八重根港",
-    "credit": ""
+    "s": "/img/kiji/ad8076-s.jpg",
+    "caption": "八重根港 橘丸と八丈富士",
+    "credit": "",
+    "file": "ac/34194383.jpg"
    }
   },
   {
@@ -289,8 +293,10 @@
     "type": "img",
     "src": "/img/kiji/24e58e.jpg",
     "og": "/img/kiji/24e58e-og.jpg",
+    "s": "/img/kiji/24e58e-s.jpg",
     "caption": "八丈町立大賀郷中学校",
-    "credit": ""
+    "credit": "",
+    "file": "own/okago-chu-1.jpg"
    }
   },
   {
@@ -314,8 +320,10 @@
     "type": "img",
     "src": "/img/kiji/f83412.jpg",
     "og": "/img/kiji/f83412-og.jpg",
-    "caption": "八丈島の明日葉",
-    "credit": ""
+    "s": "/img/kiji/f83412-s.jpg",
+    "caption": "明日葉",
+    "credit": "",
+    "file": "ac/4086596.jpg"
    }
   },
   {
@@ -340,8 +348,10 @@
     "type": "img",
     "src": "/img/kiji/0ef1ab.jpg",
     "og": "/img/kiji/0ef1ab-og.jpg",
+    "s": "/img/kiji/0ef1ab-s.jpg",
     "caption": "八丈島の風景",
-    "credit": ""
+    "credit": "",
+    "file": "ac/4084401.jpg"
    }
   }
  ],

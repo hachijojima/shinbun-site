@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T16:51:35+09:00",
+ "built": "2026-11-10T07:29:20+09:00",
  "prev": "/2026/11/01/",
  "next": "/2026/11/03/",
  "alerts": [
@@ -163,8 +163,10 @@
    "type": "img",
    "src": "/img/kiji/16ecab.jpg",
    "og": "/img/kiji/16ecab-og.jpg",
+   "s": "/img/kiji/16ecab-s.jpg",
    "caption": "東京都立八丈高等学校",
-   "credit": ""
+   "credit": "",
+   "file": "own/hachijo-koko-1.jpg"
   }
  },
  "side": [],
@@ -192,8 +194,10 @@
     "type": "img",
     "src": "/img/kiji/d0f060.jpg",
     "og": "/img/kiji/d0f060-og.jpg",
+    "s": "/img/kiji/d0f060-s.jpg",
     "caption": "夜景 東京 竹芝客船ターミナル",
-    "credit": ""
+    "credit": "",
+    "file": "ac/27624455.jpg"
    }
   },
   {
@@ -217,8 +221,10 @@
     "type": "img",
     "src": "/img/kiji/3e2e22.jpg",
     "og": "/img/kiji/3e2e22-og.jpg",
+    "s": "/img/kiji/3e2e22-s.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": ""
+    "credit": "",
+    "file": "own/yakuba-3.jpg"
    }
   },
   {
@@ -248,8 +254,10 @@
     "type": "img",
     "src": "/img/kiji/bcd4d1.jpg",
     "og": "/img/kiji/bcd4d1-og.jpg",
-    "caption": "八丈島観光協会",
-    "credit": ""
+    "s": "/img/kiji/bcd4d1-s.jpg",
+    "caption": "東京国際フォーラム",
+    "credit": "",
+    "file": "ac/22427308.jpg"
    }
   },
   {
@@ -278,8 +286,10 @@
     "type": "img",
     "src": "/img/kiji/16c349.jpg",
     "og": "/img/kiji/16c349-og.jpg",
+    "s": "/img/kiji/16c349-s.jpg",
     "caption": "八丈町立三根小学校",
-    "credit": ""
+    "credit": "",
+    "file": "own/mitsune-sho-2.jpg"
    }
   }
  ],

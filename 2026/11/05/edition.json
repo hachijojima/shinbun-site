@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-06T00:23:52+09:00",
+ "built": "2026-11-10T07:29:30+09:00",
  "prev": "/2026/11/04/",
  "next": "/2026/11/06/",
  "alerts": [
@@ -223,8 +223,10 @@
    "type": "img",
    "src": "/img/kiji/f84924.jpg",
    "og": "/img/kiji/f84924-og.jpg",
-   "caption": "八丈島三原山 絹織物「黄八丈」ゆめ工房",
-   "credit": ""
+   "s": "/img/kiji/f84924-s.jpg",
+   "caption": "新宿御苑とドコモタワー",
+   "credit": "",
+   "file": "ac/34719853.jpg"
   }
  },
  "side": [],
@@ -251,8 +253,10 @@
     "type": "img",
     "src": "/img/kiji/07bc1d.jpg",
     "og": "/img/kiji/07bc1d-og.jpg",
-    "caption": "八丈町役場の中",
-    "credit": ""
+    "s": "/img/kiji/07bc1d-s.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "",
+    "file": "own/yakuba-5.jpg"
    }
   },
   {
@@ -281,8 +285,10 @@
     "type": "img",
     "src": "/img/kiji/d4a817.jpg",
     "og": "/img/kiji/d4a817-og.jpg",
-    "caption": "八丈町役場の中",
-    "credit": ""
+    "s": "/img/kiji/d4a817-s.jpg",
+    "caption": "包丁研ぎ",
+    "credit": "",
+    "file": "ac/29784125.jpg"
    }
   },
   {
@@ -311,8 +317,10 @@
     "type": "img",
     "src": "/img/kiji/f82993.jpg",
     "og": "/img/kiji/f82993-og.jpg",
+    "s": "/img/kiji/f82993-s.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": ""
+    "credit": "",
+    "file": "own/yakuba-4.jpg"
    }
   },
   {
@@ -341,8 +349,10 @@
     "type": "img",
     "src": "/img/kiji/8e7c46.jpg",
     "og": "/img/kiji/8e7c46-og.jpg",
+    "s": "/img/kiji/8e7c46-s.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": ""
+    "credit": "",
+    "file": "own/yakuba-2.jpg"
    }
   }
  ],

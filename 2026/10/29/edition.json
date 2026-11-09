@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T16:51:34+09:00",
+ "built": "2026-11-10T07:29:07+09:00",
  "prev": "/2026/10/28/",
  "next": "/2026/10/30/",
  "alerts": [],
@@ -195,8 +195,10 @@
    "type": "img",
    "src": "/img/kiji/412980.jpg",
    "og": "/img/kiji/412980-og.jpg",
+   "s": "/img/kiji/412980-s.jpg",
    "caption": "八丈島のクジラ",
-   "credit": ""
+   "credit": "",
+   "file": "ac/28831032.jpg"
   }
  },
  "side": [],
@@ -227,8 +229,10 @@
     "type": "img",
     "src": "/img/kiji/8a39a5.jpg",
     "og": "/img/kiji/8a39a5-og.jpg",
+    "s": "/img/kiji/8a39a5-s.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": ""
+    "credit": "",
+    "file": "own/yakuba-6.jpg"
    }
   },
   {
@@ -252,8 +256,10 @@
     "type": "img",
     "src": "/img/kiji/d20c8f.jpg",
     "og": "/img/kiji/d20c8f-og.jpg",
-    "caption": "風景 東京 竹芝客船ターミナル 橘丸",
-    "credit": ""
+    "s": "/img/kiji/d20c8f-s.jpg",
+    "caption": "東海汽船の橘丸と築地大橋・勝どきの夜景2",
+    "credit": "",
+    "file": "ac/26160851.jpg"
    }
   },
   {
@@ -278,8 +284,10 @@
     "type": "img",
     "src": "/img/kiji/720007.jpg",
     "og": "/img/kiji/720007-og.jpg",
-    "caption": "パックでも美味しい八丈島の名物・島寿司",
-    "credit": ""
+    "s": "/img/kiji/720007-s.jpg",
+    "caption": "八丈島の郷土料理 島寿司",
+    "credit": "",
+    "file": "ac/28481632.jpg"
    }
   },
   {
@@ -304,8 +312,10 @@
     "type": "img",
     "src": "/img/kiji/33db1d.jpg",
     "og": "/img/kiji/33db1d-og.jpg",
+    "s": "/img/kiji/33db1d-s.jpg",
     "caption": "八丈島 八丈島空港",
-    "credit": ""
+    "credit": "",
+    "file": "ac/31961186.jpg"
    }
   }
  ],

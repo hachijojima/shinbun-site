@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T16:51:34+09:00",
+ "built": "2026-11-10T07:28:58+09:00",
  "prev": "/2026/10/25/",
  "next": "/2026/10/27/",
  "alerts": [
@@ -211,8 +211,10 @@
    "type": "img",
    "src": "/img/kiji/012175.jpg",
    "og": "/img/kiji/012175-og.jpg",
+   "s": "/img/kiji/012175-s.jpg",
    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-   "credit": ""
+   "credit": "",
+   "file": "own/yakuba-1.jpg"
   }
  },
  "side": [],
@@ -247,8 +249,10 @@
     "type": "img",
     "src": "/img/kiji/08c682.jpg",
     "og": "/img/kiji/08c682-og.jpg",
+    "s": "/img/kiji/08c682-s.jpg",
     "caption": "八丈島・優婆夷宝明神社の社殿",
-    "credit": ""
+    "credit": "",
+    "file": "ac/24824871.jpg"
    }
   },
   {
@@ -310,8 +314,10 @@
     "type": "img",
     "src": "/img/kiji/1b0739.jpg",
     "og": "/img/kiji/1b0739-og.jpg",
+    "s": "/img/kiji/1b0739-s.jpg",
     "caption": "八丈島「八丈植物公園」入口",
-    "credit": ""
+    "credit": "",
+    "file": "ac/5026926.jpg"
    }
   }
  ],
@@ -321,6 +327,12 @@
    "end": "2026-10-27",
    "text": "服部屋敷のショメ節と踊り",
    "url": "https://x.com/hattoriyashiki/status/2114643202837750241"
+  },
+  {
+   "date": "2026-10-29",
+   "end": null,
+   "text": "三根・大賀郷小学校の運動会練習",
+   "url": "https://mitsune-es.8jo.ed.jp/n/n2b5119280883"
   },
   {
    "date": "2026-10-31",
@@ -343,7 +355,7 @@
   {
    "date": "2026-11-01",
    "end": null,
-   "text": "三原大運動会(三原小学校)",
+   "text": "三原大運動会(三原小、10月31日から延期)",
    "url": "https://mihara-es.8jo.ed.jp/n/nab03fe05249e"
   },
   {
@@ -355,14 +367,8 @@
   {
    "date": "2026-11-01",
    "end": null,
-   "text": "発酵中フェス(役場)",
+   "text": "発酵中フェス2026",
    "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/"
-  },
-  {
-   "date": "2026-11-01",
-   "end": null,
-   "text": "くさや×島焼酎 FEST2026",
-   "url": "https://x.com/kikuchiyakuhin/status/2116126778058281179"
   }
  ],
  "letters": [],

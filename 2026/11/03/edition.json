@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T20:02:49+09:00",
+ "built": "2026-11-10T07:29:23+09:00",
  "prev": "/2026/11/02/",
  "next": "/2026/11/04/",
  "alerts": [],
@@ -201,8 +201,10 @@
    "type": "img",
    "src": "/img/kiji/e7b7e9.jpg",
    "og": "/img/kiji/e7b7e9-og.jpg",
+   "s": "/img/kiji/e7b7e9-s.jpg",
    "caption": "八丈町立大賀郷小学校",
-   "credit": ""
+   "credit": "",
+   "file": "own/okago-sho-1.jpg"
   }
  },
  "side": [],
@@ -230,8 +232,10 @@
     "type": "img",
     "src": "/img/kiji/90f1fd.jpg",
     "og": "/img/kiji/90f1fd-og.jpg",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": ""
+    "s": "/img/kiji/90f1fd-s.jpg",
+    "caption": "フェニックスロベレニー",
+    "credit": "",
+    "file": "ac/27447099.jpg"
    }
   },
   {
@@ -254,8 +258,10 @@
     "type": "img",
     "src": "/img/kiji/9092bc.jpg",
     "og": "/img/kiji/9092bc-og.jpg",
+    "s": "/img/kiji/9092bc-s.jpg",
     "caption": "八丈島藍ヶ江港付近からの海と島の一部",
-    "credit": ""
+    "credit": "",
+    "file": "ac/27267022.jpg"
    }
   },
   {
@@ -289,8 +295,10 @@
     "type": "img",
     "src": "/img/kiji/7ee3f6.jpg",
     "og": "/img/kiji/7ee3f6-og.jpg",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": ""
+    "s": "/img/kiji/7ee3f6-s.jpg",
+    "caption": "焼酎",
+    "credit": "",
+    "file": "ac/35127811.jpg"
    }
   },
   {
@@ -317,8 +325,10 @@
     "type": "img",
     "src": "/img/kiji/cd4291.jpg",
     "og": "/img/kiji/cd4291-og.jpg",
-    "caption": "八丈島空港展望デッキ(Hachijojima Airport Observation Deck, Tokyo)",
-    "credit": ""
+    "s": "/img/kiji/cd4291-s.jpg",
+    "caption": "八丈島空港ターミナル(Hachijojima Airport Terminal Building, Tokyo)",
+    "credit": "",
+    "file": "ac/4920724.jpg"
    }
   }
  ],
@@ -450,6 +460,19 @@
  },
  "giin": [
   {
+   "name": "伊藤しょう",
+   "slug": "ito-sho",
+   "at": "2026-11-02T23:55:07+09:00",
+   "url": "https://note.com/itosho_hachijo/n/n972e1afd6a58",
+   "what": "活動報告の開始",
+   "kind": "活動",
+   "duty": true,
+   "when": "きのう",
+   "day": "2026-11-02",
+   "pt": 2,
+   "medal": "🥇"
+  },
+  {
    "name": "佐々木丈",
    "slug": "sasaki-takeshi",
    "at": "2026-11-02T10:22:27+09:00",
@@ -460,7 +483,7 @@
    "when": "きのう",
    "day": "2026-11-02",
    "pt": 1,
-   "medal": "🥇"
+   "medal": "🥈"
   },
   {
    "name": "浅沼碧海",
@@ -473,7 +496,7 @@
    "when": "きのう",
    "day": "2026-11-02",
    "pt": 1,
-   "medal": "🥇"
+   "medal": "🥈"
   },
   {
    "name": "山下のりこ",
@@ -485,19 +508,6 @@
    "duty": true,
    "when": "2日前",
    "day": "2026-11-01",
-   "pt": 2,
-   "medal": "🥉"
-  },
-  {
-   "name": "伊藤しょう",
-   "slug": "ito-sho",
-   "at": "2026-10-29T12:38:14+09:00",
-   "url": "https://x.com/ito_man1223/status/2115649381399490921",
-   "what": "ホテル屋上デッキ移動",
-   "kind": "地域",
-   "duty": true,
-   "when": "5日前",
-   "day": "2026-10-29",
    "pt": 2,
    "medal": ""
   },

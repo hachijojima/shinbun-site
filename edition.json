@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T05:10:09+09:00",
+ "built": "2026-11-10T07:29:47+09:00",
  "prev": "/2026/11/09/",
  "next": null,
  "alerts": [
@@ -206,8 +206,10 @@
    "type": "img",
    "src": "/img/kiji/e538ec.jpg",
    "og": "/img/kiji/e538ec-og.jpg",
+   "s": "/img/kiji/e538ec-s.jpg",
    "caption": "スーパーあさぬま",
-   "credit": ""
+   "credit": "",
+   "file": "own/asanuma-1.jpg"
   }
  },
  "side": [],
@@ -245,8 +247,10 @@
     "type": "img",
     "src": "/img/kiji/ce88d1.jpg",
     "og": "/img/kiji/ce88d1-og.jpg",
+    "s": "/img/kiji/ce88d1-s.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": ""
+    "credit": "",
+    "file": "own/yakuba-1.jpg"
    }
   },
   {
@@ -270,8 +274,10 @@
     "type": "img",
     "src": "/img/kiji/3d88eb.jpg",
     "og": "/img/kiji/3d88eb-og.jpg",
+    "s": "/img/kiji/3d88eb-s.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": ""
+    "credit": "",
+    "file": "own/yakuba-2.jpg"
    }
   },
   {
@@ -295,8 +301,10 @@
     "type": "img",
     "src": "/img/kiji/32a52e.jpg",
     "og": "/img/kiji/32a52e-og.jpg",
-    "caption": "八丈島 藍ヶ江港",
-    "credit": ""
+    "s": "/img/kiji/32a52e-s.jpg",
+    "caption": "八丈島藍ヶ江港付近からの海と島の一部",
+    "credit": "",
+    "file": "ac/27267022.jpg"
    }
   },
   {
@@ -322,8 +330,10 @@
     "type": "img",
     "src": "/img/kiji/37a01f.jpg",
     "og": "/img/kiji/37a01f-og.jpg",
-    "caption": "八丈島の風景",
-    "credit": ""
+    "s": "/img/kiji/37a01f-s.jpg",
+    "caption": "NHK放送センター",
+    "credit": "",
+    "file": "ac/3699255.jpg"
    }
   }
  ],

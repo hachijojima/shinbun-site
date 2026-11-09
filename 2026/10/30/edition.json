@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T18:33:33+09:00",
+ "built": "2026-11-10T07:29:10+09:00",
  "prev": "/2026/10/29/",
  "next": "/2026/10/31/",
  "alerts": [
@@ -212,8 +212,10 @@
    "type": "img",
    "src": "/img/kiji/5b7d9f.jpg",
    "og": "/img/kiji/5b7d9f-og.jpg",
+   "s": "/img/kiji/5b7d9f-s.jpg",
    "caption": "焼酎",
-   "credit": ""
+   "credit": "",
+   "file": "ac/35127811.jpg"
   }
  },
  "side": [],
@@ -240,8 +242,10 @@
     "type": "img",
     "src": "/img/kiji/4ce2d9.jpg",
     "og": "/img/kiji/4ce2d9-og.jpg",
-    "caption": "橘丸 八丈島 八重根港",
-    "credit": ""
+    "s": "/img/kiji/4ce2d9-s.jpg",
+    "caption": "底土港に停泊中の橘丸",
+    "credit": "",
+    "file": "ac/34534821.jpg"
    }
   },
   {
@@ -274,8 +278,10 @@
     "type": "img",
     "src": "/img/kiji/37a716.jpg",
     "og": "/img/kiji/37a716-og.jpg",
+    "s": "/img/kiji/37a716-s.jpg",
     "caption": "八丈島・優婆夷宝明神社の社殿",
-    "credit": ""
+    "credit": "",
+    "file": "ac/24824871.jpg"
    }
   },
   {
@@ -305,8 +311,10 @@
     "type": "img",
     "src": "/img/kiji/b03b30.jpg",
     "og": "/img/kiji/b03b30-og.jpg",
+    "s": "/img/kiji/b03b30-s.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": ""
+    "credit": "",
+    "file": "own/yakuba-5.jpg"
    }
   },
   {
@@ -331,8 +339,10 @@
     "type": "img",
     "src": "/img/kiji/6fb8c2.jpg",
     "og": "/img/kiji/6fb8c2-og.jpg",
+    "s": "/img/kiji/6fb8c2-s.jpg",
     "caption": "八丈町商工会",
-    "credit": ""
+    "credit": "",
+    "file": "own/shokokai-1.jpg"
    }
   }
  ],

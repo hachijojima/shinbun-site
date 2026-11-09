@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T16:51:35+09:00",
+ "built": "2026-11-10T07:29:14+09:00",
  "prev": "/2026/10/30/",
  "next": "/2026/11/01/",
  "alerts": [
@@ -217,8 +217,10 @@
    "type": "img",
    "src": "/img/kiji/e7f9db.jpg",
    "og": "/img/kiji/e7f9db-og.jpg",
+   "s": "/img/kiji/e7f9db-s.jpg",
    "caption": "JA東京島しょ 八丈",
-   "credit": ""
+   "credit": "",
+   "file": "own/ja-1.jpg"
   }
  },
  "side": [],
@@ -248,8 +250,10 @@
     "type": "img",
     "src": "/img/kiji/1d87a4.jpg",
     "og": "/img/kiji/1d87a4-og.jpg",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": ""
+    "s": "/img/kiji/1d87a4-s.jpg",
+    "caption": "八丈島 八丈島空港",
+    "credit": "",
+    "file": "ac/27920122.jpg"
    }
   },
   {
@@ -285,8 +289,10 @@
     "type": "img",
     "src": "/img/kiji/bdd6fd.jpg",
     "og": "/img/kiji/bdd6fd-og.jpg",
+    "s": "/img/kiji/bdd6fd-s.jpg",
     "caption": "八丈町立大賀郷小学校",
-    "credit": ""
+    "credit": "",
+    "file": "own/okago-sho-3.jpg"
    }
   },
   {
@@ -310,8 +316,10 @@
     "type": "img",
     "src": "/img/kiji/151b52.jpg",
     "og": "/img/kiji/151b52-og.jpg",
+    "s": "/img/kiji/151b52-s.jpg",
     "caption": "東海汽船「橘丸」",
-    "credit": ""
+    "credit": "",
+    "file": "ac/4915538.jpg"
    }
   },
   {
@@ -337,8 +345,10 @@
     "type": "img",
     "src": "/img/kiji/533986.jpg",
     "og": "/img/kiji/533986-og.jpg",
+    "s": "/img/kiji/533986-s.jpg",
     "caption": "八丈町立大賀郷小学校",
-    "credit": ""
+    "credit": "",
+    "file": "own/okago-sho-2.jpg"
    }
   }
  ],

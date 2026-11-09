@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T18:34:59+09:00",
+ "built": "2026-11-10T07:29:17+09:00",
  "prev": "/2026/10/31/",
  "next": "/2026/11/02/",
  "alerts": [
@@ -211,8 +211,10 @@
    "type": "img",
    "src": "/img/kiji/64395a.jpg",
    "og": "/img/kiji/64395a-og.jpg",
+   "s": "/img/kiji/64395a-s.jpg",
    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-   "credit": ""
+   "credit": "",
+   "file": "own/yakuba-2.jpg"
   }
  },
  "side": [],
@@ -239,8 +241,10 @@
     "type": "img",
     "src": "/img/kiji/86c6d2.jpg",
     "og": "/img/kiji/86c6d2-og.jpg",
-    "caption": "八丈植物公園の森の中",
-    "credit": ""
+    "s": "/img/kiji/86c6d2-s.jpg",
+    "caption": "八丈島ビジターセンター入口",
+    "credit": "",
+    "file": "ac/5026921.jpg"
    }
   },
   {
@@ -265,8 +269,10 @@
     "type": "img",
     "src": "/img/kiji/06245d.jpg",
     "og": "/img/kiji/06245d-og.jpg",
+    "s": "/img/kiji/06245d-s.jpg",
     "caption": "町立八丈病院",
-    "credit": ""
+    "credit": "",
+    "file": "own/byoin-1.jpg"
    }
   },
   {
@@ -295,8 +301,10 @@
     "type": "img",
     "src": "/img/kiji/d93b3f.jpg",
     "og": "/img/kiji/d93b3f-og.jpg",
-    "caption": "東海汽船「橘丸」三宅島入港",
-    "credit": ""
+    "s": "/img/kiji/d93b3f-s.jpg",
+    "caption": "八重根港 橘丸と八丈富士",
+    "credit": "",
+    "file": "ac/34194383.jpg"
    }
   },
   {
@@ -321,8 +329,10 @@
     "type": "img",
     "src": "/img/kiji/543a97.jpg",
     "og": "/img/kiji/543a97-og.jpg",
+    "s": "/img/kiji/543a97-s.jpg",
     "caption": "八丈町立三根小学校",
-    "credit": ""
+    "credit": "",
+    "file": "own/mitsune-sho-1.jpg"
    }
   }
  ],

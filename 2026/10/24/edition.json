@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-03T16:51:33+09:00",
+ "built": "2026-11-10T07:28:54+09:00",
  "prev": null,
  "next": "/2026/10/25/",
  "alerts": [
@@ -182,8 +182,10 @@
    "type": "img",
    "src": "/img/kiji/024e63.jpg",
    "og": "/img/kiji/024e63-og.jpg",
+   "s": "/img/kiji/024e63-s.jpg",
    "caption": "八丈島歴史民俗資料館",
-   "credit": ""
+   "credit": "",
+   "file": "own/rekimin-1.jpg"
   }
  },
  "side": [],
