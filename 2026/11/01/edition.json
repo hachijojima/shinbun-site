@@ -212,7 +212,7 @@
    "src": "/img/kiji/64395a.jpg",
    "og": "/img/kiji/64395a-og.jpg",
    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-   "credit": "本紙撮影"
+   "credit": ""
   }
  },
  "side": [],
@@ -239,8 +239,8 @@
     "type": "img",
     "src": "/img/kiji/86c6d2.jpg",
     "og": "/img/kiji/86c6d2-og.jpg",
-    "caption": "八丈島ビジターセンター入口",
-    "credit": "写真AC"
+    "caption": "八丈植物公園の森の中",
+    "credit": ""
    }
   },
   {
@@ -266,7 +266,7 @@
     "src": "/img/kiji/06245d.jpg",
     "og": "/img/kiji/06245d-og.jpg",
     "caption": "町立八丈病院",
-    "credit": "本紙撮影"
+    "credit": ""
    }
   },
   {
@@ -295,8 +295,8 @@
     "type": "img",
     "src": "/img/kiji/d93b3f.jpg",
     "og": "/img/kiji/d93b3f-og.jpg",
-    "caption": "竹芝埠頭に浮かぶ東海汽船の橘丸1",
-    "credit": "写真AC"
+    "caption": "東海汽船「橘丸」三宅島入港",
+    "credit": ""
    }
   },
   {
@@ -322,7 +322,7 @@
     "src": "/img/kiji/543a97.jpg",
     "og": "/img/kiji/543a97-og.jpg",
     "caption": "八丈町立三根小学校",
-    "credit": "本紙撮影"
+    "credit": ""
    }
   }
  ],
@@ -563,7 +563,7 @@
    "medal": ""
   }
  ],
- "chrome": "eac8b70d7e5a",
+ "chrome": "8c161c66ae7b",
  "hyakunen": {
   "then": {
    "ago": "100年前",

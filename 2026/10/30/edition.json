@@ -212,8 +212,8 @@
    "type": "img",
    "src": "/img/kiji/5b7d9f.jpg",
    "og": "/img/kiji/5b7d9f-og.jpg",
-   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-   "credit": "本紙撮影"
+   "caption": "焼酎",
+   "credit": ""
   }
  },
  "side": [],
@@ -240,8 +240,8 @@
     "type": "img",
     "src": "/img/kiji/4ce2d9.jpg",
     "og": "/img/kiji/4ce2d9-og.jpg",
-    "caption": "東海汽船「橘丸」回頭",
-    "credit": "写真AC"
+    "caption": "橘丸 八丈島 八重根港",
+    "credit": ""
    }
   },
   {
@@ -274,8 +274,8 @@
     "type": "img",
     "src": "/img/kiji/37a716.jpg",
     "og": "/img/kiji/37a716-og.jpg",
-    "caption": "八丈島「優婆夷宝明神社」本殿",
-    "credit": "写真AC"
+    "caption": "八丈島・優婆夷宝明神社の社殿",
+    "credit": ""
    }
   },
   {
@@ -300,7 +300,14 @@
    "label": "町政",
    "audience": "島民",
    "thread_id": "t20261030-16",
-   "id": "b03b30"
+   "id": "b03b30",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/b03b30.jpg",
+    "og": "/img/kiji/b03b30-og.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": ""
+   }
   },
   {
    "headline": "台風支援制度の個別相談会へ",
@@ -324,8 +331,8 @@
     "type": "img",
     "src": "/img/kiji/6fb8c2.jpg",
     "og": "/img/kiji/6fb8c2-og.jpg",
-    "caption": "八丈町役場",
-    "credit": "写真AC"
+    "caption": "八丈町商工会",
+    "credit": ""
    }
   }
  ],
@@ -522,7 +529,7 @@
    "medal": ""
   }
  ],
- "chrome": "eac8b70d7e5a",
+ "chrome": "8c161c66ae7b",
  "hyakunen": {
   "then": {
    "ago": "100年前",

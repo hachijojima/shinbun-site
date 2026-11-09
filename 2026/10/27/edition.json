@@ -208,7 +208,7 @@
    "src": "/img/kiji/2b621d.jpg",
    "og": "/img/kiji/2b621d-og.jpg",
    "caption": "東海汽船「橘丸」",
-   "credit": "写真AC"
+   "credit": ""
   }
  },
  "side": [],
@@ -228,7 +228,14 @@
    "label": "町政",
    "audience": "島民",
    "thread_id": "t20261027-9",
-   "id": "387edd"
+   "id": "387edd",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/387edd.jpg",
+    "og": "/img/kiji/387edd-og.jpg",
+    "caption": "八丈島・底土港客船待合所",
+    "credit": ""
+   }
   },
   {
    "headline": "町のデジタル教室 31日締切",
@@ -252,7 +259,7 @@
     "src": "/img/kiji/f76b85.jpg",
     "og": "/img/kiji/f76b85-og.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": "本紙撮影"
+    "credit": ""
    }
   },
   {
@@ -272,7 +279,14 @@
    "audience": "島民",
    "thread_id": "t20261027-5",
    "label": "くらし",
-   "id": "ed6991"
+   "id": "ed6991",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/ed6991.jpg",
+    "og": "/img/kiji/ed6991-og.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": ""
+   }
   },
   {
    "headline": "玉置周啓さんの八丈島への思い",
@@ -289,7 +303,14 @@
    "label": "教育・文化",
    "audience": "両方",
    "thread_id": "t20261027-7",
-   "id": "3d2fc7"
+   "id": "3d2fc7",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/3d2fc7.jpg",
+    "og": "/img/kiji/3d2fc7-og.jpg",
+    "caption": "八丈島の風景",
+    "credit": ""
+   }
   }
  ],
  "agenda": {
@@ -470,7 +491,7 @@
    "medal": ""
   }
  ],
- "chrome": "eac8b70d7e5a",
+ "chrome": "8c161c66ae7b",
  "hyakunen": {
   "then": {
    "ago": "100年前",

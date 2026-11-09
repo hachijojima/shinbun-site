@@ -210,7 +210,7 @@
    "src": "/img/kiji/9d59cc.jpg",
    "og": "/img/kiji/9d59cc-og.jpg",
    "caption": "東京都八丈支庁",
-   "credit": "本紙撮影"
+   "credit": ""
   }
  },
  "side": [],
@@ -242,8 +242,8 @@
     "type": "img",
     "src": "/img/kiji/bfb2ca.jpg",
     "og": "/img/kiji/bfb2ca-og.jpg",
-    "caption": "八丈島空港",
-    "credit": "写真AC"
+    "caption": "八丈島空港ターミナル(Hachijojima Airport Terminal Building, Tokyo)",
+    "credit": ""
    }
   },
   {
@@ -261,7 +261,14 @@
    "label": "教育・文化",
    "audience": "両方",
    "thread_id": "t20261107-46",
-   "id": "ef2568"
+   "id": "ef2568",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/ef2568.jpg",
+    "og": "/img/kiji/ef2568-og.jpg",
+    "caption": "八丈島ビジターセンター入口",
+    "credit": ""
+   }
   },
   {
    "headline": "三根会が8日、島でよさろー",
@@ -285,7 +292,7 @@
     "src": "/img/kiji/e490ca.jpg",
     "og": "/img/kiji/e490ca-og.jpg",
     "caption": "八丈町立三根小学校",
-    "credit": "本紙撮影"
+    "credit": ""
    }
   },
   {
@@ -315,7 +322,7 @@
     "src": "/img/kiji/89f1ed.jpg",
     "og": "/img/kiji/89f1ed-og.jpg",
     "caption": "東京都立八丈高等学校",
-    "credit": "本紙撮影"
+    "credit": ""
    }
   }
  ],
@@ -520,5 +527,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "eac8b70d7e5a"
+ "chrome": "8c161c66ae7b"
 }

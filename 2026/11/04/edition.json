@@ -199,7 +199,14 @@
   "audience": "両方",
   "thread_id": "t20261104-36",
   "id": "85fbd0",
-  "edited": "2026-11-04T07:11:00+09:00"
+  "edited": "2026-11-04T07:11:00+09:00",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/85fbd0.jpg",
+   "og": "/img/kiji/85fbd0-og.jpg",
+   "caption": "八丈町三根出張所・三根公民館",
+   "credit": ""
+  }
  },
  "side": [],
  "shorts": [
@@ -225,7 +232,14 @@
    "audience": "両方",
    "thread_id": "t20261029-12",
    "followup": true,
-   "id": "b9fdef"
+   "id": "b9fdef",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/b9fdef.jpg",
+    "og": "/img/kiji/b9fdef-og.jpg",
+    "caption": "東海汽船「橘丸」",
+    "credit": ""
+   }
   },
   {
    "headline": "八丈高野球部映画、新宿で上映へ",
@@ -248,7 +262,14 @@
    "label": "教育・文化",
    "audience": "両方",
    "thread_id": "t20261104-37",
-   "id": "455826"
+   "id": "455826",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/455826.jpg",
+    "og": "/img/kiji/455826-og.jpg",
+    "caption": "東京都立八丈高等学校",
+    "credit": ""
+   }
   },
   {
    "headline": "雇用機会拡充 事業終期を2月末に",
@@ -267,7 +288,14 @@
    "audience": "島民",
    "thread_id": "t20261104-35",
    "id": "c5a034",
-   "edited": "2026-11-04T07:13:10+09:00"
+   "edited": "2026-11-04T07:13:10+09:00",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/c5a034.jpg",
+    "og": "/img/kiji/c5a034-og.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": ""
+   }
   },
   {
    "headline": "東海汽船、台風で取消手数料免除",
@@ -290,7 +318,14 @@
    "audience": "両方",
    "thread_id": "t20261104-34",
    "id": "abb6c8",
-   "edited": "2026-11-04T07:14:20+09:00"
+   "edited": "2026-11-04T07:14:20+09:00",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/abb6c8.jpg",
+    "og": "/img/kiji/abb6c8-og.jpg",
+    "caption": "崖崩れを起こした八丈島垂戸湾の岩場",
+    "credit": ""
+   }
   }
  ],
  "agenda": [
@@ -490,5 +525,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "eac8b70d7e5a"
+ "chrome": "8c161c66ae7b"
 }

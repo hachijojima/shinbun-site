@@ -207,8 +207,8 @@
    "type": "img",
    "src": "/img/kiji/2e37ea.jpg",
    "og": "/img/kiji/2e37ea-og.jpg",
-   "caption": "八丈町役場",
-   "credit": "写真AC"
+   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+   "credit": ""
   }
  },
  "side": [],
@@ -235,7 +235,14 @@
    "audience": "両方",
    "thread_id": "t20261026-3",
    "followup": true,
-   "id": "4aec5d"
+   "id": "4aec5d",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/4aec5d.jpg",
+    "og": "/img/kiji/4aec5d-og.jpg",
+    "caption": "八丈島 優婆夷宝明神社",
+    "credit": ""
+   }
   },
   {
    "headline": "三根小、方言のゲスト授業",
@@ -258,7 +265,14 @@
    "audience": "島民",
    "thread_id": "t20261028-10",
    "followup": true,
-   "id": "80a061"
+   "id": "80a061",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/80a061.jpg",
+    "og": "/img/kiji/80a061-og.jpg",
+    "caption": "八丈町立三根小学校",
+    "credit": ""
+   }
   },
   {
    "headline": "中井貴恵さんの読みきかせ29日",
@@ -286,7 +300,7 @@
     "src": "/img/kiji/065618.jpg",
     "og": "/img/kiji/065618-og.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": "本紙撮影"
+    "credit": ""
    }
   },
   {
@@ -304,7 +318,14 @@
    "label": "産業",
    "audience": "両方",
    "thread_id": "t20261108-52",
-   "id": "be51b1"
+   "id": "be51b1",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/be51b1.jpg",
+    "og": "/img/kiji/be51b1-og.jpg",
+    "caption": "八丈島ふれあい牧場の牛",
+    "credit": ""
+   }
   }
  ],
  "agenda": [
@@ -546,5 +567,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "eac8b70d7e5a"
+ "chrome": "8c161c66ae7b"
 }

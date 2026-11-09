@@ -164,7 +164,7 @@
    "src": "/img/kiji/16ecab.jpg",
    "og": "/img/kiji/16ecab-og.jpg",
    "caption": "東京都立八丈高等学校",
-   "credit": "本紙撮影"
+   "credit": ""
   }
  },
  "side": [],
@@ -187,7 +187,14 @@
    "audience": "両方",
    "thread_id": "t20261102-25",
    "id": "d0f060",
-   "edited": "2026-11-03T16:47:39+09:00"
+   "edited": "2026-11-03T16:47:39+09:00",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/d0f060.jpg",
+    "og": "/img/kiji/d0f060-og.jpg",
+    "caption": "夜景 東京 竹芝客船ターミナル",
+    "credit": ""
+   }
   },
   {
    "headline": "地域振興補助、第3回の申請期間",
@@ -205,7 +212,14 @@
    "label": "町政",
    "audience": "島民",
    "thread_id": "t20261102-26",
-   "id": "3e2e22"
+   "id": "3e2e22",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/3e2e22.jpg",
+    "og": "/img/kiji/3e2e22-og.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": ""
+   }
   },
   {
    "headline": "周穫祭に八丈島が出展",
@@ -229,7 +243,14 @@
    "label": "産業",
    "audience": "両方",
    "thread_id": "t20261102-27",
-   "id": "bcd4d1"
+   "id": "bcd4d1",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/bcd4d1.jpg",
+    "og": "/img/kiji/bcd4d1-og.jpg",
+    "caption": "八丈島観光協会",
+    "credit": ""
+   }
   },
   {
    "headline": "三原小、延期の運動会を開催",
@@ -252,7 +273,14 @@
    "audience": "島民",
    "thread_id": "t20261031-21",
    "followup": true,
-   "id": "16c349"
+   "id": "16c349",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/16c349.jpg",
+    "og": "/img/kiji/16c349-og.jpg",
+    "caption": "八丈町立三根小学校",
+    "credit": ""
+   }
   }
  ],
  "agenda": [
@@ -443,7 +471,7 @@
    "medal": ""
   }
  ],
- "chrome": "eac8b70d7e5a",
+ "chrome": "8c161c66ae7b",
  "hyakunen": {
   "then": {
    "ago": "100年前",

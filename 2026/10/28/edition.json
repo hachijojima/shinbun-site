@@ -203,7 +203,14 @@
   "label": "町政",
   "audience": "島民",
   "thread_id": "t20261028-9",
-  "id": "9014bf"
+  "id": "9014bf",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/9014bf.jpg",
+   "og": "/img/kiji/9014bf-og.jpg",
+   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+   "credit": ""
+  }
  },
  "side": [],
  "shorts": [
@@ -228,8 +235,8 @@
     "type": "img",
     "src": "/img/kiji/1881b6.jpg",
     "og": "/img/kiji/1881b6-og.jpg",
-    "caption": "八丈島・底土港客船待合所",
-    "credit": "写真AC"
+    "caption": "東海汽船「橘丸」回頭",
+    "credit": ""
    }
   },
   {
@@ -258,7 +265,7 @@
     "src": "/img/kiji/2184e7.jpg",
     "og": "/img/kiji/2184e7-og.jpg",
     "caption": "八丈町立三根小学校",
-    "credit": "本紙撮影"
+    "credit": ""
    }
   },
   {
@@ -276,7 +283,14 @@
    "label": "町政",
    "audience": "島民",
    "thread_id": "t20261028-11",
-   "id": "071215"
+   "id": "071215",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/071215.jpg",
+    "og": "/img/kiji/071215-og.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": ""
+   }
   },
   {
    "headline": "大賀郷小、150周年の授業へ",
@@ -300,7 +314,7 @@
     "src": "/img/kiji/5620a7.jpg",
     "og": "/img/kiji/5620a7-og.jpg",
     "caption": "八丈町立大賀郷小学校",
-    "credit": "本紙撮影"
+    "credit": ""
    }
   }
  ],
@@ -507,7 +521,7 @@
    "medal": "🥉"
   }
  ],
- "chrome": "eac8b70d7e5a",
+ "chrome": "8c161c66ae7b",
  "hyakunen": {
   "then": {
    "ago": "100年前",

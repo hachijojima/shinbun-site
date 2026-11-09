@@ -190,7 +190,14 @@
   "label": "産業",
   "audience": "両方",
   "thread_id": "t20261029-10",
-  "id": "412980"
+  "id": "412980",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/412980.jpg",
+   "og": "/img/kiji/412980-og.jpg",
+   "caption": "八丈島のクジラ",
+   "credit": ""
+  }
  },
  "side": [],
  "shorts": [
@@ -220,8 +227,8 @@
     "type": "img",
     "src": "/img/kiji/8a39a5.jpg",
     "og": "/img/kiji/8a39a5-og.jpg",
-    "caption": "八丈町コミュニティセンター",
-    "credit": "本紙撮影"
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": ""
    }
   },
   {
@@ -240,7 +247,14 @@
    "label": "交通・防災",
    "audience": "両方",
    "thread_id": "t20261029-12",
-   "id": "d20c8f"
+   "id": "d20c8f",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/d20c8f.jpg",
+    "og": "/img/kiji/d20c8f-og.jpg",
+    "caption": "風景 東京 竹芝客船ターミナル 橘丸",
+    "credit": ""
+   }
   },
   {
    "headline": "八丈島定食、11月9日まで",
@@ -259,7 +273,14 @@
    "label": "産業",
    "audience": "両方",
    "thread_id": "t20261029-13",
-   "id": "720007"
+   "id": "720007",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/720007.jpg",
+    "og": "/img/kiji/720007-og.jpg",
+    "caption": "パックでも美味しい八丈島の名物・島寿司",
+    "credit": ""
+   }
   },
   {
    "headline": "ヘリ路線の乗務員、NHK番組に",
@@ -278,7 +299,14 @@
    "label": "交通・防災",
    "audience": "両方",
    "thread_id": "t20261029-33",
-   "id": "33db1d"
+   "id": "33db1d",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/33db1d.jpg",
+    "og": "/img/kiji/33db1d-og.jpg",
+    "caption": "八丈島 八丈島空港",
+    "credit": ""
+   }
   }
  ],
  "agenda": [
@@ -456,7 +484,7 @@
    "medal": ""
   }
  ],
- "chrome": "eac8b70d7e5a",
+ "chrome": "8c161c66ae7b",
  "hyakunen": {
   "then": {
    "ago": "100年前",

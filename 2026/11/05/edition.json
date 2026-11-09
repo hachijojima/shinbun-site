@@ -218,7 +218,14 @@
   "audience": "両方",
   "thread_id": "t20261105-42",
   "edited": "2026-11-05T06:17:03+09:00",
-  "id": "f84924"
+  "id": "f84924",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/f84924.jpg",
+   "og": "/img/kiji/f84924-og.jpg",
+   "caption": "八丈島三原山 絹織物「黄八丈」ゆめ工房",
+   "credit": ""
+  }
  },
  "side": [],
  "shorts": [
@@ -239,7 +246,14 @@
    "label": "町政",
    "audience": "島民",
    "thread_id": "t20261105-38",
-   "id": "07bc1d"
+   "id": "07bc1d",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/07bc1d.jpg",
+    "og": "/img/kiji/07bc1d-og.jpg",
+    "caption": "八丈町役場の中",
+    "credit": ""
+   }
   },
   {
    "headline": "包丁研ぎ学ぶ食育セミナー",
@@ -262,7 +276,14 @@
    "audience": "両方",
    "thread_id": "t20261105-41",
    "id": "d4a817",
-   "edited": "2026-11-05T06:22:01+09:00"
+   "edited": "2026-11-05T06:22:01+09:00",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/d4a817.jpg",
+    "og": "/img/kiji/d4a817-og.jpg",
+    "caption": "八丈町役場の中",
+    "credit": ""
+   }
   },
   {
    "headline": "島嶼会館語る詐欺メールに注意",
@@ -285,7 +306,14 @@
    "label": "くらし",
    "audience": "島民",
    "thread_id": "t20261105-40",
-   "id": "f82993"
+   "id": "f82993",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/f82993.jpg",
+    "og": "/img/kiji/f82993-og.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": ""
+   }
   },
   {
    "headline": "台風基礎支援金の申請期限を延長",
@@ -308,7 +336,14 @@
    "audience": "島民",
    "thread_id": "t20261105-39",
    "edited": "2026-11-05T06:24:29+09:00",
-   "id": "8e7c46"
+   "id": "8e7c46",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/8e7c46.jpg",
+    "og": "/img/kiji/8e7c46-og.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": ""
+   }
   }
  ],
  "agenda": [
@@ -518,5 +553,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "eac8b70d7e5a"
+ "chrome": "8c161c66ae7b"
 }

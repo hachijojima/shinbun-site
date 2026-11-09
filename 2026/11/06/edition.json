@@ -232,8 +232,8 @@
    "type": "img",
    "src": "/img/kiji/44d450.jpg",
    "og": "/img/kiji/44d450-og.jpg",
-   "caption": "八丈島 優婆夷宝明神社",
-   "credit": "写真AC"
+   "caption": "八丈島・優婆夷宝明神社の社殿",
+   "credit": ""
   }
  },
  "side": [],
@@ -254,7 +254,14 @@
    "label": "交通・防災",
    "audience": "島民",
    "thread_id": "t20261106-42",
-   "id": "ad8076"
+   "id": "ad8076",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/ad8076.jpg",
+    "og": "/img/kiji/ad8076-og.jpg",
+    "caption": "橘丸 八丈島 八重根港",
+    "credit": ""
+   }
   },
   {
    "headline": "生徒がショメ節を創作、大賀郷中",
@@ -283,7 +290,7 @@
     "src": "/img/kiji/24e58e.jpg",
     "og": "/img/kiji/24e58e-og.jpg",
     "caption": "八丈町立大賀郷中学校",
-    "credit": "本紙撮影"
+    "credit": ""
    }
   },
   {
@@ -302,7 +309,14 @@
    "label": "産業",
    "audience": "両方",
    "thread_id": "t20261106-43",
-   "id": "f83412"
+   "id": "f83412",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/f83412.jpg",
+    "og": "/img/kiji/f83412-og.jpg",
+    "caption": "八丈島の明日葉",
+    "credit": ""
+   }
   },
   {
    "headline": "いまみれん 新曲11日に配信",
@@ -321,7 +335,14 @@
    "audience": "両方",
    "thread_id": "t20261106-44",
    "id": "0ef1ab",
-   "edited": "2026-11-06T08:47:38+09:00"
+   "edited": "2026-11-06T08:47:38+09:00",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/0ef1ab.jpg",
+    "og": "/img/kiji/0ef1ab-og.jpg",
+    "caption": "八丈島の風景",
+    "credit": ""
+   }
   }
  ],
  "agenda": [
@@ -525,5 +546,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "eac8b70d7e5a"
+ "chrome": "8c161c66ae7b"
 }

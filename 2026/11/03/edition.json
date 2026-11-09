@@ -202,7 +202,7 @@
    "src": "/img/kiji/e7b7e9.jpg",
    "og": "/img/kiji/e7b7e9-og.jpg",
    "caption": "八丈町立大賀郷小学校",
-   "credit": "本紙撮影"
+   "credit": ""
   }
  },
  "side": [],
@@ -225,7 +225,14 @@
    "audience": "島民",
    "thread_id": "t20261103-34",
    "edited": "2026-11-03T17:03:34+09:00",
-   "id": "90f1fd"
+   "id": "90f1fd",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/90f1fd.jpg",
+    "og": "/img/kiji/90f1fd-og.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": ""
+   }
   },
   {
    "headline": "藍ヶ江漁港が車両通行止め",
@@ -247,8 +254,8 @@
     "type": "img",
     "src": "/img/kiji/9092bc.jpg",
     "og": "/img/kiji/9092bc-og.jpg",
-    "caption": "八丈島 藍ヶ江港 全体",
-    "credit": "写真AC"
+    "caption": "八丈島藍ヶ江港付近からの海と島の一部",
+    "credit": ""
    }
   },
   {
@@ -283,7 +290,7 @@
     "src": "/img/kiji/7ee3f6.jpg",
     "og": "/img/kiji/7ee3f6-og.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": "本紙撮影"
+    "credit": ""
    }
   },
   {
@@ -310,8 +317,8 @@
     "type": "img",
     "src": "/img/kiji/cd4291.jpg",
     "og": "/img/kiji/cd4291-og.jpg",
-    "caption": "八丈島空港ターミナル(Hachijojima Airport Terminal Building, Tokyo)",
-    "credit": "写真AC"
+    "caption": "八丈島空港展望デッキ(Hachijojima Airport Observation Deck, Tokyo)",
+    "credit": ""
    }
   }
  ],
@@ -508,7 +515,7 @@
    "medal": ""
   }
  ],
- "chrome": "eac8b70d7e5a",
+ "chrome": "8c161c66ae7b",
  "hyakunen": {
   "then": {
    "ago": "100年前",
