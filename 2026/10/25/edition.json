@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:28:56+09:00",
+ "built": "2026-11-10T07:34:18+09:00",
  "prev": "/2026/10/24/",
  "next": "/2026/10/26/",
  "alerts": [
@@ -227,7 +227,16 @@
    ],
    "label": "交通・防災",
    "audience": "両方",
-   "id": "b10bca"
+   "id": "b10bca",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/b10bca.jpg",
+    "og": "/img/kiji/b10bca-og.jpg",
+    "s": "/img/kiji/b10bca-s.jpg",
+    "caption": "八丈島 八丈島空港",
+    "credit": "",
+    "file": "ac/27920122.jpg"
+   }
   },
   {
    "headline": "町HPなど4サイト対策済み",
@@ -245,7 +254,16 @@
    ],
    "label": "町政",
    "audience": "両方",
-   "id": "f39860"
+   "id": "f39860",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/f39860.jpg",
+    "og": "/img/kiji/f39860-og.jpg",
+    "s": "/img/kiji/f39860-s.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "",
+    "file": "own/yakuba-6.jpg"
+   }
   },
   {
    "headline": "ダイバー8人救助の映像公開",
@@ -262,7 +280,16 @@
    ],
    "label": "交通・防災",
    "audience": "両方",
-   "id": "143aff"
+   "id": "143aff",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/143aff.jpg",
+    "og": "/img/kiji/143aff-og.jpg",
+    "s": "/img/kiji/143aff-s.jpg",
+    "caption": "東京都・八丈島の海",
+    "credit": "",
+    "file": "ac/2478741.jpg"
+   }
   },
   {
    "headline": "ミス八丈島の新名称決定",
@@ -280,7 +307,16 @@
    ],
    "label": "教育・文化",
    "audience": "両方",
-   "id": "d6b658"
+   "id": "d6b658",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/d6b658.jpg",
+    "og": "/img/kiji/d6b658-og.jpg",
+    "s": "/img/kiji/d6b658-s.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "",
+    "file": "own/yakuba-5.jpg"
+   }
   }
  ],
  "agenda": {

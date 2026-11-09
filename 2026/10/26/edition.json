@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:28:58+09:00",
+ "built": "2026-11-10T07:34:21+09:00",
  "prev": "/2026/10/25/",
  "next": "/2026/10/27/",
  "alerts": [
@@ -212,9 +212,9 @@
    "src": "/img/kiji/012175.jpg",
    "og": "/img/kiji/012175-og.jpg",
    "s": "/img/kiji/012175-s.jpg",
-   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+   "caption": "八丈島ビジターセンター入口",
    "credit": "",
-   "file": "own/yakuba-1.jpg"
+   "file": "ac/5026921.jpg"
   }
  },
  "side": [],
@@ -270,7 +270,16 @@
    ],
    "label": "交通・防災",
    "audience": "両方",
-   "id": "4a9b3b"
+   "id": "4a9b3b",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/4a9b3b.jpg",
+    "og": "/img/kiji/4a9b3b-og.jpg",
+    "s": "/img/kiji/4a9b3b-s.jpg",
+    "caption": "八丈町三根出張所・三根公民館",
+    "credit": "",
+    "file": "own/mitsune-shucchojo-1.jpg"
+   }
   },
   {
    "headline": "ふらっと、3日間休止",
@@ -293,7 +302,16 @@
    ],
    "label": "くらし",
    "audience": "両方",
-   "id": "0c8a57"
+   "id": "0c8a57",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/0c8a57.jpg",
+    "og": "/img/kiji/0c8a57-og.jpg",
+    "s": "/img/kiji/0c8a57-s.jpg",
+    "caption": "東京都八丈支庁",
+    "credit": "",
+    "file": "own/shicho-2.jpg"
+   }
   },
   {
    "headline": "八丈植物公園、臨時職員を募集",
@@ -315,9 +333,9 @@
     "src": "/img/kiji/1b0739.jpg",
     "og": "/img/kiji/1b0739-og.jpg",
     "s": "/img/kiji/1b0739-s.jpg",
-    "caption": "八丈島「八丈植物公園」入口",
+    "caption": "八丈植物公園メインエントランス",
     "credit": "",
-    "file": "ac/5026926.jpg"
+    "file": "ac/27266206.jpg"
    }
   }
  ],
