@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:29:17+09:00",
+ "built": "2026-11-10T12:02:30+09:00",
  "prev": "/2026/10/31/",
  "next": "/2026/11/02/",
  "alerts": [
@@ -212,9 +212,10 @@
    "src": "/img/kiji/64395a.jpg",
    "og": "/img/kiji/64395a-og.jpg",
    "s": "/img/kiji/64395a-s.jpg",
-   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+   "m": "/img/kiji/64395a-m.jpg",
+   "caption": "八丈町役場の中",
    "credit": "",
-   "file": "own/yakuba-2.jpg"
+   "file": "own/yakuba-naka-2.jpg"
   }
  },
  "side": [],
@@ -242,9 +243,10 @@
     "src": "/img/kiji/86c6d2.jpg",
     "og": "/img/kiji/86c6d2-og.jpg",
     "s": "/img/kiji/86c6d2-s.jpg",
-    "caption": "八丈島ビジターセンター入口",
+    "m": "/img/kiji/86c6d2-m.jpg",
+    "caption": "八丈植物公園",
     "credit": "",
-    "file": "ac/5026921.jpg"
+    "file": "ac/25661552.jpg"
    }
   },
   {
@@ -270,6 +272,7 @@
     "src": "/img/kiji/06245d.jpg",
     "og": "/img/kiji/06245d-og.jpg",
     "s": "/img/kiji/06245d-s.jpg",
+    "m": "/img/kiji/06245d-m.jpg",
     "caption": "町立八丈病院",
     "credit": "",
     "file": "own/byoin-1.jpg"
@@ -302,6 +305,7 @@
     "src": "/img/kiji/d93b3f.jpg",
     "og": "/img/kiji/d93b3f-og.jpg",
     "s": "/img/kiji/d93b3f-s.jpg",
+    "m": "/img/kiji/d93b3f-m.jpg",
     "caption": "八重根港 橘丸と八丈富士",
     "credit": "",
     "file": "ac/34194383.jpg"
@@ -330,9 +334,10 @@
     "src": "/img/kiji/543a97.jpg",
     "og": "/img/kiji/543a97-og.jpg",
     "s": "/img/kiji/543a97-s.jpg",
+    "m": "/img/kiji/543a97-m.jpg",
     "caption": "八丈町立三根小学校",
     "credit": "",
-    "file": "own/mitsune-sho-1.jpg"
+    "file": "own/mitsune-sho-3.jpg"
    }
   }
  ],
@@ -573,7 +578,7 @@
    "medal": ""
   }
  ],
- "chrome": "8c161c66ae7b",
+ "chrome": "7f88c8d4e5aa",
  "hyakunen": {
   "then": {
    "ago": "100年前",

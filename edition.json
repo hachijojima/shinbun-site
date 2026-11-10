@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:34:25+09:00",
+ "built": "2026-11-10T12:03:01+09:00",
  "prev": "/2026/11/09/",
  "next": null,
  "alerts": [
@@ -185,10 +185,12 @@
  },
  "number": null,
  "top": {
-  "headline": "スーパーあさぬま 日曜定休へ",
+  "headline": "スーパーあさぬま 毎週日曜定休",
   "body": [
-   "スーパーあさぬまは2027年1月から、毎週日曜日を定休日にする。同店が9日に知らせた。",
-   "12月は6日だけ休む。定休日の最初の日曜日は1月3日になる。",
+   "大賀郷のスーパーあさぬまは2027年1月から、毎週日曜日を定休日にする。同店が9日に知らせた。12月は6日だけ休み、定休日の最初の日曜日は1月3日になる。",
+   "同店は2024年9月から、従業員の休みを確保するため、月に1回、日曜日に店を休んできた。始めた当初は8月と12月を除くとしていたが、12月は2024年から毎年休んでいる。ことしは8月23日にも休み、10月18日、11月8日も休業日だった。月に1回だった日曜の休みが、毎週になる。",
+   "休業日のある週は、ふだん金・土・日曜日に出す週末特売のチラシを、木曜日から土曜日の日程に繰り上げてきた。休業日の前日には、買い置きを呼びかけてきた。",
+   "同店の末吉店は、2025年5月の時点で日・月・木曜日を休みにして営業していた。2025年10月の台風22号のあと営業再開が未定となり、2026年3月に閉店した。八丈島観光協会によると、三根の八丈ストアは木曜日と元日が定休日。",
    "同店は「お客様には大変ご不便をおかけいたしますが、何卒ご理解を賜りますようお願い申し上げます」としている。週末に来島する観光客には「週末観光のお客様には大変ご迷惑をおかけいたします」と返信した。"
   ],
   "figure": null,
@@ -196,6 +198,10 @@
    {
     "label": "スーパーあさぬま",
     "url": "https://x.com/umikaze8jo/status/2119724275573870839"
+   },
+   {
+    "label": "八丈島観光協会",
+    "url": "https://www.hachijo.gr.jp/goods/hachijo-store/"
    }
   ],
   "label": "くらし",
@@ -207,6 +213,7 @@
    "src": "/img/kiji/e538ec.jpg",
    "og": "/img/kiji/e538ec-og.jpg",
    "s": "/img/kiji/e538ec-s.jpg",
+   "m": "/img/kiji/e538ec-m.jpg",
    "caption": "スーパーあさぬま",
    "credit": "",
    "file": "own/asanuma-1.jpg"
@@ -248,9 +255,10 @@
     "src": "/img/kiji/ce88d1.jpg",
     "og": "/img/kiji/ce88d1-og.jpg",
     "s": "/img/kiji/ce88d1-s.jpg",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "m": "/img/kiji/ce88d1-m.jpg",
+    "caption": "八丈町営住宅",
     "credit": "",
-    "file": "own/yakuba-1.jpg"
+    "file": "own/chouei-jutaku-1.jpg"
    }
   },
   {
@@ -275,6 +283,7 @@
     "src": "/img/kiji/3d88eb.jpg",
     "og": "/img/kiji/3d88eb-og.jpg",
     "s": "/img/kiji/3d88eb-s.jpg",
+    "m": "/img/kiji/3d88eb-m.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-2.jpg"
@@ -302,15 +311,16 @@
     "src": "/img/kiji/32a52e.jpg",
     "og": "/img/kiji/32a52e-og.jpg",
     "s": "/img/kiji/32a52e-s.jpg",
+    "m": "/img/kiji/32a52e-m.jpg",
     "caption": "八丈島藍ヶ江港付近からの海と島の一部",
     "credit": "",
-    "file": "ac/27267022.jpg"
+    "file": "ac/27267026.jpg"
    }
   },
   {
-   "headline": "島出身ボーカルが初ホールツアー",
+   "headline": "MONO NO AWARE初ホールツアー",
    "body": [
-    "OTOTOYによると、ボーカルが八丈島出身のバンドが6日、東京・Spotify O-EASTのワンマンライブで、デビュー10周年記念の初のホールツアーを発表した。",
+    "八丈島で高校時代を過ごした玉置周啓さん(ボーカル・ギター)と加藤成順さん(ギター)のバンド、MONO NO AWAREが6日、東京・Spotify O-EASTのワンマンライブで、デビュー10周年を記念した初のホールツアーを発表した。OTOTOYが伝えた。バンドは2人と、ベースの竹田綾子さん、ドラムの柳澤豊さんの4人組。",
     "公演は2027年3月28日が大阪・サンケイホールブリーゼ、4月9日が愛知・アマノ芸術創造センター名古屋、4月25日が東京・NHKホール。",
     "前売りは7,500円(全席指定)。オフィシャル先行の1次は15日23時59分までで、抽選。2次は20日12時から30日23時59分まで受け付ける。",
     "6thアルバム『Passion Tours』は10月21日に発売された。約2年ぶりのアルバムになる。"
@@ -318,8 +328,12 @@
    "figure": null,
    "sources": [
     {
-     "label": "ototoy.jp",
+     "label": "OTOTOY",
      "url": "https://ototoy.jp/news/132670"
+    },
+    {
+     "label": "ぴあ",
+     "url": "https://lp.p.pia.jp/article/news/215450/index.html"
     }
    ],
    "label": "教育・文化",
@@ -331,9 +345,10 @@
     "src": "/img/kiji/37a01f.jpg",
     "og": "/img/kiji/37a01f-og.jpg",
     "s": "/img/kiji/37a01f-s.jpg",
-    "caption": "NHK放送センター",
+    "m": "/img/kiji/37a01f-m.jpg",
+    "caption": "NHKホール",
     "credit": "",
-    "file": "ac/3699255.jpg"
+    "file": "ac/320067.jpg"
    }
   }
  ],
@@ -519,5 +534,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "8c161c66ae7b"
+ "chrome": "7f88c8d4e5aa"
 }

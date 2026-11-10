@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:29:27+09:00",
+ "built": "2026-11-10T12:02:40+09:00",
  "prev": "/2026/11/03/",
  "next": "/2026/11/05/",
  "alerts": [
@@ -205,9 +205,10 @@
    "src": "/img/kiji/85fbd0.jpg",
    "og": "/img/kiji/85fbd0-og.jpg",
    "s": "/img/kiji/85fbd0-s.jpg",
-   "caption": "和太鼓",
+   "m": "/img/kiji/85fbd0-m.jpg",
+   "caption": "八丈太鼓",
    "credit": "",
-   "file": "ac/4607808.jpg"
+   "file": "own/hachijo-taiko-1.jpg"
   }
  },
  "side": [],
@@ -240,9 +241,10 @@
     "src": "/img/kiji/b9fdef.jpg",
     "og": "/img/kiji/b9fdef-og.jpg",
     "s": "/img/kiji/b9fdef-s.jpg",
-    "caption": "東海汽船「橘丸」",
+    "m": "/img/kiji/b9fdef-m.jpg",
+    "caption": "東海汽船「橘丸」ファンネル",
     "credit": "",
-    "file": "ac/4915538.jpg"
+    "file": "ac/4909711.jpg"
    }
   },
   {
@@ -272,6 +274,7 @@
     "src": "/img/kiji/455826.jpg",
     "og": "/img/kiji/455826-og.jpg",
     "s": "/img/kiji/455826-s.jpg",
+    "m": "/img/kiji/455826-m.jpg",
     "caption": "東京都立八丈高等学校",
     "credit": "",
     "file": "own/hachijo-koko-2.jpg"
@@ -300,6 +303,7 @@
     "src": "/img/kiji/c5a034.jpg",
     "og": "/img/kiji/c5a034-og.jpg",
     "s": "/img/kiji/c5a034-s.jpg",
+    "m": "/img/kiji/c5a034-m.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-1.jpg"
@@ -332,6 +336,7 @@
     "src": "/img/kiji/abb6c8.jpg",
     "og": "/img/kiji/abb6c8-og.jpg",
     "s": "/img/kiji/abb6c8-s.jpg",
+    "m": "/img/kiji/abb6c8-m.jpg",
     "caption": "東海汽船「橘丸」回頭",
     "credit": "",
     "file": "ac/4916358.jpg"
@@ -535,5 +540,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "8c161c66ae7b"
+ "chrome": "7f88c8d4e5aa"
 }

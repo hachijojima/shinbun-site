@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:29:23+09:00",
+ "built": "2026-11-10T12:02:36+09:00",
  "prev": "/2026/11/02/",
  "next": "/2026/11/04/",
  "alerts": [],
@@ -202,9 +202,10 @@
    "src": "/img/kiji/e7b7e9.jpg",
    "og": "/img/kiji/e7b7e9-og.jpg",
    "s": "/img/kiji/e7b7e9-s.jpg",
-   "caption": "八丈町立大賀郷小学校",
+   "m": "/img/kiji/e7b7e9-m.jpg",
+   "caption": "八丈町立三根小学校",
    "credit": "",
-   "file": "own/okago-sho-1.jpg"
+   "file": "own/mitsune-sho-4.jpg"
   }
  },
  "side": [],
@@ -233,6 +234,7 @@
     "src": "/img/kiji/90f1fd.jpg",
     "og": "/img/kiji/90f1fd-og.jpg",
     "s": "/img/kiji/90f1fd-s.jpg",
+    "m": "/img/kiji/90f1fd-m.jpg",
     "caption": "フェニックスロベレニー",
     "credit": "",
     "file": "ac/27447099.jpg"
@@ -259,6 +261,7 @@
     "src": "/img/kiji/9092bc.jpg",
     "og": "/img/kiji/9092bc-og.jpg",
     "s": "/img/kiji/9092bc-s.jpg",
+    "m": "/img/kiji/9092bc-m.jpg",
     "caption": "八丈島藍ヶ江港付近からの海と島の一部",
     "credit": "",
     "file": "ac/27267022.jpg"
@@ -296,9 +299,10 @@
     "src": "/img/kiji/7ee3f6.jpg",
     "og": "/img/kiji/7ee3f6-og.jpg",
     "s": "/img/kiji/7ee3f6-s.jpg",
-    "caption": "焼酎",
+    "m": "/img/kiji/7ee3f6-m.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
-    "file": "ac/35127811.jpg"
+    "file": "own/yakuba-6.jpg"
    }
   },
   {
@@ -326,6 +330,7 @@
     "src": "/img/kiji/cd4291.jpg",
     "og": "/img/kiji/cd4291-og.jpg",
     "s": "/img/kiji/cd4291-s.jpg",
+    "m": "/img/kiji/cd4291-m.jpg",
     "caption": "八丈島空港ターミナル(Hachijojima Airport Terminal Building, Tokyo)",
     "credit": "",
     "file": "ac/4920724.jpg"
@@ -525,7 +530,7 @@
    "medal": ""
   }
  ],
- "chrome": "8c161c66ae7b",
+ "chrome": "7f88c8d4e5aa",
  "hyakunen": {
   "then": {
    "ago": "100年前",

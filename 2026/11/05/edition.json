@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:29:30+09:00",
+ "built": "2026-11-10T12:02:43+09:00",
  "prev": "/2026/11/04/",
  "next": "/2026/11/06/",
  "alerts": [
@@ -224,6 +224,7 @@
    "src": "/img/kiji/f84924.jpg",
    "og": "/img/kiji/f84924-og.jpg",
    "s": "/img/kiji/f84924-s.jpg",
+   "m": "/img/kiji/f84924-m.jpg",
    "caption": "新宿御苑とドコモタワー",
    "credit": "",
    "file": "ac/34719853.jpg"
@@ -254,6 +255,7 @@
     "src": "/img/kiji/07bc1d.jpg",
     "og": "/img/kiji/07bc1d-og.jpg",
     "s": "/img/kiji/07bc1d-s.jpg",
+    "m": "/img/kiji/07bc1d-m.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-5.jpg"
@@ -286,6 +288,7 @@
     "src": "/img/kiji/d4a817.jpg",
     "og": "/img/kiji/d4a817-og.jpg",
     "s": "/img/kiji/d4a817-s.jpg",
+    "m": "/img/kiji/d4a817-m.jpg",
     "caption": "包丁研ぎ",
     "credit": "",
     "file": "ac/29784125.jpg"
@@ -318,6 +321,7 @@
     "src": "/img/kiji/f82993.jpg",
     "og": "/img/kiji/f82993-og.jpg",
     "s": "/img/kiji/f82993-s.jpg",
+    "m": "/img/kiji/f82993-m.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-4.jpg"
@@ -350,9 +354,10 @@
     "src": "/img/kiji/8e7c46.jpg",
     "og": "/img/kiji/8e7c46-og.jpg",
     "s": "/img/kiji/8e7c46-s.jpg",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "m": "/img/kiji/8e7c46-m.jpg",
+    "caption": "八丈町役場の中",
     "credit": "",
-    "file": "own/yakuba-2.jpg"
+    "file": "own/yakuba-naka-3.jpg"
    }
   }
  ],
@@ -563,5 +568,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "8c161c66ae7b"
+ "chrome": "7f88c8d4e5aa"
 }

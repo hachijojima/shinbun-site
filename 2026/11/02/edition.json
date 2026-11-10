@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:29:20+09:00",
+ "built": "2026-11-10T12:02:33+09:00",
  "prev": "/2026/11/01/",
  "next": "/2026/11/03/",
  "alerts": [
@@ -164,6 +164,7 @@
    "src": "/img/kiji/16ecab.jpg",
    "og": "/img/kiji/16ecab-og.jpg",
    "s": "/img/kiji/16ecab-s.jpg",
+   "m": "/img/kiji/16ecab-m.jpg",
    "caption": "東京都立八丈高等学校",
    "credit": "",
    "file": "own/hachijo-koko-1.jpg"
@@ -195,6 +196,7 @@
     "src": "/img/kiji/d0f060.jpg",
     "og": "/img/kiji/d0f060-og.jpg",
     "s": "/img/kiji/d0f060-s.jpg",
+    "m": "/img/kiji/d0f060-m.jpg",
     "caption": "夜景 東京 竹芝客船ターミナル",
     "credit": "",
     "file": "ac/27624455.jpg"
@@ -222,6 +224,7 @@
     "src": "/img/kiji/3e2e22.jpg",
     "og": "/img/kiji/3e2e22-og.jpg",
     "s": "/img/kiji/3e2e22-s.jpg",
+    "m": "/img/kiji/3e2e22-m.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-3.jpg"
@@ -255,6 +258,7 @@
     "src": "/img/kiji/bcd4d1.jpg",
     "og": "/img/kiji/bcd4d1-og.jpg",
     "s": "/img/kiji/bcd4d1-s.jpg",
+    "m": "/img/kiji/bcd4d1-m.jpg",
     "caption": "東京国際フォーラム",
     "credit": "",
     "file": "ac/22427308.jpg"
@@ -287,6 +291,7 @@
     "src": "/img/kiji/16c349.jpg",
     "og": "/img/kiji/16c349-og.jpg",
     "s": "/img/kiji/16c349-s.jpg",
+    "m": "/img/kiji/16c349-m.jpg",
     "caption": "八丈町立三根小学校",
     "credit": "",
     "file": "own/mitsune-sho-2.jpg"
@@ -481,7 +486,7 @@
    "medal": ""
   }
  ],
- "chrome": "8c161c66ae7b",
+ "chrome": "7f88c8d4e5aa",
  "hyakunen": {
   "then": {
    "ago": "100年前",

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:29:04+09:00",
+ "built": "2026-11-10T12:02:15+09:00",
  "prev": "/2026/10/27/",
  "next": "/2026/10/29/",
  "alerts": [
@@ -209,6 +209,7 @@
    "src": "/img/kiji/9014bf.jpg",
    "og": "/img/kiji/9014bf-og.jpg",
    "s": "/img/kiji/9014bf-s.jpg",
+   "m": "/img/kiji/9014bf-m.jpg",
    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
    "credit": "",
    "file": "own/yakuba-4.jpg"
@@ -238,6 +239,7 @@
     "src": "/img/kiji/1881b6.jpg",
     "og": "/img/kiji/1881b6-og.jpg",
     "s": "/img/kiji/1881b6-s.jpg",
+    "m": "/img/kiji/1881b6-m.jpg",
     "caption": "八丈島・底土港客船待合所",
     "credit": "",
     "file": "ac/4917189.jpg"
@@ -269,6 +271,7 @@
     "src": "/img/kiji/2184e7.jpg",
     "og": "/img/kiji/2184e7-og.jpg",
     "s": "/img/kiji/2184e7-s.jpg",
+    "m": "/img/kiji/2184e7-m.jpg",
     "caption": "八丈町立三根小学校",
     "credit": "",
     "file": "own/mitsune-sho-1.jpg"
@@ -295,9 +298,10 @@
     "src": "/img/kiji/071215.jpg",
     "og": "/img/kiji/071215-og.jpg",
     "s": "/img/kiji/071215-s.jpg",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "m": "/img/kiji/071215-m.jpg",
+    "caption": "東京交通会館",
     "credit": "",
-    "file": "own/yakuba-3.jpg"
+    "file": "ac/27559065.jpg"
    }
   },
   {
@@ -322,6 +326,7 @@
     "src": "/img/kiji/5620a7.jpg",
     "og": "/img/kiji/5620a7-og.jpg",
     "s": "/img/kiji/5620a7-s.jpg",
+    "m": "/img/kiji/5620a7-m.jpg",
     "caption": "八丈町立大賀郷小学校",
     "credit": "",
     "file": "own/okago-sho-1.jpg"
@@ -531,7 +536,7 @@
    "medal": "🥉"
   }
  ],
- "chrome": "8c161c66ae7b",
+ "chrome": "7f88c8d4e5aa",
  "hyakunen": {
   "then": {
    "ago": "100年前",

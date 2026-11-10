@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:29:02+09:00",
+ "built": "2026-11-10T12:02:12+09:00",
  "prev": "/2026/10/26/",
  "next": "/2026/10/28/",
  "alerts": [
@@ -208,6 +208,7 @@
    "src": "/img/kiji/2b621d.jpg",
    "og": "/img/kiji/2b621d-og.jpg",
    "s": "/img/kiji/2b621d-s.jpg",
+   "m": "/img/kiji/2b621d-m.jpg",
    "caption": "風景 東京 竹芝客船ターミナル 橘丸",
    "credit": "",
    "file": "ac/28438942.jpg"
@@ -236,6 +237,7 @@
     "src": "/img/kiji/387edd.jpg",
     "og": "/img/kiji/387edd-og.jpg",
     "s": "/img/kiji/387edd-s.jpg",
+    "m": "/img/kiji/387edd-m.jpg",
     "caption": "東海汽船「橘丸」三宅島入港",
     "credit": "",
     "file": "ac/4915554.jpg"
@@ -263,6 +265,7 @@
     "src": "/img/kiji/f76b85.jpg",
     "og": "/img/kiji/f76b85-og.jpg",
     "s": "/img/kiji/f76b85-s.jpg",
+    "m": "/img/kiji/f76b85-m.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-2.jpg"
@@ -291,6 +294,7 @@
     "src": "/img/kiji/ed6991.jpg",
     "og": "/img/kiji/ed6991-og.jpg",
     "s": "/img/kiji/ed6991-s.jpg",
+    "m": "/img/kiji/ed6991-m.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-1.jpg"
@@ -317,6 +321,7 @@
     "src": "/img/kiji/3d2fc7.jpg",
     "og": "/img/kiji/3d2fc7-og.jpg",
     "s": "/img/kiji/3d2fc7-s.jpg",
+    "m": "/img/kiji/3d2fc7-m.jpg",
     "caption": "八丈島の風景",
     "credit": "",
     "file": "ac/4084401.jpg"
@@ -501,7 +506,7 @@
    "medal": ""
   }
  ],
- "chrome": "8c161c66ae7b",
+ "chrome": "7f88c8d4e5aa",
  "hyakunen": {
   "then": {
    "ago": "100年前",

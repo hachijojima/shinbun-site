@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:29:10+09:00",
+ "built": "2026-11-10T12:02:22+09:00",
  "prev": "/2026/10/29/",
  "next": "/2026/10/31/",
  "alerts": [
@@ -213,6 +213,7 @@
    "src": "/img/kiji/5b7d9f.jpg",
    "og": "/img/kiji/5b7d9f-og.jpg",
    "s": "/img/kiji/5b7d9f-s.jpg",
+   "m": "/img/kiji/5b7d9f-m.jpg",
    "caption": "焼酎",
    "credit": "",
    "file": "ac/35127811.jpg"
@@ -243,6 +244,7 @@
     "src": "/img/kiji/4ce2d9.jpg",
     "og": "/img/kiji/4ce2d9-og.jpg",
     "s": "/img/kiji/4ce2d9-s.jpg",
+    "m": "/img/kiji/4ce2d9-m.jpg",
     "caption": "底土港に停泊中の橘丸",
     "credit": "",
     "file": "ac/34534821.jpg"
@@ -279,9 +281,10 @@
     "src": "/img/kiji/37a716.jpg",
     "og": "/img/kiji/37a716-og.jpg",
     "s": "/img/kiji/37a716-s.jpg",
-    "caption": "八丈島・優婆夷宝明神社の社殿",
+    "m": "/img/kiji/37a716-m.jpg",
+    "caption": "八丈島「優婆夷宝明神社」本殿",
     "credit": "",
-    "file": "ac/24824871.jpg"
+    "file": "ac/5027041.jpg"
    }
   },
   {
@@ -312,9 +315,10 @@
     "src": "/img/kiji/b03b30.jpg",
     "og": "/img/kiji/b03b30-og.jpg",
     "s": "/img/kiji/b03b30-s.jpg",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "m": "/img/kiji/b03b30-m.jpg",
+    "caption": "水道メーター",
     "credit": "",
-    "file": "own/yakuba-5.jpg"
+    "file": "ac/31708009.jpg"
    }
   },
   {
@@ -340,6 +344,7 @@
     "src": "/img/kiji/6fb8c2.jpg",
     "og": "/img/kiji/6fb8c2-og.jpg",
     "s": "/img/kiji/6fb8c2-s.jpg",
+    "m": "/img/kiji/6fb8c2-m.jpg",
     "caption": "八丈町商工会",
     "credit": "",
     "file": "own/shokokai-1.jpg"
@@ -539,7 +544,7 @@
    "medal": ""
   }
  ],
- "chrome": "8c161c66ae7b",
+ "chrome": "7f88c8d4e5aa",
  "hyakunen": {
   "then": {
    "ago": "100年前",

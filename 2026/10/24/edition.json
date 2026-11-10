@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:34:16+09:00",
+ "built": "2026-11-10T12:02:01+09:00",
  "prev": null,
  "next": "/2026/10/25/",
  "alerts": [
@@ -183,6 +183,7 @@
    "src": "/img/kiji/024e63.jpg",
    "og": "/img/kiji/024e63-og.jpg",
    "s": "/img/kiji/024e63-s.jpg",
+   "m": "/img/kiji/024e63-m.jpg",
    "caption": "八丈島歴史民俗資料館",
    "credit": "",
    "file": "own/rekimin-1.jpg"
@@ -218,6 +219,7 @@
     "src": "/img/kiji/825bc2.jpg",
     "og": "/img/kiji/825bc2-og.jpg",
     "s": "/img/kiji/825bc2-s.jpg",
+    "m": "/img/kiji/825bc2-m.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-3.jpg"
@@ -243,6 +245,7 @@
     "src": "/img/kiji/d18050.jpg",
     "og": "/img/kiji/d18050-og.jpg",
     "s": "/img/kiji/d18050-s.jpg",
+    "m": "/img/kiji/d18050-m.jpg",
     "caption": "港 八丈島",
     "credit": "",
     "file": "ac/586682.jpg"
@@ -280,6 +283,7 @@
     "src": "/img/kiji/915257.jpg",
     "og": "/img/kiji/915257-og.jpg",
     "s": "/img/kiji/915257-s.jpg",
+    "m": "/img/kiji/915257-m.jpg",
     "caption": "東京都八丈支庁",
     "credit": "",
     "file": "own/shicho-1.jpg"
@@ -306,6 +310,7 @@
     "src": "/img/kiji/c5c324.jpg",
     "og": "/img/kiji/c5c324-og.jpg",
     "s": "/img/kiji/c5c324-s.jpg",
+    "m": "/img/kiji/c5c324-m.jpg",
     "caption": "町立八丈病院",
     "credit": "",
     "file": "own/byoin-1.jpg"
@@ -464,7 +469,7 @@
   }
  },
  "sora": null,
- "chrome": "8c161c66ae7b",
+ "chrome": "7f88c8d4e5aa",
  "hyakunen": {
   "then": {
    "ago": "100年前",

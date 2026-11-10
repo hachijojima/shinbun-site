@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:29:37+09:00",
+ "built": "2026-11-10T12:02:50+09:00",
  "prev": "/2026/11/06/",
  "next": "/2026/11/08/",
  "alerts": [
@@ -210,6 +210,7 @@
    "src": "/img/kiji/9d59cc.jpg",
    "og": "/img/kiji/9d59cc-og.jpg",
    "s": "/img/kiji/9d59cc-s.jpg",
+   "m": "/img/kiji/9d59cc-m.jpg",
    "caption": "東京都八丈支庁",
    "credit": "",
    "file": "own/shicho-1.jpg"
@@ -245,9 +246,10 @@
     "src": "/img/kiji/bfb2ca.jpg",
     "og": "/img/kiji/bfb2ca-og.jpg",
     "s": "/img/kiji/bfb2ca-s.jpg",
-    "caption": "八丈島空港ターミナル(Hachijojima Airport Terminal Building, Tokyo)",
+    "m": "/img/kiji/bfb2ca-m.jpg",
+    "caption": "八丈島 八丈島空港",
     "credit": "",
-    "file": "ac/4920724.jpg"
+    "file": "ac/27920122.jpg"
    }
   },
   {
@@ -271,6 +273,7 @@
     "src": "/img/kiji/ef2568.jpg",
     "og": "/img/kiji/ef2568-og.jpg",
     "s": "/img/kiji/ef2568-s.jpg",
+    "m": "/img/kiji/ef2568-m.jpg",
     "caption": "キンモクセイ",
     "credit": "",
     "file": "ac/35459500.jpg"
@@ -298,6 +301,7 @@
     "src": "/img/kiji/e490ca.jpg",
     "og": "/img/kiji/e490ca-og.jpg",
     "s": "/img/kiji/e490ca-s.jpg",
+    "m": "/img/kiji/e490ca-m.jpg",
     "caption": "八丈町立三根小学校",
     "credit": "",
     "file": "own/mitsune-sho-1.jpg"
@@ -330,9 +334,10 @@
     "src": "/img/kiji/89f1ed.jpg",
     "og": "/img/kiji/89f1ed-og.jpg",
     "s": "/img/kiji/89f1ed-s.jpg",
+    "m": "/img/kiji/89f1ed-m.jpg",
     "caption": "東京都立八丈高等学校",
     "credit": "",
-    "file": "own/hachijo-koko-1.jpg"
+    "file": "own/hachijo-koko-3.jpg"
    }
   }
  ],
@@ -537,5 +542,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "8c161c66ae7b"
+ "chrome": "7f88c8d4e5aa"
 }

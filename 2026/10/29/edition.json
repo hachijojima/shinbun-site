@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:29:07+09:00",
+ "built": "2026-11-10T12:02:19+09:00",
  "prev": "/2026/10/28/",
  "next": "/2026/10/30/",
  "alerts": [],
@@ -196,6 +196,7 @@
    "src": "/img/kiji/412980.jpg",
    "og": "/img/kiji/412980-og.jpg",
    "s": "/img/kiji/412980-s.jpg",
+   "m": "/img/kiji/412980-m.jpg",
    "caption": "八丈島のクジラ",
    "credit": "",
    "file": "ac/28831032.jpg"
@@ -230,9 +231,10 @@
     "src": "/img/kiji/8a39a5.jpg",
     "og": "/img/kiji/8a39a5-og.jpg",
     "s": "/img/kiji/8a39a5-s.jpg",
+    "m": "/img/kiji/8a39a5-m.jpg",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
-    "file": "own/yakuba-6.jpg"
+    "file": "own/yakuba-7.jpg"
    }
   },
   {
@@ -257,6 +259,7 @@
     "src": "/img/kiji/d20c8f.jpg",
     "og": "/img/kiji/d20c8f-og.jpg",
     "s": "/img/kiji/d20c8f-s.jpg",
+    "m": "/img/kiji/d20c8f-m.jpg",
     "caption": "東海汽船の橘丸と築地大橋・勝どきの夜景2",
     "credit": "",
     "file": "ac/26160851.jpg"
@@ -285,6 +288,7 @@
     "src": "/img/kiji/720007.jpg",
     "og": "/img/kiji/720007-og.jpg",
     "s": "/img/kiji/720007-s.jpg",
+    "m": "/img/kiji/720007-m.jpg",
     "caption": "八丈島の郷土料理 島寿司",
     "credit": "",
     "file": "ac/28481632.jpg"
@@ -313,6 +317,7 @@
     "src": "/img/kiji/33db1d.jpg",
     "og": "/img/kiji/33db1d-og.jpg",
     "s": "/img/kiji/33db1d-s.jpg",
+    "m": "/img/kiji/33db1d-m.jpg",
     "caption": "八丈島 八丈島空港",
     "credit": "",
     "file": "ac/31961186.jpg"
@@ -494,7 +499,7 @@
    "medal": ""
   }
  ],
- "chrome": "8c161c66ae7b",
+ "chrome": "7f88c8d4e5aa",
  "hyakunen": {
   "then": {
    "ago": "100年前",

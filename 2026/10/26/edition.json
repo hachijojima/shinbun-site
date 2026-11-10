@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T07:34:21+09:00",
+ "built": "2026-11-10T12:02:07+09:00",
  "prev": "/2026/10/25/",
  "next": "/2026/10/27/",
  "alerts": [
@@ -212,6 +212,7 @@
    "src": "/img/kiji/012175.jpg",
    "og": "/img/kiji/012175-og.jpg",
    "s": "/img/kiji/012175-s.jpg",
+   "m": "/img/kiji/012175-m.jpg",
    "caption": "八丈島ビジターセンター入口",
    "credit": "",
    "file": "ac/5026921.jpg"
@@ -250,6 +251,7 @@
     "src": "/img/kiji/08c682.jpg",
     "og": "/img/kiji/08c682-og.jpg",
     "s": "/img/kiji/08c682-s.jpg",
+    "m": "/img/kiji/08c682-m.jpg",
     "caption": "八丈島・優婆夷宝明神社の社殿",
     "credit": "",
     "file": "ac/24824871.jpg"
@@ -276,6 +278,7 @@
     "src": "/img/kiji/4a9b3b.jpg",
     "og": "/img/kiji/4a9b3b-og.jpg",
     "s": "/img/kiji/4a9b3b-s.jpg",
+    "m": "/img/kiji/4a9b3b-m.jpg",
     "caption": "八丈町三根出張所・三根公民館",
     "credit": "",
     "file": "own/mitsune-shucchojo-1.jpg"
@@ -308,6 +311,7 @@
     "src": "/img/kiji/0c8a57.jpg",
     "og": "/img/kiji/0c8a57-og.jpg",
     "s": "/img/kiji/0c8a57-s.jpg",
+    "m": "/img/kiji/0c8a57-m.jpg",
     "caption": "東京都八丈支庁",
     "credit": "",
     "file": "own/shicho-2.jpg"
@@ -333,6 +337,7 @@
     "src": "/img/kiji/1b0739.jpg",
     "og": "/img/kiji/1b0739-og.jpg",
     "s": "/img/kiji/1b0739-s.jpg",
+    "m": "/img/kiji/1b0739-m.jpg",
     "caption": "八丈植物公園メインエントランス",
     "credit": "",
     "file": "ac/27266206.jpg"
@@ -347,10 +352,10 @@
    "url": "https://x.com/hattoriyashiki/status/2114643202837750241"
   },
   {
-   "date": "2026-10-29",
+   "date": "2026-10-28",
    "end": null,
-   "text": "三根・大賀郷小学校の運動会練習",
-   "url": "https://mitsune-es.8jo.ed.jp/n/n2b5119280883"
+   "text": "小学校の運動会練習(三根・大賀郷)",
+   "url": "https://mitsune-es.8jo.ed.jp/n/ne086585780de"
   },
   {
    "date": "2026-10-31",
@@ -373,7 +378,7 @@
   {
    "date": "2026-11-01",
    "end": null,
-   "text": "三原大運動会(三原小、10月31日から延期)",
+   "text": "三原大運動会(三原小学校)",
    "url": "https://mihara-es.8jo.ed.jp/n/nab03fe05249e"
   },
   {
@@ -477,7 +482,7 @@
   "url": "https://x.com/ANA_flight_info/status/2114277030959141282",
   "at": "2026-10-25T17:45:00+09:00"
  },
- "chrome": "8c161c66ae7b",
+ "chrome": "7f88c8d4e5aa",
  "hyakunen": {
   "then": {
    "ago": "100年前",
