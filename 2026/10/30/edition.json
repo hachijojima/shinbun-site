@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:02:22+09:00",
+ "built": "2026-11-10T12:57:19+09:00",
  "prev": "/2026/10/29/",
  "next": "/2026/10/31/",
  "alerts": [
@@ -544,7 +544,7 @@
    "medal": ""
   }
  ],
- "chrome": "7f88c8d4e5aa",
+ "chrome": "ed40dde8e752",
  "hyakunen": {
   "then": {
    "ago": "100年前",

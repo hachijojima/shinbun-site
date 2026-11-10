@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:02:07+09:00",
+ "built": "2026-11-10T12:57:10+09:00",
  "prev": "/2026/10/25/",
  "next": "/2026/10/27/",
  "alerts": [
@@ -352,10 +352,10 @@
    "url": "https://x.com/hattoriyashiki/status/2114643202837750241"
   },
   {
-   "date": "2026-10-28",
+   "date": "2026-10-29",
    "end": null,
    "text": "小学校の運動会練習(三根・大賀郷)",
-   "url": "https://mitsune-es.8jo.ed.jp/n/ne086585780de"
+   "url": "https://mitsune-es.8jo.ed.jp/n/n2b5119280883"
   },
   {
    "date": "2026-10-31",
@@ -370,15 +370,9 @@
    "url": "https://fuji-jhs.8jo.ed.jp/n/n28db719f7a29"
   },
   {
-   "date": "2026-10-31",
-   "end": null,
-   "text": "ショメ節の舞台",
-   "url": "https://x.com/hattoriyashiki/status/2116103112641659074"
-  },
-  {
    "date": "2026-11-01",
    "end": null,
-   "text": "三原大運動会(三原小学校)",
+   "text": "三原大運動会(三原小、10月31日から延期)",
    "url": "https://mihara-es.8jo.ed.jp/n/nab03fe05249e"
   },
   {
@@ -390,8 +384,14 @@
   {
    "date": "2026-11-01",
    "end": null,
-   "text": "発酵中フェス2026",
+   "text": "発酵中フェス2026(役場)",
    "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/"
+  },
+  {
+   "date": "2026-11-02",
+   "end": null,
+   "text": "三根小学校の運動会前日準備・リハーサル",
+   "url": "https://mitsune-es.8jo.ed.jp/n/nc40ea9b15b6f"
   }
  ],
  "letters": [],
@@ -482,7 +482,7 @@
   "url": "https://x.com/ANA_flight_info/status/2114277030959141282",
   "at": "2026-10-25T17:45:00+09:00"
  },
- "chrome": "7f88c8d4e5aa",
+ "chrome": "ed40dde8e752",
  "hyakunen": {
   "then": {
    "ago": "100年前",

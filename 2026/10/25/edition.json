@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:02:04+09:00",
+ "built": "2026-11-10T12:57:08+09:00",
  "prev": "/2026/10/24/",
  "next": "/2026/10/26/",
  "alerts": [
@@ -434,7 +434,7 @@
   "url": "https://x.com/ANA_flight_info/status/2113914643257389230",
   "at": "2026-10-24T17:45:00+09:00"
  },
- "chrome": "7f88c8d4e5aa",
+ "chrome": "ed40dde8e752",
  "hyakunen": {
   "then": {
    "ago": "100年前",
