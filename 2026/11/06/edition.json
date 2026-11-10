@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:34+09:00",
+ "built": "2026-11-11T07:27:14+09:00",
  "prev": "/2026/11/05/",
  "next": "/2026/11/07/",
  "alerts": [
@@ -230,10 +230,10 @@
   "id": "44d450",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/44d450.jpg",
-   "og": "/img/kiji/44d450-og.jpg",
-   "s": "/img/kiji/44d450-s.jpg",
-   "m": "/img/kiji/44d450-m.jpg",
+   "src": "/img/kiji/44d450.jpg?v=2efec8",
+   "og": "/img/kiji/44d450-og.jpg?v=2efec8",
+   "s": "/img/kiji/44d450-s.jpg?v=2efec8",
+   "m": "/img/kiji/44d450-m.jpg?v=2efec8",
    "caption": "八丈島・優婆夷宝明神社の社殿",
    "credit": "",
    "file": "ac/24824871.jpg"
@@ -260,10 +260,10 @@
    "id": "ad8076",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/ad8076.jpg",
-    "og": "/img/kiji/ad8076-og.jpg",
-    "s": "/img/kiji/ad8076-s.jpg",
-    "m": "/img/kiji/ad8076-m.jpg",
+    "src": "/img/kiji/ad8076.jpg?v=f170fc",
+    "og": "/img/kiji/ad8076-og.jpg?v=f170fc",
+    "s": "/img/kiji/ad8076-s.jpg?v=f170fc",
+    "m": "/img/kiji/ad8076-m.jpg?v=f170fc",
     "caption": "橘丸 八丈島 八重根港",
     "credit": "",
     "file": "ac/34194384.jpg"
@@ -293,10 +293,10 @@
    "id": "24e58e",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/24e58e.jpg",
-    "og": "/img/kiji/24e58e-og.jpg",
-    "s": "/img/kiji/24e58e-s.jpg",
-    "m": "/img/kiji/24e58e-m.jpg",
+    "src": "/img/kiji/24e58e.jpg?v=d53855",
+    "og": "/img/kiji/24e58e-og.jpg?v=d53855",
+    "s": "/img/kiji/24e58e-s.jpg?v=d53855",
+    "m": "/img/kiji/24e58e-m.jpg?v=d53855",
     "caption": "八丈町立大賀郷中学校",
     "credit": "",
     "file": "own/okago-chu-1.jpg"
@@ -321,10 +321,10 @@
    "id": "f83412",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f83412.jpg",
-    "og": "/img/kiji/f83412-og.jpg",
-    "s": "/img/kiji/f83412-s.jpg",
-    "m": "/img/kiji/f83412-m.jpg",
+    "src": "/img/kiji/f83412.jpg?v=09f9e1",
+    "og": "/img/kiji/f83412-og.jpg?v=09f9e1",
+    "s": "/img/kiji/f83412-s.jpg?v=09f9e1",
+    "m": "/img/kiji/f83412-m.jpg?v=09f9e1",
     "caption": "明日葉",
     "credit": "",
     "file": "ac/4086596.jpg"
@@ -350,10 +350,10 @@
    "edited": "2026-11-06T08:47:38+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/0ef1ab.jpg",
-    "og": "/img/kiji/0ef1ab-og.jpg",
-    "s": "/img/kiji/0ef1ab-s.jpg",
-    "m": "/img/kiji/0ef1ab-m.jpg",
+    "src": "/img/kiji/0ef1ab.jpg?v=a99df3",
+    "og": "/img/kiji/0ef1ab-og.jpg?v=a99df3",
+    "s": "/img/kiji/0ef1ab-s.jpg?v=a99df3",
+    "m": "/img/kiji/0ef1ab-m.jpg?v=a99df3",
     "caption": "八丈島の風景",
     "credit": "",
     "file": "ac/4084401.jpg"

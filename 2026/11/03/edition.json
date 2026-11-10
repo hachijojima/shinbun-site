@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:28+09:00",
+ "built": "2026-11-11T07:27:07+09:00",
  "prev": "/2026/11/02/",
  "next": "/2026/11/04/",
  "alerts": [],
@@ -199,10 +199,10 @@
   "edited": "2026-11-03T20:02:49+09:00",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/e7b7e9.jpg",
-   "og": "/img/kiji/e7b7e9-og.jpg",
-   "s": "/img/kiji/e7b7e9-s.jpg",
-   "m": "/img/kiji/e7b7e9-m.jpg",
+   "src": "/img/kiji/e7b7e9.jpg?v=db0591",
+   "og": "/img/kiji/e7b7e9-og.jpg?v=db0591",
+   "s": "/img/kiji/e7b7e9-s.jpg?v=db0591",
+   "m": "/img/kiji/e7b7e9-m.jpg?v=db0591",
    "caption": "八丈町立三根小学校",
    "credit": "",
    "file": "own/mitsune-sho-4.jpg"
@@ -231,10 +231,10 @@
    "id": "90f1fd",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/90f1fd.jpg",
-    "og": "/img/kiji/90f1fd-og.jpg",
-    "s": "/img/kiji/90f1fd-s.jpg",
-    "m": "/img/kiji/90f1fd-m.jpg",
+    "src": "/img/kiji/90f1fd.jpg?v=1eaa61",
+    "og": "/img/kiji/90f1fd-og.jpg?v=1eaa61",
+    "s": "/img/kiji/90f1fd-s.jpg?v=1eaa61",
+    "m": "/img/kiji/90f1fd-m.jpg?v=1eaa61",
     "caption": "フェニックスロベレニー",
     "credit": "",
     "file": "ac/27447099.jpg"
@@ -258,10 +258,10 @@
    "id": "9092bc",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/9092bc.jpg",
-    "og": "/img/kiji/9092bc-og.jpg",
-    "s": "/img/kiji/9092bc-s.jpg",
-    "m": "/img/kiji/9092bc-m.jpg",
+    "src": "/img/kiji/9092bc.jpg?v=e95d83",
+    "og": "/img/kiji/9092bc-og.jpg?v=e95d83",
+    "s": "/img/kiji/9092bc-s.jpg?v=e95d83",
+    "m": "/img/kiji/9092bc-m.jpg?v=e95d83",
     "caption": "八丈島藍ヶ江港付近からの海と島の一部",
     "credit": "",
     "file": "ac/27267022.jpg"
@@ -296,10 +296,10 @@
    "id": "7ee3f6",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/7ee3f6.jpg",
-    "og": "/img/kiji/7ee3f6-og.jpg",
-    "s": "/img/kiji/7ee3f6-s.jpg",
-    "m": "/img/kiji/7ee3f6-m.jpg",
+    "src": "/img/kiji/7ee3f6.jpg?v=948365",
+    "og": "/img/kiji/7ee3f6-og.jpg?v=948365",
+    "s": "/img/kiji/7ee3f6-s.jpg?v=948365",
+    "m": "/img/kiji/7ee3f6-m.jpg?v=948365",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-6.jpg"
@@ -327,10 +327,10 @@
    "id": "cd4291",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/cd4291.jpg",
-    "og": "/img/kiji/cd4291-og.jpg",
-    "s": "/img/kiji/cd4291-s.jpg",
-    "m": "/img/kiji/cd4291-m.jpg",
+    "src": "/img/kiji/cd4291.jpg?v=c65a12",
+    "og": "/img/kiji/cd4291-og.jpg?v=c65a12",
+    "s": "/img/kiji/cd4291-s.jpg?v=c65a12",
+    "m": "/img/kiji/cd4291-m.jpg?v=c65a12",
     "caption": "八丈島空港ターミナル(Hachijojima Airport Terminal Building, Tokyo)",
     "credit": "",
     "file": "ac/4920724.jpg"

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-11T07:23:16+09:00",
+ "built": "2026-11-11T07:27:25+09:00",
  "prev": "/2026/11/10/",
  "next": null,
  "alerts": [
@@ -194,10 +194,10 @@
   "edited": "2026-11-11T06:51:47+09:00",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/d8fbed.jpg",
-   "og": "/img/kiji/d8fbed-og.jpg",
-   "s": "/img/kiji/d8fbed-s.jpg",
-   "m": "/img/kiji/d8fbed-m.jpg",
+   "src": "/img/kiji/d8fbed.jpg?v=a13202",
+   "og": "/img/kiji/d8fbed-og.jpg?v=a13202",
+   "s": "/img/kiji/d8fbed-s.jpg?v=a13202",
+   "m": "/img/kiji/d8fbed-m.jpg?v=a13202",
    "caption": "ムロアジの群れ",
    "credit": "",
    "file": "ac/32276103.jpg"
@@ -249,10 +249,10 @@
    ],
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f433cb.jpg",
-    "og": "/img/kiji/f433cb-og.jpg",
-    "s": "/img/kiji/f433cb-s.jpg",
-    "m": "/img/kiji/f433cb-m.jpg",
+    "src": "/img/kiji/f433cb.jpg?v=83c20c",
+    "og": "/img/kiji/f433cb-og.jpg?v=83c20c",
+    "s": "/img/kiji/f433cb-s.jpg?v=83c20c",
+    "m": "/img/kiji/f433cb-m.jpg?v=83c20c",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-3.jpg"
@@ -277,10 +277,10 @@
    "id": "993ba8",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/993ba8.jpg",
-    "og": "/img/kiji/993ba8-og.jpg",
-    "s": "/img/kiji/993ba8-s.jpg",
-    "m": "/img/kiji/993ba8-m.jpg",
+    "src": "/img/kiji/993ba8.jpg?v=4b017d",
+    "og": "/img/kiji/993ba8-og.jpg?v=4b017d",
+    "s": "/img/kiji/993ba8-s.jpg?v=4b017d",
+    "m": "/img/kiji/993ba8-m.jpg?v=4b017d",
     "caption": "八丈町役場の中",
     "credit": "",
     "file": "own/yakuba-naka-1.jpg"
@@ -310,10 +310,10 @@
    "id": "0de8e3",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/0de8e3.jpg",
-    "og": "/img/kiji/0de8e3-og.jpg",
-    "s": "/img/kiji/0de8e3-s.jpg",
-    "m": "/img/kiji/0de8e3-m.jpg",
+    "src": "/img/kiji/0de8e3.jpg?v=0b5c6f",
+    "og": "/img/kiji/0de8e3-og.jpg?v=0b5c6f",
+    "s": "/img/kiji/0de8e3-s.jpg?v=0b5c6f",
+    "m": "/img/kiji/0de8e3-m.jpg?v=0b5c6f",
     "caption": "八丈町立大賀郷小学校",
     "credit": "",
     "file": "own/okago-sho-1.jpg"
@@ -338,45 +338,13 @@
    "id": "ea8ad6",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/ea8ad6.jpg",
-    "og": "/img/kiji/ea8ad6-og.jpg",
-    "s": "/img/kiji/ea8ad6-s.jpg",
-    "m": "/img/kiji/ea8ad6-m.jpg",
+    "src": "/img/kiji/ea8ad6.jpg?v=61ac65",
+    "og": "/img/kiji/ea8ad6-og.jpg?v=61ac65",
+    "s": "/img/kiji/ea8ad6-s.jpg?v=61ac65",
+    "m": "/img/kiji/ea8ad6-m.jpg?v=61ac65",
     "caption": "八丈町立三根小学校",
     "credit": "",
     "file": "own/mitsune-sho-2.jpg"
-   }
-  },
-  {
-   "headline": "富士中2年生が合唱を作文に",
-   "body": [
-    "八丈町立富士中学校の2年生が4日の5時間目、合唱コンクールを振り返る作文を書いた。学年スローガンは「やる時はやる」だった。",
-    "富士中学校によると、作文には音程やパートを合わせる難しさや、前向きな声が見られた。銀賞だったという記述もあった。",
-    "令和8年度の合唱コンクールは10月31日に多目的ホールおじゃれで開かれた。各クラスは10月に入ってから、放課後などを使って練習した。広報はちじょう2013年8月号によると、おじゃれは2013年8月1日から一般利用が始まった。"
-   ],
-   "sources": [
-    {
-     "label": "富士中学校",
-     "url": "https://fuji-jhs.8jo.ed.jp/n/na40cac765bc9"
-    },
-    {
-     "label": "広報はちじょう2013年8月号",
-     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23142901/hachijo1308.pdf"
-    }
-   ],
-   "label": "教育・文化",
-   "audience": "島民",
-   "thread_id": "t20261111-65",
-   "id": "cd6c22",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/cd6c22.jpg",
-    "og": "/img/kiji/cd6c22-og.jpg",
-    "s": "/img/kiji/cd6c22-s.jpg",
-    "m": "/img/kiji/cd6c22-m.jpg",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
-    "credit": "",
-    "file": "own/yakuba-6.jpg"
    }
   }
  ],

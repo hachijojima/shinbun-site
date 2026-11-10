@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:08+09:00",
+ "built": "2026-11-11T07:26:48+09:00",
  "prev": "/2026/10/24/",
  "next": "/2026/10/26/",
  "alerts": [
@@ -197,10 +197,10 @@
   "id": "35d678",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/35d678.jpg",
-   "og": "/img/kiji/35d678-og.jpg",
-   "s": "/img/kiji/35d678-s.jpg",
-   "m": "/img/kiji/35d678-m.jpg",
+   "src": "/img/kiji/35d678.jpg?v=3ebb69",
+   "og": "/img/kiji/35d678-og.jpg?v=3ebb69",
+   "s": "/img/kiji/35d678-s.jpg?v=3ebb69",
+   "m": "/img/kiji/35d678-m.jpg?v=3ebb69",
    "caption": "東京都立八丈高等学校",
    "credit": "",
    "file": "own/hachijo-koko-1.jpg"
@@ -231,10 +231,10 @@
    "id": "b10bca",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/b10bca.jpg",
-    "og": "/img/kiji/b10bca-og.jpg",
-    "s": "/img/kiji/b10bca-s.jpg",
-    "m": "/img/kiji/b10bca-m.jpg",
+    "src": "/img/kiji/b10bca.jpg?v=bfcb06",
+    "og": "/img/kiji/b10bca-og.jpg?v=bfcb06",
+    "s": "/img/kiji/b10bca-s.jpg?v=bfcb06",
+    "m": "/img/kiji/b10bca-m.jpg?v=bfcb06",
     "caption": "八丈島 八丈島空港",
     "credit": "",
     "file": "ac/27920122.jpg"
@@ -259,10 +259,10 @@
    "id": "f39860",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f39860.jpg",
-    "og": "/img/kiji/f39860-og.jpg",
-    "s": "/img/kiji/f39860-s.jpg",
-    "m": "/img/kiji/f39860-m.jpg",
+    "src": "/img/kiji/f39860.jpg?v=948365",
+    "og": "/img/kiji/f39860-og.jpg?v=948365",
+    "s": "/img/kiji/f39860-s.jpg?v=948365",
+    "m": "/img/kiji/f39860-m.jpg?v=948365",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-6.jpg"
@@ -286,10 +286,10 @@
    "id": "143aff",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/143aff.jpg",
-    "og": "/img/kiji/143aff-og.jpg",
-    "s": "/img/kiji/143aff-s.jpg",
-    "m": "/img/kiji/143aff-m.jpg",
+    "src": "/img/kiji/143aff.jpg?v=af171c",
+    "og": "/img/kiji/143aff-og.jpg?v=af171c",
+    "s": "/img/kiji/143aff-s.jpg?v=af171c",
+    "m": "/img/kiji/143aff-m.jpg?v=af171c",
     "caption": "東京都・八丈島の海",
     "credit": "",
     "file": "ac/2478741.jpg"
@@ -314,10 +314,10 @@
    "id": "d6b658",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/d6b658.jpg",
-    "og": "/img/kiji/d6b658-og.jpg",
-    "s": "/img/kiji/d6b658-s.jpg",
-    "m": "/img/kiji/d6b658-m.jpg",
+    "src": "/img/kiji/d6b658.jpg?v=d4ca53",
+    "og": "/img/kiji/d6b658-og.jpg?v=d4ca53",
+    "s": "/img/kiji/d6b658-s.jpg?v=d4ca53",
+    "m": "/img/kiji/d6b658-m.jpg?v=d4ca53",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-5.jpg"

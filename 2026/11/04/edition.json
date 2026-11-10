@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:30+09:00",
+ "built": "2026-11-11T07:27:09+09:00",
  "prev": "/2026/11/03/",
  "next": "/2026/11/05/",
  "alerts": [
@@ -202,10 +202,10 @@
   "edited": "2026-11-04T07:11:00+09:00",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/85fbd0.jpg",
-   "og": "/img/kiji/85fbd0-og.jpg",
-   "s": "/img/kiji/85fbd0-s.jpg",
-   "m": "/img/kiji/85fbd0-m.jpg",
+   "src": "/img/kiji/85fbd0.jpg?v=4d1b84",
+   "og": "/img/kiji/85fbd0-og.jpg?v=4d1b84",
+   "s": "/img/kiji/85fbd0-s.jpg?v=4d1b84",
+   "m": "/img/kiji/85fbd0-m.jpg?v=4d1b84",
    "caption": "八丈太鼓",
    "credit": "",
    "file": "own/hachijo-taiko-1.jpg"
@@ -238,10 +238,10 @@
    "id": "b9fdef",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/b9fdef.jpg",
-    "og": "/img/kiji/b9fdef-og.jpg",
-    "s": "/img/kiji/b9fdef-s.jpg",
-    "m": "/img/kiji/b9fdef-m.jpg",
+    "src": "/img/kiji/b9fdef.jpg?v=b19439",
+    "og": "/img/kiji/b9fdef-og.jpg?v=b19439",
+    "s": "/img/kiji/b9fdef-s.jpg?v=b19439",
+    "m": "/img/kiji/b9fdef-m.jpg?v=b19439",
     "caption": "東海汽船「橘丸」ファンネル",
     "credit": "",
     "file": "ac/4909711.jpg"
@@ -271,10 +271,10 @@
    "id": "455826",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/455826.jpg",
-    "og": "/img/kiji/455826-og.jpg",
-    "s": "/img/kiji/455826-s.jpg",
-    "m": "/img/kiji/455826-m.jpg",
+    "src": "/img/kiji/455826.jpg?v=6aea60",
+    "og": "/img/kiji/455826-og.jpg?v=6aea60",
+    "s": "/img/kiji/455826-s.jpg?v=6aea60",
+    "m": "/img/kiji/455826-m.jpg?v=6aea60",
     "caption": "東京都立八丈高等学校",
     "credit": "",
     "file": "own/hachijo-koko-2.jpg"
@@ -300,10 +300,10 @@
    "edited": "2026-11-04T07:13:10+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/c5a034.jpg",
-    "og": "/img/kiji/c5a034-og.jpg",
-    "s": "/img/kiji/c5a034-s.jpg",
-    "m": "/img/kiji/c5a034-m.jpg",
+    "src": "/img/kiji/c5a034.jpg?v=4ceb84",
+    "og": "/img/kiji/c5a034-og.jpg?v=4ceb84",
+    "s": "/img/kiji/c5a034-s.jpg?v=4ceb84",
+    "m": "/img/kiji/c5a034-m.jpg?v=4ceb84",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-1.jpg"
@@ -333,10 +333,10 @@
    "edited": "2026-11-04T07:14:20+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/abb6c8.jpg",
-    "og": "/img/kiji/abb6c8-og.jpg",
-    "s": "/img/kiji/abb6c8-s.jpg",
-    "m": "/img/kiji/abb6c8-m.jpg",
+    "src": "/img/kiji/abb6c8.jpg?v=d25f46",
+    "og": "/img/kiji/abb6c8-og.jpg?v=d25f46",
+    "s": "/img/kiji/abb6c8-s.jpg?v=d25f46",
+    "m": "/img/kiji/abb6c8-m.jpg?v=d25f46",
     "caption": "東海汽船「橘丸」回頭",
     "credit": "",
     "file": "ac/4916358.jpg"

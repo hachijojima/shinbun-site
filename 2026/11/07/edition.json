@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:36+09:00",
+ "built": "2026-11-11T07:27:16+09:00",
  "prev": "/2026/11/06/",
  "next": "/2026/11/08/",
  "alerts": [
@@ -207,10 +207,10 @@
   "edited": "2026-11-07T19:58:09+09:00",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/9d59cc.jpg",
-   "og": "/img/kiji/9d59cc-og.jpg",
-   "s": "/img/kiji/9d59cc-s.jpg",
-   "m": "/img/kiji/9d59cc-m.jpg",
+   "src": "/img/kiji/9d59cc.jpg?v=50753b",
+   "og": "/img/kiji/9d59cc-og.jpg?v=50753b",
+   "s": "/img/kiji/9d59cc-s.jpg?v=50753b",
+   "m": "/img/kiji/9d59cc-m.jpg?v=50753b",
    "caption": "東京都八丈支庁",
    "credit": "",
    "file": "own/shicho-1.jpg"
@@ -243,10 +243,10 @@
    "edited": "2026-11-07T07:06:33+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/bfb2ca.jpg",
-    "og": "/img/kiji/bfb2ca-og.jpg",
-    "s": "/img/kiji/bfb2ca-s.jpg",
-    "m": "/img/kiji/bfb2ca-m.jpg",
+    "src": "/img/kiji/bfb2ca.jpg?v=bfcb06",
+    "og": "/img/kiji/bfb2ca-og.jpg?v=bfcb06",
+    "s": "/img/kiji/bfb2ca-s.jpg?v=bfcb06",
+    "m": "/img/kiji/bfb2ca-m.jpg?v=bfcb06",
     "caption": "八丈島 八丈島空港",
     "credit": "",
     "file": "ac/27920122.jpg"
@@ -270,10 +270,10 @@
    "id": "ef2568",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/ef2568.jpg",
-    "og": "/img/kiji/ef2568-og.jpg",
-    "s": "/img/kiji/ef2568-s.jpg",
-    "m": "/img/kiji/ef2568-m.jpg",
+    "src": "/img/kiji/ef2568.jpg?v=f4e5fc",
+    "og": "/img/kiji/ef2568-og.jpg?v=f4e5fc",
+    "s": "/img/kiji/ef2568-s.jpg?v=f4e5fc",
+    "m": "/img/kiji/ef2568-m.jpg?v=f4e5fc",
     "caption": "キンモクセイ",
     "credit": "",
     "file": "ac/35459500.jpg"
@@ -298,10 +298,10 @@
    "id": "e490ca",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/e490ca.jpg",
-    "og": "/img/kiji/e490ca-og.jpg",
-    "s": "/img/kiji/e490ca-s.jpg",
-    "m": "/img/kiji/e490ca-m.jpg",
+    "src": "/img/kiji/e490ca.jpg?v=5405c7",
+    "og": "/img/kiji/e490ca-og.jpg?v=5405c7",
+    "s": "/img/kiji/e490ca-s.jpg?v=5405c7",
+    "m": "/img/kiji/e490ca-m.jpg?v=5405c7",
     "caption": "八丈町立三根小学校",
     "credit": "",
     "file": "own/mitsune-sho-1.jpg"
@@ -331,10 +331,10 @@
    "id": "89f1ed",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/89f1ed.jpg",
-    "og": "/img/kiji/89f1ed-og.jpg",
-    "s": "/img/kiji/89f1ed-s.jpg",
-    "m": "/img/kiji/89f1ed-m.jpg",
+    "src": "/img/kiji/89f1ed.jpg?v=c040ac",
+    "og": "/img/kiji/89f1ed-og.jpg?v=c040ac",
+    "s": "/img/kiji/89f1ed-s.jpg?v=c040ac",
+    "m": "/img/kiji/89f1ed-m.jpg?v=c040ac",
     "caption": "東京都立八丈高等学校",
     "credit": "",
     "file": "own/hachijo-koko-3.jpg"

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:17+09:00",
+ "built": "2026-11-11T07:26:56+09:00",
  "prev": "/2026/10/28/",
  "next": "/2026/10/30/",
  "alerts": [],
@@ -193,10 +193,10 @@
   "id": "412980",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/412980.jpg",
-   "og": "/img/kiji/412980-og.jpg",
-   "s": "/img/kiji/412980-s.jpg",
-   "m": "/img/kiji/412980-m.jpg",
+   "src": "/img/kiji/412980.jpg?v=95c8f3",
+   "og": "/img/kiji/412980-og.jpg?v=95c8f3",
+   "s": "/img/kiji/412980-s.jpg?v=95c8f3",
+   "m": "/img/kiji/412980-m.jpg?v=95c8f3",
    "caption": "八丈島のクジラ",
    "credit": "",
    "file": "ac/28831032.jpg"
@@ -228,10 +228,10 @@
    "id": "8a39a5",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/8a39a5.jpg",
-    "og": "/img/kiji/8a39a5-og.jpg",
-    "s": "/img/kiji/8a39a5-s.jpg",
-    "m": "/img/kiji/8a39a5-m.jpg",
+    "src": "/img/kiji/8a39a5.jpg?v=3359c6",
+    "og": "/img/kiji/8a39a5-og.jpg?v=3359c6",
+    "s": "/img/kiji/8a39a5-s.jpg?v=3359c6",
+    "m": "/img/kiji/8a39a5-m.jpg?v=3359c6",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-7.jpg"
@@ -256,10 +256,10 @@
    "id": "d20c8f",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/d20c8f.jpg",
-    "og": "/img/kiji/d20c8f-og.jpg",
-    "s": "/img/kiji/d20c8f-s.jpg",
-    "m": "/img/kiji/d20c8f-m.jpg",
+    "src": "/img/kiji/d20c8f.jpg?v=39ddc4",
+    "og": "/img/kiji/d20c8f-og.jpg?v=39ddc4",
+    "s": "/img/kiji/d20c8f-s.jpg?v=39ddc4",
+    "m": "/img/kiji/d20c8f-m.jpg?v=39ddc4",
     "caption": "東海汽船の橘丸と築地大橋・勝どきの夜景2",
     "credit": "",
     "file": "ac/26160851.jpg"
@@ -285,10 +285,10 @@
    "id": "720007",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/720007.jpg",
-    "og": "/img/kiji/720007-og.jpg",
-    "s": "/img/kiji/720007-s.jpg",
-    "m": "/img/kiji/720007-m.jpg",
+    "src": "/img/kiji/720007.jpg?v=c9609a",
+    "og": "/img/kiji/720007-og.jpg?v=c9609a",
+    "s": "/img/kiji/720007-s.jpg?v=c9609a",
+    "m": "/img/kiji/720007-m.jpg?v=c9609a",
     "caption": "八丈島の郷土料理 島寿司",
     "credit": "",
     "file": "ac/28481632.jpg"
@@ -314,10 +314,10 @@
    "id": "33db1d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/33db1d.jpg",
-    "og": "/img/kiji/33db1d-og.jpg",
-    "s": "/img/kiji/33db1d-s.jpg",
-    "m": "/img/kiji/33db1d-m.jpg",
+    "src": "/img/kiji/33db1d.jpg?v=f55cf5",
+    "og": "/img/kiji/33db1d-og.jpg?v=f55cf5",
+    "s": "/img/kiji/33db1d-s.jpg?v=f55cf5",
+    "m": "/img/kiji/33db1d-m.jpg?v=f55cf5",
     "caption": "八丈島 八丈島空港",
     "credit": "",
     "file": "ac/31961186.jpg"

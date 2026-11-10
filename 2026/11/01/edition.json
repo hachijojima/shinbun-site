@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:23+09:00",
+ "built": "2026-11-11T07:27:03+09:00",
  "prev": "/2026/10/31/",
  "next": "/2026/11/02/",
  "alerts": [
@@ -209,10 +209,10 @@
   "id": "64395a",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/64395a.jpg",
-   "og": "/img/kiji/64395a-og.jpg",
-   "s": "/img/kiji/64395a-s.jpg",
-   "m": "/img/kiji/64395a-m.jpg",
+   "src": "/img/kiji/64395a.jpg?v=88876c",
+   "og": "/img/kiji/64395a-og.jpg?v=88876c",
+   "s": "/img/kiji/64395a-s.jpg?v=88876c",
+   "m": "/img/kiji/64395a-m.jpg?v=88876c",
    "caption": "八丈町役場の中",
    "credit": "",
    "file": "own/yakuba-naka-2.jpg"
@@ -240,10 +240,10 @@
    "id": "86c6d2",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/86c6d2.jpg",
-    "og": "/img/kiji/86c6d2-og.jpg",
-    "s": "/img/kiji/86c6d2-s.jpg",
-    "m": "/img/kiji/86c6d2-m.jpg",
+    "src": "/img/kiji/86c6d2.jpg?v=262a47",
+    "og": "/img/kiji/86c6d2-og.jpg?v=262a47",
+    "s": "/img/kiji/86c6d2-s.jpg?v=262a47",
+    "m": "/img/kiji/86c6d2-m.jpg?v=262a47",
     "caption": "八丈植物公園",
     "credit": "",
     "file": "ac/25661552.jpg"
@@ -269,10 +269,10 @@
    "id": "06245d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/06245d.jpg",
-    "og": "/img/kiji/06245d-og.jpg",
-    "s": "/img/kiji/06245d-s.jpg",
-    "m": "/img/kiji/06245d-m.jpg",
+    "src": "/img/kiji/06245d.jpg?v=fc54c5",
+    "og": "/img/kiji/06245d-og.jpg?v=fc54c5",
+    "s": "/img/kiji/06245d-s.jpg?v=fc54c5",
+    "m": "/img/kiji/06245d-m.jpg?v=fc54c5",
     "caption": "町立八丈病院",
     "credit": "",
     "file": "own/byoin-1.jpg"
@@ -302,10 +302,10 @@
    "id": "d93b3f",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/d93b3f.jpg",
-    "og": "/img/kiji/d93b3f-og.jpg",
-    "s": "/img/kiji/d93b3f-s.jpg",
-    "m": "/img/kiji/d93b3f-m.jpg",
+    "src": "/img/kiji/d93b3f.jpg?v=4216dc",
+    "og": "/img/kiji/d93b3f-og.jpg?v=4216dc",
+    "s": "/img/kiji/d93b3f-s.jpg?v=4216dc",
+    "m": "/img/kiji/d93b3f-m.jpg?v=4216dc",
     "caption": "八重根港 橘丸と八丈富士",
     "credit": "",
     "file": "ac/34194383.jpg"
@@ -331,10 +331,10 @@
    "edited": "2026-11-03T18:34:59+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/543a97.jpg",
-    "og": "/img/kiji/543a97-og.jpg",
-    "s": "/img/kiji/543a97-s.jpg",
-    "m": "/img/kiji/543a97-m.jpg",
+    "src": "/img/kiji/543a97.jpg?v=25a99d",
+    "og": "/img/kiji/543a97-og.jpg?v=25a99d",
+    "s": "/img/kiji/543a97-s.jpg?v=25a99d",
+    "m": "/img/kiji/543a97-m.jpg?v=25a99d",
     "caption": "八丈町立三根小学校",
     "credit": "",
     "file": "own/mitsune-sho-3.jpg"

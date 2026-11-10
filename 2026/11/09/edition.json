@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:41+09:00",
+ "built": "2026-11-11T07:27:20+09:00",
  "prev": "/2026/11/08/",
  "next": "/2026/11/10/",
  "alerts": [
@@ -214,10 +214,10 @@
   "edited": "2026-11-09T07:02:53+09:00",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/c74b34.jpg",
-   "og": "/img/kiji/c74b34-og.jpg",
-   "s": "/img/kiji/c74b34-s.jpg",
-   "m": "/img/kiji/c74b34-m.jpg",
+   "src": "/img/kiji/c74b34.jpg?v=ce2cf0",
+   "og": "/img/kiji/c74b34-og.jpg?v=ce2cf0",
+   "s": "/img/kiji/c74b34-s.jpg?v=ce2cf0",
+   "m": "/img/kiji/c74b34-m.jpg?v=ce2cf0",
    "caption": "八丈町消防団大賀郷分団",
    "credit": "",
    "file": "own/shobodan-okago-1.jpg"
@@ -244,10 +244,10 @@
    "id": "fc42bc",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/fc42bc.jpg",
-    "og": "/img/kiji/fc42bc-og.jpg",
-    "s": "/img/kiji/fc42bc-s.jpg",
-    "m": "/img/kiji/fc42bc-m.jpg",
+    "src": "/img/kiji/fc42bc.jpg?v=bc6860",
+    "og": "/img/kiji/fc42bc-og.jpg?v=bc6860",
+    "s": "/img/kiji/fc42bc-s.jpg?v=bc6860",
+    "m": "/img/kiji/fc42bc-m.jpg?v=bc6860",
     "caption": "八丈島 藍ヶ江港 全体",
     "credit": "",
     "file": "ac/1505301.jpg"
@@ -283,10 +283,10 @@
    "edited": "2026-11-09T06:18:06+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/367fcd.jpg",
-    "og": "/img/kiji/367fcd-og.jpg",
-    "s": "/img/kiji/367fcd-s.jpg",
-    "m": "/img/kiji/367fcd-m.jpg",
+    "src": "/img/kiji/367fcd.jpg?v=9895c2",
+    "og": "/img/kiji/367fcd-og.jpg?v=9895c2",
+    "s": "/img/kiji/367fcd-s.jpg?v=9895c2",
+    "m": "/img/kiji/367fcd-m.jpg?v=9895c2",
     "caption": "八丈島「優婆夷宝明神社」本殿",
     "credit": "",
     "file": "ac/5027041.jpg"
@@ -314,10 +314,10 @@
    "edited": "2026-11-09T06:31:45+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/3a4a7c.jpg",
-    "og": "/img/kiji/3a4a7c-og.jpg",
-    "s": "/img/kiji/3a4a7c-s.jpg",
-    "m": "/img/kiji/3a4a7c-m.jpg",
+    "src": "/img/kiji/3a4a7c.jpg?v=25a99d",
+    "og": "/img/kiji/3a4a7c-og.jpg?v=25a99d",
+    "s": "/img/kiji/3a4a7c-s.jpg?v=25a99d",
+    "m": "/img/kiji/3a4a7c-m.jpg?v=25a99d",
     "caption": "八丈町立三根小学校",
     "credit": "",
     "file": "own/mitsune-sho-3.jpg"
@@ -341,10 +341,10 @@
    "id": "2668d2",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/2668d2.jpg",
-    "og": "/img/kiji/2668d2-og.jpg",
-    "s": "/img/kiji/2668d2-s.jpg",
-    "m": "/img/kiji/2668d2-m.jpg",
+    "src": "/img/kiji/2668d2.jpg?v=d56f63",
+    "og": "/img/kiji/2668d2-og.jpg?v=d56f63",
+    "s": "/img/kiji/2668d2-s.jpg?v=d56f63",
+    "m": "/img/kiji/2668d2-m.jpg?v=d56f63",
     "caption": "八丈小島に沈む夕日",
     "credit": "",
     "file": "ac/35110768.jpg"

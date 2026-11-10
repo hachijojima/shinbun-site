@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T21:25:22+09:00",
+ "built": "2026-11-11T07:27:22+09:00",
  "prev": "/2026/11/09/",
  "next": "/2026/11/11/",
  "alerts": [
@@ -206,10 +206,10 @@
   "id": "e538ec",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/e538ec.jpg",
-   "og": "/img/kiji/e538ec-og.jpg",
-   "s": "/img/kiji/e538ec-s.jpg",
-   "m": "/img/kiji/e538ec-m.jpg",
+   "src": "/img/kiji/e538ec.jpg?v=7ce77c",
+   "og": "/img/kiji/e538ec-og.jpg?v=7ce77c",
+   "s": "/img/kiji/e538ec-s.jpg?v=7ce77c",
+   "m": "/img/kiji/e538ec-m.jpg?v=7ce77c",
    "caption": "スーパーあさぬま",
    "credit": "",
    "file": "own/asanuma-1.jpg"
@@ -238,10 +238,10 @@
    "id": "37a01f",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/37a01f.jpg",
-    "og": "/img/kiji/37a01f-og.jpg",
-    "s": "/img/kiji/37a01f-s.jpg",
-    "m": "/img/kiji/37a01f-m.jpg",
+    "src": "/img/kiji/37a01f.jpg?v=331fae",
+    "og": "/img/kiji/37a01f-og.jpg?v=331fae",
+    "s": "/img/kiji/37a01f-s.jpg?v=331fae",
+    "m": "/img/kiji/37a01f-m.jpg?v=331fae",
     "caption": "NHKホール",
     "credit": "",
     "file": "ac/320067.jpg"
@@ -272,10 +272,10 @@
    "id": "ce88d1",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/ce88d1.jpg",
-    "og": "/img/kiji/ce88d1-og.jpg",
-    "s": "/img/kiji/ce88d1-s.jpg",
-    "m": "/img/kiji/ce88d1-m.jpg",
+    "src": "/img/kiji/ce88d1.jpg?v=4a0112",
+    "og": "/img/kiji/ce88d1-og.jpg?v=4a0112",
+    "s": "/img/kiji/ce88d1-s.jpg?v=4a0112",
+    "m": "/img/kiji/ce88d1-m.jpg?v=4a0112",
     "caption": "八丈町営住宅",
     "credit": "",
     "file": "own/chouei-jutaku-1.jpg"
@@ -300,10 +300,10 @@
    "id": "3d88eb",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/3d88eb.jpg",
-    "og": "/img/kiji/3d88eb-og.jpg",
-    "s": "/img/kiji/3d88eb-s.jpg",
-    "m": "/img/kiji/3d88eb-m.jpg",
+    "src": "/img/kiji/3d88eb.jpg?v=7b016a",
+    "og": "/img/kiji/3d88eb-og.jpg?v=7b016a",
+    "s": "/img/kiji/3d88eb-s.jpg?v=7b016a",
+    "m": "/img/kiji/3d88eb-m.jpg?v=7b016a",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-2.jpg"
@@ -328,10 +328,10 @@
    "id": "32a52e",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/32a52e.jpg",
-    "og": "/img/kiji/32a52e-og.jpg",
-    "s": "/img/kiji/32a52e-s.jpg",
-    "m": "/img/kiji/32a52e-m.jpg",
+    "src": "/img/kiji/32a52e.jpg?v=837275",
+    "og": "/img/kiji/32a52e-og.jpg?v=837275",
+    "s": "/img/kiji/32a52e-s.jpg?v=837275",
+    "m": "/img/kiji/32a52e-m.jpg?v=837275",
     "caption": "八丈島藍ヶ江港付近からの海と島の一部",
     "credit": "",
     "file": "ac/27267026.jpg"

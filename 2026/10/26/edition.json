@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:10+09:00",
+ "built": "2026-11-11T07:26:50+09:00",
  "prev": "/2026/10/25/",
  "next": "/2026/10/27/",
  "alerts": [
@@ -209,10 +209,10 @@
   "id": "012175",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/012175.jpg",
-   "og": "/img/kiji/012175-og.jpg",
-   "s": "/img/kiji/012175-s.jpg",
-   "m": "/img/kiji/012175-m.jpg",
+   "src": "/img/kiji/012175.jpg?v=9d75ab",
+   "og": "/img/kiji/012175-og.jpg?v=9d75ab",
+   "s": "/img/kiji/012175-s.jpg?v=9d75ab",
+   "m": "/img/kiji/012175-m.jpg?v=9d75ab",
    "caption": "八丈島ビジターセンター入口",
    "credit": "",
    "file": "ac/5026921.jpg"
@@ -248,10 +248,10 @@
    "id": "08c682",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/08c682.jpg",
-    "og": "/img/kiji/08c682-og.jpg",
-    "s": "/img/kiji/08c682-s.jpg",
-    "m": "/img/kiji/08c682-m.jpg",
+    "src": "/img/kiji/08c682.jpg?v=2efec8",
+    "og": "/img/kiji/08c682-og.jpg?v=2efec8",
+    "s": "/img/kiji/08c682-s.jpg?v=2efec8",
+    "m": "/img/kiji/08c682-m.jpg?v=2efec8",
     "caption": "八丈島・優婆夷宝明神社の社殿",
     "credit": "",
     "file": "ac/24824871.jpg"
@@ -275,10 +275,10 @@
    "id": "4a9b3b",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4a9b3b.jpg",
-    "og": "/img/kiji/4a9b3b-og.jpg",
-    "s": "/img/kiji/4a9b3b-s.jpg",
-    "m": "/img/kiji/4a9b3b-m.jpg",
+    "src": "/img/kiji/4a9b3b.jpg?v=c49d7c",
+    "og": "/img/kiji/4a9b3b-og.jpg?v=c49d7c",
+    "s": "/img/kiji/4a9b3b-s.jpg?v=c49d7c",
+    "m": "/img/kiji/4a9b3b-m.jpg?v=c49d7c",
     "caption": "八丈町三根出張所・三根公民館",
     "credit": "",
     "file": "own/mitsune-shucchojo-1.jpg"
@@ -308,10 +308,10 @@
    "id": "0c8a57",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/0c8a57.jpg",
-    "og": "/img/kiji/0c8a57-og.jpg",
-    "s": "/img/kiji/0c8a57-s.jpg",
-    "m": "/img/kiji/0c8a57-m.jpg",
+    "src": "/img/kiji/0c8a57.jpg?v=c9e2cc",
+    "og": "/img/kiji/0c8a57-og.jpg?v=c9e2cc",
+    "s": "/img/kiji/0c8a57-s.jpg?v=c9e2cc",
+    "m": "/img/kiji/0c8a57-m.jpg?v=c9e2cc",
     "caption": "東京都八丈支庁",
     "credit": "",
     "file": "own/shicho-2.jpg"
@@ -334,10 +334,10 @@
    "id": "1b0739",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/1b0739.jpg",
-    "og": "/img/kiji/1b0739-og.jpg",
-    "s": "/img/kiji/1b0739-s.jpg",
-    "m": "/img/kiji/1b0739-m.jpg",
+    "src": "/img/kiji/1b0739.jpg?v=ca24d5",
+    "og": "/img/kiji/1b0739-og.jpg?v=ca24d5",
+    "s": "/img/kiji/1b0739-s.jpg?v=ca24d5",
+    "m": "/img/kiji/1b0739-m.jpg?v=ca24d5",
     "caption": "八丈植物公園メインエントランス",
     "credit": "",
     "file": "ac/27266206.jpg"

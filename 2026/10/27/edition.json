@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:13+09:00",
+ "built": "2026-11-11T07:26:52+09:00",
  "prev": "/2026/10/26/",
  "next": "/2026/10/28/",
  "alerts": [
@@ -205,10 +205,10 @@
   "id": "2b621d",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/2b621d.jpg",
-   "og": "/img/kiji/2b621d-og.jpg",
-   "s": "/img/kiji/2b621d-s.jpg",
-   "m": "/img/kiji/2b621d-m.jpg",
+   "src": "/img/kiji/2b621d.jpg?v=321274",
+   "og": "/img/kiji/2b621d-og.jpg?v=321274",
+   "s": "/img/kiji/2b621d-s.jpg?v=321274",
+   "m": "/img/kiji/2b621d-m.jpg?v=321274",
    "caption": "風景 東京 竹芝客船ターミナル 橘丸",
    "credit": "",
    "file": "ac/28438942.jpg"
@@ -234,10 +234,10 @@
    "id": "387edd",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/387edd.jpg",
-    "og": "/img/kiji/387edd-og.jpg",
-    "s": "/img/kiji/387edd-s.jpg",
-    "m": "/img/kiji/387edd-m.jpg",
+    "src": "/img/kiji/387edd.jpg?v=b9e196",
+    "og": "/img/kiji/387edd-og.jpg?v=b9e196",
+    "s": "/img/kiji/387edd-s.jpg?v=b9e196",
+    "m": "/img/kiji/387edd-m.jpg?v=b9e196",
     "caption": "東海汽船「橘丸」三宅島入港",
     "credit": "",
     "file": "ac/4915554.jpg"
@@ -262,10 +262,10 @@
    "id": "f76b85",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f76b85.jpg",
-    "og": "/img/kiji/f76b85-og.jpg",
-    "s": "/img/kiji/f76b85-s.jpg",
-    "m": "/img/kiji/f76b85-m.jpg",
+    "src": "/img/kiji/f76b85.jpg?v=7b016a",
+    "og": "/img/kiji/f76b85-og.jpg?v=7b016a",
+    "s": "/img/kiji/f76b85-s.jpg?v=7b016a",
+    "m": "/img/kiji/f76b85-m.jpg?v=7b016a",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-2.jpg"
@@ -291,10 +291,10 @@
    "id": "ed6991",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/ed6991.jpg",
-    "og": "/img/kiji/ed6991-og.jpg",
-    "s": "/img/kiji/ed6991-s.jpg",
-    "m": "/img/kiji/ed6991-m.jpg",
+    "src": "/img/kiji/ed6991.jpg?v=4ceb84",
+    "og": "/img/kiji/ed6991-og.jpg?v=4ceb84",
+    "s": "/img/kiji/ed6991-s.jpg?v=4ceb84",
+    "m": "/img/kiji/ed6991-m.jpg?v=4ceb84",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-1.jpg"
@@ -318,10 +318,10 @@
    "id": "3d2fc7",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/3d2fc7.jpg",
-    "og": "/img/kiji/3d2fc7-og.jpg",
-    "s": "/img/kiji/3d2fc7-s.jpg",
-    "m": "/img/kiji/3d2fc7-m.jpg",
+    "src": "/img/kiji/3d2fc7.jpg?v=a99df3",
+    "og": "/img/kiji/3d2fc7-og.jpg?v=a99df3",
+    "s": "/img/kiji/3d2fc7-s.jpg?v=a99df3",
+    "m": "/img/kiji/3d2fc7-m.jpg?v=a99df3",
     "caption": "八丈島の風景",
     "credit": "",
     "file": "ac/4084401.jpg"

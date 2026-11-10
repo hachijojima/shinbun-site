@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:39+09:00",
+ "built": "2026-11-11T07:27:18+09:00",
  "prev": "/2026/11/07/",
  "next": "/2026/11/09/",
  "alerts": [
@@ -205,10 +205,10 @@
   "edited": "2026-11-08T08:43:15+09:00",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/2e37ea.jpg",
-   "og": "/img/kiji/2e37ea-og.jpg",
-   "s": "/img/kiji/2e37ea-s.jpg",
-   "m": "/img/kiji/2e37ea-m.jpg",
+   "src": "/img/kiji/2e37ea.jpg?v=9dadfb",
+   "og": "/img/kiji/2e37ea-og.jpg?v=9dadfb",
+   "s": "/img/kiji/2e37ea-s.jpg?v=9dadfb",
+   "m": "/img/kiji/2e37ea-m.jpg?v=9dadfb",
    "caption": "八丈島 猫",
    "credit": "",
    "file": "ac/34535176.jpg"
@@ -241,10 +241,10 @@
    "id": "4aec5d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4aec5d.jpg",
-    "og": "/img/kiji/4aec5d-og.jpg",
-    "s": "/img/kiji/4aec5d-s.jpg",
-    "m": "/img/kiji/4aec5d-m.jpg",
+    "src": "/img/kiji/4aec5d.jpg?v=8842e2",
+    "og": "/img/kiji/4aec5d-og.jpg?v=8842e2",
+    "s": "/img/kiji/4aec5d-s.jpg?v=8842e2",
+    "m": "/img/kiji/4aec5d-m.jpg?v=8842e2",
     "caption": "八丈島 優婆夷宝明神社",
     "credit": "",
     "file": "ac/31961188.jpg"
@@ -274,10 +274,10 @@
    "id": "80a061",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/80a061.jpg",
-    "og": "/img/kiji/80a061-og.jpg",
-    "s": "/img/kiji/80a061-s.jpg",
-    "m": "/img/kiji/80a061-m.jpg",
+    "src": "/img/kiji/80a061.jpg?v=21dffe",
+    "og": "/img/kiji/80a061-og.jpg?v=21dffe",
+    "s": "/img/kiji/80a061-s.jpg?v=21dffe",
+    "m": "/img/kiji/80a061-m.jpg?v=21dffe",
     "caption": "八丈町立三根小学校",
     "credit": "",
     "file": "own/mitsune-sho-5.jpg"
@@ -306,10 +306,10 @@
    "id": "065618",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/065618.jpg",
-    "og": "/img/kiji/065618-og.jpg",
-    "s": "/img/kiji/065618-s.jpg",
-    "m": "/img/kiji/065618-m.jpg",
+    "src": "/img/kiji/065618.jpg?v=3359c6",
+    "og": "/img/kiji/065618-og.jpg?v=3359c6",
+    "s": "/img/kiji/065618-s.jpg?v=3359c6",
+    "m": "/img/kiji/065618-m.jpg?v=3359c6",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-7.jpg"
@@ -333,10 +333,10 @@
    "id": "be51b1",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/be51b1.jpg",
-    "og": "/img/kiji/be51b1-og.jpg",
-    "s": "/img/kiji/be51b1-s.jpg",
-    "m": "/img/kiji/be51b1-m.jpg",
+    "src": "/img/kiji/be51b1.jpg?v=4fd090",
+    "og": "/img/kiji/be51b1-og.jpg?v=4fd090",
+    "s": "/img/kiji/be51b1-s.jpg?v=4fd090",
+    "m": "/img/kiji/be51b1-m.jpg?v=4fd090",
     "caption": "八丈島ふれあい牧場の牛",
     "credit": "",
     "file": "ac/27266491.jpg"

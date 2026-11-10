@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:32+09:00",
+ "built": "2026-11-11T07:27:11+09:00",
  "prev": "/2026/11/04/",
  "next": "/2026/11/06/",
  "alerts": [
@@ -221,10 +221,10 @@
   "id": "f84924",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/f84924.jpg",
-   "og": "/img/kiji/f84924-og.jpg",
-   "s": "/img/kiji/f84924-s.jpg",
-   "m": "/img/kiji/f84924-m.jpg",
+   "src": "/img/kiji/f84924.jpg?v=f63d1b",
+   "og": "/img/kiji/f84924-og.jpg?v=f63d1b",
+   "s": "/img/kiji/f84924-s.jpg?v=f63d1b",
+   "m": "/img/kiji/f84924-m.jpg?v=f63d1b",
    "caption": "新宿御苑とドコモタワー",
    "credit": "",
    "file": "ac/34719853.jpg"
@@ -252,10 +252,10 @@
    "id": "07bc1d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/07bc1d.jpg",
-    "og": "/img/kiji/07bc1d-og.jpg",
-    "s": "/img/kiji/07bc1d-s.jpg",
-    "m": "/img/kiji/07bc1d-m.jpg",
+    "src": "/img/kiji/07bc1d.jpg?v=d4ca53",
+    "og": "/img/kiji/07bc1d-og.jpg?v=d4ca53",
+    "s": "/img/kiji/07bc1d-s.jpg?v=d4ca53",
+    "m": "/img/kiji/07bc1d-m.jpg?v=d4ca53",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-5.jpg"
@@ -285,10 +285,10 @@
    "edited": "2026-11-05T06:22:01+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/d4a817.jpg",
-    "og": "/img/kiji/d4a817-og.jpg",
-    "s": "/img/kiji/d4a817-s.jpg",
-    "m": "/img/kiji/d4a817-m.jpg",
+    "src": "/img/kiji/d4a817.jpg?v=0c6118",
+    "og": "/img/kiji/d4a817-og.jpg?v=0c6118",
+    "s": "/img/kiji/d4a817-s.jpg?v=0c6118",
+    "m": "/img/kiji/d4a817-m.jpg?v=0c6118",
     "caption": "包丁研ぎ",
     "credit": "",
     "file": "ac/29784125.jpg"
@@ -318,10 +318,10 @@
    "id": "f82993",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f82993.jpg",
-    "og": "/img/kiji/f82993-og.jpg",
-    "s": "/img/kiji/f82993-s.jpg",
-    "m": "/img/kiji/f82993-m.jpg",
+    "src": "/img/kiji/f82993.jpg?v=82de26",
+    "og": "/img/kiji/f82993-og.jpg?v=82de26",
+    "s": "/img/kiji/f82993-s.jpg?v=82de26",
+    "m": "/img/kiji/f82993-m.jpg?v=82de26",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-4.jpg"
@@ -351,10 +351,10 @@
    "id": "8e7c46",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/8e7c46.jpg",
-    "og": "/img/kiji/8e7c46-og.jpg",
-    "s": "/img/kiji/8e7c46-s.jpg",
-    "m": "/img/kiji/8e7c46-m.jpg",
+    "src": "/img/kiji/8e7c46.jpg?v=e0af0d",
+    "og": "/img/kiji/8e7c46-og.jpg?v=e0af0d",
+    "s": "/img/kiji/8e7c46-s.jpg?v=e0af0d",
+    "m": "/img/kiji/8e7c46-m.jpg?v=e0af0d",
     "caption": "八丈町役場の中",
     "credit": "",
     "file": "own/yakuba-naka-3.jpg"

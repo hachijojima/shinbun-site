@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:21+09:00",
+ "built": "2026-11-11T07:27:01+09:00",
  "prev": "/2026/10/30/",
  "next": "/2026/11/01/",
  "alerts": [
@@ -215,10 +215,10 @@
   "id": "e7f9db",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/e7f9db.jpg",
-   "og": "/img/kiji/e7f9db-og.jpg",
-   "s": "/img/kiji/e7f9db-s.jpg",
-   "m": "/img/kiji/e7f9db-m.jpg",
+   "src": "/img/kiji/e7f9db.jpg?v=8a2104",
+   "og": "/img/kiji/e7f9db-og.jpg?v=8a2104",
+   "s": "/img/kiji/e7f9db-s.jpg?v=8a2104",
+   "m": "/img/kiji/e7f9db-m.jpg?v=8a2104",
    "caption": "JA東京島しょ 八丈",
    "credit": "",
    "file": "own/ja-1.jpg"
@@ -249,10 +249,10 @@
    "id": "1d87a4",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/1d87a4.jpg",
-    "og": "/img/kiji/1d87a4-og.jpg",
-    "s": "/img/kiji/1d87a4-s.jpg",
-    "m": "/img/kiji/1d87a4-m.jpg",
+    "src": "/img/kiji/1d87a4.jpg?v=4b017d",
+    "og": "/img/kiji/1d87a4-og.jpg?v=4b017d",
+    "s": "/img/kiji/1d87a4-s.jpg?v=4b017d",
+    "m": "/img/kiji/1d87a4-m.jpg?v=4b017d",
     "caption": "八丈町役場の中",
     "credit": "",
     "file": "own/yakuba-naka-1.jpg"
@@ -289,10 +289,10 @@
    "id": "bdd6fd",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/bdd6fd.jpg",
-    "og": "/img/kiji/bdd6fd-og.jpg",
-    "s": "/img/kiji/bdd6fd-s.jpg",
-    "m": "/img/kiji/bdd6fd-m.jpg",
+    "src": "/img/kiji/bdd6fd.jpg?v=c9dbed",
+    "og": "/img/kiji/bdd6fd-og.jpg?v=c9dbed",
+    "s": "/img/kiji/bdd6fd-s.jpg?v=c9dbed",
+    "m": "/img/kiji/bdd6fd-m.jpg?v=c9dbed",
     "caption": "八丈町立大賀郷小学校",
     "credit": "",
     "file": "own/okago-sho-3.jpg"
@@ -317,10 +317,10 @@
    "id": "151b52",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/151b52.jpg",
-    "og": "/img/kiji/151b52-og.jpg",
-    "s": "/img/kiji/151b52-s.jpg",
-    "m": "/img/kiji/151b52-m.jpg",
+    "src": "/img/kiji/151b52.jpg?v=d33535",
+    "og": "/img/kiji/151b52-og.jpg?v=d33535",
+    "s": "/img/kiji/151b52-s.jpg?v=d33535",
+    "m": "/img/kiji/151b52-m.jpg?v=d33535",
     "caption": "東海汽船「橘丸」",
     "credit": "",
     "file": "ac/4915538.jpg"
@@ -347,10 +347,10 @@
    "id": "533986",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/533986.jpg",
-    "og": "/img/kiji/533986-og.jpg",
-    "s": "/img/kiji/533986-s.jpg",
-    "m": "/img/kiji/533986-m.jpg",
+    "src": "/img/kiji/533986.jpg?v=d2d4af",
+    "og": "/img/kiji/533986-og.jpg?v=d2d4af",
+    "s": "/img/kiji/533986-s.jpg?v=d2d4af",
+    "m": "/img/kiji/533986-m.jpg?v=d2d4af",
     "caption": "八丈町立大賀郷小学校",
     "credit": "",
     "file": "own/okago-sho-2.jpg"

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-10T12:57:19+09:00",
+ "built": "2026-11-11T07:26:59+09:00",
  "prev": "/2026/10/29/",
  "next": "/2026/10/31/",
  "alerts": [
@@ -210,10 +210,10 @@
   "id": "5b7d9f",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/5b7d9f.jpg",
-   "og": "/img/kiji/5b7d9f-og.jpg",
-   "s": "/img/kiji/5b7d9f-s.jpg",
-   "m": "/img/kiji/5b7d9f-m.jpg",
+   "src": "/img/kiji/5b7d9f.jpg?v=b3bf8a",
+   "og": "/img/kiji/5b7d9f-og.jpg?v=b3bf8a",
+   "s": "/img/kiji/5b7d9f-s.jpg?v=b3bf8a",
+   "m": "/img/kiji/5b7d9f-m.jpg?v=b3bf8a",
    "caption": "焼酎",
    "credit": "",
    "file": "ac/35127811.jpg"
@@ -241,10 +241,10 @@
    "id": "4ce2d9",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4ce2d9.jpg",
-    "og": "/img/kiji/4ce2d9-og.jpg",
-    "s": "/img/kiji/4ce2d9-s.jpg",
-    "m": "/img/kiji/4ce2d9-m.jpg",
+    "src": "/img/kiji/4ce2d9.jpg?v=63acd5",
+    "og": "/img/kiji/4ce2d9-og.jpg?v=63acd5",
+    "s": "/img/kiji/4ce2d9-s.jpg?v=63acd5",
+    "m": "/img/kiji/4ce2d9-m.jpg?v=63acd5",
     "caption": "底土港に停泊中の橘丸",
     "credit": "",
     "file": "ac/34534821.jpg"
@@ -278,10 +278,10 @@
    "id": "37a716",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/37a716.jpg",
-    "og": "/img/kiji/37a716-og.jpg",
-    "s": "/img/kiji/37a716-s.jpg",
-    "m": "/img/kiji/37a716-m.jpg",
+    "src": "/img/kiji/37a716.jpg?v=9895c2",
+    "og": "/img/kiji/37a716-og.jpg?v=9895c2",
+    "s": "/img/kiji/37a716-s.jpg?v=9895c2",
+    "m": "/img/kiji/37a716-m.jpg?v=9895c2",
     "caption": "八丈島「優婆夷宝明神社」本殿",
     "credit": "",
     "file": "ac/5027041.jpg"
@@ -312,10 +312,10 @@
    "id": "b03b30",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/b03b30.jpg",
-    "og": "/img/kiji/b03b30-og.jpg",
-    "s": "/img/kiji/b03b30-s.jpg",
-    "m": "/img/kiji/b03b30-m.jpg",
+    "src": "/img/kiji/b03b30.jpg?v=86015f",
+    "og": "/img/kiji/b03b30-og.jpg?v=86015f",
+    "s": "/img/kiji/b03b30-s.jpg?v=86015f",
+    "m": "/img/kiji/b03b30-m.jpg?v=86015f",
     "caption": "水道メーター",
     "credit": "",
     "file": "ac/31708009.jpg"
@@ -341,10 +341,10 @@
    "id": "6fb8c2",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/6fb8c2.jpg",
-    "og": "/img/kiji/6fb8c2-og.jpg",
-    "s": "/img/kiji/6fb8c2-s.jpg",
-    "m": "/img/kiji/6fb8c2-m.jpg",
+    "src": "/img/kiji/6fb8c2.jpg?v=ab3fc3",
+    "og": "/img/kiji/6fb8c2-og.jpg?v=ab3fc3",
+    "s": "/img/kiji/6fb8c2-s.jpg?v=ab3fc3",
+    "m": "/img/kiji/6fb8c2-m.jpg?v=ab3fc3",
     "caption": "八丈町商工会",
     "credit": "",
     "file": "own/shokokai-1.jpg"
