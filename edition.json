@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-11T07:02:50+09:00",
+ "built": "2026-11-11T07:16:07+09:00",
  "prev": "/2026/11/10/",
  "next": null,
  "alerts": [
@@ -191,28 +191,72 @@
   "audience": "島民",
   "thread_id": "t20261111-61",
   "id": "d8fbed",
-  "edited": "2026-11-11T06:51:47+09:00"
+  "edited": "2026-11-11T06:51:47+09:00",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/d8fbed.jpg",
+   "og": "/img/kiji/d8fbed-og.jpg",
+   "s": "/img/kiji/d8fbed-s.jpg",
+   "m": "/img/kiji/d8fbed-m.jpg",
+   "caption": "八丈島の洞輪沢漁港",
+   "credit": "",
+   "file": "ac/27267239.jpg"
+  }
  },
  "side": [],
  "shorts": [
   {
-   "headline": "災害復旧へ基金1600万円",
+   "label": "町政",
+   "audience": "島民",
+   "thread_id": "t20261111-63",
+   "id": "993ba8",
+   "edited": "2026-11-11T07:40:00+09:00",
+   "headline": "新議長に金川孝幸氏を選出",
+   "sode": "議長選で初の所信表明も",
    "body": [
-    "八丈町議会は10月27日の第二回臨時会で、災害復旧に関する一般会計補正予算（第4号）の専決処分を承認した。伊藤しょう町議が2日に公開した活動報告によると、財政調整基金から1600万円を一般会計に繰り入れ、予備費162万5000円を減額するなどして、緊急的な災害復旧の財源を確保する内容だった。",
-    "専決処分は、緊急を要する場合などに町長が議会の議決を待たずに予算などを決定する制度。地方自治法では、処分後の議会への報告と承認を求めることが定められている。",
-    "臨時会は18日投開票の町議選後、初めて開かれた議会で、議長・副議長の選挙や常任委員の選任なども行われた。補正予算は承認第15号として審議され、原案どおり承認された。"
+    "八丈町議会は10月27日の第二回臨時会で、議長に金川孝幸氏、副議長に山下則子氏を選出した。18日の町議選を経て新たな議会が発足し、常任委員や議会運営委員なども選任した。",
+    "伊藤しょう町議が2日に公開した活動報告によると、今回の議長選では前期からの議会改革の流れを受け、初めて候補者による所信表明と質疑を実施した。立候補した2人がそれぞれ演説し、議員の質問に答えた。伊藤町議は、各候補に「どのような議会を目指すのか」と尋ねたという。副議長選では所信表明は行われなかった。",
+    "金川氏は町議選の選挙公報で「元気で活気ある島に！」「ストップ人口減少！」を掲げた。議会だよりと会議録によると、2020年から一般質問に立ち、人口減少対策や町なかの公衆トイレ、防災訓練、航空路線の維持などを取り上げてきた。山下氏は2019年から一般質問に立ち、島内のキャッシュレス化やデマンドタクシー、島内で出産できる体制づくりなどを問うてきた。",
+    "町の条例によると、議員報酬の月額は議員が20万円、副議長が22万円、議長が30万円。",
+    "臨時会では八丈町消防委員会委員の選任、町監査委員の選任同意も行われた。また、災害復旧に関する一般会計補正予算（第4号）の専決処分を承認した。伊藤町議の報告によると、財政調整基金から1600万円を一般会計に繰り入れ、予備費を162万5000円減らして、災害復旧の財源を確保する内容だった。",
+    "町議選は定数12に15人が立候補し、投票率は66.53%で前回の67.57%を下回った。"
    ],
    "sources": [
     {
      "label": "八丈町議会",
      "url": "https://www.town.hachijo.tokyo.jp/chousei/chougikai/katsushin/shingi-kekka/r8-shingikekka/#cont1"
+    },
+    {
+     "label": "伊藤しょう町議",
+     "url": "https://note.com/itosho_hachijo/n/n972e1afd6a58"
+    },
+    {
+     "label": "選挙公報",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/10/14094016/Election-bulletin.pdf"
+    },
+    {
+     "label": "八丈町議会だより",
+     "url": "https://www.town.hachijo.tokyo.jp/chousei/chougikai/"
+    },
+    {
+     "label": "八丈町の条例",
+     "url": "https://www.town.hachijo.tokyo.jp/reiki_int/reiki_honbun/g162RG00000432.html"
+    },
+    {
+     "label": "八丈町",
+     "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261018/"
     }
    ],
-   "label": "町政",
-   "audience": "島民",
-   "thread_id": "t20261111-63",
-   "id": "993ba8",
-   "edited": "2026-11-11T07:02:50+09:00"
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/993ba8.jpg",
+    "og": "/img/kiji/993ba8-og.jpg",
+    "s": "/img/kiji/993ba8-s.jpg",
+    "m": "/img/kiji/993ba8-m.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "",
+    "file": "own/yakuba-3.jpg"
+   }
   },
   {
    "headline": "大賀郷小、がん教育の授業",
@@ -235,7 +279,17 @@
    "audience": "島民",
    "thread_id": "t20261028-34",
    "followup": true,
-   "id": "0de8e3"
+   "id": "0de8e3",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/0de8e3.jpg",
+    "og": "/img/kiji/0de8e3-og.jpg",
+    "s": "/img/kiji/0de8e3-s.jpg",
+    "m": "/img/kiji/0de8e3-m.jpg",
+    "caption": "八丈町立大賀郷小学校",
+    "credit": "",
+    "file": "own/okago-sho-1.jpg"
+   }
   },
   {
    "headline": "三根小で教育実習生が研究授業",
@@ -253,7 +307,17 @@
    "label": "教育・文化",
    "audience": "島民",
    "thread_id": "t20261111-64",
-   "id": "ea8ad6"
+   "id": "ea8ad6",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/ea8ad6.jpg",
+    "og": "/img/kiji/ea8ad6-og.jpg",
+    "s": "/img/kiji/ea8ad6-s.jpg",
+    "m": "/img/kiji/ea8ad6-m.jpg",
+    "caption": "八丈町立三根小学校",
+    "credit": "",
+    "file": "own/mitsune-sho-2.jpg"
+   }
   },
   {
    "headline": "富士中2年生が合唱を作文に",
@@ -275,7 +339,17 @@
    "label": "教育・文化",
    "audience": "島民",
    "thread_id": "t20261111-65",
-   "id": "cd6c22"
+   "id": "cd6c22",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/cd6c22.jpg",
+    "og": "/img/kiji/cd6c22-og.jpg",
+    "s": "/img/kiji/cd6c22-s.jpg",
+    "m": "/img/kiji/cd6c22-m.jpg",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "",
+    "file": "own/yakuba-6.jpg"
+   }
   }
  ],
  "agenda": [
