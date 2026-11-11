@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-12T06:47:12+09:00",
+ "built": "2026-11-12T07:06:24+09:00",
  "prev": "/2026/11/11/",
  "next": null,
  "alerts": [],
@@ -187,7 +187,17 @@
   "audience": "島民",
   "thread_id": "t20261112-70",
   "id": "46c97e",
-  "edited": "2026-11-12T06:47:12+09:00"
+  "edited": "2026-11-12T06:47:12+09:00",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/46c97e.jpg?v=9f1eb3",
+   "og": "/img/kiji/46c97e-og.jpg?v=9f1eb3",
+   "s": "/img/kiji/46c97e-s.jpg?v=9f1eb3",
+   "m": "/img/kiji/46c97e-m.jpg?v=9f1eb3",
+   "caption": "森の中の道を進む",
+   "credit": "",
+   "file": "ac/25894994.jpg"
+  }
  },
  "side": [],
  "shorts": [
@@ -402,7 +412,7 @@
    "date": "2026-11-07",
    "url": "/2026/11/07/9d59cc/",
    "headlines": [
-    "支庁 100年後に残したい風景投票"
+    "支庁100周年 風景の島民投票"
    ]
   },
   {
