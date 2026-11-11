@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-12T06:42:19+09:00",
+ "built": "2026-11-12T06:45:44+09:00",
  "prev": "/2026/11/11/",
  "next": null,
  "alerts": [],
@@ -170,60 +170,59 @@
  },
  "number": null,
  "top": {
-  "headline": "八丈高校島民会議、申込は12日",
+  "headline": "Island Biologyでポスター発表賞",
   "body": [
-   "都立八丈高等学校は、令和8年度の島民会議の事前申し込みの期限が12日だと案内している。島民会議は21日9時から12時30分まで、八丈高校で開く。時間は変更になることがある。",
-   "島民会議では、高校2年生が八丈島の「価値」と「課題」を地域の方々と協働して深め、解決策を提案する。オープニングセレモニーとして、文化祭で行う予定だった視聴覚ホール前での合唱を予定している。",
-   "申し込みはQRコード、またはページ内のフォームから行う。当日参加もできるが、希望の分科会を見られない場合がある。学校の代表電話は04996-2-1181。住所は八丈町大賀郷3020。",
-   "同校は2023年12月15日、全日制の2学年が主役の島民会議を開いた。2024年3月26日には、令和5年度の島民会議で取り上げた内容をまとめた意見書を八丈町役場に提出し、町長が直接受け取った。今年は7月14日に、2年生を中心に「進路×探究×八丈」をテーマにしたプレ島民会議を実施している。",
-   "広報はちじょう2023年11月号は、同年の島民会議を12月15日に開くと案内し、協働者を募集した。前年度の学校案内も、島民会議を12月の行事として紹介している。"
+   "国際学会Island Biology 2026のポスター発表賞に、Masae Kyokuさんら6人の発表が選ばれた。学会は11月2〜6日に熱海市で開かれた。",
+   "受賞したのは演題番号PA5-02の「Fungal galls as overlooked habitat islands for insect communities」。著者はMasae Kyokuさん、Masahiro Sueyoshiさん、Sadahisa Yagiさんの3人。ほかにMakoto Tokudaさん、Takuya Kobayashiさん、Masaki Hosoさんが名を連ねる。",
+   "会場は熱海市のニューフジヤホテル。ポスター発表賞は10件で、公式サイトの受賞者ページには、口頭発表8件とポスター発表10件の演題番号と題名が載っている。"
   ],
-  "figure": null,
   "sources": [
    {
-    "label": "東京都立八丈高等学校",
-    "url": "https://x.com/tokyo8jouhs/status/2120427571276046394"
-   },
-   {
-    "label": "広報はちじょう2023年11月号",
-    "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23122723/hachijo2311.pdf"
+    "label": "Island Biology 2026",
+    "url": "https://sites.google.com/view/island-biology-2026/awards"
    }
   ],
   "label": "教育・文化",
   "audience": "島民",
-  "thread_id": "t20261102-24",
-  "followup": true,
-  "id": "9e3099",
-  "photo": {
-   "type": "img",
-   "src": "/img/kiji/9e3099.jpg?v=3ebb69",
-   "og": "/img/kiji/9e3099-og.jpg?v=3ebb69",
-   "s": "/img/kiji/9e3099-s.jpg?v=3ebb69",
-   "m": "/img/kiji/9e3099-m.jpg?v=3ebb69",
-   "caption": "東京都立八丈高等学校",
-   "credit": "",
-   "file": "own/hachijo-koko-1.jpg"
-  }
+  "thread_id": "t20261112-70",
+  "id": "46c97e"
  },
  "side": [],
  "shorts": [
   {
-   "headline": "Island Biologyでポスター発表賞",
+   "headline": "八丈高校島民会議、申込は12日",
    "body": [
-    "国際学会Island Biology 2026のポスター発表賞に、Masae Kyokuさんら6人の発表が選ばれた。学会は11月2〜6日に熱海市で開かれた。",
-    "受賞したのは演題番号PA5-02の「Fungal galls as overlooked habitat islands for insect communities」。著者はMasae Kyokuさん、Masahiro Sueyoshiさん、Sadahisa Yagiさんの3人。ほかにMakoto Tokudaさん、Takuya Kobayashiさん、Masaki Hosoさんが名を連ねる。",
-    "会場は熱海市のニューフジヤホテル。ポスター発表賞は10件で、公式サイトの受賞者ページには、口頭発表8件とポスター発表10件の演題番号と題名が載っている。"
+    "都立八丈高等学校は、令和8年度の島民会議の事前申し込みの期限が12日だと案内している。島民会議は21日9時から12時30分まで、八丈高校で開く。時間は変更になることがある。",
+    "島民会議では、高校2年生が八丈島の「価値」と「課題」を地域の方々と協働して深め、解決策を提案する。オープニングセレモニーとして、文化祭で行う予定だった視聴覚ホール前での合唱を予定している。",
+    "申し込みはQRコード、またはページ内のフォームから行う。当日参加もできるが、希望の分科会を見られない場合がある。学校の代表電話は04996-2-1181。住所は八丈町大賀郷3020。",
+    "同校は2023年12月15日、全日制の2学年が主役の島民会議を開いた。2024年3月26日には、令和5年度の島民会議で取り上げた内容をまとめた意見書を八丈町役場に提出し、町長が直接受け取った。今年は7月14日に、2年生を中心に「進路×探究×八丈」をテーマにしたプレ島民会議を実施している。",
+    "広報はちじょう2023年11月号は、同年の島民会議を12月15日に開くと案内し、協働者を募集した。前年度の学校案内も、島民会議を12月の行事として紹介している。"
    ],
    "sources": [
     {
-     "label": "Island Biology 2026",
-     "url": "https://sites.google.com/view/island-biology-2026/awards"
+     "label": "東京都立八丈高等学校",
+     "url": "https://x.com/tokyo8jouhs/status/2120427571276046394"
+    },
+    {
+     "label": "広報はちじょう2023年11月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23122723/hachijo2311.pdf"
     }
    ],
    "label": "教育・文化",
    "audience": "島民",
-   "thread_id": "t20261112-70",
-   "id": "46c97e"
+   "thread_id": "t20261102-24",
+   "followup": true,
+   "id": "9e3099",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/9e3099.jpg?v=3ebb69",
+    "og": "/img/kiji/9e3099-og.jpg?v=3ebb69",
+    "s": "/img/kiji/9e3099-s.jpg?v=3ebb69",
+    "m": "/img/kiji/9e3099-m.jpg?v=3ebb69",
+    "caption": "東京都立八丈高等学校",
+    "credit": "",
+    "file": "own/hachijo-koko-1.jpg"
+   }
   },
   {
    "headline": "八丈富士トレッキング販売へ",
