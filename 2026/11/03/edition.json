@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-11T07:27:07+09:00",
+ "built": "2026-11-11T23:34:11+09:00",
  "prev": "/2026/11/02/",
  "next": "/2026/11/04/",
  "alerts": [],
@@ -258,13 +258,13 @@
    "id": "9092bc",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/9092bc.jpg?v=e95d83",
-    "og": "/img/kiji/9092bc-og.jpg?v=e95d83",
-    "s": "/img/kiji/9092bc-s.jpg?v=e95d83",
-    "m": "/img/kiji/9092bc-m.jpg?v=e95d83",
-    "caption": "八丈島藍ヶ江港付近からの海と島の一部",
+    "src": "/img/kiji/9092bc.jpg?v=dedfb5",
+    "og": "/img/kiji/9092bc-og.jpg?v=dedfb5",
+    "s": "/img/kiji/9092bc-s.jpg?v=dedfb5",
+    "m": "/img/kiji/9092bc-m.jpg?v=dedfb5",
+    "caption": "藍ヶ江漁港",
     "credit": "",
-    "file": "ac/27267022.jpg"
+    "file": "own/aigae-gyoko-1.jpg"
    }
   },
   {
@@ -530,7 +530,7 @@
    "medal": ""
   }
  ],
- "chrome": "ed40dde8e752",
+ "chrome": "fb11f52ab08f",
  "hyakunen": {
   "then": {
    "ago": "100年前",

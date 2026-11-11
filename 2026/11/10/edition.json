@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-11T07:27:22+09:00",
+ "built": "2026-11-11T23:34:13+09:00",
  "prev": "/2026/11/09/",
  "next": "/2026/11/11/",
  "alerts": [
@@ -328,13 +328,13 @@
    "id": "32a52e",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/32a52e.jpg?v=837275",
-    "og": "/img/kiji/32a52e-og.jpg?v=837275",
-    "s": "/img/kiji/32a52e-s.jpg?v=837275",
-    "m": "/img/kiji/32a52e-m.jpg?v=837275",
-    "caption": "八丈島藍ヶ江港付近からの海と島の一部",
+    "src": "/img/kiji/32a52e.jpg?v=75ff6b",
+    "og": "/img/kiji/32a52e-og.jpg?v=75ff6b",
+    "s": "/img/kiji/32a52e-s.jpg?v=75ff6b",
+    "m": "/img/kiji/32a52e-m.jpg?v=75ff6b",
+    "caption": "藍ヶ江漁港",
     "credit": "",
-    "file": "ac/27267026.jpg"
+    "file": "own/aigae-gyoko-4.jpg"
    }
   }
  ],
@@ -520,5 +520,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "ed40dde8e752"
+ "chrome": "fb11f52ab08f"
 }

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-11T07:27:01+09:00",
+ "built": "2026-11-11T23:34:06+09:00",
  "prev": "/2026/10/30/",
  "next": "/2026/11/01/",
  "alerts": [
@@ -289,13 +289,13 @@
    "id": "bdd6fd",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/bdd6fd.jpg?v=c9dbed",
-    "og": "/img/kiji/bdd6fd-og.jpg?v=c9dbed",
-    "s": "/img/kiji/bdd6fd-s.jpg?v=c9dbed",
-    "m": "/img/kiji/bdd6fd-m.jpg?v=c9dbed",
-    "caption": "八丈町立大賀郷小学校",
+    "src": "/img/kiji/bdd6fd.jpg?v=d623df",
+    "og": "/img/kiji/bdd6fd-og.jpg?v=d623df",
+    "s": "/img/kiji/bdd6fd-s.jpg?v=d623df",
+    "m": "/img/kiji/bdd6fd-m.jpg?v=d623df",
+    "caption": "三原学園(三原小学校・三原中学校)",
     "credit": "",
-    "file": "own/okago-sho-3.jpg"
+    "file": "own/mihara-chu-8.jpg"
    }
   },
   {
@@ -559,7 +559,7 @@
    "medal": ""
   }
  ],
- "chrome": "ed40dde8e752",
+ "chrome": "fb11f52ab08f",
  "hyakunen": {
   "then": {
    "ago": "100年前",

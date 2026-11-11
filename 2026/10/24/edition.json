@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-11T07:26:45+09:00",
+ "built": "2026-11-11T23:34:03+09:00",
  "prev": null,
  "next": "/2026/10/25/",
  "alerts": [
@@ -280,13 +280,13 @@
    "id": "915257",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/915257.jpg?v=50753b",
-    "og": "/img/kiji/915257-og.jpg?v=50753b",
-    "s": "/img/kiji/915257-s.jpg?v=50753b",
-    "m": "/img/kiji/915257-m.jpg?v=50753b",
-    "caption": "東京都八丈支庁",
+    "src": "/img/kiji/915257.jpg?v=bda148",
+    "og": "/img/kiji/915257-og.jpg?v=bda148",
+    "s": "/img/kiji/915257-s.jpg?v=bda148",
+    "m": "/img/kiji/915257-m.jpg?v=bda148",
+    "caption": "服部屋敷",
     "credit": "",
-    "file": "own/shicho-1.jpg"
+    "file": "own/hattori-yashiki-3.jpg"
    }
   },
   {
@@ -469,7 +469,7 @@
   }
  },
  "sora": null,
- "chrome": "ed40dde8e752",
+ "chrome": "fb11f52ab08f",
  "hyakunen": {
   "then": {
    "ago": "100年前",

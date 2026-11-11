@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-11T07:27:05+09:00",
+ "built": "2026-11-11T23:34:08+09:00",
  "prev": "/2026/11/01/",
  "next": "/2026/11/03/",
  "alerts": [
@@ -288,13 +288,13 @@
    "id": "16c349",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/16c349.jpg?v=61ac65",
-    "og": "/img/kiji/16c349-og.jpg?v=61ac65",
-    "s": "/img/kiji/16c349-s.jpg?v=61ac65",
-    "m": "/img/kiji/16c349-m.jpg?v=61ac65",
-    "caption": "八丈町立三根小学校",
+    "src": "/img/kiji/16c349.jpg?v=b3907c",
+    "og": "/img/kiji/16c349-og.jpg?v=b3907c",
+    "s": "/img/kiji/16c349-s.jpg?v=b3907c",
+    "m": "/img/kiji/16c349-m.jpg?v=b3907c",
+    "caption": "三原学園(三原小学校・三原中学校)",
     "credit": "",
-    "file": "own/mitsune-sho-2.jpg"
+    "file": "own/mihara-chu-2.jpg"
    }
   }
  ],
@@ -486,7 +486,7 @@
    "medal": ""
   }
  ],
- "chrome": "ed40dde8e752",
+ "chrome": "fb11f52ab08f",
  "hyakunen": {
   "then": {
    "ago": "100年前",
