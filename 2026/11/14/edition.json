@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T05:10:10+09:00",
+ "built": "2026-11-14T06:54:07+09:00",
  "prev": "/2026/11/13/",
  "next": null,
  "alerts": [
@@ -310,35 +310,30 @@
    }
   },
   {
-   "headline": "八丈高校図書館を14・15日開放",
+   "headline": "三原小6年、末吉の人と給食",
    "body": [
-    "都立八丈高等学校は、図書館を地域の人に14日と15日に開放すると案内した。開館しているときは、正面玄関にのぼりが出る。",
-    "本の貸出は島内在住者に限る。施設内は飲食禁止。",
-    "広報はちじょう2022年2月号によると、中止していた図書室開放を再開した。毎週日曜日の13時30分から15時30分に行っていた。同校によると、2025年5月11日から毎週土・日曜日の9時30分から16時30分に広げた。2026年4月には、集中して読書や自習ができるテーブルが館内に新設され、土日の一般開放で島民も使えるようになった。"
+    "八丈町立三原小学校は13日、末吉地域の人と6年生が食卓を囲む「ふれあい給食」を行った。",
+    "同校によると、この日は沢煮椀、厚揚げの肉みそがけ、ムロぶしごはん、牛乳が出た。"
    ],
    "sources": [
     {
-     "label": "東京都立八丈高等学校",
-     "url": "https://x.com/tokyo8jouhs/status/2121093977298682362"
-    },
-    {
-     "label": "広報はちじょう2022年2月号",
-     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23125713/hachijo2202.pdf"
+     "label": "三原小学校",
+     "url": "https://mihara-es.8jo.ed.jp/n/n2b83c02261b1"
     }
    ],
    "label": "教育・文化",
    "audience": "島民",
-   "thread_id": "t20261114-101",
-   "id": "6d2825",
+   "thread_id": "t20261114-102",
+   "id": "2a5d57",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/6d2825.jpg?v=d53855",
-    "og": "/img/kiji/6d2825-og.jpg?v=d53855",
-    "s": "/img/kiji/6d2825-s.jpg?v=d53855",
-    "m": "/img/kiji/6d2825-m.jpg?v=d53855",
-    "caption": "八丈町立大賀郷中学校",
+    "src": "/img/kiji/2a5d57.jpg?v=d2d4af",
+    "og": "/img/kiji/2a5d57-og.jpg?v=d2d4af",
+    "s": "/img/kiji/2a5d57-s.jpg?v=d2d4af",
+    "m": "/img/kiji/2a5d57-m.jpg?v=d2d4af",
+    "caption": "八丈町立大賀郷小学校",
     "credit": "",
-    "file": "own/okago-chu-1.jpg"
+    "file": "own/okago-sho-2.jpg"
    }
   }
  ],
