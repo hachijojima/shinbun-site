@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-12T19:35:03+09:00",
+ "built": "2026-11-13T09:42:57+09:00",
  "prev": "/2026/11/11/",
  "next": "/2026/11/13/",
  "alerts": [],
@@ -291,13 +291,13 @@
    "id": "4281ce",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4281ce.jpg?v=4ceb84",
-    "og": "/img/kiji/4281ce-og.jpg?v=4ceb84",
-    "s": "/img/kiji/4281ce-s.jpg?v=4ceb84",
-    "m": "/img/kiji/4281ce-m.jpg?v=4ceb84",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/4281ce.jpg?v=4b017d",
+    "og": "/img/kiji/4281ce-og.jpg?v=4b017d",
+    "s": "/img/kiji/4281ce-s.jpg?v=4b017d",
+    "m": "/img/kiji/4281ce-m.jpg?v=4b017d",
+    "caption": "八丈町役場の中",
     "credit": "",
-    "file": "own/yakuba-1.jpg"
+    "file": "own/yakuba-naka-1.jpg"
    }
   },
   {
@@ -443,10 +443,10 @@
   {
    "name": "佐々木丈",
    "slug": "sasaki-takeshi",
-   "at": "2026-11-11T12:11:25+09:00",
-   "url": "https://x.com/greenblue8jo/status/2120353676409942170",
-   "what": "底土清掃ボランティア",
-   "kind": "地域",
+   "at": "2026-11-11T11:10:12+09:00",
+   "url": "https://note.com/sasaki8joe/n/n45864852b1be",
+   "what": "一般質問の準備",
+   "kind": "活動",
    "duty": true,
    "when": "きのう",
    "day": "2026-11-11",
