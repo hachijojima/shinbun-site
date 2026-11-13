@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-11T07:26:54+09:00",
+ "built": "2026-11-13T09:34:22+09:00",
  "prev": "/2026/10/27/",
  "next": "/2026/10/29/",
  "alerts": [
@@ -206,13 +206,13 @@
   "id": "9014bf",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/9014bf.jpg?v=82de26",
-   "og": "/img/kiji/9014bf-og.jpg?v=82de26",
-   "s": "/img/kiji/9014bf-s.jpg?v=82de26",
-   "m": "/img/kiji/9014bf-m.jpg?v=82de26",
-   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+   "src": "/img/kiji/9014bf.jpg?v=6f58c5",
+   "og": "/img/kiji/9014bf-og.jpg?v=6f58c5",
+   "s": "/img/kiji/9014bf-s.jpg?v=6f58c5",
+   "m": "/img/kiji/9014bf-m.jpg?v=6f58c5",
+   "caption": "選挙+投票箱",
    "credit": "",
-   "file": "own/yakuba-4.jpg"
+   "file": "ac/3607816.jpg"
   }
  },
  "side": [],
@@ -471,7 +471,7 @@
  },
  "giin": [
   {
-   "name": "伊藤しょう",
+   "name": "伊藤奨",
    "slug": "ito-sho",
    "at": "2026-10-27T20:43:46+09:00",
    "url": "https://x.com/ito_man1223/status/2115046794845663240",
