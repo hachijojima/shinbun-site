@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T07:26:55+09:00",
+ "built": "2026-11-13T09:30:23+09:00",
  "prev": "/2026/10/04/",
  "next": "/2026/10/06/",
  "alerts": [],
@@ -79,13 +79,13 @@
   "id": "28f763",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/28f763.jpg?v=948365",
-   "og": "/img/kiji/28f763-og.jpg?v=948365",
-   "s": "/img/kiji/28f763-s.jpg?v=948365",
-   "m": "/img/kiji/28f763-m.jpg?v=948365",
-   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+   "src": "/img/kiji/28f763.jpg?v=d5a178",
+   "og": "/img/kiji/28f763-og.jpg?v=d5a178",
+   "s": "/img/kiji/28f763-s.jpg?v=d5a178",
+   "m": "/img/kiji/28f763-m.jpg?v=d5a178",
+   "caption": "災害に備える防災セットの俯瞰写真",
    "credit": "",
-   "file": "own/yakuba-6.jpg"
+   "file": "ac/34615315.jpg"
   }
  },
  "side": [],
@@ -164,13 +164,13 @@
    "id": "4ef5d9",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4ef5d9.jpg?v=3359c6",
-    "og": "/img/kiji/4ef5d9-og.jpg?v=3359c6",
-    "s": "/img/kiji/4ef5d9-s.jpg?v=3359c6",
-    "m": "/img/kiji/4ef5d9-m.jpg?v=3359c6",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/4ef5d9.jpg?v=fc54c5",
+    "og": "/img/kiji/4ef5d9-og.jpg?v=fc54c5",
+    "s": "/img/kiji/4ef5d9-s.jpg?v=fc54c5",
+    "m": "/img/kiji/4ef5d9-m.jpg?v=fc54c5",
+    "caption": "町立八丈病院",
     "credit": "",
-    "file": "own/yakuba-7.jpg"
+    "file": "own/byoin-1.jpg"
    }
   },
   {
