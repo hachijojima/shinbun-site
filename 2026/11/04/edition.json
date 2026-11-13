@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-11T07:27:09+09:00",
+ "built": "2026-11-13T09:39:03+09:00",
  "prev": "/2026/11/03/",
  "next": "/2026/11/05/",
  "alerts": [
@@ -300,13 +300,13 @@
    "edited": "2026-11-04T07:13:10+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/c5a034.jpg?v=4ceb84",
-    "og": "/img/kiji/c5a034-og.jpg?v=4ceb84",
-    "s": "/img/kiji/c5a034-s.jpg?v=4ceb84",
-    "m": "/img/kiji/c5a034-m.jpg?v=4ceb84",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/c5a034.jpg?v=e51268",
+    "og": "/img/kiji/c5a034-og.jpg?v=e51268",
+    "s": "/img/kiji/c5a034-s.jpg?v=e51268",
+    "m": "/img/kiji/c5a034-m.jpg?v=e51268",
+    "caption": "八丈町商工会",
     "credit": "",
-    "file": "own/yakuba-1.jpg"
+    "file": "own/shokokai-2.jpg"
    }
   },
   {
@@ -456,7 +456,7 @@
  },
  "giin": [
   {
-   "name": "伊藤しょう",
+   "name": "伊藤奨",
    "slug": "ito-sho",
    "at": "2026-11-03T00:02:08+09:00",
    "url": "https://x.com/ito_man1223/status/2117271045443035168",
@@ -495,7 +495,7 @@
    "medal": "🥈"
   },
   {
-   "name": "山下のりこ",
+   "name": "山下則子",
    "slug": "yamashita-noriko",
    "at": "2026-11-01T16:03:46+09:00",
    "url": "https://x.com/norikoba1014/status/2116788272383000581",
