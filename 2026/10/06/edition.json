@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T07:49:09+09:00",
+ "built": "2026-11-13T09:31:14+09:00",
  "prev": "/2026/10/05/",
  "next": "/2026/10/24/",
  "alerts": [],
@@ -115,13 +115,13 @@
    "id": "888948",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/888948.jpg?v=c76a39",
-    "og": "/img/kiji/888948-og.jpg?v=c76a39",
-    "s": "/img/kiji/888948-s.jpg?v=c76a39",
-    "m": "/img/kiji/888948-m.jpg?v=c76a39",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/888948.jpg?v=c49d7c",
+    "og": "/img/kiji/888948-og.jpg?v=c49d7c",
+    "s": "/img/kiji/888948-s.jpg?v=c49d7c",
+    "m": "/img/kiji/888948-m.jpg?v=c49d7c",
+    "caption": "八丈町三根出張所・三根公民館",
     "credit": "",
-    "file": "own/yakuba-8.jpg"
+    "file": "own/mitsune-shucchojo-1.jpg"
    }
   },
   {
@@ -218,13 +218,13 @@
    "id": "43468a",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/43468a.jpg?v=6bc72a",
-    "og": "/img/kiji/43468a-og.jpg?v=6bc72a",
-    "s": "/img/kiji/43468a-s.jpg?v=6bc72a",
-    "m": "/img/kiji/43468a-m.jpg?v=6bc72a",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/43468a.jpg?v=4b017d",
+    "og": "/img/kiji/43468a-og.jpg?v=4b017d",
+    "s": "/img/kiji/43468a-s.jpg?v=4b017d",
+    "m": "/img/kiji/43468a-m.jpg?v=4b017d",
+    "caption": "八丈町役場の中",
     "credit": "",
-    "file": "own/yakuba-9.jpg"
+    "file": "own/yakuba-naka-1.jpg"
    }
   }
  ],
