@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T08:40:41+09:00",
+ "built": "2026-11-13T09:22:23+09:00",
  "prev": "/2026/11/12/",
  "next": null,
  "alerts": [
@@ -317,7 +317,17 @@
    "label": "教育・文化",
    "audience": "島民",
    "thread_id": "t20261113-85",
-   "id": "38d86a"
+   "id": "38d86a",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/38d86a.jpg?v=f408f2",
+    "og": "/img/kiji/38d86a-og.jpg?v=f408f2",
+    "s": "/img/kiji/38d86a-s.jpg?v=f408f2",
+    "m": "/img/kiji/38d86a-m.jpg?v=f408f2",
+    "caption": "八丈町立大賀郷中学校",
+    "credit": "",
+    "file": "own/okago-chu-2.jpg"
+   }
   }
  ],
  "agenda": [
