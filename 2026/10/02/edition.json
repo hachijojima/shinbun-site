@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-12T12:29:00+09:00",
+ "built": "2026-11-13T09:28:01+09:00",
  "prev": "/2026/10/01/",
  "next": "/2026/10/03/",
  "alerts": [],
@@ -90,13 +90,13 @@
   "id": "0cc87f",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/0cc87f.jpg?v=7b016a",
-   "og": "/img/kiji/0cc87f-og.jpg?v=7b016a",
-   "s": "/img/kiji/0cc87f-s.jpg?v=7b016a",
-   "m": "/img/kiji/0cc87f-m.jpg?v=7b016a",
-   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+   "src": "/img/kiji/0cc87f.jpg?v=dca1d0",
+   "og": "/img/kiji/0cc87f-og.jpg?v=dca1d0",
+   "s": "/img/kiji/0cc87f-s.jpg?v=dca1d0",
+   "m": "/img/kiji/0cc87f-m.jpg?v=dca1d0",
+   "caption": "台風後の八丈島",
    "credit": "",
-   "file": "own/yakuba-2.jpg"
+   "file": "ac/3595112.jpg"
   }
  },
  "side": [],
@@ -190,13 +190,13 @@
    "id": "8ae9ca",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/8ae9ca.jpg?v=83c20c",
-    "og": "/img/kiji/8ae9ca-og.jpg?v=83c20c",
-    "s": "/img/kiji/8ae9ca-s.jpg?v=83c20c",
-    "m": "/img/kiji/8ae9ca-m.jpg?v=83c20c",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/8ae9ca.jpg?v=19ecd4",
+    "og": "/img/kiji/8ae9ca-og.jpg?v=19ecd4",
+    "s": "/img/kiji/8ae9ca-s.jpg?v=19ecd4",
+    "m": "/img/kiji/8ae9ca-m.jpg?v=19ecd4",
+    "caption": "八丈町コミュニティセンター",
     "credit": "",
-    "file": "own/yakuba-3.jpg"
+    "file": "own/komyuniti-1.jpg"
    }
   },
   {
