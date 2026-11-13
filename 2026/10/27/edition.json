@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-11T07:26:52+09:00",
+ "built": "2026-11-13T09:33:35+09:00",
  "prev": "/2026/10/26/",
  "next": "/2026/10/28/",
  "alerts": [
@@ -262,13 +262,13 @@
    "id": "f76b85",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f76b85.jpg?v=7b016a",
-    "og": "/img/kiji/f76b85-og.jpg?v=7b016a",
-    "s": "/img/kiji/f76b85-s.jpg?v=7b016a",
-    "m": "/img/kiji/f76b85-m.jpg?v=7b016a",
+    "src": "/img/kiji/f76b85.jpg?v=4ceb84",
+    "og": "/img/kiji/f76b85-og.jpg?v=4ceb84",
+    "s": "/img/kiji/f76b85-s.jpg?v=4ceb84",
+    "m": "/img/kiji/f76b85-m.jpg?v=4ceb84",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
-    "file": "own/yakuba-2.jpg"
+    "file": "own/yakuba-1.jpg"
    }
   },
   {
@@ -291,13 +291,13 @@
    "id": "ed6991",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/ed6991.jpg?v=4ceb84",
-    "og": "/img/kiji/ed6991-og.jpg?v=4ceb84",
-    "s": "/img/kiji/ed6991-s.jpg?v=4ceb84",
-    "m": "/img/kiji/ed6991-m.jpg?v=4ceb84",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/ed6991.jpg?v=6aea60",
+    "og": "/img/kiji/ed6991-og.jpg?v=6aea60",
+    "s": "/img/kiji/ed6991-s.jpg?v=6aea60",
+    "m": "/img/kiji/ed6991-m.jpg?v=6aea60",
+    "caption": "東京都立八丈高等学校",
     "credit": "",
-    "file": "own/yakuba-1.jpg"
+    "file": "own/hachijo-koko-2.jpg"
    }
   },
   {
@@ -493,7 +493,7 @@
    "medal": ""
   },
   {
-   "name": "伊藤しょう",
+   "name": "伊藤奨",
    "slug": "ito-sho",
    "at": "2026-10-25T20:48:54+09:00",
    "url": "https://x.com/ito_man1223/status/2114323312075755983",
