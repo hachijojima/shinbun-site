@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-11T07:26:48+09:00",
+ "built": "2026-11-13T09:32:47+09:00",
  "prev": "/2026/10/24/",
  "next": "/2026/10/26/",
  "alerts": [
@@ -259,13 +259,13 @@
    "id": "f39860",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f39860.jpg?v=948365",
-    "og": "/img/kiji/f39860-og.jpg?v=948365",
-    "s": "/img/kiji/f39860-s.jpg?v=948365",
-    "m": "/img/kiji/f39860-m.jpg?v=948365",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/f39860.jpg?v=6aa5a7",
+    "og": "/img/kiji/f39860-og.jpg?v=6aa5a7",
+    "s": "/img/kiji/f39860-s.jpg?v=6aa5a7",
+    "m": "/img/kiji/f39860-m.jpg?v=6aa5a7",
+    "caption": "町立八丈病院",
     "credit": "",
-    "file": "own/yakuba-6.jpg"
+    "file": "own/byoin-2.jpg"
    }
   },
   {
@@ -314,13 +314,13 @@
    "id": "d6b658",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/d6b658.jpg?v=d4ca53",
-    "og": "/img/kiji/d6b658-og.jpg?v=d4ca53",
-    "s": "/img/kiji/d6b658-s.jpg?v=d4ca53",
-    "m": "/img/kiji/d6b658-m.jpg?v=d4ca53",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/d6b658.jpg?v=0a7d4e",
+    "og": "/img/kiji/d6b658-og.jpg?v=0a7d4e",
+    "s": "/img/kiji/d6b658-s.jpg?v=0a7d4e",
+    "m": "/img/kiji/d6b658-m.jpg?v=0a7d4e",
+    "caption": "八丈島観光協会",
     "credit": "",
-    "file": "own/yakuba-5.jpg"
+    "file": "own/kanko-kyokai-1.jpg"
    }
   }
  ],
