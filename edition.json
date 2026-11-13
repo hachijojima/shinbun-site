@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T09:22:23+09:00",
+ "built": "2026-11-13T09:43:45+09:00",
  "prev": "/2026/11/12/",
  "next": null,
  "alerts": [
@@ -263,13 +263,13 @@
    "id": "93230b",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/93230b.jpg?v=82de26",
-    "og": "/img/kiji/93230b-og.jpg?v=82de26",
-    "s": "/img/kiji/93230b-s.jpg?v=82de26",
-    "m": "/img/kiji/93230b-m.jpg?v=82de26",
+    "src": "/img/kiji/93230b.jpg?v=4ceb84",
+    "og": "/img/kiji/93230b-og.jpg?v=4ceb84",
+    "s": "/img/kiji/93230b-s.jpg?v=4ceb84",
+    "m": "/img/kiji/93230b-m.jpg?v=4ceb84",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
-    "file": "own/yakuba-4.jpg"
+    "file": "own/yakuba-1.jpg"
    },
    "edited": "2026-11-13T08:40:41+09:00"
   },
