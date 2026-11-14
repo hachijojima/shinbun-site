@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T06:59:44+09:00",
+ "built": "2026-11-14T15:43:47+09:00",
  "prev": "/2026/11/13/",
  "next": null,
  "alerts": [
@@ -207,13 +207,13 @@
   "id": "bee383",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/bee383.jpg?v=b3bf8a",
-   "og": "/img/kiji/bee383-og.jpg?v=b3bf8a",
-   "s": "/img/kiji/bee383-s.jpg?v=b3bf8a",
-   "m": "/img/kiji/bee383-m.jpg?v=b3bf8a",
-   "caption": "焼酎",
+   "src": "/img/kiji/bee383.jpg?v=4d1b84",
+   "og": "/img/kiji/bee383-og.jpg?v=4d1b84",
+   "s": "/img/kiji/bee383-s.jpg?v=4d1b84",
+   "m": "/img/kiji/bee383-m.jpg?v=4d1b84",
+   "caption": "八丈太鼓",
    "credit": "",
-   "file": "ac/35127811.jpg"
+   "file": "own/hachijo-taiko-1.jpg"
   }
  },
  "side": [],
@@ -296,13 +296,13 @@
    "id": "2a5d57",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/2a5d57.jpg?v=d2d4af",
-    "og": "/img/kiji/2a5d57-og.jpg?v=d2d4af",
-    "s": "/img/kiji/2a5d57-s.jpg?v=d2d4af",
-    "m": "/img/kiji/2a5d57-m.jpg?v=d2d4af",
-    "caption": "八丈町立大賀郷小学校",
+    "src": "/img/kiji/2a5d57.jpg?v=faf6fc",
+    "og": "/img/kiji/2a5d57-og.jpg?v=faf6fc",
+    "s": "/img/kiji/2a5d57-s.jpg?v=faf6fc",
+    "m": "/img/kiji/2a5d57-m.jpg?v=faf6fc",
+    "caption": "八丈町立三原中学校",
     "credit": "",
-    "file": "own/okago-sho-2.jpg"
+    "file": "own/mihara-chu-1.jpg"
    }
   },
   {
@@ -323,13 +323,13 @@
    "id": "721ca3",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/721ca3.jpg?v=ca24d5",
-    "og": "/img/kiji/721ca3-og.jpg?v=ca24d5",
-    "s": "/img/kiji/721ca3-s.jpg?v=ca24d5",
-    "m": "/img/kiji/721ca3-m.jpg?v=ca24d5",
-    "caption": "八丈植物公園メインエントランス",
+    "src": "/img/kiji/721ca3.jpg?v=f11106",
+    "og": "/img/kiji/721ca3-og.jpg?v=f11106",
+    "s": "/img/kiji/721ca3-s.jpg?v=f11106",
+    "m": "/img/kiji/721ca3-m.jpg?v=f11106",
+    "caption": "ツワブキの花",
     "credit": "",
-    "file": "ac/27266206.jpg"
+    "file": "ac/35529369.jpg"
    }
   }
  ],
@@ -527,5 +527,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "fb11f52ab08f"
+ "chrome": "3a7ce9082838"
 }
