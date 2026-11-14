@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-12T07:06:22+09:00",
+ "built": "2026-11-14T15:40:37+09:00",
  "prev": "/2026/11/06/",
  "next": "/2026/11/08/",
  "alerts": [
@@ -487,8 +487,8 @@
   {
    "name": "佐々木丈",
    "slug": "sasaki-takeshi",
-   "at": "2026-11-05T09:29:39+09:00",
-   "url": "https://note.com/sasaki8joe/n/n242c87062425",
+   "at": "2026-11-05T22:12:10+09:00",
+   "url": "https://x.com/greenblue8jo/status/2118330533281411108",
    "what": "ファミリーヒストリー",
    "kind": "話題",
    "duty": false,
@@ -543,5 +543,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "fb11f52ab08f"
+ "chrome": "3a7ce9082838"
 }
