@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T18:57:32+09:00",
+ "built": "2026-11-14T19:19:13+09:00",
  "prev": "/2026/11/02/",
  "next": "/2026/11/04/",
  "alerts": [],
@@ -252,7 +252,7 @@
      "url": "https://x.com/ogasawarashicho/status/2117145221829996912"
     }
    ],
-   "label": "交通・防災",
+   "label": "町政",
    "audience": "両方",
    "thread_id": "t20261103-28",
    "id": "9092bc",
@@ -321,7 +321,7 @@
      "url": "https://x.com/FDA_fujidream/status/2117195354831794194"
     }
    ],
-   "label": "交通・防災",
+   "label": "産業",
    "audience": "両方",
    "thread_id": "t20261103-29",
    "id": "cd4291",
@@ -530,7 +530,7 @@
    "medal": ""
   }
  ],
- "chrome": "46ac1bbfe1e3",
+ "chrome": "ad2e49e8a9aa",
  "hyakunen": {
   "then": {
    "ago": "100年前",

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T18:57:10+09:00",
+ "built": "2026-11-14T19:18:50+09:00",
  "prev": "/2026/10/25/",
  "next": "/2026/10/27/",
  "alerts": [
@@ -270,7 +270,7 @@
      "url": "https://www.jma.go.jp/bosai/quake/data/20261025111715_20261025111028_VXSE5k_1.json"
     }
    ],
-   "label": "交通・防災",
+   "label": "くらし",
    "audience": "両方",
    "id": "4a9b3b",
    "photo": {
@@ -482,7 +482,7 @@
   "url": "https://x.com/ANA_flight_info/status/2114277030959141282",
   "at": "2026-10-25T17:45:00+09:00"
  },
- "chrome": "46ac1bbfe1e3",
+ "chrome": "ad2e49e8a9aa",
  "hyakunen": {
   "then": {
    "ago": "100年前",

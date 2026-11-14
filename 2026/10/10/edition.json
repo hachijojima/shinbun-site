@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T18:56:53+09:00",
+ "built": "2026-11-14T19:18:30+09:00",
  "prev": "/2026/10/09/",
  "next": "/2026/10/11/",
  "alerts": [],
@@ -88,7 +88,7 @@
     "url": "https://x.com/dairyu0317/status/2108387158012887373"
    }
   ],
-  "label": "交通・防災",
+  "label": "くらし",
   "audience": "島民",
   "thread_id": "t20261010-38",
   "id": "09b163",
@@ -359,5 +359,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "46ac1bbfe1e3"
+ "chrome": "ad2e49e8a9aa"
 }

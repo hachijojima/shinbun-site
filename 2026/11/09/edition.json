@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T18:57:49+09:00",
+ "built": "2026-11-14T19:19:30+09:00",
  "prev": "/2026/11/08/",
  "next": "/2026/11/10/",
  "alerts": [
@@ -207,7 +207,7 @@
     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23122723/hachijo2311.pdf"
    }
   ],
-  "label": "交通・防災",
+  "label": "町政",
   "audience": "島民",
   "thread_id": "t20261109-53",
   "id": "c74b34",
@@ -238,7 +238,7 @@
      "url": "https://x.com/AI64742613/status/2119270089413599622"
     }
    ],
-   "label": "交通・防災",
+   "label": "くらし",
    "audience": "両方",
    "thread_id": "t20261109-54",
    "id": "fc42bc",
@@ -540,5 +540,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "46ac1bbfe1e3"
+ "chrome": "ad2e49e8a9aa"
 }
