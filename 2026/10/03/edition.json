@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T09:28:48+09:00",
+ "built": "2026-11-14T15:33:24+09:00",
  "prev": "/2026/10/02/",
  "next": "/2026/10/04/",
  "alerts": [],
@@ -187,13 +187,13 @@
    "id": "33fd7a",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/33fd7a.jpg?v=0a7d4e",
-    "og": "/img/kiji/33fd7a-og.jpg?v=0a7d4e",
-    "s": "/img/kiji/33fd7a-s.jpg?v=0a7d4e",
-    "m": "/img/kiji/33fd7a-m.jpg?v=0a7d4e",
-    "caption": "八丈島観光協会",
+    "src": "/img/kiji/33fd7a.jpg?v=6aea60",
+    "og": "/img/kiji/33fd7a-og.jpg?v=6aea60",
+    "s": "/img/kiji/33fd7a-s.jpg?v=6aea60",
+    "m": "/img/kiji/33fd7a-m.jpg?v=6aea60",
+    "caption": "東京都立八丈高等学校",
     "credit": "",
-    "file": "own/kanko-kyokai-1.jpg"
+    "file": "own/hachijo-koko-2.jpg"
    }
   },
   {
@@ -277,7 +277,7 @@
    "date": "2026-10-02",
    "url": "/2026/10/02/0cc87f/",
    "headlines": [
-    "災害廃棄物の受入先、南原へ"
+    "災害廃棄物の受入先、有明へ"
    ]
   },
   {
@@ -322,5 +322,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "fb11f52ab08f"
+ "chrome": "3a7ce9082838"
 }
