@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T09:27:14+09:00",
+ "built": "2026-11-14T15:31:43+09:00",
  "prev": null,
  "next": "/2026/10/02/",
  "alerts": [],
@@ -202,13 +202,13 @@
    "id": "3828b0",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/3828b0.jpg?v=22b061",
-    "og": "/img/kiji/3828b0-og.jpg?v=22b061",
-    "s": "/img/kiji/3828b0-s.jpg?v=22b061",
-    "m": "/img/kiji/3828b0-m.jpg?v=22b061",
-    "caption": "東屋から見えた大海原と八丈小島",
+    "src": "/img/kiji/3828b0.jpg?v=32f60c",
+    "og": "/img/kiji/3828b0-og.jpg?v=32f60c",
+    "s": "/img/kiji/3828b0-s.jpg?v=32f60c",
+    "m": "/img/kiji/3828b0-m.jpg?v=32f60c",
+    "caption": "八丈島から見た八丈小島",
     "credit": "",
-    "file": "ac/27266943.jpg"
+    "file": "ac/27812368.jpg"
    }
   },
   {
@@ -305,5 +305,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "fb11f52ab08f"
+ "chrome": "3a7ce9082838"
 }
