@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T07:24:03+09:00",
+ "built": "2026-11-14T15:36:36+09:00",
  "prev": "/2026/10/07/",
  "next": "/2026/10/09/",
  "alerts": [],
@@ -117,13 +117,13 @@
    "id": "cc8a9f",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/cc8a9f.jpg?v=64c245",
-    "og": "/img/kiji/cc8a9f-og.jpg?v=64c245",
-    "s": "/img/kiji/cc8a9f-s.jpg?v=64c245",
-    "m": "/img/kiji/cc8a9f-m.jpg?v=64c245",
+    "src": "/img/kiji/cc8a9f.jpg?v=0b5c6f",
+    "og": "/img/kiji/cc8a9f-og.jpg?v=0b5c6f",
+    "s": "/img/kiji/cc8a9f-s.jpg?v=0b5c6f",
+    "m": "/img/kiji/cc8a9f-m.jpg?v=0b5c6f",
     "caption": "八丈町立大賀郷小学校",
     "credit": "",
-    "file": "own/okago-sho-4.jpg"
+    "file": "own/okago-sho-1.jpg"
    }
   },
   {
@@ -150,13 +150,13 @@
    "id": "f0f71f",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f0f71f.jpg?v=bdbe94",
-    "og": "/img/kiji/f0f71f-og.jpg?v=bdbe94",
-    "s": "/img/kiji/f0f71f-s.jpg?v=bdbe94",
-    "m": "/img/kiji/f0f71f-m.jpg?v=bdbe94",
-    "caption": "八丈町立大賀郷小学校",
+    "src": "/img/kiji/f0f71f.jpg?v=410702",
+    "og": "/img/kiji/f0f71f-og.jpg?v=410702",
+    "s": "/img/kiji/f0f71f-s.jpg?v=410702",
+    "m": "/img/kiji/f0f71f-m.jpg?v=410702",
+    "caption": "ボーイング787型機",
     "credit": "",
-    "file": "own/okago-sho-5.jpg"
+    "file": "ac/27318038.jpg"
    }
   },
   {
@@ -315,7 +315,7 @@
    "date": "2026-10-02",
    "url": "/2026/10/02/0cc87f/",
    "headlines": [
-    "災害廃棄物の受入先、南原へ"
+    "災害廃棄物の受入先、有明へ"
    ]
   },
   {
@@ -360,5 +360,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "fb11f52ab08f"
+ "chrome": "3a7ce9082838"
 }
