@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-11T07:27:20+09:00",
+ "built": "2026-11-14T18:57:49+09:00",
  "prev": "/2026/11/08/",
  "next": "/2026/11/10/",
  "alerts": [
@@ -275,7 +275,7 @@
      "url": "https://x.com/hachijoterrace/status/2119322813425455465"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261026-3",
    "followup": true,
@@ -306,7 +306,7 @@
      "url": "https://x.com/sasaosou/status/2119296219424125271"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "島民",
    "thread_id": "t20261107-45",
    "followup": true,
@@ -407,7 +407,7 @@
    "date": "2026-11-07",
    "url": "/2026/11/07/9d59cc/",
    "headlines": [
-    "支庁 100年後に残したい風景投票"
+    "支庁100周年 風景の島民投票"
    ]
   },
   {
@@ -469,7 +469,7 @@
    "medal": "🥇"
   },
   {
-   "name": "山下のりこ",
+   "name": "山下則子",
    "slug": "yamashita-noriko",
    "at": "2026-11-07T19:22:35+09:00",
    "url": "https://x.com/norikoba1014/status/2119012633651364214",
@@ -482,7 +482,7 @@
    "medal": "🥇"
   },
   {
-   "name": "伊藤しょう",
+   "name": "伊藤奨",
    "slug": "ito-sho",
    "at": "2026-11-06T19:50:49+09:00",
    "url": "https://x.com/ito_man1223/status/2118657349946839515",
@@ -540,5 +540,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "fb11f52ab08f"
+ "chrome": "46ac1bbfe1e3"
 }

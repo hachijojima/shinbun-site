@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T09:30:23+09:00",
+ "built": "2026-11-14T18:56:38+09:00",
  "prev": "/2026/10/04/",
  "next": "/2026/10/06/",
  "alerts": [],
@@ -194,7 +194,7 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23141553/hachijo1510.pdf"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261005-24",
    "id": "6d31ed",
@@ -273,7 +273,7 @@
    "date": "2026-10-02",
    "url": "/2026/10/02/0cc87f/",
    "headlines": [
-    "災害廃棄物の受入先、南原へ"
+    "災害廃棄物の受入先、有明へ"
    ]
   },
   {
@@ -318,5 +318,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "fb11f52ab08f"
+ "chrome": "46ac1bbfe1e3"
 }

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T18:26:22+09:00",
+ "built": "2026-11-14T18:57:16+09:00",
  "prev": "/2026/10/27/",
  "next": "/2026/10/29/",
  "alerts": [
@@ -262,7 +262,7 @@
      "url": "https://okago-jhs.8jo.ed.jp/n/n642f035e6823"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261028-10",
    "id": "2184e7",
@@ -317,7 +317,7 @@
      "url": "https://okago-es.8jo.ed.jp/n/n28b6406b5701"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261028-34",
    "id": "5620a7",
@@ -536,7 +536,7 @@
    "medal": "🥉"
   }
  ],
- "chrome": "3a7ce9082838",
+ "chrome": "46ac1bbfe1e3",
  "hyakunen": {
   "then": {
    "ago": "100年前",

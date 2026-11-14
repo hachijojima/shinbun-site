@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T15:39:50+09:00",
+ "built": "2026-11-14T18:57:30+09:00",
  "prev": "/2026/11/01/",
  "next": "/2026/11/03/",
  "alerts": [
@@ -155,7 +155,7 @@
     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23114458/hachijo2510.pdf"
    }
   ],
-  "label": "教育・文化",
+  "label": "教育",
   "audience": "島民",
   "thread_id": "t20261102-24",
   "id": "16ecab",
@@ -186,7 +186,7 @@
      "url": "https://forms.gle/C6c3qq46nJwX3EvV8"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261102-25",
    "id": "d0f060",
@@ -281,7 +281,7 @@
      "url": "https://mihara-jhs.8jo.ed.jp/n/n29943fb9d15e"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261031-21",
    "followup": true,
@@ -486,7 +486,7 @@
    "medal": ""
   }
  ],
- "chrome": "3a7ce9082838",
+ "chrome": "46ac1bbfe1e3",
  "hyakunen": {
   "then": {
    "ago": "100年前",

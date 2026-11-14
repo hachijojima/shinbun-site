@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T09:42:09+09:00",
+ "built": "2026-11-14T18:57:54+09:00",
  "prev": "/2026/11/10/",
  "next": "/2026/11/12/",
  "alerts": [
@@ -303,7 +303,7 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23114354/hachijo2502.pdf"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261028-34",
    "followup": true,
@@ -332,7 +332,7 @@
      "url": "https://mitsune-es.8jo.ed.jp/n/n534106a1f82a"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261111-64",
    "id": "ea8ad6",
@@ -530,5 +530,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "fb11f52ab08f"
+ "chrome": "46ac1bbfe1e3"
 }

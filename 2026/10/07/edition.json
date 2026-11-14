@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T15:35:47+09:00",
+ "built": "2026-11-14T18:56:44+09:00",
  "prev": "/2026/10/06/",
  "next": "/2026/10/08/",
  "alerts": [],
@@ -156,7 +156,7 @@
      "url": "https://okago-jhs.8jo.ed.jp/n/na6e57864cd1f"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261005-24",
    "followup": true,
@@ -189,7 +189,7 @@
      "url": "https://www.kyoiku.metro.tokyo.lg.jp/static/special_needs_school/seicho-sh.html"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261007-29",
    "id": "0c328f",
@@ -348,5 +348,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "3a7ce9082838"
+ "chrome": "46ac1bbfe1e3"
 }

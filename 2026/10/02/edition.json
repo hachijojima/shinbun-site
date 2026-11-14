@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T15:32:36+09:00",
+ "built": "2026-11-14T18:56:30+09:00",
  "prev": "/2026/10/01/",
  "next": "/2026/10/03/",
  "alerts": [],
@@ -119,7 +119,7 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23114515/hachijo2511.pdf"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261002-7",
    "id": "efb39e",
@@ -151,7 +151,7 @@
      "url": "https://hachijonows.wixsite.com/2021/%E9%96%8B%E5%82%AC%E8%A6%81%E9%A0%85"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261002-8",
    "id": "989fa9",
@@ -211,7 +211,7 @@
      "url": "https://x.com/OreOre_Island/status/2105471926009471073"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261002-10",
    "id": "d8e2bb",
@@ -303,5 +303,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "3a7ce9082838"
+ "chrome": "46ac1bbfe1e3"
 }

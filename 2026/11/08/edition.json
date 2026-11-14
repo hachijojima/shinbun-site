@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T15:41:24+09:00",
+ "built": "2026-11-14T18:57:46+09:00",
  "prev": "/2026/11/07/",
  "next": "/2026/11/09/",
  "alerts": [
@@ -234,7 +234,7 @@
      "url": "https://www.hachijo.gr.jp/blogs/ubaihoumeireisai_2024/"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261026-3",
    "followup": true,
@@ -267,7 +267,7 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23122716/hachijo2301.pdf"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261028-10",
    "followup": true,
@@ -300,7 +300,7 @@
      "url": "https://x.com/8jobunka/status/2117544042221437156"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261108-51",
    "id": "065618",
@@ -582,5 +582,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "3a7ce9082838"
+ "chrome": "46ac1bbfe1e3"
 }

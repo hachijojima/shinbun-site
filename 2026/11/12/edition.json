@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T15:42:11+09:00",
+ "built": "2026-11-14T18:57:57+09:00",
  "prev": "/2026/11/11/",
  "next": "/2026/11/13/",
  "alerts": [],
@@ -183,7 +183,7 @@
     "url": "https://sites.google.com/view/island-biology-2026/awards"
    }
   ],
-  "label": "教育・文化",
+  "label": "文化",
   "audience": "島民",
   "thread_id": "t20261112-70",
   "id": "46c97e",
@@ -220,7 +220,7 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23122723/hachijo2311.pdf"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "島民",
    "thread_id": "t20261102-24",
    "followup": true,
@@ -314,7 +314,7 @@
      "url": "https://x.com/tokyo8jouhs/status/2120439084669874661"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261112-67",
    "id": "eb54d1",
@@ -512,5 +512,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "3a7ce9082838"
+ "chrome": "46ac1bbfe1e3"
 }

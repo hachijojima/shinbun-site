@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T15:35:30+09:00",
+ "built": "2026-11-14T18:56:53+09:00",
  "prev": "/2026/10/09/",
  "next": "/2026/10/11/",
  "alerts": [],
@@ -159,7 +159,7 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23125648/hachijo2211.pdf"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261010-39",
    "id": "51563e",
@@ -279,7 +279,7 @@
    "date": "2026-10-09",
    "url": "/2026/10/09/02ced7/",
    "headlines": [
-    "東海汽船8日朝着、9時20分と案内"
+    "さるびあ丸、8日朝の入港を案内"
    ]
   },
   {
@@ -359,5 +359,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "3a7ce9082838"
+ "chrome": "46ac1bbfe1e3"
 }

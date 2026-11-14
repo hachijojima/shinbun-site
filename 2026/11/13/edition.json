@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T15:42:59+09:00",
+ "built": "2026-11-14T18:58:00+09:00",
  "prev": "/2026/11/12/",
  "next": "/2026/11/14/",
  "alerts": [
@@ -258,7 +258,7 @@
      "url": "https://entry.piano.or.jp/step/holds/detail/202672762"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "島民",
    "thread_id": "t20261113-82",
    "id": "93230b",
@@ -287,7 +287,7 @@
      "url": "https://www.tokyo-park.or.jp/park/hachijo/news/info/2026/hachijo_info_205.html"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261113-83",
    "id": "dc8742",
@@ -316,7 +316,7 @@
      "url": "https://fuji-jhs.8jo.ed.jp/n/n44833b889d63"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261113-85",
    "id": "38d86a",
@@ -520,5 +520,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "3a7ce9082838"
+ "chrome": "46ac1bbfe1e3"
 }

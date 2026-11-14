@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T18:34:53+09:00",
+ "built": "2026-11-14T18:57:02+09:00",
  "prev": "/2026/10/12/",
  "next": "/2026/10/24/",
  "alerts": [],
@@ -77,7 +77,7 @@
     "url": "https://prtimes.jp/main/html/rd/p/000000023.000041737.html"
    }
   ],
-  "label": "教育・文化",
+  "label": "教育",
   "audience": "島民",
   "thread_id": "t20261013-47",
   "id": "ed42a4",
@@ -112,7 +112,7 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23150613/hachijo0710.pdf"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261009-35",
    "followup": true,
@@ -246,5 +246,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "3a7ce9082838"
+ "chrome": "46ac1bbfe1e3"
 }

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T18:27:10+09:00",
+ "built": "2026-11-14T18:58:03+09:00",
  "prev": "/2026/11/13/",
  "next": null,
  "alerts": [
@@ -201,7 +201,7 @@
     "url": "https://www.i-lander.com/2026/"
    },
    {
-    "label": "写真:公益財団法人日本離島センターのプレスリリース(PR TIMES)",
+    "label": "写真:公益財団法人日本離島センターのプレスリリース",
     "url": "https://prtimes.jp/main/html/rd/p/000000012.000111186.html"
    }
   ],
@@ -267,7 +267,7 @@
      "url": "https://x.com/253nico8jo/status/2121027370434130160"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261114-100",
    "id": "c533f5",
@@ -294,7 +294,7 @@
      "url": "https://mihara-es.8jo.ed.jp/n/n2b83c02261b1"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261114-102",
    "id": "2a5d57",
@@ -321,7 +321,7 @@
      "url": "https://www.tokyo-park.or.jp/park/hachijo/news/info/2026/hachijo_info_206.html"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261114-99",
    "id": "721ca3",
@@ -531,5 +531,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "3a7ce9082838"
+ "chrome": "46ac1bbfe1e3"
 }

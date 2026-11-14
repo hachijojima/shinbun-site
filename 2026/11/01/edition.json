@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T09:36:43+09:00",
+ "built": "2026-11-14T18:57:27+09:00",
  "prev": "/2026/10/31/",
  "next": "/2026/11/02/",
  "alerts": [
@@ -202,7 +202,7 @@
     "url": "https://x.com/enkel_to_hare/status/2116448657860178002"
    }
   ],
-  "label": "教育・文化",
+  "label": "文化",
   "audience": "両方",
   "thread_id": "t20261030-15",
   "followup": true,
@@ -234,7 +234,7 @@
      "url": "https://www.tokyo-park.or.jp/park/hachijo/news/event/2026/2026_11.html"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261101-23",
    "id": "86c6d2",
@@ -323,7 +323,7 @@
      "url": "https://mitsune-es.8jo.ed.jp/n/n5da0043b4640"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261028-10",
    "followup": true,
@@ -578,7 +578,7 @@
    "medal": ""
   }
  ],
- "chrome": "fb11f52ab08f",
+ "chrome": "46ac1bbfe1e3",
  "hyakunen": {
   "then": {
    "ago": "100年前",
