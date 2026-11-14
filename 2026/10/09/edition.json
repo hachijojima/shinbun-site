@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T15:15:47+09:00",
+ "built": "2026-11-14T15:37:26+09:00",
  "prev": "/2026/10/08/",
  "next": "/2026/10/10/",
  "alerts": [],
@@ -155,13 +155,13 @@
    "id": "77ac2c",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/77ac2c.jpg?v=ab3fc3",
-    "og": "/img/kiji/77ac2c-og.jpg?v=ab3fc3",
-    "s": "/img/kiji/77ac2c-s.jpg?v=ab3fc3",
-    "m": "/img/kiji/77ac2c-m.jpg?v=ab3fc3",
-    "caption": "八丈町商工会",
+    "src": "/img/kiji/77ac2c.jpg?v=a3a65c",
+    "og": "/img/kiji/77ac2c-og.jpg?v=a3a65c",
+    "s": "/img/kiji/77ac2c-s.jpg?v=a3a65c",
+    "m": "/img/kiji/77ac2c-m.jpg?v=a3a65c",
+    "caption": "お好み焼き",
     "credit": "",
-    "file": "own/shokokai-1.jpg"
+    "file": "ac/35536482.jpg"
    }
   },
   {
