@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T18:32:57+09:00",
+ "built": "2026-11-14T18:33:56+09:00",
  "prev": "/2026/10/10/",
  "next": "/2026/10/12/",
  "alerts": [],
@@ -177,6 +177,34 @@
     "caption": "八丈町立三原中学校",
     "credit": "",
     "file": "own/mihara-chu-4.jpg"
+   }
+  },
+  {
+   "headline": "デイサービスまどかへ手拭い",
+   "body": [
+    "デイサービスまどかに3日、瀬戸内市の市民劇団から手拭いが贈られた。Peace Smileによると、手書きの手紙も添えられ、利用者が喜んだという。",
+    "Peace Smileは、これまでにも贈り物や訪問があったと伝えている。2025年3月5日には、前年の2024年に宇喜多秀家の大河ドラマの招致活動をしている人たちがデイホームまどかを訪れたと伝えた。",
+    "同じ日には、先日たくさんのお菓子が送られ、みな喜んでいたとも伝えた。"
+   ],
+   "sources": [
+    {
+     "label": "Peace Smile",
+     "url": "https://x.com/PeaceSm18890636/status/2106186300512710900"
+    }
+   ],
+   "label": "くらし",
+   "audience": "島民",
+   "thread_id": "t20261011-43",
+   "id": "15adb6",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/15adb6.jpg?v=c78a5a",
+    "og": "/img/kiji/15adb6-og.jpg?v=c78a5a",
+    "s": "/img/kiji/15adb6-s.jpg?v=c78a5a",
+    "m": "/img/kiji/15adb6-m.jpg?v=c78a5a",
+    "caption": "社会福祉法人 養和会",
+    "credit": "",
+    "file": "own/yowakai-1.jpg"
    }
   }
  ],
