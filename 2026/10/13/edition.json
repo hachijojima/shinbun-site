@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T19:11:34+09:00",
+ "built": "2026-11-14T19:12:50+09:00",
  "prev": "/2026/10/12/",
  "next": "/2026/10/14/",
  "alerts": [],
@@ -148,10 +148,6 @@
     {
      "label": "広報はちじょう2019年10月号",
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23133650/hachijo1910.pdf"
-    },
-    {
-     "label": "写真:国土交通省 報道発表資料「アイランダー2026」のチラシから切り出し",
-     "url": "https://www.mlit.go.jp/report/press/content/002027089.pdf"
     }
    ],
    "label": "文化",
@@ -160,13 +156,13 @@
    "id": "a41727",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/a41727.jpg?v=5cb8bd",
-    "og": "/img/kiji/a41727-og.jpg?v=5cb8bd",
-    "s": "/img/kiji/a41727-s.jpg?v=5cb8bd",
-    "m": "/img/kiji/a41727-m.jpg?v=5cb8bd",
+    "src": "/img/kiji/a41727.jpg?v=c9a62f",
+    "og": "/img/kiji/a41727-og.jpg?v=c9a62f",
+    "s": "/img/kiji/a41727-s.jpg?v=c9a62f",
+    "m": "/img/kiji/a41727-m.jpg?v=c9a62f",
     "caption": "八丈太鼓",
     "credit": "",
-    "file": "press/i-lander2026-taiko.jpg"
+    "file": "own/hachijo-taiko-2.jpg"
    }
   },
   {
@@ -180,10 +176,6 @@
     {
      "label": "URUCRAFTWORKS",
      "url": "https://x.com/URUHACHI/status/2109413479224590732"
-    },
-    {
-     "label": "x.com",
-     "url": "https://x.com/URUHACHI/status/2098599823725469928"
     }
    ],
    "label": "産業",
