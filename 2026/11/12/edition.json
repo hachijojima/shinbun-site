@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T09:42:57+09:00",
+ "built": "2026-11-14T15:42:11+09:00",
  "prev": "/2026/11/11/",
  "next": "/2026/11/13/",
  "alerts": [],
@@ -258,13 +258,13 @@
    "id": "fcd1ed",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/fcd1ed.jpg?v=321274",
-    "og": "/img/kiji/fcd1ed-og.jpg?v=321274",
-    "s": "/img/kiji/fcd1ed-s.jpg?v=321274",
-    "m": "/img/kiji/fcd1ed-m.jpg?v=321274",
-    "caption": "風景 東京 竹芝客船ターミナル 橘丸",
+    "src": "/img/kiji/fcd1ed.jpg?v=1c3376",
+    "og": "/img/kiji/fcd1ed-og.jpg?v=1c3376",
+    "s": "/img/kiji/fcd1ed-s.jpg?v=1c3376",
+    "m": "/img/kiji/fcd1ed-m.jpg?v=1c3376",
+    "caption": "八丈富士 浅間神社",
     "credit": "",
-    "file": "ac/28438942.jpg"
+    "file": "ac/34534975.jpg"
    }
   },
   {
@@ -512,5 +512,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "fb11f52ab08f"
+ "chrome": "3a7ce9082838"
 }
