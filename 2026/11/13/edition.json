@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T12:02:59+09:00",
+ "built": "2026-11-14T15:42:59+09:00",
  "prev": "/2026/11/12/",
  "next": "/2026/11/14/",
  "alerts": [
@@ -293,13 +293,13 @@
    "id": "dc8742",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/dc8742.jpg?v=9d75ab",
-    "og": "/img/kiji/dc8742-og.jpg?v=9d75ab",
-    "s": "/img/kiji/dc8742-s.jpg?v=9d75ab",
-    "m": "/img/kiji/dc8742-m.jpg?v=9d75ab",
-    "caption": "八丈島ビジターセンター入口",
+    "src": "/img/kiji/dc8742.jpg?v=2b3774",
+    "og": "/img/kiji/dc8742-og.jpg?v=2b3774",
+    "s": "/img/kiji/dc8742-s.jpg?v=2b3774",
+    "m": "/img/kiji/dc8742-m.jpg?v=2b3774",
+    "caption": "ツルソバ",
     "credit": "",
-    "file": "ac/5026921.jpg"
+    "file": "ac/4164047.jpg"
    },
    "edited": "2026-11-13T11:31:36+09:00"
   },
@@ -520,5 +520,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "fb11f52ab08f"
+ "chrome": "3a7ce9082838"
 }
