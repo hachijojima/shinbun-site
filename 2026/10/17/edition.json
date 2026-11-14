@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T20:21:08+09:00",
+ "built": "2026-11-15T00:02:02+09:00",
  "prev": "/2026/10/16/",
  "next": "/2026/10/24/",
  "alerts": [],
@@ -90,7 +90,135 @@
   "id": "62c9f1"
  },
  "side": [],
- "shorts": [],
+ "shorts": [
+  {
+   "headline": "こども性暴力防止法、窓口を案内",
+   "body": [
+    "八丈町教育委員会と町立小中学校長は16日、こども性暴力防止法の施行に向けた学校の取り組みと相談窓口を案内した。大賀郷小学校を通じて伝えた。",
+    "気になることがある場合も、学校や資料に載っている窓口に相談してよいと呼びかけている。",
+    "広報はちじょう2026年9月号によると、教育委員会だよりで教育相談や子どもの相談窓口を案内している。"
+   ],
+   "sources": [
+    {
+     "label": "大賀郷小学校",
+     "url": "https://okago-es.8jo.ed.jp/n/n6f6254042504"
+    },
+    {
+     "label": "広報はちじょう2026年9月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/07/31155211/hachijo2609.pdf"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20261017-138",
+   "id": "a43f89",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/a43f89.jpg?v=0b5c6f",
+    "og": "/img/kiji/a43f89-og.jpg?v=0b5c6f",
+    "s": "/img/kiji/a43f89-s.jpg?v=0b5c6f",
+    "m": "/img/kiji/a43f89-m.jpg?v=0b5c6f",
+    "caption": "八丈町立大賀郷小学校",
+    "credit": "",
+    "file": "own/okago-sho-1.jpg"
+   }
+  },
+  {
+   "headline": "空港で空の日北海道物産展",
+   "body": [
+    "八丈島空港ターミナルビルは18日9時30分から16時まで、八丈島空港ロビーで空の日の北海道物産展を開くと案内した。",
+    "北海道のお菓子、ラーメン、スープカレー、いかめし、チーズケーキなどを売る。数量限定で、売り切れ次第終わる。支払いは現金のみ。",
+    "ターミナルビルは公式サイトのお知らせで、18日の空の日イベントを案内している。内容はANAキッズマーシャリング体験とプッシュバック体験。",
+    "ターミナルビルは5月29日、空の日イベントを9月20日に開くと知らせた。9月18日に台風の接近で中止とし、9月24日に18日へ改めて、一部規模を縮小して開くと知らせた。",
+    "2024年の空の日には、9月22日に能登物産展を開くと9月17日に知らせた。収益金は能登豪雨災害義援金に寄付すると、9月30日に知らせた。"
+   ],
+   "sources": [
+    {
+     "label": "八丈島空港ターミナルビル",
+     "url": "https://x.com/HAT_info_8jo/status/2110918148744761392"
+    }
+   ],
+   "label": "産業",
+   "audience": "両方",
+   "thread_id": "t20261003-13",
+   "followup": true,
+   "id": "5619ae",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/5619ae.jpg?v=c65a12",
+    "og": "/img/kiji/5619ae-og.jpg?v=c65a12",
+    "s": "/img/kiji/5619ae-s.jpg?v=c65a12",
+    "m": "/img/kiji/5619ae-m.jpg?v=c65a12",
+    "caption": "八丈島空港ターミナル(Hachijojima Airport Terminal Building, Tokyo)",
+    "credit": "",
+    "file": "ac/4920724.jpg"
+   }
+  },
+  {
+   "headline": "大賀郷中、24日に音楽会",
+   "body": [
+    "八丈町立大賀郷中学校は24日に、合唱の音楽会を開く。3年生は、在校中これが最後の音楽会になり、金賞を目指しているという。",
+    "同校によると、放課後の練習は15日、朝の練習は16日に始まった。音楽の先生は、歌詞が表す内容を聴く人に届けるつもりで歌うよう助言した。生徒たちは、仲間と気づいた課題も踏まえて合唱を仕上げている。",
+    "広報はちじょう2023年10月号によると、2023年の音楽会は町多目的ホールでの開催と案内された。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町立大賀郷中学校",
+     "url": "https://okago-jhs.8jo.ed.jp/n/nb4824c5c029b"
+    },
+    {
+     "label": "広報はちじょう2023年10月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23122726/hachijo2310.pdf"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20261017-139",
+   "id": "dca2e2",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/dca2e2.jpg?v=d53855",
+    "og": "/img/kiji/dca2e2-og.jpg?v=d53855",
+    "s": "/img/kiji/dca2e2-s.jpg?v=d53855",
+    "m": "/img/kiji/dca2e2-m.jpg?v=d53855",
+    "caption": "八丈町立大賀郷中学校",
+    "credit": "",
+    "file": "own/okago-chu-1.jpg"
+   }
+  },
+  {
+   "headline": "大賀郷中、職場体験の学びを発表",
+   "body": [
+    "大賀郷中学校(八丈町立)で16日、9月に実施した職場体験の事後学習があり、生徒がスライドで発表した。各生徒が体験した仕事の内容と学びを伝えた。",
+    "発表では、体験を受け入れた事業所への感謝も伝えている。同校によると、発表は事後学習として開いた。",
+    "広報はちじょう2017年7月号によると、同校の職場体験の報告は、修学旅行の報告とともに教育委員会だよりに載った。"
+   ],
+   "sources": [
+    {
+     "label": "大賀郷中学校",
+     "url": "https://okago-jhs.8jo.ed.jp/n/ne4a2b8a727ab"
+    },
+    {
+     "label": "広報はちじょう2017年7月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23134939/hachijo1707.pdf"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20261017-140",
+   "id": "b163af",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/b163af.jpg?v=f408f2",
+    "og": "/img/kiji/b163af-og.jpg?v=f408f2",
+    "s": "/img/kiji/b163af-s.jpg?v=f408f2",
+    "m": "/img/kiji/b163af-m.jpg?v=f408f2",
+    "caption": "八丈町立大賀郷中学校",
+    "credit": "",
+    "file": "own/okago-chu-2.jpg"
+   }
+  }
+ ],
  "agenda": [
   {
    "date": "2026-10-17",
