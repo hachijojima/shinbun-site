@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T14:55:10+09:00",
+ "built": "2026-11-14T15:32:36+09:00",
  "prev": "/2026/10/01/",
  "next": "/2026/10/03/",
  "alerts": [],
@@ -190,13 +190,13 @@
    "id": "8ae9ca",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/8ae9ca.jpg?v=19ecd4",
-    "og": "/img/kiji/8ae9ca-og.jpg?v=19ecd4",
-    "s": "/img/kiji/8ae9ca-s.jpg?v=19ecd4",
-    "m": "/img/kiji/8ae9ca-m.jpg?v=19ecd4",
-    "caption": "八丈町コミュニティセンター",
+    "src": "/img/kiji/8ae9ca.jpg?v=e9665e",
+    "og": "/img/kiji/8ae9ca-og.jpg?v=e9665e",
+    "s": "/img/kiji/8ae9ca-s.jpg?v=e9665e",
+    "m": "/img/kiji/8ae9ca-m.jpg?v=e9665e",
+    "caption": "八丈島の道路",
     "credit": "",
-    "file": "own/komyuniti-1.jpg"
+    "file": "ac/3970431.jpg"
    }
   },
   {
@@ -217,13 +217,13 @@
    "id": "d8e2bb",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/d8e2bb.jpg?v=16bf86",
-    "og": "/img/kiji/d8e2bb-og.jpg?v=16bf86",
-    "s": "/img/kiji/d8e2bb-s.jpg?v=16bf86",
-    "m": "/img/kiji/d8e2bb-m.jpg?v=16bf86",
-    "caption": "明日葉ビール",
+    "src": "/img/kiji/d8e2bb.jpg?v=567798",
+    "og": "/img/kiji/d8e2bb-og.jpg?v=567798",
+    "s": "/img/kiji/d8e2bb-s.jpg?v=567798",
+    "m": "/img/kiji/d8e2bb-m.jpg?v=567798",
+    "caption": "八丈ビューホテル",
     "credit": "",
-    "file": "ac/35127807.jpg"
+    "file": "own/view-hotel-1.jpg"
    }
   }
  ],
@@ -303,5 +303,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "fb11f52ab08f"
+ "chrome": "3a7ce9082838"
 }
