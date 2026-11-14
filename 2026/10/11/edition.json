@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T18:31:01+09:00",
+ "built": "2026-11-14T18:32:57+09:00",
  "prev": "/2026/10/10/",
  "next": "/2026/10/12/",
  "alerts": [],
@@ -152,31 +152,31 @@
    }
   },
   {
-   "headline": "デイサービスまどかへ手拭い",
+   "headline": "三原中1年が刺繍体験",
    "body": [
-    "デイサービスまどかに3日、瀬戸内市の市民劇団から手拭いが贈られた。Peace Smileによると、手書きの手紙も添えられ、利用者が喜んだという。",
-    "Peace Smileは、これまでにも贈り物や訪問があったと伝えている。2025年3月5日には、前年の2024年に宇喜多秀家の大河ドラマの招致活動をしている人たちがデイホームまどかを訪れたと伝えた。",
-    "同じ日には、先日たくさんのお菓子が送られ、みな喜んでいたとも伝えた。"
+    "6日、八丈町立三原中学校で1年生が家庭科の授業で刺繍体験教室を受けた。刺繍作家を講師に招いた。",
+    "授業では刺繍の基本のステッチを学んだ。フェルト生地に、500円玉ほどの大きさの刺繍を施したマスコットを作った。生徒は思い描いた線を、一針ずつ縫っていった。",
+    "講師の刺繍作家が三原中学校を訪れるのは2年続けてである。当日は雨の日だった。"
    ],
    "sources": [
     {
-     "label": "Peace Smile",
-     "url": "https://x.com/PeaceSm18890636/status/2106186300512710900"
+     "label": "八丈町立三原中学校",
+     "url": "https://mihara-jhs.8jo.ed.jp/n/n678226ef7652"
     }
    ],
-   "label": "くらし",
+   "label": "教育・文化",
    "audience": "島民",
-   "thread_id": "t20261011-43",
-   "id": "15adb6",
+   "thread_id": "t20261011-121",
+   "id": "4feb93",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/15adb6.jpg?v=c78a5a",
-    "og": "/img/kiji/15adb6-og.jpg?v=c78a5a",
-    "s": "/img/kiji/15adb6-s.jpg?v=c78a5a",
-    "m": "/img/kiji/15adb6-m.jpg?v=c78a5a",
-    "caption": "社会福祉法人 養和会",
+    "src": "/img/kiji/4feb93.jpg?v=221655",
+    "og": "/img/kiji/4feb93-og.jpg?v=221655",
+    "s": "/img/kiji/4feb93-s.jpg?v=221655",
+    "m": "/img/kiji/4feb93-m.jpg?v=221655",
+    "caption": "八丈町立三原中学校",
     "credit": "",
-    "file": "own/yowakai-1.jpg"
+    "file": "own/mihara-chu-4.jpg"
    }
   }
  ],
