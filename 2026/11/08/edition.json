@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T09:40:36+09:00",
+ "built": "2026-11-14T15:41:24+09:00",
  "prev": "/2026/11/07/",
  "next": "/2026/11/09/",
  "alerts": [
@@ -333,13 +333,13 @@
    "id": "be51b1",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/be51b1.jpg?v=4fd090",
-    "og": "/img/kiji/be51b1-og.jpg?v=4fd090",
-    "s": "/img/kiji/be51b1-s.jpg?v=4fd090",
-    "m": "/img/kiji/be51b1-m.jpg?v=4fd090",
-    "caption": "八丈島ふれあい牧場の牛",
+    "src": "/img/kiji/be51b1.jpg?v=4a2d3b",
+    "og": "/img/kiji/be51b1-og.jpg?v=4a2d3b",
+    "s": "/img/kiji/be51b1-s.jpg?v=4a2d3b",
+    "m": "/img/kiji/be51b1-m.jpg?v=4a2d3b",
+    "caption": "八丈島乳業直営 ゆーゆー牧場",
     "credit": "",
-    "file": "ac/27266491.jpg"
+    "file": "own/yuyu-bokujo-1.jpg"
    }
   }
  ],
@@ -582,5 +582,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "fb11f52ab08f"
+ "chrome": "3a7ce9082838"
 }
