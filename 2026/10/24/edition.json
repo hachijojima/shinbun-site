@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-13T09:32:01+09:00",
+ "built": "2026-11-14T15:38:15+09:00",
  "prev": "/2026/10/10/",
  "next": "/2026/10/25/",
  "alerts": [
@@ -307,13 +307,13 @@
    "id": "c5c324",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/c5c324.jpg?v=fc54c5",
-    "og": "/img/kiji/c5c324-og.jpg?v=fc54c5",
-    "s": "/img/kiji/c5c324-s.jpg?v=fc54c5",
-    "m": "/img/kiji/c5c324-m.jpg?v=fc54c5",
-    "caption": "町立八丈病院",
+    "src": "/img/kiji/c5c324.jpg?v=749afe",
+    "og": "/img/kiji/c5c324-og.jpg?v=749afe",
+    "s": "/img/kiji/c5c324-s.jpg?v=749afe",
+    "m": "/img/kiji/c5c324-m.jpg?v=749afe",
+    "caption": "こころみクリニック",
     "credit": "",
-    "file": "own/byoin-1.jpg"
+    "file": "own/kokoromi-clinic-1.jpg"
    }
   }
  ],
