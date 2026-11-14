@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T00:02:02+09:00",
+ "built": "2026-11-15T00:03:18+09:00",
  "prev": "/2026/10/16/",
  "next": "/2026/10/24/",
  "alerts": [],
@@ -87,7 +87,17 @@
   "label": "文化",
   "audience": "両方",
   "thread_id": "t20261017-63",
-  "id": "62c9f1"
+  "id": "62c9f1",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/62c9f1.jpg?v=9d75ab",
+   "og": "/img/kiji/62c9f1-og.jpg?v=9d75ab",
+   "s": "/img/kiji/62c9f1-s.jpg?v=9d75ab",
+   "m": "/img/kiji/62c9f1-m.jpg?v=9d75ab",
+   "caption": "八丈島ビジターセンター入口",
+   "credit": "",
+   "file": "ac/5026921.jpg"
+  }
  },
  "side": [],
  "shorts": [
