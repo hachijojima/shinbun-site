@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T15:43:47+09:00",
+ "built": "2026-11-14T18:27:10+09:00",
  "prev": "/2026/11/13/",
  "next": null,
  "alerts": [
@@ -199,6 +199,10 @@
    {
     "label": "アイランダー2026実行委員会",
     "url": "https://www.i-lander.com/2026/"
+   },
+   {
+    "label": "写真:公益財団法人日本離島センターのプレスリリース(PR TIMES)",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000111186.html"
    }
   ],
   "label": "産業",
@@ -207,13 +211,13 @@
   "id": "bee383",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/bee383.jpg?v=4d1b84",
-   "og": "/img/kiji/bee383-og.jpg?v=4d1b84",
-   "s": "/img/kiji/bee383-s.jpg?v=4d1b84",
-   "m": "/img/kiji/bee383-m.jpg?v=4d1b84",
+   "src": "/img/kiji/bee383.jpg?v=d7cc4a",
+   "og": "/img/kiji/bee383-og.jpg?v=d7cc4a",
+   "s": "/img/kiji/bee383-s.jpg?v=d7cc4a",
+   "m": "/img/kiji/bee383-m.jpg?v=d7cc4a",
    "caption": "八丈太鼓",
    "credit": "",
-   "file": "own/hachijo-taiko-1.jpg"
+   "file": "press/i-lander2025-hachijo-taiko.jpg"
   }
  },
  "side": [],
@@ -241,13 +245,13 @@
    "id": "168e51",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/168e51.jpg?v=ab3fc3",
-    "og": "/img/kiji/168e51-og.jpg?v=ab3fc3",
-    "s": "/img/kiji/168e51-s.jpg?v=ab3fc3",
-    "m": "/img/kiji/168e51-m.jpg?v=ab3fc3",
-    "caption": "八丈町商工会",
+    "src": "/img/kiji/168e51.jpg?v=cb0f80",
+    "og": "/img/kiji/168e51-og.jpg?v=cb0f80",
+    "s": "/img/kiji/168e51-s.jpg?v=cb0f80",
+    "m": "/img/kiji/168e51-m.jpg?v=cb0f80",
+    "caption": "中央本線の日野駅の駅名標",
     "credit": "",
-    "file": "own/shokokai-1.jpg"
+    "file": "ac/30913795.jpg"
    }
   },
   {
