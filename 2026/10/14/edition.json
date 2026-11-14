@@ -1,0 +1,330 @@
+{
+ "date": "2026-10-14",
+ "edition": "朝刊",
+ "published": "05:30",
+ "proof": false,
+ "built": "2026-11-14T19:10:03+09:00",
+ "prev": "/2026/10/13/",
+ "next": "/2026/10/24/",
+ "alerts": [],
+ "weather": {
+  "issued": "2026-10-14T05:00",
+  "area": "伊豆諸島南部",
+  "days": [
+   {
+    "label": "きょう",
+    "weather": "晴れ 時々 雨",
+    "main": "晴れ 時々 雨",
+    "hachijo": "晴れ 時々 雨",
+    "wind": "",
+    "wave": "",
+    "wind_full": "",
+    "wave_full": "",
+    "pops": [],
+    "min": 20,
+    "max": 27
+   }
+  ]
+ },
+ "koyomi": {
+  "sunrise": "5:43",
+  "sunset": "17:10",
+  "moon": 2.7,
+  "tide": {
+   "place": "八丈島(神湊)",
+   "high": [
+    [
+     "7:19",
+     126
+    ],
+    [
+     "18:03",
+     133
+    ]
+   ],
+   "low": [
+    [
+     "0:24",
+     17
+    ],
+    [
+     "12:32",
+     77
+    ]
+   ]
+  }
+ },
+ "unko": null,
+ "sora": {
+  "status": "就航予定",
+  "reason": "",
+  "url": "https://www.ana.co.jp/fs/dom/jp/",
+  "at": null
+ },
+ "number": null,
+ "top": {
+  "headline": "町議選が告示 18日投票へ",
+  "body": [
+   "八丈町議会議員選挙が13日に告示され、18日に投票と開票がある。定数は12人。期日前投票は14日から17日まで、八丈町役場で受け付ける。",
+   "伊藤しょう町議は、書類が受理されて候補者となったと伝えた。浅沼碧海町議は前期に続いて立候補したといい、全24箇所の掲示板にポスターを貼ったという。山下則子町議は告示日に街頭演説を行った。選挙期間は5日間。",
+   "投票時間は7時から18時まで。投票所は三根公民館、八丈町役場、樫立公民館、中之郷公民館、末吉公民館の5か所。期日前投票は8時30分から20時までで、投票所入場券(はがき)の裏面に必要事項を記入して持参する。",
+   "開票は18日20時から八丈町役場大会議室で始まり、一般の人も参観できる。問い合わせは八丈町選挙管理委員会事務局(総務課内)、電話04996-2-1121。"
+  ],
+  "figure": null,
+  "sources": [
+   {
+    "label": "伊藤しょう町議",
+    "url": "https://x.com/ito_man1223/status/2110020282639618090"
+   },
+   {
+    "label": "八丈町",
+    "url": "https://www.town.hachijo.tokyo.jp/chousei/senkyo/chogisen/"
+   },
+   {
+    "label": "浅沼碧海町議",
+    "url": "https://x.com/aomi_asa/status/2109959914617737407"
+   },
+   {
+    "label": "山下則子町議",
+    "url": "https://x.com/norikoba1014/status/2109932466568065426"
+   }
+  ],
+  "label": "町政",
+  "audience": "島民",
+  "thread_id": "t20261003-15",
+  "followup": true,
+  "id": "0adb3b",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/0adb3b.jpg?v=4ceb84",
+   "og": "/img/kiji/0adb3b-og.jpg?v=4ceb84",
+   "s": "/img/kiji/0adb3b-s.jpg?v=4ceb84",
+   "m": "/img/kiji/0adb3b-m.jpg?v=4ceb84",
+   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+   "credit": "",
+   "file": "own/yakuba-1.jpg"
+  }
+ },
+ "side": [],
+ "shorts": [
+  {
+   "headline": "中之郷の温泉2施設が営業再開",
+   "body": [
+    "臨時休業していた中之郷の裏見ヶ滝温泉と尾越温泉スタンドが、10日に営業を再開した。八丈町が13日に告知した。",
+    "町は13日に告知ページを更新し、2施設の営業再開を伝えた。",
+    "中之郷の温泉の臨時休業は過去にもあった。広報はちじょう2015年11月号によると、温泉井戸のしゅんせつ工事のため、裏見ヶ滝温泉、尾越温泉井戸、ザ・BOONが11月6日から14日まで休業した。",
+    "問い合わせは八丈町役場(代表04996-2-1121)へ。開庁は8時30分から17時15分で、土日祝と12月29日から1月3日は除く。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町",
+     "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261013/"
+    },
+    {
+     "label": "広報はちじょう2015年11月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23141556/hachijo1511.pdf"
+    }
+   ],
+   "label": "くらし",
+   "audience": "両方",
+   "thread_id": "t20261014-48",
+   "id": "db5f09",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/db5f09.jpg?v=8f40a6",
+    "og": "/img/kiji/db5f09-og.jpg?v=8f40a6",
+    "s": "/img/kiji/db5f09-s.jpg?v=8f40a6",
+    "m": "/img/kiji/db5f09-m.jpg?v=8f40a6",
+    "caption": "裏見ヶ滝温泉",
+    "credit": "",
+    "file": "own/uramigataki-onsen-1.jpg"
+   }
+  },
+  {
+   "headline": "あさぬま、牛乳など入荷",
+   "body": [
+    "スーパーあさぬまは14日、納豆・豆腐・牛乳・乳製品とアイスクリームが入荷したと同店が伝えた。13日は定期船の欠航が2日目で、納豆・豆腐・牛乳が欠品していた。",
+    "同店によると、13日は欠航が続き、欠品をすべて埋められなかった。通常の2日目より欠品が多く、野菜はある程度そろっていたという。14日もドライ商品は空きスペースが多いという。",
+    "東海汽船株式会社の大型客船「橘丸」は9月28日にプロペラ装置の不具合が起き、入渠での修理が必要と判断された。東海汽船の2日付のお知らせによると、橘丸は主機が使えない。補助推進のみでは大幅に低速となるため、旅客の運航を休止している。再開は、修理と検査のあとに改めて知らせるとしている。",
+    "東海汽船への船舶の使用停止命令は、橘丸、セブンアイランド結、セブンアイランド友の3隻が対象。期間は9日から28日までの20日間。代替運航は8日夜の出航から始まり、さるびあ丸、セブンアイランド大漁、くろしお丸、おがさわら丸が使われている。",
+    "あさぬまは2日、台風27号の影響で9日まで生鮮品の入荷がない可能性があると知らせた。9日にはサラダ油など1週間以上届いていない物があると書いた。10日には商品不足のため八丈DAYを中止し、島市だけ出すと知らせた。"
+   ],
+   "sources": [
+    {
+     "label": "海風おねえさん",
+     "url": "https://x.com/umikaze8jo/status/2109837812812185730"
+    },
+    {
+     "label": "東海汽船",
+     "url": "https://www.tokaikisen.co.jp/news/825542/"
+    }
+   ],
+   "label": "くらし",
+   "audience": "両方",
+   "thread_id": "t20261003-12",
+   "followup": true,
+   "id": "2414ac",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/2414ac.jpg?v=7ce77c",
+    "og": "/img/kiji/2414ac-og.jpg?v=7ce77c",
+    "s": "/img/kiji/2414ac-s.jpg?v=7ce77c",
+    "m": "/img/kiji/2414ac-m.jpg?v=7ce77c",
+    "caption": "スーパーあさぬま",
+    "credit": "",
+    "file": "own/asanuma-1.jpg"
+   }
+  },
+  {
+   "headline": "三原中、運動会の準備に",
+   "body": [
+    "八丈町立三原中学校は13日、運動会に向けた準備に入ったと、同校のページで伝えた。運動会は10月末の予定。",
+    "同校によると、町民体育大会に出た中学生は、樫立と中之郷の地区ごとに「奮闘」した。連休明けの13日は、生徒は少し疲れた様子だった。この日は教育実習生が来校した。",
+    "広報はちじょう2016年10月号によると、第55回町民体育大会は10月9日に各地域で開かれた。同号は地域ごとのプログラムも載せている。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町立三原中学校",
+     "url": "https://mihara-jhs.8jo.ed.jp/n/n77c5fc40e4ed"
+    },
+    {
+     "label": "広報はちじょう2016年10月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23135942/hachijo1610.pdf"
+    }
+   ],
+   "label": "教育・文化",
+   "audience": "島民",
+   "thread_id": "t20261014-49",
+   "id": "c57272",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/c57272.jpg?v=faf6fc",
+    "og": "/img/kiji/c57272-og.jpg?v=faf6fc",
+    "s": "/img/kiji/c57272-s.jpg?v=faf6fc",
+    "m": "/img/kiji/c57272-m.jpg?v=faf6fc",
+    "caption": "八丈町立三原中学校",
+    "credit": "",
+    "file": "own/mihara-chu-1.jpg"
+   }
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-10-17",
+   "end": null,
+   "text": "こどもワクワクおうえんプロジェクト",
+   "url": "https://okago-es.8jo.ed.jp/n/n6ef23a1674c0"
+  }
+ ],
+ "letters": [],
+ "corrections": [],
+ "column": {
+  "name": "島のたより",
+  "title": "休日を支えた人たち",
+  "body": [
+   "目覚ましを鳴らさなかった土曜日に、玄関の呼び鈴だけが鳴る。届いたのは注文していた水の箱。休みを奪われたような気がして扉を開けると、こちらが寝間着のままでいる時間に、誰かはもう重い荷物を運んでいる。",
+   "[予定のない休日](https://note.com/not4u/n/n7101c0afd04f)とは、誰も働いていない日のことではない。手挽きのコーヒー、本、ソファでのうたた寝。どれも人の手を通って家まで届いたものだと考えると、何もしない一日が急に大掛かりなものに見えてくる。",
+   "しかし、そのことに気づくたび恐縮していたら、休みは休みでなくなる。必要なのは感謝の儀式ではなく、相手の時間を自分の都合だけで使わないことだろう。",
+   "配達の人に長話を求めない。休日の同僚へ、急ぎでもない返事を催促しない。自分の静けさが、誰かの無理でできていないかを、ときどき考える。",
+   "箱から水を一本出し、コーヒーを淹れる。午後の予定はまだ白紙だ。誰かの仕事に支えられた白紙だからこそ、そこへ何も書かずにおく。"
+  ]
+ },
+ "kyoku": {
+  "artist": "New Order",
+  "title": "Regret",
+  "text": "ニュー・オーダーの「Regret」は、きらめくギターと軽快なビートの下に、後悔という重い言葉を忍ばせます。何かを失ったあとで、ようやく大切さに気づくことがあります。でも、戻れないからといって先へ進めないわけではない。悲しみと明るい旋律が矛盾せず一緒に鳴るところに、このバンドらしい美しさがあります。後悔を連れて出かける朝もあるのです。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/41/cd/9541cddd-682b-0a63-9f80-6f9a0429e713/mzm.zbliccga.jpg/300x300bb.jpg",
+   "album": "Republic",
+   "url": "https://music.apple.com/us/album/regret/1040965893?i=1040966395&uo=4"
+  }
+ },
+ "ronten": null,
+ "weekly": [],
+ "ichimen_week": [
+  {
+   "date": "2026-10-13",
+   "url": "/2026/10/13/ed42a4/",
+   "headlines": [
+    "八丈高チームが明日葉料理で入賞"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "url": "/2026/10/12/f37a9a/",
+   "headlines": [
+    "あさぬま、生鮮入荷なし"
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "url": "/2026/10/11/9bd852/",
+   "headlines": [
+    "あさぬま、じゃがいも売り切れ"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "url": "/2026/10/10/09b163/",
+   "headlines": [
+    "NHKが台風1年の八丈島を放送"
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "url": "/2026/10/09/02ced7/",
+   "headlines": [
+    "さるびあ丸、8日朝の入港を案内"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "url": "/2026/10/08/4d270f/",
+   "headlines": [
+    "大賀郷中で八丈太鼓の授業開始"
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "url": "/2026/10/07/098c76/",
+   "headlines": [
+    "菜々屋、欠航続きの入荷事情"
+   ]
+  }
+ ],
+ "population": {
+  "as_of": "2026-10-01",
+  "people": 6499,
+  "people_diff": -24,
+  "households": 4028,
+  "households_diff": -21,
+  "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/10/30114611/hachijo2611.pdf",
+  "ido": {
+   "in": 6,
+   "birth": 2,
+   "out": 19,
+   "death": 10
+  }
+ },
+ "giin": [],
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年10月14日(木)",
+   "pic": "",
+   "hi": "23",
+   "lo": "16",
+   "rn": "降水なし"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年10月14日(水)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><g stroke=\"#f08c00\" stroke-width=\"3.2\" stroke-linecap=\"round\"><path d=\"M24 3v6M24 39v6M3 24h6M39 24h6M9.2 9.2l4.2 4.2M34.6 34.6l4.2 4.2M9.2 38.8l4.2-4.2M34.6 13.4l4.2-4.2\"/></g><circle cx=\"24\" cy=\"24\" r=\"10\" fill=\"#f7a21b\"/></svg></span><i class=c>|</i><span class=\"ic s\"><svg viewBox=\"0 0 48 48\"><path d=\"M24 7C13.5 7 6 14.5 5 24c2.2-2 4.6-2 6.4 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.8-2 4.2-2 6.4 0C42 14.5 34.5 7 24 7z\" fill=\"#2f7fd8\"/><path d=\"M24 24v14a3.5 3.5 0 0 1-7 0\" fill=\"none\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M24 4v3\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg></span>",
+   "hi": "27",
+   "lo": "20",
+   "rn": ""
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
+ },
+ "chrome": "46ac1bbfe1e3"
+}
