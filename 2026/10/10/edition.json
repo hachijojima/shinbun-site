@@ -1,0 +1,363 @@
+{
+ "date": "2026-10-10",
+ "edition": "朝刊",
+ "published": "05:30",
+ "proof": false,
+ "built": "2026-11-14T15:35:30+09:00",
+ "prev": "/2026/10/09/",
+ "next": "/2026/10/24/",
+ "alerts": [],
+ "weather": {
+  "issued": "2026-10-10T05:00",
+  "area": "伊豆諸島南部",
+  "days": [
+   {
+    "label": "きょう",
+    "weather": "晴れ",
+    "main": "晴れ",
+    "hachijo": "晴れ",
+    "wind": "",
+    "wave": "",
+    "wind_full": "",
+    "wave_full": "",
+    "pops": [],
+    "min": 21,
+    "max": 26
+   }
+  ]
+ },
+ "koyomi": {
+  "sunrise": "5:40",
+  "sunset": "17:15",
+  "moon": 28.3,
+  "tide": {
+   "place": "八丈島(神湊)",
+   "high": [
+    [
+     "4:46",
+     134
+    ],
+    [
+     "16:39",
+     132
+    ]
+   ],
+   "low": [
+    [
+     "10:40",
+     46
+    ],
+    [
+     "22:56",
+     27
+    ]
+   ]
+  }
+ },
+ "unko": null,
+ "sora": {
+  "status": "就航予定",
+  "reason": "",
+  "url": "https://www.ana.co.jp/fs/dom/jp/",
+  "at": null
+ },
+ "number": null,
+ "top": {
+  "headline": "NHKが台風1年の八丈島を放送",
+  "body": [
+   "NHKの「午後LIVE ニュースーン」は9日、去年の台風で大きな被害を受けた八丈島の今を放送した。番組によると、取材した住民からは「大変な1年だった」「早かった」などの声が聞かれたという。",
+   "八丈町の施政方針によると、令和7年10月に台風第22号と第23号が八丈島を襲った。第22号の最大瞬間風速は54.7m、24時間降水量は356.5mmだった。末吉地域では大規模な土砂災害が起きた。住家被害認定調査は1,574件で、罹災証明の発行は1月末時点で872件だった。仮設住宅を含め、40世帯に住まいを提供した。",
+   "災害廃棄物は推計約3万トン、土砂は約12万トンあり、処理が遅れている。町は実行計画を第3版に改定し、完了の目標を令和8年12月末から令和10年3月末に見直した。問い合わせは、町住民課環境係(04996-2-1123)。",
+   "被災した町道22カ所は、令和9年度末までの工事完了を目途とする。令和8年度は11カ所を実施し、債務負担を含め2億9千万円を計上した。三根のあしたば加工工場は、令和7年10月8日の台風でほぼ全壊した。同工場は4月7日、旧リードアズーロ レストラン棟の「結ノ葉」で明日葉加工品の販売を続けると知らせた。大竜ファームも番組の取材を受けたと伝え、町は9日、復興はまだ道半ばだと投稿した。"
+  ],
+  "figure": {
+   "type": "place",
+   "name": "八丈島"
+  },
+  "sources": [
+   {
+    "label": "午後LIVE ニュースーン",
+    "url": "https://x.com/nhk_newsoon/status/2108496408752083456"
+   },
+   {
+    "label": "八丈町",
+    "url": "https://www.town.hachijo.tokyo.jp/chousei/hachijojima-g/r7-houshin/"
+   },
+   {
+    "label": "大竜ファーム",
+    "url": "https://x.com/dairyu0317/status/2108387158012887373"
+   }
+  ],
+  "label": "交通・防災",
+  "audience": "島民",
+  "thread_id": "t20261010-38",
+  "id": "09b163",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/09b163.jpg?v=dca1d0",
+   "og": "/img/kiji/09b163-og.jpg?v=dca1d0",
+   "s": "/img/kiji/09b163-s.jpg?v=dca1d0",
+   "m": "/img/kiji/09b163-m.jpg?v=dca1d0",
+   "caption": "台風後の八丈島",
+   "credit": "",
+   "file": "ac/3595112.jpg"
+  }
+ },
+ "side": [],
+ "shorts": [
+  {
+   "headline": "10日の船が欠航へ、あさぬま生鮮",
+   "body": [
+    "スーパーあさぬまの広報担当は9日17時の店内状況で、10日の船は欠航が決まったと伝えたという。11日は船が着いても生鮮品を積んでいない可能性があるという。",
+    "同店によると、サラダ油など1週間以上届いていない品がある。人手不足で並べきれていない品もあるという。9日朝には、土日は船が難しいようだと伝えていた。",
+    "8日は定期船が久しぶりに9時過ぎに入港した。NPO法人八丈島花の会によると、同日10時ごろと12時半ごろにスーパーを訪れたところ、青物野菜の入荷はなくアイスもなかった。牛乳、卵、納豆、豆腐は買えたという。",
+    "9日は八丈マリンサービス【東海汽船】八丈島営業所が、さるびあ丸は9時に底土港へ入港予定と案内した。あおがしま丸は八重根漁港より条件付きで就航と伝えた。コープや各スーパーの食料品も到着予定と伝えた。同店によると、10時にじゃがいもと玉ねぎ、もやしが入り、11時にはキャベツ、ほうれん草、小松菜を並べた。もやしは完売し、豆もやしと野菜ミックスはある。鮮魚は少なめで、アジとイカが入った。"
+   ],
+   "sources": [
+    {
+     "label": "八丈マリンサービス",
+     "url": "https://x.com/hachijomarine/status/2108332070556819831"
+    },
+    {
+     "label": "海風おねえさん",
+     "url": "https://x.com/umikaze8jo/status/2108323616295432287"
+    },
+    {
+     "label": "八丈島花の会",
+     "url": "https://x.com/8johana2417/status/2108306507293192518"
+    }
+   ],
+   "label": "くらし",
+   "audience": "両方",
+   "thread_id": "t20261003-12",
+   "followup": true,
+   "id": "f61ef3",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/f61ef3.jpg?v=7ce77c",
+    "og": "/img/kiji/f61ef3-og.jpg?v=7ce77c",
+    "s": "/img/kiji/f61ef3-s.jpg?v=7ce77c",
+    "m": "/img/kiji/f61ef3-m.jpg?v=7ce77c",
+    "caption": "スーパーあさぬま",
+    "credit": "",
+    "file": "own/asanuma-1.jpg"
+   }
+  },
+  {
+   "headline": "富士中、三宅島と生徒会サミット",
+   "body": [
+    "八丈町立富士中学校が、八丈島と三宅島の中学校をオンラインで結ぶ生徒会サミットを実施した。同校によると、富士中からは新旧の生徒会役員が参加した。",
+    "広報はちじょう2022年11月号によると、「教育委員会だより」で富士中の生徒会役員選挙の様子が紹介されている。"
+   ],
+   "sources": [
+    {
+     "label": "富士中学校",
+     "url": "https://fuji-jhs.8jo.ed.jp/n/n1dfeb2d32179"
+    },
+    {
+     "label": "広報はちじょう2022年11月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23125648/hachijo2211.pdf"
+    }
+   ],
+   "label": "教育・文化",
+   "audience": "島民",
+   "thread_id": "t20261010-39",
+   "id": "51563e",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/51563e.jpg?v=1392ba",
+    "og": "/img/kiji/51563e-og.jpg?v=1392ba",
+    "s": "/img/kiji/51563e-s.jpg?v=1392ba",
+    "m": "/img/kiji/51563e-m.jpg?v=1392ba",
+    "caption": "三宅島 三池港",
+    "credit": "",
+    "file": "ac/34536387.jpg"
+   }
+  },
+  {
+   "headline": "Peace Smile、介護スタッフ募集",
+   "body": [
+    "Peace Smileは9日、八丈島と伊豆大島で介護のスタッフを募集していると知らせた。問い合わせを受け付けている。",
+    "Peace Smileは2024年7月19日、デイホームまどかとデイサービススミレで介護スタッフを募集していると知らせた。無資格・未経験も可能とした。",
+    "同年9月24日には、各種スタッフを引き続き募集していると知らせた。対象は週2日から勤務できる人とした。問い合わせは電話(平日17時まで)とメールで受け付けるとした。"
+   ],
+   "sources": [
+    {
+     "label": "Peace Smile",
+     "url": "https://x.com/PeaceSm18890636/status/2108349133803454851"
+    }
+   ],
+   "label": "産業",
+   "audience": "島民",
+   "thread_id": "t20261010-40",
+   "id": "df77dd",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/df77dd.jpg?v=4a0112",
+    "og": "/img/kiji/df77dd-og.jpg?v=4a0112",
+    "s": "/img/kiji/df77dd-s.jpg?v=4a0112",
+    "m": "/img/kiji/df77dd-m.jpg?v=4a0112",
+    "caption": "八丈町営住宅",
+    "credit": "",
+    "file": "own/chouei-jutaku-1.jpg"
+   }
+  },
+  {
+   "headline": "八丈島と熊本の酒宴 北越谷",
+   "body": [
+    "「古典酒場」創刊編集長の倉嶋紀和子さんによると、八丈島と熊本のコラボ酒宴が11月12日に開かれる。会場は埼玉県北越谷の酒場「礎」。",
+    "会場の「礎」は、八丈島にルーツがある女将酒場。倉嶋さんのブログの書き出しには「女将が作る島寿司もとびっきりの酒…」とある。倉嶋さんは熊本の出身で、ブログに「我が故郷・熊本」と書いている。",
+    "倉嶋さんは2025年8月、八丈島の麦焼酎「情け嶋」と熊本の球磨焼酎「大石」のコラボ酒を飲んだ。くさやにも馬刺しにも合うと投稿した。2026年10月1日には、「情け嶋」と福岡の焼酎「らんびき」のコラボ焼酎を講座で味わったと投稿している。",
+    "広報はちじょう2016年6月号によると、熊本地震では島から4月分として744,288円の義援金が集まった。"
+   ],
+   "sources": [
+    {
+     "label": "倉嶋紀和子@『口開け酒場でひとり呑み』（本の雑誌社刊）発売中",
+     "url": "https://x.com/kotensakaba/status/2108371709724443110"
+    },
+    {
+     "label": "広報はちじょう2016年6月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23135952/hachijo1606.pdf"
+    }
+   ],
+   "label": "産業",
+   "audience": "両方",
+   "thread_id": "t20261010-41",
+   "id": "948a8d",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/948a8d.jpg?v=b3bf8a",
+    "og": "/img/kiji/948a8d-og.jpg?v=b3bf8a",
+    "s": "/img/kiji/948a8d-s.jpg?v=b3bf8a",
+    "m": "/img/kiji/948a8d-m.jpg?v=b3bf8a",
+    "caption": "焼酎",
+    "credit": "",
+    "file": "ac/35127811.jpg"
+   }
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-10-10",
+   "end": "2026-10-12",
+   "text": "島婚in八丈島2026",
+   "url": "https://hachisho.princia.net/news/view/397"
+  },
+  {
+   "date": "2026-10-17",
+   "end": null,
+   "text": "こどもワクワクおうえんプロジェクト",
+   "url": "https://okago-es.8jo.ed.jp/n/n6ef23a1674c0"
+  }
+ ],
+ "letters": [],
+ "corrections": [],
+ "column": {
+  "name": "島のたより",
+  "title": "雨が予定を消した日",
+  "body": [
+   "雨粒が屋根を打ち、風の強いときだけ窓に細い音が走る。朝のうちに出かけるはずだった予定を取りやめると、部屋の中で聞く音の種類が急に増える。",
+   "八丈島の[雨の夜明け](https://note.com/hachijojima/n/n006948ad56ad)を思い浮かべると、外へ出られなかった一日にも、時間が流れていることを思い出す。読みかけの本を開く人がいる。洗濯物の乾きを気にする人がいる。同じ雨音を、違う事情で聞いている。",
+   "雨の日を風流だと語ることには、少し気後れもある。外で仕事をする人には中止の連絡が必要になり、移動しなければならない人には危険が増える。窓辺で安心して雨を眺められるのは、屋根の下にいられるからだ。",
+   "それでも、予定が消えて生まれた静かな時間まで申し訳なく思う必要はない。屋根を打つ音を聴きながら、今日は出かけなくてよかった、と言える日もある。"
+  ]
+ },
+ "kyoku": {
+  "artist": "The Chainsmokers",
+  "title": "Don't Let Me Down (feat. Daya)",
+  "text": "ザ・チェインスモーカーズのビートとDayaの歌声が、不安な夜に支えを求める「Don't Let Me Down」。誰かに頼ることを、弱さだと思ってしまう人もいます。でも、落ちそうなときに手を伸ばすのは、自分で生きようとする行動でもある。大丈夫なふりをやめた瞬間から、相手との本当の会話が始まることもあります。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/41/f8/38/41f8380b-9b56-d5d4-31f7-a6411c0c9aaa/886446102054.jpg/300x300bb.jpg",
+   "album": "Collage - EP",
+   "url": "https://music.apple.com/us/album/dont-let-me-down-feat-daya/1170699510?i=1170699706&uo=4"
+  }
+ },
+ "ronten": null,
+ "weekly": [],
+ "ichimen_week": [
+  {
+   "date": "2026-10-09",
+   "url": "/2026/10/09/02ced7/",
+   "headlines": [
+    "東海汽船8日朝着、9時20分と案内"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "url": "/2026/10/08/4d270f/",
+   "headlines": [
+    "大賀郷中で八丈太鼓の授業開始"
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "url": "/2026/10/07/098c76/",
+   "headlines": [
+    "菜々屋、欠航続きの入荷事情"
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "url": "/2026/10/06/844f61/",
+   "headlines": [
+    "東海汽船、代表取締役の異動"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "url": "/2026/10/05/28f763/",
+   "headlines": [
+    "八丈町役場で防災イベント"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "url": "/2026/10/04/6f7de1/",
+   "headlines": [
+    "八丈島沖でダイバー8人救助"
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "url": "/2026/10/03/ebb7da/",
+   "headlines": [
+    "橘丸、9日から20日間停止へ"
+   ]
+  }
+ ],
+ "population": {
+  "as_of": "2026-10-01",
+  "people": 6499,
+  "people_diff": -24,
+  "households": 4028,
+  "households_diff": -21,
+  "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/10/30114611/hachijo2611.pdf",
+  "ido": {
+   "in": 6,
+   "birth": 2,
+   "out": 19,
+   "death": 10
+  }
+ },
+ "giin": [],
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年10月10日(日)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><path d=\"M24 7C13.5 7 6 14.5 5 24c2.2-2 4.6-2 6.4 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.8-2 4.2-2 6.4 0C42 14.5 34.5 7 24 7z\" fill=\"#2f7fd8\"/><path d=\"M24 24v14a3.5 3.5 0 0 1-7 0\" fill=\"none\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M24 4v3\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg></span>",
+   "hi": "23",
+   "lo": "18",
+   "rn": "雨 61.2mm"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年10月10日(土)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><g stroke=\"#f08c00\" stroke-width=\"3.2\" stroke-linecap=\"round\"><path d=\"M24 3v6M24 39v6M3 24h6M39 24h6M9.2 9.2l4.2 4.2M34.6 34.6l4.2 4.2M9.2 38.8l4.2-4.2M34.6 13.4l4.2-4.2\"/></g><circle cx=\"24\" cy=\"24\" r=\"10\" fill=\"#f7a21b\"/></svg></span>",
+   "hi": "26",
+   "lo": "21",
+   "rn": ""
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
+ },
+ "chrome": "3a7ce9082838"
+}
