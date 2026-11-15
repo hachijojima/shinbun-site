@@ -1,0 +1,151 @@
+{
+ "date": "2026-09-03",
+ "edition": "朝刊",
+ "published": "05:30",
+ "proof": false,
+ "built": "2026-11-15T17:58:55+09:00",
+ "prev": "/2026/09/02/",
+ "next": "/2026/10/01/",
+ "alerts": [],
+ "weather": {
+  "issued": "2026-09-03T05:00",
+  "area": "伊豆諸島南部",
+  "days": [
+   {
+    "label": "きょう",
+    "weather": "晴れ",
+    "main": "晴れ",
+    "hachijo": "晴れ",
+    "wind": "",
+    "wave": "",
+    "wind_full": "",
+    "wave_full": "",
+    "pops": [],
+    "min": 25,
+    "max": 30
+   }
+  ]
+ },
+ "koyomi": {
+  "sunrise": "5:16",
+  "sunset": "18:05",
+  "moon": 20.8,
+  "tide": {
+   "place": "八丈島(神湊)",
+   "high": [
+    [
+     "9:17",
+     121
+    ],
+    [
+     "20:00",
+     138
+    ]
+   ],
+   "low": [
+    [
+     "2:31",
+     42
+    ],
+    [
+     "14:07",
+     93
+    ]
+   ]
+  }
+ },
+ "unko": null,
+ "sora": {
+  "status": "条件付きの可能性",
+  "reason": "強風",
+  "url": "https://x.com/ANA_flight_info/status/2095066701763080338",
+  "at": "2026-09-02T17:30:00+09:00"
+ },
+ "number": null,
+ "top": {
+  "headline": "災害廃棄物 完了は令和10年へ",
+  "body": [
+   "八丈町は2日、令和7年台風第22号・23号の災害廃棄物について、第3版の災害廃棄物等処理実行計画を公表した。処理の完了時期は、令和8年12月末から令和10年3月末に見直された。",
+   "町によると、工程が予定より進まず、目標としていた令和8年12月末の完了が難しくなった。処理を早める方法も検討したという。台風第23号は2025年10月13日、八丈島から約46キロを通った。",
+   "計画の本体(PDF、1.8MB)と概要版(PDF、613KB)は、町のページで公開している。問い合わせは町住民課環境係(電話04996-2-1123)。"
+  ],
+  "figure": null,
+  "sources": [
+   {
+    "label": "八丈町",
+    "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260902-3/"
+   }
+  ],
+  "label": "くらし",
+  "audience": "島民",
+  "thread_id": "t20260903-11",
+  "id": "786be3"
+ },
+ "side": [],
+ "shorts": [],
+ "agenda": [
+  {
+   "date": "2026-09-05",
+   "end": "2026-09-06",
+   "text": "都立八丈高校の八高祭",
+   "url": "https://x.com/tokyo8jouhs/status/2094680584543228289"
+  }
+ ],
+ "letters": [],
+ "corrections": [],
+ "column": null,
+ "kyoku": null,
+ "ronten": null,
+ "weekly": [],
+ "ichimen_week": [
+  {
+   "date": "2026-09-02",
+   "url": "/2026/09/02/5ec605/",
+   "headlines": [
+    "八丈高の八高祭、6日公開"
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "url": "/2026/09/01/6ca429/",
+   "headlines": [
+    "シルバーパス、PASMOに"
+   ]
+  }
+ ],
+ "population": {
+  "as_of": "2026-09-01",
+  "people": 6523,
+  "people_diff": -18,
+  "households": 4049,
+  "households_diff": -5,
+  "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/08/02163126/hachijo2610.pdf",
+  "ido": {
+   "in": 22,
+   "birth": 3,
+   "out": 31,
+   "death": 11
+  }
+ },
+ "giin": [],
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年9月3日(金)",
+   "pic": "",
+   "hi": "30",
+   "lo": "26",
+   "rn": "雨 0.0mm"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年9月3日(木)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><g stroke=\"#f08c00\" stroke-width=\"3.2\" stroke-linecap=\"round\"><path d=\"M24 3v6M24 39v6M3 24h6M39 24h6M9.2 9.2l4.2 4.2M34.6 34.6l4.2 4.2M9.2 38.8l4.2-4.2M34.6 13.4l4.2-4.2\"/></g><circle cx=\"24\" cy=\"24\" r=\"10\" fill=\"#f7a21b\"/></svg></span>",
+   "hi": "30",
+   "lo": "25",
+   "rn": ""
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
+ },
+ "chrome": "82f0b3699539"
+}
