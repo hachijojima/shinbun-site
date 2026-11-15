@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T23:52:24+09:00",
+ "built": "2026-11-15T18:02:37+09:00",
  "prev": "/2026/10/14/",
  "next": "/2026/10/16/",
  "alerts": [],
@@ -155,13 +155,13 @@
    "id": "30010f",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/30010f.jpg?v=fc54c5",
-    "og": "/img/kiji/30010f-og.jpg?v=fc54c5",
-    "s": "/img/kiji/30010f-s.jpg?v=fc54c5",
-    "m": "/img/kiji/30010f-m.jpg?v=fc54c5",
+    "src": "/img/kiji/30010f.jpg?v=6aa5a7",
+    "og": "/img/kiji/30010f-og.jpg?v=6aa5a7",
+    "s": "/img/kiji/30010f-s.jpg?v=6aa5a7",
+    "m": "/img/kiji/30010f-m.jpg?v=6aa5a7",
     "caption": "町立八丈病院",
     "credit": "",
-    "file": "own/byoin-1.jpg"
+    "file": "own/byoin-2.jpg"
    }
   },
   {
@@ -349,5 +349,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "e3ff25f198ca"
+ "chrome": "82f0b3699539"
 }
