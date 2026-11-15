@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T02:57:31+09:00",
+ "built": "2026-11-16T08:44:40+09:00",
  "prev": "/2026/09/03/",
  "next": "/2026/09/05/",
  "alerts": [],
@@ -87,13 +87,13 @@
   "id": "e6f428",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/e6f428.jpg?v=0a7d4e",
-   "og": "/img/kiji/e6f428-og.jpg?v=0a7d4e",
-   "s": "/img/kiji/e6f428-s.jpg?v=0a7d4e",
-   "m": "/img/kiji/e6f428-m.jpg?v=0a7d4e",
-   "caption": "八丈島観光協会",
+   "src": "/img/kiji/e6f428.jpg?v=bfcb06",
+   "og": "/img/kiji/e6f428-og.jpg?v=bfcb06",
+   "s": "/img/kiji/e6f428-s.jpg?v=bfcb06",
+   "m": "/img/kiji/e6f428-m.jpg?v=bfcb06",
+   "caption": "八丈島 八丈島空港",
    "credit": "",
-   "file": "own/kanko-kyokai-1.jpg"
+   "file": "ac/27920122.jpg"
   }
  },
  "side": [],

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T03:39:09+09:00",
+ "built": "2026-11-16T08:44:44+09:00",
  "prev": "/2026/09/04/",
  "next": "/2026/09/06/",
  "alerts": [],
@@ -90,13 +90,13 @@
   "id": "5dbdd4",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/5dbdd4.jpg?v=b3bf8a",
-   "og": "/img/kiji/5dbdd4-og.jpg?v=b3bf8a",
-   "s": "/img/kiji/5dbdd4-s.jpg?v=b3bf8a",
-   "m": "/img/kiji/5dbdd4-m.jpg?v=b3bf8a",
-   "caption": "焼酎",
+   "src": "/img/kiji/5dbdd4.jpg?v=4a2d3b",
+   "og": "/img/kiji/5dbdd4-og.jpg?v=4a2d3b",
+   "s": "/img/kiji/5dbdd4-s.jpg?v=4a2d3b",
+   "m": "/img/kiji/5dbdd4-m.jpg?v=4a2d3b",
+   "caption": "八丈島乳業直営 ゆーゆー牧場",
    "credit": "",
-   "file": "ac/35127811.jpg"
+   "file": "own/yuyu-bokujo-1.jpg"
   }
  },
  "side": [],
@@ -218,13 +218,13 @@
    "id": "63d550",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/63d550.jpg?v=3ebb69",
-    "og": "/img/kiji/63d550-og.jpg?v=3ebb69",
-    "s": "/img/kiji/63d550-s.jpg?v=3ebb69",
-    "m": "/img/kiji/63d550-m.jpg?v=3ebb69",
+    "src": "/img/kiji/63d550.jpg?v=24b011",
+    "og": "/img/kiji/63d550-og.jpg?v=24b011",
+    "s": "/img/kiji/63d550-s.jpg?v=24b011",
+    "m": "/img/kiji/63d550-m.jpg?v=24b011",
     "caption": "東京都立八丈高等学校",
     "credit": "",
-    "file": "own/hachijo-koko-1.jpg"
+    "file": "own/hachijo-koko-4.jpg"
    }
   }
  ],

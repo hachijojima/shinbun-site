@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T18:01:49+09:00",
+ "built": "2026-11-16T08:45:23+09:00",
  "prev": "/2026/10/13/",
  "next": "/2026/10/15/",
  "alerts": [],
@@ -166,13 +166,13 @@
    "id": "2414ac",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/2414ac.jpg?v=7ce77c",
-    "og": "/img/kiji/2414ac-og.jpg?v=7ce77c",
-    "s": "/img/kiji/2414ac-s.jpg?v=7ce77c",
-    "m": "/img/kiji/2414ac-m.jpg?v=7ce77c",
-    "caption": "スーパーあさぬま",
+    "src": "/img/kiji/2414ac.jpg?v=f170fc",
+    "og": "/img/kiji/2414ac-og.jpg?v=f170fc",
+    "s": "/img/kiji/2414ac-s.jpg?v=f170fc",
+    "m": "/img/kiji/2414ac-m.jpg?v=f170fc",
+    "caption": "橘丸 八丈島 八重根港",
     "credit": "",
-    "file": "own/asanuma-1.jpg"
+    "file": "ac/34194384.jpg"
    }
   },
   {

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T16:16:49+09:00",
+ "built": "2026-11-16T08:45:08+09:00",
  "prev": "/2026/10/08/",
  "next": "/2026/10/10/",
  "alerts": [],
@@ -232,13 +232,13 @@
    "id": "81bfef",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/81bfef.jpg?v=b0e3b8",
-    "og": "/img/kiji/81bfef-og.jpg?v=b0e3b8",
-    "s": "/img/kiji/81bfef-s.jpg?v=b0e3b8",
-    "m": "/img/kiji/81bfef-m.jpg?v=b0e3b8",
-    "caption": "透明の選挙箱に投票用紙を入れている様子",
+    "src": "/img/kiji/81bfef.jpg?v=82de26",
+    "og": "/img/kiji/81bfef-og.jpg?v=82de26",
+    "s": "/img/kiji/81bfef-s.jpg?v=82de26",
+    "m": "/img/kiji/81bfef-m.jpg?v=82de26",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
-    "file": "ac/3634588.jpg"
+    "file": "own/yakuba-4.jpg"
    },
    "edited": "2026-11-15T16:16:49+09:00"
   }

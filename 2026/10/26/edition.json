@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T19:43:08+09:00",
+ "built": "2026-11-16T08:45:46+09:00",
  "prev": "/2026/10/25/",
  "next": "/2026/10/27/",
  "alerts": [
@@ -275,13 +275,13 @@
    "id": "4a9b3b",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4a9b3b.jpg?v=c49d7c",
-    "og": "/img/kiji/4a9b3b-og.jpg?v=c49d7c",
-    "s": "/img/kiji/4a9b3b-s.jpg?v=c49d7c",
-    "m": "/img/kiji/4a9b3b-m.jpg?v=c49d7c",
-    "caption": "八丈町三根出張所・三根公民館",
+    "src": "/img/kiji/4a9b3b.jpg?v=f098b3",
+    "og": "/img/kiji/4a9b3b-og.jpg?v=f098b3",
+    "s": "/img/kiji/4a9b3b-s.jpg?v=f098b3",
+    "m": "/img/kiji/4a9b3b-m.jpg?v=f098b3",
+    "caption": "地震のグラフ",
     "credit": "",
-    "file": "own/mitsune-shucchojo-1.jpg"
+    "file": "ac/29124518.jpg"
    }
   },
   {

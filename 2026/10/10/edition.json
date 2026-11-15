@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T20:17:22+09:00",
+ "built": "2026-11-16T08:45:11+09:00",
  "prev": "/2026/10/09/",
  "next": "/2026/10/11/",
  "alerts": [],
@@ -134,13 +134,13 @@
    "id": "f61ef3",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f61ef3.jpg?v=7ce77c",
-    "og": "/img/kiji/f61ef3-og.jpg?v=7ce77c",
-    "s": "/img/kiji/f61ef3-s.jpg?v=7ce77c",
-    "m": "/img/kiji/f61ef3-m.jpg?v=7ce77c",
-    "caption": "スーパーあさぬま",
+    "src": "/img/kiji/f61ef3.jpg?v=2d5004",
+    "og": "/img/kiji/f61ef3-og.jpg?v=2d5004",
+    "s": "/img/kiji/f61ef3-s.jpg?v=2d5004",
+    "m": "/img/kiji/f61ef3-m.jpg?v=2d5004",
+    "caption": "八丈島・底土港客船待合所",
     "credit": "",
-    "file": "own/asanuma-1.jpg"
+    "file": "ac/4917189.jpg"
    }
   },
   {
@@ -226,13 +226,13 @@
    "id": "948a8d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/948a8d.jpg?v=b3bf8a",
-    "og": "/img/kiji/948a8d-og.jpg?v=b3bf8a",
-    "s": "/img/kiji/948a8d-s.jpg?v=b3bf8a",
-    "m": "/img/kiji/948a8d-m.jpg?v=b3bf8a",
-    "caption": "焼酎",
+    "src": "/img/kiji/948a8d.jpg?v=2fc43d",
+    "og": "/img/kiji/948a8d-og.jpg?v=2fc43d",
+    "s": "/img/kiji/948a8d-s.jpg?v=2fc43d",
+    "m": "/img/kiji/948a8d-m.jpg?v=2fc43d",
+    "caption": "陶器のグラスに入った麦焼酎",
     "credit": "",
-    "file": "ac/35127811.jpg"
+    "file": "ac/27554488.jpg"
    }
   }
  ],
