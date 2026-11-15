@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T19:43:06+09:00",
+ "built": "2026-11-15T18:05:47+09:00",
  "prev": "/2026/10/24/",
  "next": "/2026/10/26/",
  "alerts": [
@@ -314,13 +314,13 @@
    "id": "d6b658",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/d6b658.jpg?v=0a7d4e",
-    "og": "/img/kiji/d6b658-og.jpg?v=0a7d4e",
-    "s": "/img/kiji/d6b658-s.jpg?v=0a7d4e",
-    "m": "/img/kiji/d6b658-m.jpg?v=0a7d4e",
-    "caption": "八丈島観光協会",
+    "src": "/img/kiji/d6b658.jpg?v=83c20c",
+    "og": "/img/kiji/d6b658-og.jpg?v=83c20c",
+    "s": "/img/kiji/d6b658-s.jpg?v=83c20c",
+    "m": "/img/kiji/d6b658-m.jpg?v=83c20c",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
-    "file": "own/kanko-kyokai-1.jpg"
+    "file": "own/yakuba-3.jpg"
    }
   }
  ],
@@ -411,6 +411,48 @@
    "headlines": [
     "資料館がグッドデザイン賞に"
    ]
+  },
+  {
+   "date": "2026-10-23",
+   "url": "/2026/10/23/41ec0a/",
+   "headlines": [
+    "ミス八丈島が八丈島観光大使に"
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "url": "/2026/10/22/fb8c2e/",
+   "headlines": [
+    "大賀郷小、早朝の太鼓に謝意"
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "url": "/2026/10/21/6286be/",
+   "headlines": [
+    "橘丸、尾道の造船所で入渠へ"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "url": "/2026/10/20/f601d6/",
+   "headlines": [
+    "ネパール中学生が八高生と交流"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "url": "/2026/10/19/540c1f/",
+   "headlines": [
+    "町議選に12人当選 投票率66.53%"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "url": "/2026/10/18/77516d/",
+   "headlines": [
+    "町議選きょう投票 18時まで"
+   ]
   }
  ],
  "giin": [],
@@ -434,7 +476,7 @@
   "url": "https://x.com/ANA_flight_info/status/2113914643257389230",
   "at": "2026-10-24T17:45:00+09:00"
  },
- "chrome": "e3ff25f198ca",
+ "chrome": "82f0b3699539",
  "hyakunen": {
   "then": {
    "ago": "100年前",
