@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:48:03+09:00",
+ "built": "2026-11-16T08:55:07+09:00",
  "prev": "/2026/10/09/",
  "next": "/2026/10/11/",
  "alerts": [],
@@ -226,13 +226,13 @@
    "id": "948a8d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/948a8d.jpg?v=fa2ab3",
-    "og": "/img/kiji/948a8d-og.jpg?v=fa2ab3",
-    "s": "/img/kiji/948a8d-s.jpg?v=fa2ab3",
-    "m": "/img/kiji/948a8d-m.jpg?v=fa2ab3",
-    "caption": "島寿司",
+    "src": "/img/kiji/948a8d.jpg?v=2fc43d",
+    "og": "/img/kiji/948a8d-og.jpg?v=2fc43d",
+    "s": "/img/kiji/948a8d-s.jpg?v=2fc43d",
+    "m": "/img/kiji/948a8d-m.jpg?v=2fc43d",
+    "caption": "陶器のグラスに入った麦焼酎",
     "credit": "",
-    "file": "ac/35127816.jpg"
+    "file": "ac/27554488.jpg"
    }
   }
  ],
