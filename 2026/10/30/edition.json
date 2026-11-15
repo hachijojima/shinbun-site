@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:45:50+09:00",
+ "built": "2026-11-16T08:48:14+09:00",
  "prev": "/2026/10/29/",
  "next": "/2026/10/31/",
  "alerts": [
@@ -210,13 +210,13 @@
   "id": "5b7d9f",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/5b7d9f.jpg?v=4ea1c0",
-   "og": "/img/kiji/5b7d9f-og.jpg?v=4ea1c0",
-   "s": "/img/kiji/5b7d9f-s.jpg?v=4ea1c0",
-   "m": "/img/kiji/5b7d9f-m.jpg?v=4ea1c0",
-   "caption": "焼酎",
+   "src": "/img/kiji/5b7d9f.jpg?v=82de26",
+   "og": "/img/kiji/5b7d9f-og.jpg?v=82de26",
+   "s": "/img/kiji/5b7d9f-s.jpg?v=82de26",
+   "m": "/img/kiji/5b7d9f-m.jpg?v=82de26",
+   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
    "credit": "",
-   "file": "ac/3776134.jpg"
+   "file": "own/yakuba-4.jpg"
   }
  },
  "side": [],

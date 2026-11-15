@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:43:12+09:00",
+ "built": "2026-11-16T08:47:59+09:00",
  "prev": "/2026/09/08/",
  "next": "/2026/10/01/",
  "alerts": [],
@@ -184,7 +184,17 @@
    "audience": "島民",
    "thread_id": "t20260907-31",
    "followup": true,
-   "id": "20c04a"
+   "id": "20c04a",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/20c04a.jpg?v=4fd090",
+    "og": "/img/kiji/20c04a-og.jpg?v=4fd090",
+    "s": "/img/kiji/20c04a-s.jpg?v=4fd090",
+    "m": "/img/kiji/20c04a-m.jpg?v=4fd090",
+    "caption": "八丈島ふれあい牧場の牛",
+    "credit": "",
+    "file": "ac/27266491.jpg"
+   }
   },
   {
    "headline": "町議会9月定例会 8日開会を案内",
@@ -206,7 +216,17 @@
    "label": "町政",
    "audience": "島民",
    "thread_id": "t20260909-36",
-   "id": "2e90d5"
+   "id": "2e90d5",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/2e90d5.jpg?v=4ceb84",
+    "og": "/img/kiji/2e90d5-og.jpg?v=4ceb84",
+    "s": "/img/kiji/2e90d5-s.jpg?v=4ceb84",
+    "m": "/img/kiji/2e90d5-m.jpg?v=4ceb84",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "",
+    "file": "own/yakuba-1.jpg"
+   }
   }
  ],
  "agenda": [
