@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T07:47:45+09:00",
+ "built": "2026-11-15T13:11:13+09:00",
  "prev": "/2026/10/19/",
  "next": "/2026/10/21/",
  "alerts": [],
@@ -187,32 +187,31 @@
    }
   },
   {
-   "headline": "花の会、25日に町長と懇談会へ",
+   "headline": "富士中2年生が親子レク",
    "body": [
-    "NPO法人八丈島花の会は25日13時30分から15時まで、三根公民館集会室で山下町長との懇談会を開く。花の会は18日夜の役員会で、今後の活動と懇談会の内容を確認したという。",
-    "テーマは「防災について」に絞った。花の会は9月に懇談会を予定していたが、都合で延期となり、8月3日に10月の公民館の会場を予約しに行ったと投稿していた。",
-    "花の会が町長と懇談するのは、2024年2月25日の花カフェ、2025年8月24日の三根公民館和室に続くもの。前回は「八丈町を日本一高齢者が幸せに暮らせる町にするにはどうしたら良いか」をテーマに話し、福祉健康課長も同席した。"
+    "八丈町立富士中学校は17日、2年生の親子レクを開いた。親子で「はぁっていうゲーム」とジェスチャーゲームをした。",
+    "同校によると、前年度は台風で休校になったため、親子レクを開けなかった。2年生は今回が初めての親子レクで、最後の機会でもあったという。",
+    "気象庁によると、八丈島の17日の降水量は0ミリで、最高気温は25.2度、最低気温は17.3度だった。"
    ],
    "sources": [
     {
-     "label": "八丈島花の会",
-     "url": "https://x.com/8johana2417/status/2111937454911734059"
+     "label": "富士中学校",
+     "url": "https://fuji-jhs.8jo.ed.jp/n/n56fae9dc7287"
     }
    ],
-   "label": "町政",
+   "label": "教育",
    "audience": "島民",
-   "thread_id": "t20261016-58",
-   "followup": true,
-   "id": "b56f9d",
+   "thread_id": "t20261020-161",
+   "id": "dabfa5",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/b56f9d.jpg?v=c49d7c",
-    "og": "/img/kiji/b56f9d-og.jpg?v=c49d7c",
-    "s": "/img/kiji/b56f9d-s.jpg?v=c49d7c",
-    "m": "/img/kiji/b56f9d-m.jpg?v=c49d7c",
-    "caption": "八丈町三根出張所・三根公民館",
+    "src": "/img/kiji/dabfa5.jpg?v=19ecd4",
+    "og": "/img/kiji/dabfa5-og.jpg?v=19ecd4",
+    "s": "/img/kiji/dabfa5-s.jpg?v=19ecd4",
+    "m": "/img/kiji/dabfa5-m.jpg?v=19ecd4",
+    "caption": "八丈町コミュニティセンター",
     "credit": "",
-    "file": "own/mitsune-shucchojo-1.jpg"
+    "file": "own/komyuniti-1.jpg"
    }
   }
  ],
@@ -355,7 +354,73 @@
    "death": 10
   }
  },
- "giin": [],
+ "giin": [
+  {
+   "name": "伊勢崎唯",
+   "slug": "isezaki-yui",
+   "at": "2026-10-19T17:41:16+09:00",
+   "url": "https://x.com/YuiIsezaki8jo/status/2112101764405375082",
+   "what": "八高ネパール交流の太鼓",
+   "kind": "地域",
+   "duty": true,
+   "when": "きのう",
+   "day": "2026-10-19",
+   "pt": 2,
+   "medal": "🥇"
+  },
+  {
+   "name": "伊藤奨",
+   "slug": "ito-sho",
+   "at": "2026-10-19T17:05:23+09:00",
+   "url": "https://x.com/ito_man1223/status/2112092735222301044",
+   "what": "町民へのお願い",
+   "kind": "意見",
+   "duty": false,
+   "when": "きのう",
+   "day": "2026-10-19",
+   "pt": 1,
+   "medal": "🥈"
+  },
+  {
+   "name": "浅沼碧海",
+   "slug": "asanuma-aomi",
+   "at": "2026-10-19T13:58:41+09:00",
+   "url": "https://x.com/aomi_asa/status/2112045751241216098",
+   "what": "お礼",
+   "kind": "話題",
+   "duty": false,
+   "when": "きのう",
+   "day": "2026-10-19",
+   "pt": 1,
+   "medal": "🥈"
+  },
+  {
+   "name": "佐々木丈",
+   "slug": "sasaki-takeshi",
+   "at": "2026-10-19T01:57:29+09:00",
+   "url": "https://x.com/greenblue8jo/status/2111864256270668277",
+   "what": "あいさつ",
+   "kind": "話題",
+   "duty": false,
+   "when": "きのう",
+   "day": "2026-10-19",
+   "pt": 1,
+   "medal": "🥈"
+  },
+  {
+   "name": "山下則子",
+   "slug": "yamashita-noriko",
+   "at": "2026-10-18T22:13:08+09:00",
+   "url": "https://x.com/norikoba1014/status/2111807796245405870",
+   "what": "お礼",
+   "kind": "話題",
+   "duty": false,
+   "when": "2日前",
+   "day": "2026-10-18",
+   "pt": 1,
+   "medal": ""
+  }
+ ],
  "hyakunen": {
   "then": {
    "ago": "100年前",
