@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T13:12:49+09:00",
+ "built": "2026-11-15T13:21:34+09:00",
  "prev": "/2026/10/20/",
  "next": "/2026/10/22/",
  "alerts": [],
@@ -118,13 +118,13 @@
    "id": "441baf",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/441baf.jpg?v=d33535",
-    "og": "/img/kiji/441baf-og.jpg?v=d33535",
-    "s": "/img/kiji/441baf-s.jpg?v=d33535",
-    "m": "/img/kiji/441baf-m.jpg?v=d33535",
-    "caption": "東海汽船「橘丸」",
+    "src": "/img/kiji/441baf.jpg?v=ffd6e7",
+    "og": "/img/kiji/441baf-og.jpg?v=ffd6e7",
+    "s": "/img/kiji/441baf-s.jpg?v=ffd6e7",
+    "m": "/img/kiji/441baf-m.jpg?v=ffd6e7",
+    "caption": "さるびあ丸",
     "credit": "",
-    "file": "ac/4915538.jpg"
+    "file": "ac/35229700.jpg"
    }
   },
   {
