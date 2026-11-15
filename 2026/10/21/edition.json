@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T13:21:34+09:00",
+ "built": "2026-11-15T18:03:24+09:00",
  "prev": "/2026/10/20/",
  "next": "/2026/10/22/",
  "alerts": [],
@@ -184,13 +184,13 @@
    "id": "4665eb",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4665eb.jpg?v=b31ac7",
-    "og": "/img/kiji/4665eb-og.jpg?v=b31ac7",
-    "s": "/img/kiji/4665eb-s.jpg?v=b31ac7",
-    "m": "/img/kiji/4665eb-m.jpg?v=b31ac7",
+    "src": "/img/kiji/4665eb.jpg?v=80953b",
+    "og": "/img/kiji/4665eb-og.jpg?v=80953b",
+    "s": "/img/kiji/4665eb-s.jpg?v=80953b",
+    "m": "/img/kiji/4665eb-m.jpg?v=80953b",
     "caption": "丸型の郵便ポスト(中之郷)",
     "credit": "",
-    "file": "own/maru-post-1.jpg"
+    "file": "own/maru-post-2.jpg"
    }
   },
   {
@@ -446,5 +446,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "e3ff25f198ca"
+ "chrome": "82f0b3699539"
 }
