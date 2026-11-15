@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T00:05:01+09:00",
+ "built": "2026-11-15T18:01:49+09:00",
  "prev": "/2026/10/13/",
  "next": "/2026/10/15/",
  "alerts": [],
@@ -131,13 +131,13 @@
    "id": "db5f09",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/db5f09.jpg?v=8f40a6",
-    "og": "/img/kiji/db5f09-og.jpg?v=8f40a6",
-    "s": "/img/kiji/db5f09-s.jpg?v=8f40a6",
-    "m": "/img/kiji/db5f09-m.jpg?v=8f40a6",
+    "src": "/img/kiji/db5f09.jpg?v=73b0d6",
+    "og": "/img/kiji/db5f09-og.jpg?v=73b0d6",
+    "s": "/img/kiji/db5f09-s.jpg?v=73b0d6",
+    "m": "/img/kiji/db5f09-m.jpg?v=73b0d6",
     "caption": "裏見ヶ滝温泉",
     "credit": "",
-    "file": "own/uramigataki-onsen-1.jpg"
+    "file": "own/uramigataki-onsen-2.jpg"
    }
   },
   {
@@ -363,5 +363,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "e3ff25f198ca"
+ "chrome": "82f0b3699539"
 }
