@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T13:08:11+09:00",
+ "built": "2026-11-15T13:08:58+09:00",
  "prev": "/2026/10/27/",
  "next": "/2026/10/29/",
  "alerts": [
@@ -178,70 +178,69 @@
  },
  "number": null,
  "top": {
-  "headline": "有志の会、町議選の候補者に29の質問",
+  "headline": "さるびあ丸、28日朝着の便が欠航",
   "body": [
-   "「八丈島の選挙をサポートする有志の会」は26日、自身のnoteで18日の八丈町議会議員選挙を振り返った。候補者への29の質問を載せ、回答した候補者と回答を見送った候補者がいたことを書いている。",
-   "選挙の投票率は66.53%で、立候補者15人のうち12人が当選した。伊藤しょう町議によると、25日付で町議会議員に就任した。"
+   "27日22時30分竹芝発のさるびあ丸(3500便)が、現地海上不良のため欠航した。28日朝に八丈島に着く便で、折り返しの28日八丈島9時40分発の上り(2500便)も欠航となっている。",
+   "三宅島観光協会によると、同じ3500便は御蔵島行きも欠航した。三宅島行きは「条件付き」で、海上や港内の状況により接岸できない場合がある。",
+   "28日の上りは、御蔵島12時40分発のさるびあ丸(2500便)も現地海上不良で欠航となっている。三宅島13時45分発の2500便は「条件付き」で、接岸できない場合がある。"
   ],
-  "figure": null,
   "sources": [
    {
-    "label": "八丈町",
-    "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261018/"
-   },
-   {
-    "label": "八丈島の選挙をサポートする有志の会",
-    "url": "https://note.com/8jo_vote_support/n/nbbd03cb16108"
-   },
-   {
-    "label": "伊藤しょう町議",
-    "url": "https://x.com/ito_man1223/status/2115046794845663240"
+    "label": "東海汽船",
+    "url": "https://www.tokaikisen.co.jp/schedule/"
    }
   ],
-  "label": "町政",
-  "audience": "島民",
-  "thread_id": "t20261028-9",
-  "id": "9014bf",
+  "label": "くらし",
+  "audience": "両方",
+  "thread_id": "t20261028-8",
+  "id": "1881b6",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/9014bf.jpg?v=6f58c5",
-   "og": "/img/kiji/9014bf-og.jpg?v=6f58c5",
-   "s": "/img/kiji/9014bf-s.jpg?v=6f58c5",
-   "m": "/img/kiji/9014bf-m.jpg?v=6f58c5",
-   "caption": "選挙+投票箱",
+   "src": "/img/kiji/1881b6.jpg?v=8b6f8c",
+   "og": "/img/kiji/1881b6-og.jpg?v=8b6f8c",
+   "s": "/img/kiji/1881b6-s.jpg?v=8b6f8c",
+   "m": "/img/kiji/1881b6-m.jpg?v=8b6f8c",
+   "caption": "竹芝桟橋に停泊中のさるびあ丸",
    "credit": "",
-   "file": "ac/3607816.jpg"
-  },
-  "edited": "2026-11-15T13:07:23+09:00"
+   "file": "ac/34534652.jpg"
+  }
  },
  "side": [],
  "shorts": [
   {
-   "headline": "さるびあ丸、28日朝着の便が欠航",
+   "headline": "有志の会、町議選の候補者に29の質問",
    "body": [
-    "27日22時30分竹芝発のさるびあ丸(3500便)が、現地海上不良のため欠航した。28日朝に八丈島に着く便で、折り返しの28日八丈島9時40分発の上り(2500便)も欠航となっている。",
-    "三宅島観光協会によると、同じ3500便は御蔵島行きも欠航した。三宅島行きは「条件付き」で、海上や港内の状況により接岸できない場合がある。",
-    "28日の上りは、御蔵島12時40分発のさるびあ丸(2500便)も現地海上不良で欠航となっている。三宅島13時45分発の2500便は「条件付き」で、接岸できない場合がある。"
+    "「八丈島の選挙をサポートする有志の会」は26日、自身のnoteで18日の八丈町議会議員選挙を振り返った。候補者への29の質問を載せ、回答した候補者と回答を見送った候補者がいたことを書いている。",
+    "選挙の投票率は66.53%で、立候補者15人のうち12人が当選した。伊藤しょう町議によると、25日付で町議会議員に就任した。"
    ],
    "sources": [
     {
-     "label": "東海汽船",
-     "url": "https://www.tokaikisen.co.jp/schedule/"
+     "label": "八丈町",
+     "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261018/"
+    },
+    {
+     "label": "八丈島の選挙をサポートする有志の会",
+     "url": "https://note.com/8jo_vote_support/n/nbbd03cb16108"
+    },
+    {
+     "label": "伊藤しょう町議",
+     "url": "https://x.com/ito_man1223/status/2115046794845663240"
     }
    ],
-   "label": "くらし",
-   "audience": "両方",
-   "thread_id": "t20261028-8",
-   "id": "1881b6",
+   "label": "町政",
+   "audience": "島民",
+   "thread_id": "t20261028-9",
+   "id": "9014bf",
+   "edited": "2026-11-15T13:07:23+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/1881b6.jpg?v=8b6f8c",
-    "og": "/img/kiji/1881b6-og.jpg?v=8b6f8c",
-    "s": "/img/kiji/1881b6-s.jpg?v=8b6f8c",
-    "m": "/img/kiji/1881b6-m.jpg?v=8b6f8c",
-    "caption": "竹芝桟橋に停泊中のさるびあ丸",
+    "src": "/img/kiji/9014bf.jpg?v=6f58c5",
+    "og": "/img/kiji/9014bf-og.jpg?v=6f58c5",
+    "s": "/img/kiji/9014bf-s.jpg?v=6f58c5",
+    "m": "/img/kiji/9014bf-m.jpg?v=6f58c5",
+    "caption": "選挙+投票箱",
     "credit": "",
-    "file": "ac/34534652.jpg"
+    "file": "ac/3607816.jpg"
    }
   },
   {
@@ -254,16 +253,13 @@
     {
      "label": "三根小学校",
      "url": "https://mitsune-es.8jo.ed.jp/n/nd60a93b49b3e"
-    },
-    {
-     "label": "大賀郷中学校",
-     "url": "https://okago-jhs.8jo.ed.jp/n/n642f035e6823"
     }
    ],
    "label": "教育",
    "audience": "島民",
    "thread_id": "t20261028-10",
    "id": "2184e7",
+   "edited": "2026-11-15T13:08:11+09:00",
    "photo": {
     "type": "img",
     "src": "/img/kiji/2184e7.jpg?v=5405c7",
@@ -273,8 +269,7 @@
     "caption": "八丈町立三根小学校",
     "credit": "",
     "file": "own/mitsune-sho-1.jpg"
-   },
-   "edited": "2026-11-15T13:08:11+09:00"
+   }
   },
   {
    "headline": "協力隊イベント「閉会まで盛況」",
