@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T12:59:34+09:00",
+ "built": "2026-11-15T18:04:11+09:00",
  "prev": "/2026/10/22/",
  "next": "/2026/10/24/",
  "alerts": [],
@@ -83,13 +83,13 @@
   "id": "41ec0a",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/41ec0a.jpg?v=8a53d1",
-   "og": "/img/kiji/41ec0a-og.jpg?v=8a53d1",
-   "s": "/img/kiji/41ec0a-s.jpg?v=8a53d1",
-   "m": "/img/kiji/41ec0a-m.jpg?v=8a53d1",
+   "src": "/img/kiji/41ec0a.jpg?v=0a7d4e",
+   "og": "/img/kiji/41ec0a-og.jpg?v=0a7d4e",
+   "s": "/img/kiji/41ec0a-s.jpg?v=0a7d4e",
+   "m": "/img/kiji/41ec0a-m.jpg?v=0a7d4e",
    "caption": "八丈島観光協会",
    "credit": "",
-   "file": "own/kanko-kyokai-2.jpg"
+   "file": "own/kanko-kyokai-1.jpg"
   }
  },
  "side": [],
@@ -356,7 +356,73 @@
    "death": 10
   }
  },
- "giin": [],
+ "giin": [
+  {
+   "name": "佐々木丈",
+   "slug": "sasaki-takeshi",
+   "at": "2026-10-22T13:48:31+09:00",
+   "url": "https://x.com/greenblue8jo/status/2113130357294084163",
+   "what": "議会タブレットの配布",
+   "kind": "活動",
+   "duty": true,
+   "when": "きのう",
+   "day": "2026-10-22",
+   "pt": 2,
+   "medal": "🥇"
+  },
+  {
+   "name": "岩崎由美",
+   "slug": "iwasaki-yumi",
+   "at": "2026-10-20T14:48:50+09:00",
+   "url": "https://x.com/yumi_iwasaki/status/2112420757263507462",
+   "what": "資料館のグッドデザイン賞",
+   "kind": "話題",
+   "duty": false,
+   "when": "3日前",
+   "day": "2026-10-20",
+   "pt": 1,
+   "medal": "🥈"
+  },
+  {
+   "name": "伊勢崎唯",
+   "slug": "isezaki-yui",
+   "at": "2026-10-19T17:41:16+09:00",
+   "url": "https://x.com/YuiIsezaki8jo/status/2112101764405375082",
+   "what": "八高ネパール交流の太鼓",
+   "kind": "地域",
+   "duty": true,
+   "when": "4日前",
+   "day": "2026-10-19",
+   "pt": 2,
+   "medal": "🥉"
+  },
+  {
+   "name": "伊藤奨",
+   "slug": "ito-sho",
+   "at": "2026-10-19T17:05:23+09:00",
+   "url": "https://x.com/ito_man1223/status/2112092735222301044",
+   "what": "町民へのお願い",
+   "kind": "意見",
+   "duty": false,
+   "when": "4日前",
+   "day": "2026-10-19",
+   "pt": 1,
+   "medal": ""
+  },
+  {
+   "name": "浅沼碧海",
+   "slug": "asanuma-aomi",
+   "at": "2026-10-19T13:58:41+09:00",
+   "url": "https://x.com/aomi_asa/status/2112045751241216098",
+   "what": "お礼",
+   "kind": "話題",
+   "duty": false,
+   "when": "4日前",
+   "day": "2026-10-19",
+   "pt": 1,
+   "medal": ""
+  }
+ ],
  "hyakunen": {
   "then": {
    "ago": "100年前",
@@ -376,5 +442,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "e3ff25f198ca"
+ "chrome": "82f0b3699539"
 }
