@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T20:17:25+09:00",
+ "built": "2026-11-15T18:01:02+09:00",
  "prev": "/2026/10/10/",
  "next": "/2026/10/12/",
  "alerts": [],
@@ -142,13 +142,13 @@
    "id": "f27ba1",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f27ba1.jpg?v=86cda6",
-    "og": "/img/kiji/f27ba1-og.jpg?v=86cda6",
-    "s": "/img/kiji/f27ba1-s.jpg?v=86cda6",
-    "m": "/img/kiji/f27ba1-m.jpg?v=86cda6",
+    "src": "/img/kiji/f27ba1.jpg?v=aa1368",
+    "og": "/img/kiji/f27ba1-og.jpg?v=aa1368",
+    "s": "/img/kiji/f27ba1-s.jpg?v=aa1368",
+    "m": "/img/kiji/f27ba1-m.jpg?v=aa1368",
     "caption": "八丈町立三原中学校",
     "credit": "",
-    "file": "own/mihara-chu-3.jpg"
+    "file": "own/mihara-chu-5.jpg"
    }
   },
   {
@@ -355,5 +355,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "e3ff25f198ca"
+ "chrome": "82f0b3699539"
 }
