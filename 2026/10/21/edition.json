@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T11:51:12+09:00",
+ "built": "2026-11-15T13:12:49+09:00",
  "prev": "/2026/10/20/",
  "next": "/2026/10/22/",
  "alerts": [],
@@ -160,44 +160,6 @@
    }
   },
   {
-   "headline": "大賀郷中音楽会に小学生有志",
-   "body": [
-    "大賀郷中学校の音楽会が24日9時から、おじゃれホールで開かれる。大賀郷小学校の有志が「世界を旅する音楽室」を歌う予定。大賀郷小学校によると、8時45分に開場する。",
-    "大賀郷小は、保護者と地域の人に観覧を呼びかけた。音楽朝会でリハーサルを行った。",
-    "大賀郷中によると、3年は15日から放課後練習、16日から朝練習を始めた。音楽の先生は、歌詞の内容を相手に伝えるように歌うよう助言した。",
-    "広報はちじょう2023年10月号は、大賀郷中の音楽会を町多目的ホールで開催したと載せた。"
-   ],
-   "sources": [
-    {
-     "label": "大賀郷小学校",
-     "url": "https://okago-es.8jo.ed.jp/n/nd3d46d98abbc"
-    },
-    {
-     "label": "大賀郷中学校",
-     "url": "https://okago-jhs.8jo.ed.jp/n/nb4824c5c029b"
-    },
-    {
-     "label": "広報はちじょう2023年10月号",
-     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23122726/hachijo2310.pdf"
-    }
-   ],
-   "label": "教育",
-   "audience": "島民",
-   "thread_id": "t20261017-139",
-   "followup": true,
-   "id": "7d2334",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/7d2334.jpg?v=20781a",
-    "og": "/img/kiji/7d2334-og.jpg?v=20781a",
-    "s": "/img/kiji/7d2334-s.jpg?v=20781a",
-    "m": "/img/kiji/7d2334-m.jpg?v=20781a",
-    "caption": "八丈町立大賀郷中学校",
-    "credit": "",
-    "file": "own/okago-chu-3.jpg"
-   }
-  },
-  {
    "headline": "JAPEXで八丈島の風景印を押印",
    "body": [
     "第61回全国切手展JAPEX2026が30日から11月1日まで、東京都立産業貿易センター台東館で開かれる。八丈島の風景印を押す記念押印サービスを実施する。",
@@ -229,6 +191,33 @@
     "caption": "丸型の郵便ポスト(中之郷)",
     "credit": "",
     "file": "own/maru-post-1.jpg"
+   }
+  },
+  {
+   "headline": "三根小3年が八丈ストア見学",
+   "body": [
+    "八丈町立三根小学校の3年生が20日、3・4校時に社会科見学で八丈ストアを訪れた。三根小が伝えた。",
+    "子どもたちは店のバックヤードと、肉・魚・野菜・惣菜の準備をする部屋を見学した。見学後は、質問をしたりメモをとったりしていたという。"
+   ],
+   "sources": [
+    {
+     "label": "三根小学校",
+     "url": "https://mitsune-es.8jo.ed.jp/n/n94ac2c64962b"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20261021-162",
+   "id": "5143ba",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/5143ba.jpg?v=21dffe",
+    "og": "/img/kiji/5143ba-og.jpg?v=21dffe",
+    "s": "/img/kiji/5143ba-s.jpg?v=21dffe",
+    "m": "/img/kiji/5143ba-m.jpg?v=21dffe",
+    "caption": "八丈町立三根小学校",
+    "credit": "",
+    "file": "own/mitsune-sho-5.jpg"
    }
   }
  ],
@@ -371,7 +360,73 @@
    "death": 10
   }
  },
- "giin": [],
+ "giin": [
+  {
+   "name": "佐々木丈",
+   "slug": "sasaki-takeshi",
+   "at": "2026-10-20T17:13:46+09:00",
+   "url": "https://x.com/greenblue8jo/status/2112457233611293039",
+   "what": "加茂川会の太鼓練習",
+   "kind": "地域",
+   "duty": true,
+   "when": "きのう",
+   "day": "2026-10-20",
+   "pt": 2,
+   "medal": "🥇"
+  },
+  {
+   "name": "岩崎由美",
+   "slug": "iwasaki-yumi",
+   "at": "2026-10-20T14:48:50+09:00",
+   "url": "https://x.com/yumi_iwasaki/status/2112420757263507462",
+   "what": "資料館のグッドデザイン賞",
+   "kind": "話題",
+   "duty": false,
+   "when": "きのう",
+   "day": "2026-10-20",
+   "pt": 1,
+   "medal": "🥈"
+  },
+  {
+   "name": "伊勢崎唯",
+   "slug": "isezaki-yui",
+   "at": "2026-10-19T17:41:16+09:00",
+   "url": "https://x.com/YuiIsezaki8jo/status/2112101764405375082",
+   "what": "八高ネパール交流の太鼓",
+   "kind": "地域",
+   "duty": true,
+   "when": "2日前",
+   "day": "2026-10-19",
+   "pt": 2,
+   "medal": "🥉"
+  },
+  {
+   "name": "伊藤奨",
+   "slug": "ito-sho",
+   "at": "2026-10-19T17:05:23+09:00",
+   "url": "https://x.com/ito_man1223/status/2112092735222301044",
+   "what": "町民へのお願い",
+   "kind": "意見",
+   "duty": false,
+   "when": "2日前",
+   "day": "2026-10-19",
+   "pt": 1,
+   "medal": ""
+  },
+  {
+   "name": "浅沼碧海",
+   "slug": "asanuma-aomi",
+   "at": "2026-10-19T13:58:41+09:00",
+   "url": "https://x.com/aomi_asa/status/2112045751241216098",
+   "what": "お礼",
+   "kind": "話題",
+   "duty": false,
+   "when": "2日前",
+   "day": "2026-10-19",
+   "pt": 1,
+   "medal": ""
+  }
+ ],
  "hyakunen": {
   "then": {
    "ago": "100年前",
