@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T16:13:05+09:00",
+ "built": "2026-11-15T16:15:44+09:00",
  "prev": "/2026/10/08/",
  "next": "/2026/10/10/",
  "alerts": [],
@@ -207,6 +207,39 @@
     "caption": "八丈町立大賀郷小学校",
     "credit": "",
     "file": "own/okago-sho-1.jpg"
+   }
+  },
+  {
+   "headline": "富士中の生徒会、2年生へ",
+   "body": [
+    "八丈町立富士中学校は、生徒会役員と各委員会の委員長の任命式を行い、3年生から2年生へ学校を支える役割を引き継いだ。",
+    "同校は、任命書を受け取る生徒たちの姿から、学校の中心として活動する責任と意欲が感じられたと伝えている。",
+    "同校によると、管内陸上競技記録会も行われた。放課後などに自主的に個人練習をする生徒がいて、当日は多くの生徒が自己記録に挑んだ。",
+    "広報はちじょう2022年11月号の教育委員会だよりは、同校の生徒会役員選挙の様子を伝えている。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町立富士中学校",
+     "url": "https://fuji-jhs.8jo.ed.jp/n/n0895bde7d3e1"
+    },
+    {
+     "label": "広報はちじょう2022年11月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23125648/hachijo2211.pdf"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20261009-164",
+   "id": "81bfef",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/81bfef.jpg?v=b0e3b8",
+    "og": "/img/kiji/81bfef-og.jpg?v=b0e3b8",
+    "s": "/img/kiji/81bfef-s.jpg?v=b0e3b8",
+    "m": "/img/kiji/81bfef-m.jpg?v=b0e3b8",
+    "caption": "透明の選挙箱に投票用紙を入れている様子",
+    "credit": "",
+    "file": "ac/3634588.jpg"
    }
   }
  ],
