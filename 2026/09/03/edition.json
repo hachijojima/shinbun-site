@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T21:15:39+09:00",
+ "built": "2026-11-15T21:17:04+09:00",
  "prev": "/2026/09/02/",
  "next": "/2026/10/01/",
  "alerts": [],
@@ -79,7 +79,17 @@
   "label": "くらし",
   "audience": "島民",
   "thread_id": "t20260903-11",
-  "id": "786be3"
+  "id": "786be3",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/786be3.jpg?v=99cb30",
+   "og": "/img/kiji/786be3-og.jpg?v=99cb30",
+   "s": "/img/kiji/786be3-s.jpg?v=99cb30",
+   "m": "/img/kiji/786be3-m.jpg?v=99cb30",
+   "caption": "崖崩れを起こした八丈島垂戸湾の岩場",
+   "credit": "",
+   "file": "ac/27267242.jpg"
+  }
  },
  "side": [],
  "shorts": [
