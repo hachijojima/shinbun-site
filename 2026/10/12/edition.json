@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T09:04:45+09:00",
+ "built": "2026-11-16T12:09:43+09:00",
  "prev": "/2026/10/11/",
  "next": "/2026/10/13/",
  "alerts": [],
@@ -84,13 +84,13 @@
   "id": "f37a9a",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/f37a9a.jpg?v=806408",
-   "og": "/img/kiji/f37a9a-og.jpg?v=806408",
-   "s": "/img/kiji/f37a9a-s.jpg?v=806408",
-   "m": "/img/kiji/f37a9a-m.jpg?v=806408",
-   "caption": "えこ・あぐりまーと(八丈島農産物直売所)",
+   "src": "/img/kiji/f37a9a.jpg?v=206f4c",
+   "og": "/img/kiji/f37a9a-og.jpg?v=206f4c",
+   "s": "/img/kiji/f37a9a-s.jpg?v=206f4c",
+   "m": "/img/kiji/f37a9a-m.jpg?v=206f4c",
+   "caption": "スーパーあさぬま",
    "credit": "",
-   "file": "own/eco-agurimart-2.jpg"
+   "file": "own/asanuma-3.jpg"
   }
  },
  "side": [],

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T00:04:58+09:00",
+ "built": "2026-11-16T12:09:14+09:00",
  "prev": "/2026/10/01/",
  "next": "/2026/10/03/",
  "alerts": [],
@@ -190,13 +190,13 @@
    "id": "8ae9ca",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/8ae9ca.jpg?v=e9665e",
-    "og": "/img/kiji/8ae9ca-og.jpg?v=e9665e",
-    "s": "/img/kiji/8ae9ca-s.jpg?v=e9665e",
-    "m": "/img/kiji/8ae9ca-m.jpg?v=e9665e",
-    "caption": "八丈島の道路",
+    "src": "/img/kiji/8ae9ca.jpg?v=1ce467",
+    "og": "/img/kiji/8ae9ca-og.jpg?v=1ce467",
+    "s": "/img/kiji/8ae9ca-s.jpg?v=1ce467",
+    "m": "/img/kiji/8ae9ca-m.jpg?v=1ce467",
+    "caption": "八丈町社会福祉協議会",
     "credit": "",
-    "file": "ac/3970431.jpg"
+    "file": "own/shakyo-1.jpg"
    }
   },
   {

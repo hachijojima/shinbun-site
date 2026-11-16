@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:02:47+09:00",
+ "built": "2026-11-16T12:09:07+09:00",
  "prev": "/2026/09/09/",
  "next": "/2026/10/01/",
  "alerts": [],
@@ -181,13 +181,13 @@
    "id": "1b7a22",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/1b7a22.jpg?v=d93eb3",
-    "og": "/img/kiji/1b7a22-og.jpg?v=d93eb3",
-    "s": "/img/kiji/1b7a22-s.jpg?v=d93eb3",
-    "m": "/img/kiji/1b7a22-m.jpg?v=d93eb3",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/1b7a22.jpg?v=f7a41f",
+    "og": "/img/kiji/1b7a22-og.jpg?v=f7a41f",
+    "s": "/img/kiji/1b7a22-s.jpg?v=f7a41f",
+    "m": "/img/kiji/1b7a22-m.jpg?v=f7a41f",
+    "caption": "八丈町立富士中学校",
     "credit": "",
-    "file": "own/yakuba-11.jpg"
+    "file": "own/fuji-chu-2.jpg"
    }
   },
   {

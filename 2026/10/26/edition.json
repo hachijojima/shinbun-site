@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:45:46+09:00",
+ "built": "2026-11-16T12:10:07+09:00",
  "prev": "/2026/10/25/",
  "next": "/2026/10/27/",
  "alerts": [
@@ -275,13 +275,13 @@
    "id": "4a9b3b",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4a9b3b.jpg?v=f098b3",
-    "og": "/img/kiji/4a9b3b-og.jpg?v=f098b3",
-    "s": "/img/kiji/4a9b3b-s.jpg?v=f098b3",
-    "m": "/img/kiji/4a9b3b-m.jpg?v=f098b3",
-    "caption": "地震のグラフ",
+    "src": "/img/kiji/4a9b3b.jpg?v=d3aa96",
+    "og": "/img/kiji/4a9b3b-og.jpg?v=d3aa96",
+    "s": "/img/kiji/4a9b3b-s.jpg?v=d3aa96",
+    "m": "/img/kiji/4a9b3b-m.jpg?v=d3aa96",
+    "caption": "富士グラウンド",
     "credit": "",
-    "file": "ac/29124518.jpg"
+    "file": "own/fuji-ground-1.jpg"
    }
   },
   {
@@ -308,13 +308,13 @@
    "id": "0c8a57",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/0c8a57.jpg?v=c9e2cc",
-    "og": "/img/kiji/0c8a57-og.jpg?v=c9e2cc",
-    "s": "/img/kiji/0c8a57-s.jpg?v=c9e2cc",
-    "m": "/img/kiji/0c8a57-m.jpg?v=c9e2cc",
-    "caption": "東京都八丈支庁",
+    "src": "/img/kiji/0c8a57.jpg?v=197bfd",
+    "og": "/img/kiji/0c8a57-og.jpg?v=197bfd",
+    "s": "/img/kiji/0c8a57-s.jpg?v=197bfd",
+    "m": "/img/kiji/0c8a57-m.jpg?v=197bfd",
+    "caption": "八丈町社会福祉協議会",
     "credit": "",
-    "file": "own/shicho-2.jpg"
+    "file": "own/shakyo-2.jpg"
    }
   },
   {

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:44:40+09:00",
+ "built": "2026-11-16T12:08:45+09:00",
  "prev": "/2026/09/03/",
  "next": "/2026/09/05/",
  "alerts": [],
@@ -155,13 +155,13 @@
    "id": "41f204",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/41f204.jpg?v=7ce77c",
-    "og": "/img/kiji/41f204-og.jpg?v=7ce77c",
-    "s": "/img/kiji/41f204-s.jpg?v=7ce77c",
-    "m": "/img/kiji/41f204-m.jpg?v=7ce77c",
+    "src": "/img/kiji/41f204.jpg?v=206f4c",
+    "og": "/img/kiji/41f204-og.jpg?v=206f4c",
+    "s": "/img/kiji/41f204-s.jpg?v=206f4c",
+    "m": "/img/kiji/41f204-m.jpg?v=206f4c",
     "caption": "スーパーあさぬま",
     "credit": "",
-    "file": "own/asanuma-1.jpg"
+    "file": "own/asanuma-3.jpg"
    }
   },
   {
@@ -220,13 +220,13 @@
    "id": "09d352",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/09d352.jpg?v=6aa5a7",
-    "og": "/img/kiji/09d352-og.jpg?v=6aa5a7",
-    "s": "/img/kiji/09d352-s.jpg?v=6aa5a7",
-    "m": "/img/kiji/09d352-m.jpg?v=6aa5a7",
-    "caption": "町立八丈病院",
+    "src": "/img/kiji/09d352.jpg?v=d1547c",
+    "og": "/img/kiji/09d352-og.jpg?v=d1547c",
+    "s": "/img/kiji/09d352-s.jpg?v=d1547c",
+    "m": "/img/kiji/09d352-m.jpg?v=d1547c",
+    "caption": "八丈町保健福祉センター",
     "credit": "",
-    "file": "own/byoin-2.jpg"
+    "file": "own/hoken-fukushi-1.jpg"
    }
   }
  ],

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:55:11+09:00",
+ "built": "2026-11-16T12:09:40+09:00",
  "prev": "/2026/10/10/",
  "next": "/2026/10/12/",
  "alerts": [],
@@ -83,13 +83,13 @@
   "id": "9bd852",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/9bd852.jpg?v=7ce77c",
-   "og": "/img/kiji/9bd852-og.jpg?v=7ce77c",
-   "s": "/img/kiji/9bd852-s.jpg?v=7ce77c",
-   "m": "/img/kiji/9bd852-m.jpg?v=7ce77c",
+   "src": "/img/kiji/9bd852.jpg?v=1485c0",
+   "og": "/img/kiji/9bd852-og.jpg?v=1485c0",
+   "s": "/img/kiji/9bd852-s.jpg?v=1485c0",
+   "m": "/img/kiji/9bd852-m.jpg?v=1485c0",
    "caption": "スーパーあさぬま",
    "credit": "",
-   "file": "own/asanuma-1.jpg"
+   "file": "own/asanuma-2.jpg"
   }
  },
  "side": [],
@@ -114,13 +114,13 @@
    "id": "9567c7",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/9567c7.jpg?v=d2f5e8",
-    "og": "/img/kiji/9567c7-og.jpg?v=d2f5e8",
-    "s": "/img/kiji/9567c7-s.jpg?v=d2f5e8",
-    "m": "/img/kiji/9567c7-m.jpg?v=d2f5e8",
-    "caption": "焼酎",
+    "src": "/img/kiji/9567c7.jpg?v=c8dedd",
+    "og": "/img/kiji/9567c7-og.jpg?v=c8dedd",
+    "s": "/img/kiji/9567c7-s.jpg?v=c8dedd",
+    "m": "/img/kiji/9567c7-m.jpg?v=c8dedd",
+    "caption": "八丈島の焼酎",
     "credit": "",
-    "file": "ac/3776135.jpg"
+    "file": "own/shochu-5.jpg"
    }
   },
   {

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:45:08+09:00",
+ "built": "2026-11-16T12:09:32+09:00",
  "prev": "/2026/10/08/",
  "next": "/2026/10/10/",
  "alerts": [],
@@ -136,13 +136,13 @@
    "id": "c154c3",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/c154c3.jpg?v=63acd5",
-    "og": "/img/kiji/c154c3-og.jpg?v=63acd5",
-    "s": "/img/kiji/c154c3-s.jpg?v=63acd5",
-    "m": "/img/kiji/c154c3-m.jpg?v=63acd5",
-    "caption": "底土港に停泊中の橘丸",
+    "src": "/img/kiji/c154c3.jpg?v=b6ae3c",
+    "og": "/img/kiji/c154c3-og.jpg?v=b6ae3c",
+    "s": "/img/kiji/c154c3-s.jpg?v=b6ae3c",
+    "m": "/img/kiji/c154c3-m.jpg?v=b6ae3c",
+    "caption": "底土港と橘丸",
     "credit": "",
-    "file": "ac/34534821.jpg"
+    "file": "ac/34536262.jpg"
    }
   },
   {
@@ -232,13 +232,13 @@
    "id": "81bfef",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/81bfef.jpg?v=82de26",
-    "og": "/img/kiji/81bfef-og.jpg?v=82de26",
-    "s": "/img/kiji/81bfef-s.jpg?v=82de26",
-    "m": "/img/kiji/81bfef-m.jpg?v=82de26",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/81bfef.jpg?v=30d098",
+    "og": "/img/kiji/81bfef-og.jpg?v=30d098",
+    "s": "/img/kiji/81bfef-s.jpg?v=30d098",
+    "m": "/img/kiji/81bfef-m.jpg?v=30d098",
+    "caption": "八丈町立富士中学校",
     "credit": "",
-    "file": "own/yakuba-4.jpg"
+    "file": "own/fuji-chu-3.jpg"
    },
    "edited": "2026-11-15T16:16:49+09:00"
   }

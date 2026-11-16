@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:45:40+09:00",
+ "built": "2026-11-16T12:10:04+09:00",
  "prev": "/2026/10/21/",
  "next": "/2026/10/23/",
  "alerts": [],
@@ -184,13 +184,13 @@
    "id": "7f6fed",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/7f6fed.jpg?v=50919c",
-    "og": "/img/kiji/7f6fed-og.jpg?v=50919c",
-    "s": "/img/kiji/7f6fed-s.jpg?v=50919c",
-    "m": "/img/kiji/7f6fed-m.jpg?v=50919c",
-    "caption": "八丈島の明日葉",
+    "src": "/img/kiji/7f6fed.jpg?v=84cb7f",
+    "og": "/img/kiji/7f6fed-og.jpg?v=84cb7f",
+    "s": "/img/kiji/7f6fed-s.jpg?v=84cb7f",
+    "m": "/img/kiji/7f6fed-m.jpg?v=84cb7f",
+    "caption": "八丈島の焼酎",
     "credit": "",
-    "file": "ac/3548918.jpg"
+    "file": "own/shochu-7.jpg"
    }
   },
   {

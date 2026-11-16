@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T18:00:13+09:00",
+ "built": "2026-11-16T12:09:21+09:00",
  "prev": "/2026/10/04/",
  "next": "/2026/10/06/",
  "alerts": [],
@@ -79,13 +79,13 @@
   "id": "28f763",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/28f763.jpg?v=d5a178",
-   "og": "/img/kiji/28f763-og.jpg?v=d5a178",
-   "s": "/img/kiji/28f763-s.jpg?v=d5a178",
-   "m": "/img/kiji/28f763-m.jpg?v=d5a178",
-   "caption": "災害に備える防災セットの俯瞰写真",
+   "src": "/img/kiji/28f763.jpg?v=948365",
+   "og": "/img/kiji/28f763-og.jpg?v=948365",
+   "s": "/img/kiji/28f763-s.jpg?v=948365",
+   "m": "/img/kiji/28f763-m.jpg?v=948365",
+   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
    "credit": "",
-   "file": "ac/34615315.jpg"
+   "file": "own/yakuba-6.jpg"
   }
  },
  "side": [],
@@ -200,13 +200,13 @@
    "id": "6d31ed",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/6d31ed.jpg?v=d53855",
-    "og": "/img/kiji/6d31ed-og.jpg?v=d53855",
-    "s": "/img/kiji/6d31ed-s.jpg?v=d53855",
-    "m": "/img/kiji/6d31ed-m.jpg?v=d53855",
+    "src": "/img/kiji/6d31ed.jpg?v=a80276",
+    "og": "/img/kiji/6d31ed-og.jpg?v=a80276",
+    "s": "/img/kiji/6d31ed-s.jpg?v=a80276",
+    "m": "/img/kiji/6d31ed-m.jpg?v=a80276",
     "caption": "八丈町立大賀郷中学校",
     "credit": "",
-    "file": "own/okago-chu-1.jpg"
+    "file": "own/okago-chu-5.jpg"
    }
   }
  ],

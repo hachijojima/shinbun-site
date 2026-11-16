@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T20:17:13+09:00",
+ "built": "2026-11-16T12:09:25+09:00",
  "prev": "/2026/10/05/",
  "next": "/2026/10/07/",
  "alerts": [],
@@ -115,13 +115,13 @@
    "id": "888948",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/888948.jpg?v=c49d7c",
-    "og": "/img/kiji/888948-og.jpg?v=c49d7c",
-    "s": "/img/kiji/888948-s.jpg?v=c49d7c",
-    "m": "/img/kiji/888948-m.jpg?v=c49d7c",
-    "caption": "八丈町三根出張所・三根公民館",
+    "src": "/img/kiji/888948.jpg?v=ba042c",
+    "og": "/img/kiji/888948-og.jpg?v=ba042c",
+    "s": "/img/kiji/888948-s.jpg?v=ba042c",
+    "m": "/img/kiji/888948-m.jpg?v=ba042c",
+    "caption": "八丈町保健福祉センター",
     "credit": "",
-    "file": "own/mitsune-shucchojo-1.jpg"
+    "file": "own/hoken-fukushi-3.jpg"
    }
   },
   {

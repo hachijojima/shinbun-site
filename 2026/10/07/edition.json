@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T20:17:16+09:00",
+ "built": "2026-11-16T12:09:28+09:00",
  "prev": "/2026/10/06/",
  "next": "/2026/10/08/",
  "alerts": [],
@@ -96,13 +96,13 @@
   "id": "098c76",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/098c76.jpg?v=1485c0",
-   "og": "/img/kiji/098c76-og.jpg?v=1485c0",
-   "s": "/img/kiji/098c76-s.jpg?v=1485c0",
-   "m": "/img/kiji/098c76-m.jpg?v=1485c0",
-   "caption": "スーパーあさぬま",
+   "src": "/img/kiji/098c76.jpg?v=796e37",
+   "og": "/img/kiji/098c76-og.jpg?v=796e37",
+   "s": "/img/kiji/098c76-s.jpg?v=796e37",
+   "m": "/img/kiji/098c76-m.jpg?v=796e37",
+   "caption": "スーパーあさぬまの店内",
    "credit": "",
-   "file": "own/asanuma-2.jpg"
+   "file": "own/asanuma-6.jpg"
   }
  },
  "side": [],
@@ -163,13 +163,13 @@
    "id": "0da79d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/0da79d.jpg?v=b3907c",
-    "og": "/img/kiji/0da79d-og.jpg?v=b3907c",
-    "s": "/img/kiji/0da79d-s.jpg?v=b3907c",
-    "m": "/img/kiji/0da79d-m.jpg?v=b3907c",
+    "src": "/img/kiji/0da79d.jpg?v=1b0a0c",
+    "og": "/img/kiji/0da79d-og.jpg?v=1b0a0c",
+    "s": "/img/kiji/0da79d-s.jpg?v=1b0a0c",
+    "m": "/img/kiji/0da79d-m.jpg?v=1b0a0c",
     "caption": "八丈町立三原中学校",
     "credit": "",
-    "file": "own/mihara-chu-2.jpg"
+    "file": "own/mihara-chu-6.jpg"
    }
   },
   {

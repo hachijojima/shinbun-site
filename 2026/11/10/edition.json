@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T19:43:49+09:00",
+ "built": "2026-11-16T12:10:32+09:00",
  "prev": "/2026/11/09/",
  "next": "/2026/11/11/",
  "alerts": [
@@ -206,13 +206,13 @@
   "id": "e538ec",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/e538ec.jpg?v=7ce77c",
-   "og": "/img/kiji/e538ec-og.jpg?v=7ce77c",
-   "s": "/img/kiji/e538ec-s.jpg?v=7ce77c",
-   "m": "/img/kiji/e538ec-m.jpg?v=7ce77c",
+   "src": "/img/kiji/e538ec.jpg?v=441a5a",
+   "og": "/img/kiji/e538ec-og.jpg?v=441a5a",
+   "s": "/img/kiji/e538ec-s.jpg?v=441a5a",
+   "m": "/img/kiji/e538ec-m.jpg?v=441a5a",
    "caption": "スーパーあさぬま",
    "credit": "",
-   "file": "own/asanuma-1.jpg"
+   "file": "own/asanuma-4.jpg"
   },
   "edited": "2026-11-10T21:25:22+09:00"
  },

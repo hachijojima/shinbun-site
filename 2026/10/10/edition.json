@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:55:07+09:00",
+ "built": "2026-11-16T12:09:36+09:00",
  "prev": "/2026/10/09/",
  "next": "/2026/10/11/",
  "alerts": [],
@@ -94,13 +94,13 @@
   "id": "09b163",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/09b163.jpg?v=dca1d0",
-   "og": "/img/kiji/09b163-og.jpg?v=dca1d0",
-   "s": "/img/kiji/09b163-s.jpg?v=dca1d0",
-   "m": "/img/kiji/09b163-m.jpg?v=dca1d0",
-   "caption": "台風後の八丈島",
+   "src": "/img/kiji/09b163.jpg?v=e6259b",
+   "og": "/img/kiji/09b163-og.jpg?v=e6259b",
+   "s": "/img/kiji/09b163-s.jpg?v=e6259b",
+   "m": "/img/kiji/09b163-m.jpg?v=e6259b",
+   "caption": "三根仮設団地",
    "credit": "",
-   "file": "ac/3595112.jpg"
+   "file": "own/mitsune-kasetsu-1.jpg"
   }
  },
  "side": [],
@@ -134,13 +134,13 @@
    "id": "f61ef3",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f61ef3.jpg?v=2d5004",
-    "og": "/img/kiji/f61ef3-og.jpg?v=2d5004",
-    "s": "/img/kiji/f61ef3-s.jpg?v=2d5004",
-    "m": "/img/kiji/f61ef3-m.jpg?v=2d5004",
-    "caption": "八丈島・底土港客船待合所",
+    "src": "/img/kiji/f61ef3.jpg?v=441a5a",
+    "og": "/img/kiji/f61ef3-og.jpg?v=441a5a",
+    "s": "/img/kiji/f61ef3-s.jpg?v=441a5a",
+    "m": "/img/kiji/f61ef3-m.jpg?v=441a5a",
+    "caption": "スーパーあさぬま",
     "credit": "",
-    "file": "ac/4917189.jpg"
+    "file": "own/asanuma-4.jpg"
    }
   },
   {
@@ -165,13 +165,13 @@
    "id": "51563e",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/51563e.jpg?v=1392ba",
-    "og": "/img/kiji/51563e-og.jpg?v=1392ba",
-    "s": "/img/kiji/51563e-s.jpg?v=1392ba",
-    "m": "/img/kiji/51563e-m.jpg?v=1392ba",
-    "caption": "三宅島 三池港",
+    "src": "/img/kiji/51563e.jpg?v=1f79c7",
+    "og": "/img/kiji/51563e-og.jpg?v=1f79c7",
+    "s": "/img/kiji/51563e-s.jpg?v=1f79c7",
+    "m": "/img/kiji/51563e-m.jpg?v=1f79c7",
+    "caption": "八丈町立富士中学校",
     "credit": "",
-    "file": "ac/34536387.jpg"
+    "file": "own/fuji-chu-4.jpg"
    }
   },
   {
@@ -226,13 +226,13 @@
    "id": "948a8d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/948a8d.jpg?v=2fc43d",
-    "og": "/img/kiji/948a8d-og.jpg?v=2fc43d",
-    "s": "/img/kiji/948a8d-s.jpg?v=2fc43d",
-    "m": "/img/kiji/948a8d-m.jpg?v=2fc43d",
-    "caption": "陶器のグラスに入った麦焼酎",
+    "src": "/img/kiji/948a8d.jpg?v=b7a66d",
+    "og": "/img/kiji/948a8d-og.jpg?v=b7a66d",
+    "s": "/img/kiji/948a8d-s.jpg?v=b7a66d",
+    "m": "/img/kiji/948a8d-m.jpg?v=b7a66d",
+    "caption": "八丈島の焼酎",
     "credit": "",
-    "file": "ac/27554488.jpg"
+    "file": "own/shochu-4.jpg"
    }
   }
  ],

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:44:44+09:00",
+ "built": "2026-11-16T12:08:49+09:00",
  "prev": "/2026/09/04/",
  "next": "/2026/09/06/",
  "alerts": [],
@@ -90,13 +90,13 @@
   "id": "5dbdd4",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/5dbdd4.jpg?v=4a2d3b",
-   "og": "/img/kiji/5dbdd4-og.jpg?v=4a2d3b",
-   "s": "/img/kiji/5dbdd4-s.jpg?v=4a2d3b",
-   "m": "/img/kiji/5dbdd4-m.jpg?v=4a2d3b",
-   "caption": "八丈島乳業直営 ゆーゆー牧場",
+   "src": "/img/kiji/5dbdd4.jpg?v=6396bb",
+   "og": "/img/kiji/5dbdd4-og.jpg?v=6396bb",
+   "s": "/img/kiji/5dbdd4-s.jpg?v=6396bb",
+   "m": "/img/kiji/5dbdd4-m.jpg?v=6396bb",
+   "caption": "八丈島の焼酎",
    "credit": "",
-   "file": "own/yuyu-bokujo-1.jpg"
+   "file": "own/shochu-1.jpg"
   }
  },
  "side": [],
@@ -119,13 +119,13 @@
    "id": "bde1ec",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/bde1ec.jpg?v=a99df3",
-    "og": "/img/kiji/bde1ec-og.jpg?v=a99df3",
-    "s": "/img/kiji/bde1ec-s.jpg?v=a99df3",
-    "m": "/img/kiji/bde1ec-m.jpg?v=a99df3",
-    "caption": "八丈島の風景",
+    "src": "/img/kiji/bde1ec.jpg?v=456545",
+    "og": "/img/kiji/bde1ec-og.jpg?v=456545",
+    "s": "/img/kiji/bde1ec-s.jpg?v=456545",
+    "m": "/img/kiji/bde1ec-m.jpg?v=456545",
+    "caption": "八丈島",
     "credit": "",
-    "file": "ac/4084401.jpg"
+    "file": "ac/35340700.jpg"
    }
   },
   {

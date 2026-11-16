@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T21:17:04+09:00",
+ "built": "2026-11-16T12:08:41+09:00",
  "prev": "/2026/09/02/",
  "next": "/2026/09/04/",
  "alerts": [],
@@ -185,13 +185,13 @@
    "id": "08b5f9",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/08b5f9.jpg?v=01eb64",
-    "og": "/img/kiji/08b5f9-og.jpg?v=01eb64",
-    "s": "/img/kiji/08b5f9-s.jpg?v=01eb64",
-    "m": "/img/kiji/08b5f9-m.jpg?v=01eb64",
-    "caption": "学校の食事+給食のメニュー",
+    "src": "/img/kiji/08b5f9.jpg?v=288866",
+    "og": "/img/kiji/08b5f9-og.jpg?v=288866",
+    "s": "/img/kiji/08b5f9-s.jpg?v=288866",
+    "m": "/img/kiji/08b5f9-m.jpg?v=288866",
+    "caption": "八丈町立富士中学校",
     "credit": "",
-    "file": "ac/24686903.jpg"
+    "file": "own/fuji-chu-1.jpg"
    }
   },
   {
