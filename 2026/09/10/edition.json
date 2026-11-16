@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T09:20:58+09:00",
+ "built": "2026-11-16T12:02:47+09:00",
  "prev": "/2026/09/09/",
  "next": "/2026/10/01/",
  "alerts": [],
@@ -80,7 +80,17 @@
   "label": "文化",
   "audience": "両方",
   "thread_id": "t20260910-37",
-  "id": "c13d67"
+  "id": "c13d67",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/c13d67.jpg?v=21d23f",
+   "og": "/img/kiji/c13d67-og.jpg?v=21d23f",
+   "s": "/img/kiji/c13d67-s.jpg?v=21d23f",
+   "m": "/img/kiji/c13d67-m.jpg?v=21d23f",
+   "caption": "八丈町三根出張所・三根公民館",
+   "credit": "",
+   "file": "own/mitsune-shucchojo-2.jpg"
+  }
  },
  "side": [],
  "shorts": [
@@ -110,7 +120,17 @@
    "audience": "両方",
    "thread_id": "t20260908-32",
    "followup": true,
-   "id": "5a918c"
+   "id": "5a918c",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/5a918c.jpg?v=5bbf34",
+    "og": "/img/kiji/5a918c-og.jpg?v=5bbf34",
+    "s": "/img/kiji/5a918c-s.jpg?v=5bbf34",
+    "m": "/img/kiji/5a918c-m.jpg?v=5bbf34",
+    "caption": "橘丸 八丈島 八重根港",
+    "credit": "",
+    "file": "ac/34194382.jpg"
+   }
   },
   {
    "headline": "空の日の遊覧飛行、大人にも",
@@ -130,7 +150,17 @@
    "label": "文化",
    "audience": "両方",
    "thread_id": "t20260910-38",
-   "id": "766fdb"
+   "id": "766fdb",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/766fdb.jpg?v=084996",
+    "og": "/img/kiji/766fdb-og.jpg?v=084996",
+    "s": "/img/kiji/766fdb-s.jpg?v=084996",
+    "m": "/img/kiji/766fdb-m.jpg?v=084996",
+    "caption": "八丈島空港展望デッキ(Hachijojima Airport Observation Deck, Tokyo)",
+    "credit": "",
+    "file": "ac/4920725.jpg"
+   }
   },
   {
    "headline": "富士中、12日に運動会",
@@ -148,7 +178,17 @@
    "audience": "島民",
    "thread_id": "t20260903-178",
    "followup": true,
-   "id": "1b7a22"
+   "id": "1b7a22",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/1b7a22.jpg?v=d93eb3",
+    "og": "/img/kiji/1b7a22-og.jpg?v=d93eb3",
+    "s": "/img/kiji/1b7a22-s.jpg?v=d93eb3",
+    "m": "/img/kiji/1b7a22-m.jpg?v=d93eb3",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "",
+    "file": "own/yakuba-11.jpg"
+   }
   },
   {
    "headline": "登記手続の案内 10月13日・14日",
@@ -167,7 +207,17 @@
    "label": "町政",
    "audience": "島民",
    "thread_id": "t20260910-39",
-   "id": "da3046"
+   "id": "da3046",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/da3046.jpg?v=caa777",
+    "og": "/img/kiji/da3046-og.jpg?v=caa777",
+    "s": "/img/kiji/da3046-s.jpg?v=caa777",
+    "m": "/img/kiji/da3046-m.jpg?v=caa777",
+    "caption": "登記・相続登記・所有権移転",
+    "credit": "",
+    "file": "ac/34853176.jpg"
+   }
   }
  ],
  "agenda": [
