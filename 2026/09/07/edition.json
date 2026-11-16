@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:41:44+09:00",
+ "built": "2026-11-16T14:06:55+09:00",
  "prev": "/2026/09/06/",
  "next": "/2026/09/08/",
  "alerts": [],
@@ -220,13 +220,13 @@
    "id": "97969a",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/97969a.jpg?v=7d00a7",
-    "og": "/img/kiji/97969a-og.jpg?v=7d00a7",
-    "s": "/img/kiji/97969a-s.jpg?v=7d00a7",
-    "m": "/img/kiji/97969a-m.jpg?v=7d00a7",
-    "caption": "八丈島ジャージー牛",
+    "src": "/img/kiji/97969a.jpg?v=34f112",
+    "og": "/img/kiji/97969a-og.jpg?v=34f112",
+    "s": "/img/kiji/97969a-s.jpg?v=34f112",
+    "m": "/img/kiji/97969a-m.jpg?v=34f112",
+    "caption": "給食",
     "credit": "",
-    "file": "ac/1892334.jpg"
+    "file": "ac/4681726.jpg"
    }
   }
  ],
