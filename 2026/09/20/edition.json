@@ -1,0 +1,394 @@
+{
+ "date": "2026-09-20",
+ "edition": "朝刊",
+ "published": "05:30",
+ "proof": false,
+ "built": "2026-11-17T07:23:31+09:00",
+ "prev": "/2026/09/19/",
+ "next": "/2026/10/01/",
+ "alerts": [],
+ "weather": {
+  "issued": "2026-09-20T05:00",
+  "area": "伊豆諸島南部",
+  "days": [
+   {
+    "label": "きょう",
+    "weather": "雨",
+    "main": "雨",
+    "hachijo": "雨",
+    "wind": "",
+    "wave": "",
+    "wind_full": "",
+    "wave_full": "",
+    "pops": [],
+    "min": 23,
+    "max": 27
+   }
+  ]
+ },
+ "koyomi": {
+  "sunrise": "5:27",
+  "sunset": "17:42",
+  "moon": 8.3,
+  "tide": {
+   "place": "八丈島(神湊)",
+   "high": [
+    [
+     "15:23",
+     115
+    ]
+   ],
+   "low": [
+    [
+     "5:38",
+     62
+    ]
+   ]
+  }
+ },
+ "unko": null,
+ "sora": {
+  "status": "欠航",
+  "reason": "",
+  "url": "https://x.com/ANA_flight_info/status/2101231068070506559",
+  "at": "2026-09-19T17:45:00+09:00"
+ },
+ "number": null,
+ "top": {
+  "headline": "台風25号、明るいうちの避難へ",
+  "body": [
+   "八丈町は20日、土砂災害警戒区域に住む人に、明るいうちの避難を呼びかけた。台風25号は強い勢力で、翌日に八丈島へ最接近する予報だ。接近前から大雨が降り続くという。",
+   "町は19日までに、家の周りの物の飛散防止、防災無線戸別受信機の電池と雨戸の確認、水の汲み置きを呼びかけている。町の台風対策のページは、停電に備えた懐中電灯や携帯ラジオの用意、屋根や雨どいの確認を案内している。浸水のおそれがある場所では、家財や食料品を高い場所へ移すよう求めている。",
+   "気象庁によると、八丈島の19日の降水量は31.5ミリだった。東京都防災によると、都は八丈島に情報連絡要員を派遣し、情報を集めている。町によると、20日は八形山リサイクルヤードが伐採木の受入れを休止する。",
+   "気象庁のベストトラックによると、1951年以降、台風の中心が八丈島から100キロ以内に来たのは56回ある。前回は2025年10月13日の台風第23号で、中心は約46キロまで近づき、気圧は970ヘクトパスカルだった。2001年の台風第17号は、25年前のきょう4時ごろ、中心が八丈島の約32キロまで近づいた。"
+  ],
+  "figure": null,
+  "sources": [
+   {
+    "label": "八丈町",
+    "url": "https://x.com/HachijoTown/status/2101131709878333872"
+   },
+   {
+    "label": "東京都防災",
+    "url": "https://x.com/tokyo_bousai/status/2101202372806549522"
+   },
+   {
+    "label": "そらジロー",
+    "url": "https://x.com/ntvsorajiro/status/2101145385603567661"
+   }
+  ],
+  "label": "くらし",
+  "audience": "両方",
+  "thread_id": "t20260917-60",
+  "followup": true,
+  "id": "ec0e03",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/ec0e03.jpg?v=82de26",
+   "og": "/img/kiji/ec0e03-og.jpg?v=82de26",
+   "s": "/img/kiji/ec0e03-s.jpg?v=82de26",
+   "m": "/img/kiji/ec0e03-m.jpg?v=82de26",
+   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+   "credit": "",
+   "file": "own/yakuba-4.jpg"
+  }
+ },
+ "side": [],
+ "shorts": [
+  {
+   "headline": "ANA八丈島便 20・21日は全便欠航",
+   "body": [
+    "八丈島空港発着の全日本空輸(ANA)便は20日と21日、全便が欠航する。ANAの運航の見通し情報によると、19日に20日と21日の全便欠航が決まった。羽田と成田は20日午後から21日にかけて、台風25号の影響が出る可能性があるという。",
+    "三宅島観光協会によると、東海汽船株式会社の三八航路は19日夜と20日夜の竹芝発の定期船が、台風25号の影響で欠航になった。20日と21日の三宅島の定期船は、上下便とも欠航になるという。",
+    "八丈島観光協会によると、19日朝は羽田発の1便(1891便)が八丈島に着いた。2便(1893便)と3便(1895便)は天候を確認中だった。18日夜竹芝発の定期船と、八丈島と青ヶ島を結ぶくろしお丸も欠航した。気象庁によると、八丈島の19日の降水量は31.5ミリだった。"
+   ],
+   "sources": [
+    {
+     "label": "ANA(全日本空輸)運航の見通し情報",
+     "url": "https://x.com/ANA_flight_info/status/2101176745072496700"
+    },
+    {
+     "label": "三宅島観光協会",
+     "url": "https://x.com/miyakejimaTA/status/2101173405689262538"
+    },
+    {
+     "label": "八丈島観光協会",
+     "url": "https://x.com/Go_Hachijo_JP/status/2101092579479785764"
+    }
+   ],
+   "label": "くらし",
+   "audience": "両方",
+   "thread_id": "t20260917-60",
+   "followup": true,
+   "id": "a47c59",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/a47c59.jpg?v=9932df",
+    "og": "/img/kiji/a47c59-og.jpg?v=9932df",
+    "s": "/img/kiji/a47c59-s.jpg?v=9932df",
+    "m": "/img/kiji/a47c59-m.jpg?v=9932df",
+    "caption": "八丈島空港 (東京都八丈町)",
+    "credit": "",
+    "file": "ac/1640814.jpg"
+   }
+  },
+  {
+   "headline": "台風25号、20・21日に休業・休館",
+   "body": [
+    "台風25号の接近に伴い、八丈島では20日と21日、八丈ビジターセンターやタクシー会社、店などが休館・休業する。",
+    "八丈ビジターセンターは20日と21日を臨時休館とし、植物公園の温室も閉鎖する。同センターは、強風による倒木や落枝の危険があるとして、植物公園への立ち入りを控えるよう呼びかけた。八丈島乳業によると、ジェラテリア365も同じ2日間は休業する。同センターは6日にも、大雨・土砂災害の警戒レベルが高いとして臨時休館にした。",
+    "大竜ファームは20日を店休日とし、21日は台風通過のため終日臨時休業とする。肉と惣菜のNorthseaは20日が臨時休業で、21日は定休日である。樫立の伊勢崎富次朗商店は20日を通常営業とするが、風雨によっては早じまいの可能性がある。21日は臨時休業で、むかしのとみじろうは20日と21日を臨時休業とする。",
+    "愛光観光は20日と21日を休む。デマンドタクシーは19日の投稿時点で通常運行の予定としている。",
+    "気象庁によると、八丈島の19日の降水量は31.5ミリだった。台風の中心が八丈島から100キロ以内に来たのは1951年以降56回で、前回は2025年10月13日の台風第23号だった。スーパーあさぬまによると、19日は台風に備えた買い置きで品不足になり、豆腐と牛乳は在庫がなかった。野菜は一定量あり、肉と魚介は困らない程度にあった。"
+   ],
+   "sources": [
+    {
+     "label": "八丈ビジターセンター",
+     "url": "https://x.com/8jo_vc/status/2101119712327545307"
+    },
+    {
+     "label": "八丈島乳業",
+     "url": "https://x.com/milk8jo/status/2101124781945012311"
+    },
+    {
+     "label": "大竜ファーム",
+     "url": "https://x.com/dairyu0317/status/2101164456898334815"
+    },
+    {
+     "label": "肉と惣菜のNorthsea",
+     "url": "https://x.com/Northsea598031/status/2101127509287084256"
+    }
+   ],
+   "label": "くらし",
+   "audience": "両方",
+   "thread_id": "t20260920-69",
+   "id": "aebfcf",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/aebfcf.jpg?v=9d75ab",
+    "og": "/img/kiji/aebfcf-og.jpg?v=9d75ab",
+    "s": "/img/kiji/aebfcf-s.jpg?v=9d75ab",
+    "m": "/img/kiji/aebfcf-m.jpg?v=9d75ab",
+    "caption": "八丈島ビジターセンター入口",
+    "credit": "",
+    "file": "ac/5026921.jpg"
+   }
+  },
+  {
+   "headline": "八丈高野球部、初戦に勝利",
+   "body": [
+    "都立八丈高等学校の硬式野球部は19日、秋季東京都高等学校野球大会一次予選の初戦で六郷工科に11-4で勝った。次戦は23日。",
+    "八丈高(同校)によると、チームは1・2年生の選手11人とマネージャー2人で臨んだ。18日に八丈島を離れ、19日の試合に向かっていた。",
+    "前年は2025年9月13日の秋季大会初戦で、岩倉高校に0-10の5回コールドで敗れた。"
+   ],
+   "sources": [
+    {
+     "label": "東京都立八丈高等学校",
+     "url": "https://x.com/tokyo8jouhs/status/2101255278025158748"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20260918-64",
+   "followup": true,
+   "id": "e9a247",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/e9a247.jpg?v=6aea60",
+    "og": "/img/kiji/e9a247-og.jpg?v=6aea60",
+    "s": "/img/kiji/e9a247-s.jpg?v=6aea60",
+    "m": "/img/kiji/e9a247-m.jpg?v=6aea60",
+    "caption": "東京都立八丈高等学校",
+    "credit": "",
+    "file": "own/hachijo-koko-2.jpg"
+   }
+  },
+  {
+   "headline": "空港の庇の解体工事が完了",
+   "body": [
+    "八丈島空港ターミナルビルによると、八丈島空港で庇を取り壊す工事が19日に終わった。庇は「日除け雨除け施設」と案内されている。"
+   ],
+   "sources": [
+    {
+     "label": "八丈島空港ターミナルビル",
+     "url": "https://x.com/HAT_info_8jo/status/2101185736980787674"
+    }
+   ],
+   "label": "町政",
+   "audience": "両方",
+   "thread_id": "t20260920-70",
+   "id": "e6f7be",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/e6f7be.jpg?v=c65a12",
+    "og": "/img/kiji/e6f7be-og.jpg?v=c65a12",
+    "s": "/img/kiji/e6f7be-s.jpg?v=c65a12",
+    "m": "/img/kiji/e6f7be-m.jpg?v=c65a12",
+    "caption": "八丈島空港ターミナル(Hachijojima Airport Terminal Building, Tokyo)",
+    "credit": "",
+    "file": "ac/4920724.jpg"
+   }
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-09-20",
+   "end": null,
+   "text": "空の日イベント(八丈島空港)中止",
+   "url": "https://hachijoapo.net/archives/4016"
+  },
+  {
+   "date": "2026-09-22",
+   "end": null,
+   "text": "八丈混声合唱団 36周年記念コンサート",
+   "url": "https://x.com/yamasita8jo/status/2097407642826351016"
+  },
+  {
+   "date": "2026-09-23",
+   "end": "2026-12-21",
+   "text": "しまぽ通貨 第2・3期の販売",
+   "url": "https://x.com/Go_Hachijo_JP/status/2095385338256703770"
+  },
+  {
+   "date": "2026-09-26",
+   "end": null,
+   "text": "第22回八丈島夢伝大会",
+   "url": "https://x.com/hachijomachi/status/2094254300696584606"
+  },
+  {
+   "date": "2026-09-27",
+   "end": null,
+   "text": "健康づくり講演会(フェルデンクライス)",
+   "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260901/"
+  },
+  {
+   "date": "2026-09-27",
+   "end": null,
+   "text": "コーヒーハウスLLの朝ヨガ会",
+   "url": "https://x.com/CoffeeHouseLL/status/2098545046098415847"
+  }
+ ],
+ "letters": [],
+ "corrections": [],
+ "column": null,
+ "kyoku": null,
+ "ronten": null,
+ "weekly": [
+  {
+   "date": "2026-09-14",
+   "headline": "町議選は10月18日投票",
+   "url": "/2026/09/14/"
+  },
+  {
+   "date": "2026-09-15",
+   "headline": "NHK、あしたば工場の1年を取材",
+   "url": "/2026/09/15/"
+  },
+  {
+   "date": "2026-09-16",
+   "headline": "八丈富士 牧場先は通行止め続く",
+   "url": "/2026/09/16/"
+  },
+  {
+   "date": "2026-09-17",
+   "headline": "防災無線の確認呼びかけ",
+   "url": "/2026/09/17/"
+  },
+  {
+   "date": "2026-09-18",
+   "headline": "台風25号 八丈島方向へ",
+   "url": "/2026/09/18/"
+  },
+  {
+   "date": "2026-09-19",
+   "headline": "ANA八丈島便 20日は全便欠航",
+   "url": "/2026/09/19/"
+  }
+ ],
+ "ichimen_week": [
+  {
+   "date": "2026-09-19",
+   "url": "/2026/09/19/f73869/",
+   "headlines": [
+    "ANA八丈島便 20日は全便欠航"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "url": "/2026/09/18/ca67ab/",
+   "headlines": [
+    "台風25号 八丈島方向へ"
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "url": "/2026/09/17/ad4a56/",
+   "headlines": [
+    "防災無線の確認呼びかけ"
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "url": "/2026/09/16/fef32e/",
+   "headlines": [
+    "八丈富士 牧場先は通行止め続く"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "url": "/2026/09/15/a8ca15/",
+   "headlines": [
+    "NHK、あしたば工場の1年を取材"
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "url": "/2026/09/14/c99dbc/",
+   "headlines": [
+    "町議選は10月18日投票"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "url": "/2026/09/13/ed7fef/",
+   "headlines": [
+    "ふるさと回帰フェアで移住相談"
+   ]
+  }
+ ],
+ "population": {
+  "as_of": "2026-09-01",
+  "people": 6523,
+  "people_diff": -18,
+  "households": 4049,
+  "households_diff": -5,
+  "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/08/02163126/hachijo2610.pdf",
+  "ido": {
+   "in": 22,
+   "birth": 3,
+   "out": 31,
+   "death": 11
+  }
+ },
+ "giin": [],
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年9月20日(月)",
+   "pic": "",
+   "hi": "27",
+   "lo": "22",
+   "rn": "降水なし"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年9月20日(日)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><path d=\"M24 7C13.5 7 6 14.5 5 24c2.2-2 4.6-2 6.4 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.8-2 4.2-2 6.4 0C42 14.5 34.5 7 24 7z\" fill=\"#2f7fd8\"/><path d=\"M24 24v14a3.5 3.5 0 0 1-7 0\" fill=\"none\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M24 4v3\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg></span>",
+   "hi": "27",
+   "lo": "23",
+   "rn": ""
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
+ },
+ "chrome": "4c6a0bf81d1e"
+}
