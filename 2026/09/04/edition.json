@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:08:45+09:00",
+ "built": "2026-11-16T12:41:41+09:00",
  "prev": "/2026/09/03/",
  "next": "/2026/09/05/",
  "alerts": [],
@@ -183,13 +183,13 @@
    "id": "bdbe7c",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/bdbe7c.jpg?v=1485c0",
-    "og": "/img/kiji/bdbe7c-og.jpg?v=1485c0",
-    "s": "/img/kiji/bdbe7c-s.jpg?v=1485c0",
-    "m": "/img/kiji/bdbe7c-m.jpg?v=1485c0",
-    "caption": "スーパーあさぬま",
+    "src": "/img/kiji/bdbe7c.jpg?v=6c4e73",
+    "og": "/img/kiji/bdbe7c-og.jpg?v=6c4e73",
+    "s": "/img/kiji/bdbe7c-s.jpg?v=6c4e73",
+    "m": "/img/kiji/bdbe7c-m.jpg?v=6c4e73",
+    "caption": "島唐辛子",
     "credit": "",
-    "file": "own/asanuma-2.jpg"
+    "file": "ac/27120193.jpg"
    }
   },
   {

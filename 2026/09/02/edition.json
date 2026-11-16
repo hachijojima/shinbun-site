@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:44:37+09:00",
+ "built": "2026-11-16T12:41:37+09:00",
  "prev": "/2026/09/01/",
  "next": "/2026/09/03/",
  "alerts": [],
@@ -111,13 +111,13 @@
    "id": "6817d7",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/6817d7.jpg?v=4d1b84",
-    "og": "/img/kiji/6817d7-og.jpg?v=4d1b84",
-    "s": "/img/kiji/6817d7-s.jpg?v=4d1b84",
-    "m": "/img/kiji/6817d7-m.jpg?v=4d1b84",
-    "caption": "八丈太鼓",
+    "src": "/img/kiji/6817d7.jpg?v=a99df3",
+    "og": "/img/kiji/6817d7-og.jpg?v=a99df3",
+    "s": "/img/kiji/6817d7-s.jpg?v=a99df3",
+    "m": "/img/kiji/6817d7-m.jpg?v=a99df3",
+    "caption": "八丈島の風景",
     "credit": "",
-    "file": "own/hachijo-taiko-1.jpg"
+    "file": "ac/4084401.jpg"
    }
   },
   {
