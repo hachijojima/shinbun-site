@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-17T19:58:43+09:00",
+ "built": "2026-11-17T21:10:44+09:00",
  "prev": "/2026/11/16/",
  "next": null,
  "alerts": [
@@ -272,13 +272,13 @@
    "id": "c38f3b",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/c38f3b.jpg?v=ab3fc3",
-    "og": "/img/kiji/c38f3b-og.jpg?v=ab3fc3",
-    "s": "/img/kiji/c38f3b-s.jpg?v=ab3fc3",
-    "m": "/img/kiji/c38f3b-m.jpg?v=ab3fc3",
-    "caption": "八丈町商工会",
+    "src": "/img/kiji/c38f3b.jpg?v=3359c6",
+    "og": "/img/kiji/c38f3b-og.jpg?v=3359c6",
+    "s": "/img/kiji/c38f3b-s.jpg?v=3359c6",
+    "m": "/img/kiji/c38f3b-m.jpg?v=3359c6",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
-    "file": "own/shokokai-1.jpg"
+    "file": "own/yakuba-7.jpg"
    }
   },
   {
@@ -509,5 +509,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "0cc0a5151e8b"
+ "chrome": "3912a907092f"
 }
