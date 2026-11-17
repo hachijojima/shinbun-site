@@ -1,0 +1,284 @@
+{
+ "date": "2026-09-24",
+ "edition": "朝刊",
+ "published": "05:30",
+ "proof": false,
+ "built": "2026-11-18T08:14:44+09:00",
+ "prev": "/2026/09/23/",
+ "next": "/2026/10/01/",
+ "alerts": [],
+ "weather": {
+  "issued": "2026-09-24T05:00",
+  "area": "伊豆諸島南部",
+  "days": [
+   {
+    "label": "きょう",
+    "weather": "晴れ 時々 雨",
+    "main": "晴れ 時々 雨",
+    "hachijo": "晴れ 時々 雨",
+    "wind": "",
+    "wave": "",
+    "wind_full": "",
+    "wave_full": "",
+    "pops": [],
+    "min": 22,
+    "max": 29
+   }
+  ]
+ },
+ "koyomi": {
+  "sunrise": "5:29",
+  "sunset": "17:36",
+  "moon": 12.3,
+  "tide": {
+   "place": "八丈島(神湊)",
+   "high": [
+    [
+     "3:09",
+     124
+    ],
+    [
+     "16:21",
+     131
+    ]
+   ],
+   "low": [
+    [
+     "9:44",
+     39
+    ],
+    [
+     "22:06",
+     67
+    ]
+   ]
+  }
+ },
+ "unko": null,
+ "sora": {
+  "status": "就航予定",
+  "reason": "",
+  "url": "https://www.ana.co.jp/fs/dom/jp/",
+  "at": null
+ },
+ "number": null,
+ "top": {
+  "headline": "底土港に定期船6日ぶり入港",
+  "body": [
+   "東京からの定期船が23日朝、6日ぶりに底土港へ入った。17日以来で、18日から22日の5日間は欠航が続いた。",
+   "八丈島観光協会によると、船は8時55分に入港し、9時40分に出港する予定と案内した。羽田発のANA1891便(1便)は同日朝に着いた。",
+   "八丈マリンサービス【東海汽船】八丈島営業所は、橘丸が底土港に8時55分に入港する予定と案内した。くろしお丸は臨時就航し、八重根漁港から条件付きで運航するという。乗船する客には9時ごろまでに来るよう求めた。伊豆諸島開発は、くろしお丸が八丈島を9時30分、青ヶ島を12時50分に出ると案内した。",
+   "スーパーあさぬまは23日朝、台風で空いた棚に商品が戻ると案内した。店員は大量の品出しに追われるとして、客に協力を求めた。気象庁によると、八丈島の23日の降水量は0ミリで、最高気温は28.8度、最低気温は22.4度だった。"
+  ],
+  "figure": null,
+  "sources": [
+   {
+    "label": "海風おねえさん",
+    "url": "https://x.com/umikaze8jo/status/2102549106170515764"
+   },
+   {
+    "label": "八丈島観光協会",
+    "url": "https://x.com/Go_Hachijo_JP/status/2102542608702849454"
+   },
+   {
+    "label": "八丈マリンサービス",
+    "url": "https://x.com/hachijomarine/status/2102534866554524133"
+   },
+   {
+    "label": "伊豆諸島開発",
+    "url": "https://x.com/izu_shibaura/status/2102509105617502580"
+   }
+  ],
+  "label": "くらし",
+  "audience": "両方",
+  "thread_id": "t20260917-60",
+  "followup": true,
+  "id": "95601e"
+ },
+ "side": [],
+ "shorts": [
+  {
+   "headline": "八丈高野球部、2回戦で敗退",
+   "body": [
+    "都立八丈高等学校硬式野球部は23日、秋季東京都高等学校野球大会一次予選(第5〜8ブロック)の2回戦で世田谷学園に0対10で敗れた。同校が伝えた。",
+    "八丈高は19日の1回戦で六郷工科に11対4で勝っていた。1・2年生の選手11人とマネージャー2人の部員13人全員で臨んだ。主将は、秋の大会で1勝した経験を冬も忘れず練習を続けると話した。",
+    "前年の秋季大会は、9月13日の初戦で岩倉に0対10の5回コールドで敗れていた。今年は初戦を突破した。"
+   ],
+   "sources": [
+    {
+     "label": "東京都立八丈高等学校",
+     "url": "https://x.com/tokyo8jouhs/status/2102681608746860665"
+    },
+    {
+     "label": "www.hb-nippon.com",
+     "url": "https://www.hb-nippon.com/tournaments/1909"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20260918-64",
+   "followup": true,
+   "id": "c44137"
+  },
+  {
+   "headline": "優婆夷宝明神社例祭、公開へ",
+   "body": [
+    "優婆夷宝明神社例祭は23日、今年度の祭礼情報を順次公開すると伝えた。あわせて、ボランティアの参加を呼びかけた。",
+    "同例祭は2024年、祭りの核となる式典の日は11月13日と知らせていた。神輿はその前の土曜、演芸会は前の日曜だった。島全部の総社としての祭りで、神輿は三根と大賀郷のほか、坂上にも廻ると案内した。",
+    "2024年のボランティアについて、同例祭は11月10日7時の集合を知らせ、集合場所は八丈酒造または大賀郷公民館と案内した。内容は餅つき、餅の切り分け、袋詰め、ボランティアの子どもの対応だった。同日夜、演芸会の場で餅まきが始まると同例祭は投稿した。"
+   ],
+   "sources": [
+    {
+     "label": "優婆夷宝明神社例祭",
+     "url": "https://x.com/go_sha1113/status/2102641696706007203"
+    }
+   ],
+   "label": "文化",
+   "audience": "両方",
+   "thread_id": "t20260924-82",
+   "id": "dc0b98"
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-09-26",
+   "end": null,
+   "text": "第22回八丈島夢伝",
+   "url": "https://x.com/hachijomachi/status/2094254300696584606"
+  },
+  {
+   "date": "2026-09-27",
+   "end": null,
+   "text": "健康づくり講演会（フェルデンクライス）",
+   "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260901/"
+  },
+  {
+   "date": "2026-09-27",
+   "end": null,
+   "text": "コーヒーハウスLLの朝のヨガ会",
+   "url": "https://x.com/CoffeeHouseLL/status/2098545046098415847"
+  },
+  {
+   "date": "2026-09-27",
+   "end": null,
+   "text": "Coffee House LLの朝ヨガ受付終了",
+   "url": "https://x.com/CoffeeHouseLL/status/2099658339248676913"
+  },
+  {
+   "date": "2026-09-27",
+   "end": null,
+   "text": "笑いヨガ体験講座",
+   "url": "https://x.com/8johana2417/status/2102509103834882165"
+  },
+  {
+   "date": "2026-09-28",
+   "end": null,
+   "text": "三原小の10月の生活目標と運動会スローガン",
+   "url": "https://mihara-es.8jo.ed.jp/n/n3585a605d346"
+  },
+  {
+   "date": "2026-09-28",
+   "end": null,
+   "text": "講話と体験「牛で興す八丈島」",
+   "url": "https://x.com/enkel_to_hare/status/2097150434670702929"
+  },
+  {
+   "date": "2026-09-29",
+   "end": null,
+   "text": "大賀郷小で創立150周年のANA航空教室",
+   "url": "https://okago-es.8jo.ed.jp/n/n5a08d18d1f69"
+  }
+ ],
+ "letters": [],
+ "corrections": [],
+ "column": null,
+ "kyoku": null,
+ "ronten": null,
+ "weekly": [],
+ "ichimen_week": [
+  {
+   "date": "2026-09-23",
+   "url": "/2026/09/23/06d62c/",
+   "headlines": [
+    "八丈島の停電が全て復旧"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "url": "/2026/09/22/442dd6/",
+   "headlines": [
+    "台風25号が八丈島の近くを通過"
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "url": "/2026/09/21/1ad1aa/",
+   "headlines": [
+    "大竜ファーム、台風前に収穫"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "url": "/2026/09/20/ec0e03/",
+   "headlines": [
+    "台風25号、明るいうちの避難へ"
+   ]
+  },
+  {
+   "date": "2026-09-19",
+   "url": "/2026/09/19/f73869/",
+   "headlines": [
+    "ANA八丈島便 20日は全便欠航"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "url": "/2026/09/18/ca67ab/",
+   "headlines": [
+    "台風25号 八丈島方向へ"
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "url": "/2026/09/17/ad4a56/",
+   "headlines": [
+    "防災無線の確認呼びかけ"
+   ]
+  }
+ ],
+ "population": {
+  "as_of": "2026-09-01",
+  "people": 6523,
+  "people_diff": -18,
+  "households": 4049,
+  "households_diff": -5,
+  "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/08/02163126/hachijo2610.pdf",
+  "ido": {
+   "in": 22,
+   "birth": 3,
+   "out": 31,
+   "death": 11
+  }
+ },
+ "giin": [],
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年9月24日(金)",
+   "pic": "",
+   "hi": "29",
+   "lo": "24",
+   "rn": "雨 0.3mm"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年9月24日(木)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><g stroke=\"#f08c00\" stroke-width=\"3.2\" stroke-linecap=\"round\"><path d=\"M24 3v6M24 39v6M3 24h6M39 24h6M9.2 9.2l4.2 4.2M34.6 34.6l4.2 4.2M9.2 38.8l4.2-4.2M34.6 13.4l4.2-4.2\"/></g><circle cx=\"24\" cy=\"24\" r=\"10\" fill=\"#f7a21b\"/></svg></span><i class=c>|</i><span class=\"ic s\"><svg viewBox=\"0 0 48 48\"><path d=\"M24 7C13.5 7 6 14.5 5 24c2.2-2 4.6-2 6.4 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.8-2 4.2-2 6.4 0C42 14.5 34.5 7 24 7z\" fill=\"#2f7fd8\"/><path d=\"M24 24v14a3.5 3.5 0 0 1-7 0\" fill=\"none\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M24 4v3\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg></span>",
+   "hi": "29",
+   "lo": "22",
+   "rn": ""
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
+ },
+ "chrome": "6682e570d36b"
+}
