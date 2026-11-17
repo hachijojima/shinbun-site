@@ -218,13 +218,13 @@
    "id": "f613ae",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f613ae.jpg?v=ab3fc3",
-    "og": "/img/kiji/f613ae-og.jpg?v=ab3fc3",
-    "s": "/img/kiji/f613ae-s.jpg?v=ab3fc3",
-    "m": "/img/kiji/f613ae-m.jpg?v=ab3fc3",
-    "caption": "八丈町商工会",
+    "src": "/img/kiji/f613ae.jpg?v=f9e6a6",
+    "og": "/img/kiji/f613ae-og.jpg?v=f9e6a6",
+    "s": "/img/kiji/f613ae-s.jpg?v=f9e6a6",
+    "m": "/img/kiji/f613ae-m.jpg?v=f9e6a6",
+    "caption": "八丈町役場の中",
     "credit": "",
-    "file": "own/shokokai-1.jpg"
+    "file": "own/yakuba-naka-4.jpg"
    }
   }
  ],
@@ -292,5 +292,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "4c6a0bf81d1e"
+ "chrome": "6682e570d36b"
 }

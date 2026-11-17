@@ -74,13 +74,13 @@
   "id": "1ad1aa",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/1ad1aa.jpg?v=e51268",
-   "og": "/img/kiji/1ad1aa-og.jpg?v=e51268",
-   "s": "/img/kiji/1ad1aa-s.jpg?v=e51268",
-   "m": "/img/kiji/1ad1aa-m.jpg?v=e51268",
-   "caption": "八丈町商工会",
+   "src": "/img/kiji/1ad1aa.jpg?v=0ba7ca",
+   "og": "/img/kiji/1ad1aa-og.jpg?v=0ba7ca",
+   "s": "/img/kiji/1ad1aa-s.jpg?v=0ba7ca",
+   "m": "/img/kiji/1ad1aa-m.jpg?v=0ba7ca",
+   "caption": "山の麓の農場",
    "credit": "",
-   "file": "own/shokokai-2.jpg"
+   "file": "ac/25961464.jpg"
   }
  },
  "side": [],
@@ -330,5 +330,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "4c6a0bf81d1e"
+ "chrome": "6682e570d36b"
 }
