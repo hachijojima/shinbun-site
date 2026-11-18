@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T18:46:47+09:00",
+ "built": "2026-11-19T01:58:22+09:00",
  "prev": "/2026/09/14/",
  "next": "/2026/09/16/",
  "alerts": [],
@@ -92,13 +92,13 @@
   "id": "a8ca15",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/a8ca15.jpg?v=d1ab48",
-   "og": "/img/kiji/a8ca15-og.jpg?v=d1ab48",
-   "s": "/img/kiji/a8ca15-s.jpg?v=d1ab48",
-   "m": "/img/kiji/a8ca15-m.jpg?v=d1ab48",
-   "caption": "東京都島しょ農林水産総合センター八丈事業所の案内板",
+   "src": "/img/kiji/a8ca15.jpg?v=d7d31e",
+   "og": "/img/kiji/a8ca15-og.jpg?v=d7d31e",
+   "s": "/img/kiji/a8ca15-s.jpg?v=d7d31e",
+   "m": "/img/kiji/a8ca15-m.jpg?v=d7d31e",
+   "caption": "東京都・八丈島 フリージア畑の風景",
    "credit": "",
-   "file": "own/norin-center-1.jpg"
+   "file": "ac/29362280.jpg"
   }
  },
  "side": [],

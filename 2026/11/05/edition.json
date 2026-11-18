@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-18T16:02:23+09:00",
+ "built": "2026-11-19T01:59:27+09:00",
  "prev": "/2026/11/04/",
  "next": "/2026/11/06/",
  "alerts": [
@@ -318,13 +318,13 @@
    "id": "f82993",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f82993.jpg?v=c76a39",
-    "og": "/img/kiji/f82993-og.jpg?v=c76a39",
-    "s": "/img/kiji/f82993-s.jpg?v=c76a39",
-    "m": "/img/kiji/f82993-m.jpg?v=c76a39",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/f82993.jpg?v=5dddd0",
+    "og": "/img/kiji/f82993-og.jpg?v=5dddd0",
+    "s": "/img/kiji/f82993-s.jpg?v=5dddd0",
+    "m": "/img/kiji/f82993-m.jpg?v=5dddd0",
+    "caption": "迷惑メールは送らないでください",
     "credit": "",
-    "file": "own/yakuba-8.jpg"
+    "file": "ac/32345790.jpg"
    }
   },
   {

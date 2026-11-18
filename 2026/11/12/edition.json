@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-18T16:03:21+09:00",
+ "built": "2026-11-19T02:00:09+09:00",
  "prev": "/2026/11/11/",
  "next": "/2026/11/13/",
  "alerts": [],
@@ -258,13 +258,13 @@
    "id": "fcd1ed",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/fcd1ed.jpg?v=1c3376",
-    "og": "/img/kiji/fcd1ed-og.jpg?v=1c3376",
-    "s": "/img/kiji/fcd1ed-s.jpg?v=1c3376",
-    "m": "/img/kiji/fcd1ed-m.jpg?v=1c3376",
-    "caption": "八丈富士 浅間神社",
+    "src": "/img/kiji/fcd1ed.jpg?v=7382a2",
+    "og": "/img/kiji/fcd1ed-og.jpg?v=7382a2",
+    "s": "/img/kiji/fcd1ed-s.jpg?v=7382a2",
+    "m": "/img/kiji/fcd1ed-m.jpg?v=7382a2",
+    "caption": "八丈富士のお鉢巡り 天空のトレッキング",
     "credit": "",
-    "file": "ac/34534975.jpg"
+    "file": "ac/35139524.jpg"
    }
   },
   {
@@ -291,13 +291,13 @@
    "id": "4281ce",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4281ce.jpg?v=4b017d",
-    "og": "/img/kiji/4281ce-og.jpg?v=4b017d",
-    "s": "/img/kiji/4281ce-s.jpg?v=4b017d",
-    "m": "/img/kiji/4281ce-m.jpg?v=4b017d",
-    "caption": "八丈町役場の中",
+    "src": "/img/kiji/4281ce.jpg?v=948365",
+    "og": "/img/kiji/4281ce-og.jpg?v=948365",
+    "s": "/img/kiji/4281ce-s.jpg?v=948365",
+    "m": "/img/kiji/4281ce-m.jpg?v=948365",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
-    "file": "own/yakuba-naka-1.jpg"
+    "file": "own/yakuba-6.jpg"
    }
   },
   {

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-18T16:03:45+09:00",
+ "built": "2026-11-19T02:00:30+09:00",
  "prev": "/2026/11/15/",
  "next": "/2026/11/17/",
  "alerts": [
@@ -327,13 +327,13 @@
    "id": "321139",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/321139.jpg?v=d30cf3",
-    "og": "/img/kiji/321139-og.jpg?v=d30cf3",
-    "s": "/img/kiji/321139-s.jpg?v=d30cf3",
-    "m": "/img/kiji/321139-m.jpg?v=d30cf3",
-    "caption": "底土海水浴場のさざ波と黒い砂浜",
+    "src": "/img/kiji/321139.jpg?v=9112df",
+    "og": "/img/kiji/321139-og.jpg?v=9112df",
+    "s": "/img/kiji/321139-s.jpg?v=9112df",
+    "m": "/img/kiji/321139-m.jpg?v=9112df",
+    "caption": "朝焼けと底土海水浴場の砂浜",
     "credit": "",
-    "file": "ac/27266333.jpg"
+    "file": "ac/27266328.jpg"
    }
   }
  ],
