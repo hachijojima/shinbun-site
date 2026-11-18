@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T18:06:35+09:00",
+ "built": "2026-11-18T15:56:46+09:00",
  "prev": "/2026/10/30/",
  "next": "/2026/11/01/",
  "alerts": [
@@ -246,17 +246,7 @@
    "label": "産業",
    "audience": "島民",
    "thread_id": "t20261031-17",
-   "id": "1d87a4",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/1d87a4.jpg?v=0a7d4e",
-    "og": "/img/kiji/1d87a4-og.jpg?v=0a7d4e",
-    "s": "/img/kiji/1d87a4-s.jpg?v=0a7d4e",
-    "m": "/img/kiji/1d87a4-m.jpg?v=0a7d4e",
-    "caption": "八丈島観光協会",
-    "credit": "",
-    "file": "own/kanko-kyokai-1.jpg"
-   }
+   "id": "1d87a4"
   },
   {
    "headline": "三原大運動会を11月1日へ延期",

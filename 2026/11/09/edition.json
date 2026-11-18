@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:10:28+09:00",
+ "built": "2026-11-18T15:57:39+09:00",
  "prev": "/2026/11/08/",
  "next": "/2026/11/10/",
  "alerts": [
@@ -241,17 +241,7 @@
    "label": "くらし",
    "audience": "両方",
    "thread_id": "t20261109-54",
-   "id": "fc42bc",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/fc42bc.jpg?v=48d000",
-    "og": "/img/kiji/fc42bc-og.jpg?v=48d000",
-    "s": "/img/kiji/fc42bc-s.jpg?v=48d000",
-    "m": "/img/kiji/fc42bc-m.jpg?v=48d000",
-    "caption": "迫る台風 荒れる八丈島の海",
-    "credit": "",
-    "file": "ac/3158090.jpg"
-   }
+   "id": "fc42bc"
   },
   {
    "headline": "優婆夷例祭 綱引きは椿荘が優勝",
@@ -314,13 +304,13 @@
    "edited": "2026-11-09T06:31:45+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/3a4a7c.jpg?v=25a99d",
-    "og": "/img/kiji/3a4a7c-og.jpg?v=25a99d",
-    "s": "/img/kiji/3a4a7c-s.jpg?v=25a99d",
-    "m": "/img/kiji/3a4a7c-m.jpg?v=25a99d",
+    "src": "/img/kiji/3a4a7c.jpg?v=8aa6af",
+    "og": "/img/kiji/3a4a7c-og.jpg?v=8aa6af",
+    "s": "/img/kiji/3a4a7c-s.jpg?v=8aa6af",
+    "m": "/img/kiji/3a4a7c-m.jpg?v=8aa6af",
     "caption": "八丈町立三根小学校",
     "credit": "",
-    "file": "own/mitsune-sho-3.jpg"
+    "file": "own/mitsune-sho-13.jpg"
    }
   },
   {

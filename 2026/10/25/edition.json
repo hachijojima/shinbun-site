@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:45:43+09:00",
+ "built": "2026-11-18T15:55:50+09:00",
  "prev": "/2026/10/24/",
  "next": "/2026/10/26/",
  "alerts": [
@@ -197,13 +197,13 @@
   "id": "35d678",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/35d678.jpg?v=3ebb69",
-   "og": "/img/kiji/35d678-og.jpg?v=3ebb69",
-   "s": "/img/kiji/35d678-s.jpg?v=3ebb69",
-   "m": "/img/kiji/35d678-m.jpg?v=3ebb69",
+   "src": "/img/kiji/35d678.jpg?v=c040ac",
+   "og": "/img/kiji/35d678-og.jpg?v=c040ac",
+   "s": "/img/kiji/35d678-s.jpg?v=c040ac",
+   "m": "/img/kiji/35d678-m.jpg?v=c040ac",
    "caption": "東京都立八丈高等学校",
    "credit": "",
-   "file": "own/hachijo-koko-1.jpg"
+   "file": "own/hachijo-koko-3.jpg"
   }
  },
  "side": [],
@@ -259,13 +259,13 @@
    "id": "f39860",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f39860.jpg?v=6aa5a7",
-    "og": "/img/kiji/f39860-og.jpg?v=6aa5a7",
-    "s": "/img/kiji/f39860-s.jpg?v=6aa5a7",
-    "m": "/img/kiji/f39860-m.jpg?v=6aa5a7",
-    "caption": "町立八丈病院",
+    "src": "/img/kiji/f39860.jpg?v=a78ac1",
+    "og": "/img/kiji/f39860-og.jpg?v=a78ac1",
+    "s": "/img/kiji/f39860-s.jpg?v=a78ac1",
+    "m": "/img/kiji/f39860-m.jpg?v=a78ac1",
+    "caption": "パソコン エラー セキュリティ 机の上(背景付き)",
     "credit": "",
-    "file": "own/byoin-2.jpg"
+    "file": "ac/3250795.jpg"
    }
   },
   {
@@ -286,13 +286,13 @@
    "id": "143aff",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/143aff.jpg?v=af171c",
-    "og": "/img/kiji/143aff-og.jpg?v=af171c",
-    "s": "/img/kiji/143aff-s.jpg?v=af171c",
-    "m": "/img/kiji/143aff-m.jpg?v=af171c",
-    "caption": "東京都・八丈島の海",
+    "src": "/img/kiji/143aff.jpg?v=bdfd22",
+    "og": "/img/kiji/143aff-og.jpg?v=bdfd22",
+    "s": "/img/kiji/143aff-s.jpg?v=bdfd22",
+    "m": "/img/kiji/143aff-m.jpg?v=bdfd22",
+    "caption": "海の中/八丈島",
     "credit": "",
-    "file": "ac/2478741.jpg"
+    "file": "ac/4272244.jpg"
    }
   },
   {
@@ -449,9 +449,9 @@
   },
   {
    "date": "2026-10-18",
-   "url": "/2026/10/18/77516d/",
+   "url": "/2026/10/18/35a122/",
    "headlines": [
-    "町議選きょう投票 18時まで"
+    "町議選、きょう投開票"
    ]
   }
  ],

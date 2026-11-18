@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T19:43:11+09:00",
+ "built": "2026-11-18T15:56:02+09:00",
  "prev": "/2026/10/26/",
  "next": "/2026/10/28/",
  "alerts": [
@@ -234,13 +234,13 @@
    "id": "387edd",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/387edd.jpg?v=b9e196",
-    "og": "/img/kiji/387edd-og.jpg?v=b9e196",
-    "s": "/img/kiji/387edd-s.jpg?v=b9e196",
-    "m": "/img/kiji/387edd-m.jpg?v=b9e196",
-    "caption": "東海汽船「橘丸」三宅島入港",
+    "src": "/img/kiji/387edd.jpg?v=809f84",
+    "og": "/img/kiji/387edd-og.jpg?v=809f84",
+    "s": "/img/kiji/387edd-s.jpg?v=809f84",
+    "m": "/img/kiji/387edd-m.jpg?v=809f84",
+    "caption": "八丈島・八重根港ターミナル",
     "credit": "",
-    "file": "ac/4915554.jpg"
+    "file": "ac/4939567.jpg"
    }
   },
   {
@@ -262,13 +262,13 @@
    "id": "f76b85",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f76b85.jpg?v=4ceb84",
-    "og": "/img/kiji/f76b85-og.jpg?v=4ceb84",
-    "s": "/img/kiji/f76b85-s.jpg?v=4ceb84",
-    "m": "/img/kiji/f76b85-m.jpg?v=4ceb84",
+    "src": "/img/kiji/f76b85.jpg?v=d4ca53",
+    "og": "/img/kiji/f76b85-og.jpg?v=d4ca53",
+    "s": "/img/kiji/f76b85-s.jpg?v=d4ca53",
+    "m": "/img/kiji/f76b85-m.jpg?v=d4ca53",
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
-    "file": "own/yakuba-1.jpg"
+    "file": "own/yakuba-5.jpg"
    }
   },
   {

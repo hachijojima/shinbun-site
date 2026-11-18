@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T20:18:15+09:00",
+ "built": "2026-11-18T15:58:00+09:00",
  "prev": "/2026/11/11/",
  "next": "/2026/11/13/",
  "alerts": [],
@@ -255,17 +255,7 @@
    "label": "産業",
    "audience": "来島者",
    "thread_id": "t20261112-65",
-   "id": "fcd1ed",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/fcd1ed.jpg?v=1c3376",
-    "og": "/img/kiji/fcd1ed-og.jpg?v=1c3376",
-    "s": "/img/kiji/fcd1ed-s.jpg?v=1c3376",
-    "m": "/img/kiji/fcd1ed-m.jpg?v=1c3376",
-    "caption": "八丈富士 浅間神社",
-    "credit": "",
-    "file": "ac/34534975.jpg"
-   }
+   "id": "fcd1ed"
   },
   {
    "headline": "登記手続の案内、12月8日と9日に",
@@ -288,17 +278,7 @@
    "label": "くらし",
    "audience": "島民",
    "thread_id": "t20261112-66",
-   "id": "4281ce",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/4281ce.jpg?v=4b017d",
-    "og": "/img/kiji/4281ce-og.jpg?v=4b017d",
-    "s": "/img/kiji/4281ce-s.jpg?v=4b017d",
-    "m": "/img/kiji/4281ce-m.jpg?v=4b017d",
-    "caption": "八丈町役場の中",
-    "credit": "",
-    "file": "own/yakuba-naka-1.jpg"
-   }
+   "id": "4281ce"
   },
   {
    "headline": "八丈高校家政科がはんばのり弁当",

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:09:17+09:00",
+ "built": "2026-11-18T15:54:10+09:00",
  "prev": "/2026/10/02/",
  "next": "/2026/10/04/",
  "alerts": [],
@@ -218,13 +218,13 @@
    "id": "58e2d5",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/58e2d5.jpg?v=6f58c5",
-    "og": "/img/kiji/58e2d5-og.jpg?v=6f58c5",
-    "s": "/img/kiji/58e2d5-s.jpg?v=6f58c5",
-    "m": "/img/kiji/58e2d5-m.jpg?v=6f58c5",
-    "caption": "選挙+投票箱",
+    "src": "/img/kiji/58e2d5.jpg?v=f7a6f0",
+    "og": "/img/kiji/58e2d5-og.jpg?v=f7a6f0",
+    "s": "/img/kiji/58e2d5-s.jpg?v=f7a6f0",
+    "m": "/img/kiji/58e2d5-m.jpg?v=f7a6f0",
+    "caption": "選挙の期日前投票所の案内看板",
     "credit": "",
-    "file": "ac/3607816.jpg"
+    "file": "ac/34499925.jpg"
    }
   }
  ],

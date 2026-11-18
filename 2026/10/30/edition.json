@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:10:11+09:00",
+ "built": "2026-11-18T15:56:35+09:00",
  "prev": "/2026/10/29/",
  "next": "/2026/10/31/",
  "alerts": [
@@ -238,17 +238,7 @@
    "audience": "両方",
    "thread_id": "t20261030-14",
    "followup": true,
-   "id": "4ce2d9",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/4ce2d9.jpg?v=63acd5",
-    "og": "/img/kiji/4ce2d9-og.jpg?v=63acd5",
-    "s": "/img/kiji/4ce2d9-s.jpg?v=63acd5",
-    "m": "/img/kiji/4ce2d9-m.jpg?v=63acd5",
-    "caption": "底土港に停泊中の橘丸",
-    "credit": "",
-    "file": "ac/34534821.jpg"
-   }
+   "id": "4ce2d9"
   },
   {
    "headline": "水道料金、12月請求から再開",
@@ -304,13 +294,13 @@
    "id": "6fb8c2",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/6fb8c2.jpg?v=ab3fc3",
-    "og": "/img/kiji/6fb8c2-og.jpg?v=ab3fc3",
-    "s": "/img/kiji/6fb8c2-s.jpg?v=ab3fc3",
-    "m": "/img/kiji/6fb8c2-m.jpg?v=ab3fc3",
-    "caption": "八丈町商工会",
+    "src": "/img/kiji/6fb8c2.jpg?v=0188cb",
+    "og": "/img/kiji/6fb8c2-og.jpg?v=0188cb",
+    "s": "/img/kiji/6fb8c2-s.jpg?v=0188cb",
+    "m": "/img/kiji/6fb8c2-m.jpg?v=0188cb",
+    "caption": "八丈町商工会の研修室",
     "credit": "",
-    "file": "own/shokokai-1.jpg"
+    "file": "own/shokokai-kenshu-1.jpg"
    }
   },
   {

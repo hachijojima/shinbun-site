@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:10:17+09:00",
+ "built": "2026-11-18T15:56:56+09:00",
  "prev": "/2026/11/01/",
  "next": "/2026/11/03/",
  "alerts": [
@@ -190,17 +190,7 @@
    "audience": "両方",
    "thread_id": "t20261102-25",
    "id": "d0f060",
-   "edited": "2026-11-03T16:47:39+09:00",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/d0f060.jpg?v=573a5d",
-    "og": "/img/kiji/d0f060-og.jpg?v=573a5d",
-    "s": "/img/kiji/d0f060-s.jpg?v=573a5d",
-    "m": "/img/kiji/d0f060-m.jpg?v=573a5d",
-    "caption": "夜景 東京 竹芝客船ターミナル",
-    "credit": "",
-    "file": "ac/27624455.jpg"
-   }
+   "edited": "2026-11-03T16:47:39+09:00"
   },
   {
    "headline": "地域振興補助、第3回の申請期間",

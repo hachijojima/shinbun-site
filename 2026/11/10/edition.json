@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:10:32+09:00",
+ "built": "2026-11-18T15:57:50+09:00",
  "prev": "/2026/11/09/",
  "next": "/2026/11/11/",
  "alerts": [
@@ -297,17 +297,7 @@
    "label": "町政",
    "audience": "両方",
    "thread_id": "t20261110-57",
-   "id": "3d88eb",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/3d88eb.jpg?v=0a7d4e",
-    "og": "/img/kiji/3d88eb-og.jpg?v=0a7d4e",
-    "s": "/img/kiji/3d88eb-s.jpg?v=0a7d4e",
-    "m": "/img/kiji/3d88eb-m.jpg?v=0a7d4e",
-    "caption": "八丈島観光協会",
-    "credit": "",
-    "file": "own/kanko-kyokai-1.jpg"
-   }
+   "id": "3d88eb"
   },
   {
    "headline": "藍ヶ江漁港の通行止め解除",

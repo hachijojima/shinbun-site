@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-14T20:17:40+09:00",
+ "built": "2026-11-18T15:56:24+09:00",
  "prev": "/2026/10/28/",
  "next": "/2026/10/30/",
  "alerts": [],
@@ -190,17 +190,7 @@
   "label": "産業",
   "audience": "両方",
   "thread_id": "t20261029-10",
-  "id": "412980",
-  "photo": {
-   "type": "img",
-   "src": "/img/kiji/412980.jpg?v=95c8f3",
-   "og": "/img/kiji/412980-og.jpg?v=95c8f3",
-   "s": "/img/kiji/412980-s.jpg?v=95c8f3",
-   "m": "/img/kiji/412980-m.jpg?v=95c8f3",
-   "caption": "八丈島のクジラ",
-   "credit": "",
-   "file": "ac/28831032.jpg"
-  }
+  "id": "412980"
  },
  "side": [],
  "shorts": [
@@ -282,17 +272,7 @@
    "label": "産業",
    "audience": "両方",
    "thread_id": "t20261029-13",
-   "id": "720007",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/720007.jpg?v=c9609a",
-    "og": "/img/kiji/720007-og.jpg?v=c9609a",
-    "s": "/img/kiji/720007-s.jpg?v=c9609a",
-    "m": "/img/kiji/720007-m.jpg?v=c9609a",
-    "caption": "八丈島の郷土料理 島寿司",
-    "credit": "",
-    "file": "ac/28481632.jpg"
-   }
+   "id": "720007"
   },
   {
    "headline": "ヘリ路線の乗務員、NHK番組に",

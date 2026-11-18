@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:09:25+09:00",
+ "built": "2026-11-18T15:54:44+09:00",
  "prev": "/2026/10/05/",
  "next": "/2026/10/07/",
  "alerts": [],
@@ -218,13 +218,13 @@
    "id": "43468a",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/43468a.jpg?v=4b017d",
-    "og": "/img/kiji/43468a-og.jpg?v=4b017d",
-    "s": "/img/kiji/43468a-s.jpg?v=4b017d",
-    "m": "/img/kiji/43468a-m.jpg?v=4b017d",
-    "caption": "八丈町役場の中",
+    "src": "/img/kiji/43468a.jpg?v=42122d",
+    "og": "/img/kiji/43468a-og.jpg?v=42122d",
+    "s": "/img/kiji/43468a-s.jpg?v=42122d",
+    "m": "/img/kiji/43468a-m.jpg?v=42122d",
+    "caption": "ハラスメントに困る人たち",
     "credit": "",
-    "file": "own/yakuba-naka-1.jpg"
+    "file": "ac/29386443.jpg"
    }
   }
  ],

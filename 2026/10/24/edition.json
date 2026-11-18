@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T18:04:59+09:00",
+ "built": "2026-11-18T15:55:39+09:00",
  "prev": "/2026/10/23/",
  "next": "/2026/10/25/",
  "alerts": [
@@ -216,13 +216,13 @@
    "id": "825bc2",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/825bc2.jpg?v=88876c",
-    "og": "/img/kiji/825bc2-og.jpg?v=88876c",
-    "s": "/img/kiji/825bc2-s.jpg?v=88876c",
-    "m": "/img/kiji/825bc2-m.jpg?v=88876c",
-    "caption": "八丈町役場の中",
+    "src": "/img/kiji/825bc2.jpg?v=ea37c2",
+    "og": "/img/kiji/825bc2-og.jpg?v=ea37c2",
+    "s": "/img/kiji/825bc2-s.jpg?v=ea37c2",
+    "m": "/img/kiji/825bc2-m.jpg?v=ea37c2",
+    "caption": "パソコンと虫メガネで表す情報セキュリティ",
     "credit": "",
-    "file": "own/yakuba-naka-2.jpg"
+    "file": "ac/35531700.jpg"
    }
   },
   {

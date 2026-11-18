@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:45:04+09:00",
+ "built": "2026-11-18T15:55:06+09:00",
  "prev": "/2026/10/07/",
  "next": "/2026/10/09/",
  "alerts": [],
@@ -221,13 +221,13 @@
    "id": "cbe21a",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/cbe21a.jpg?v=b37f9b",
-    "og": "/img/kiji/cbe21a-og.jpg?v=b37f9b",
-    "s": "/img/kiji/cbe21a-s.jpg?v=b37f9b",
-    "m": "/img/kiji/cbe21a-m.jpg?v=b37f9b",
-    "caption": "スマホで口コミを確認する",
+    "src": "/img/kiji/cbe21a.jpg?v=2c24dd",
+    "og": "/img/kiji/cbe21a-og.jpg?v=2c24dd",
+    "s": "/img/kiji/cbe21a-s.jpg?v=2c24dd",
+    "m": "/img/kiji/cbe21a-m.jpg?v=2c24dd",
+    "caption": "八丈町営バス",
     "credit": "",
-    "file": "ac/26288042.jpg"
+    "file": "own/bus-3.jpg"
    }
   }
  ],

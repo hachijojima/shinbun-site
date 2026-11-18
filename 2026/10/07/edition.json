@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:09:28+09:00",
+ "built": "2026-11-18T15:54:55+09:00",
  "prev": "/2026/10/06/",
  "next": "/2026/10/08/",
  "alerts": [],
@@ -126,13 +126,13 @@
    "id": "1a5dcc",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/1a5dcc.jpg?v=075dc6",
-    "og": "/img/kiji/1a5dcc-og.jpg?v=075dc6",
-    "s": "/img/kiji/1a5dcc-s.jpg?v=075dc6",
-    "m": "/img/kiji/1a5dcc-m.jpg?v=075dc6",
+    "src": "/img/kiji/1a5dcc.jpg?v=0bb14e",
+    "og": "/img/kiji/1a5dcc-og.jpg?v=0bb14e",
+    "s": "/img/kiji/1a5dcc-s.jpg?v=0bb14e",
+    "m": "/img/kiji/1a5dcc-m.jpg?v=0bb14e",
     "caption": "八丈富士 ふれあい牧場 八丈島",
     "credit": "",
-    "file": "ac/28043265.jpg"
+    "file": "ac/28043261.jpg"
    }
   },
   {

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-15T18:02:37+09:00",
+ "built": "2026-11-18T15:55:16+09:00",
  "prev": "/2026/10/14/",
  "next": "/2026/10/16/",
  "alerts": [],
@@ -216,13 +216,13 @@
    "id": "9679a0",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/9679a0.jpg?v=6e7b24",
-    "og": "/img/kiji/9679a0-og.jpg?v=6e7b24",
-    "s": "/img/kiji/9679a0-s.jpg?v=6e7b24",
-    "m": "/img/kiji/9679a0-m.jpg?v=6e7b24",
-    "caption": "東海汽船さるびあ丸出港",
+    "src": "/img/kiji/9679a0.jpg?v=4d43c1",
+    "og": "/img/kiji/9679a0-og.jpg?v=4d43c1",
+    "s": "/img/kiji/9679a0-s.jpg?v=4d43c1",
+    "m": "/img/kiji/9679a0-m.jpg?v=4d43c1",
+    "caption": "底土港",
     "credit": "",
-    "file": "ac/4913780.jpg"
+    "file": "ac/1972114.jpg"
    }
   }
  ],
