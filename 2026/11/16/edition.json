@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-18T15:58:22+09:00",
+ "built": "2026-11-18T16:03:45+09:00",
  "prev": "/2026/11/15/",
  "next": "/2026/11/17/",
  "alerts": [
@@ -238,7 +238,17 @@
    "label": "くらし",
    "audience": "両方",
    "thread_id": "t20261116-181",
-   "id": "d1df17"
+   "id": "d1df17",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/d1df17.jpg?v=569dcd",
+    "og": "/img/kiji/d1df17-og.jpg?v=569dcd",
+    "s": "/img/kiji/d1df17-s.jpg?v=569dcd",
+    "m": "/img/kiji/d1df17-m.jpg?v=569dcd",
+    "caption": "八丈島 日本の海",
+    "credit": "",
+    "file": "ac/3237883.jpg"
+   }
   },
   {
    "headline": "ハンドメイドマルシェ、底土で",
@@ -314,7 +324,17 @@
    "label": "産業",
    "audience": "両方",
    "thread_id": "t20261116-195",
-   "id": "321139"
+   "id": "321139",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/321139.jpg?v=d30cf3",
+    "og": "/img/kiji/321139-og.jpg?v=d30cf3",
+    "s": "/img/kiji/321139-s.jpg?v=d30cf3",
+    "m": "/img/kiji/321139-m.jpg?v=d30cf3",
+    "caption": "底土海水浴場のさざ波と黒い砂浜",
+    "credit": "",
+    "file": "ac/27266333.jpg"
+   }
   }
  ],
  "agenda": [

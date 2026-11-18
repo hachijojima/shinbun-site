@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-18T15:57:07+09:00",
+ "built": "2026-11-18T16:02:23+09:00",
  "prev": "/2026/11/04/",
  "next": "/2026/11/06/",
  "alerts": [
@@ -249,7 +249,17 @@
    "label": "町政",
    "audience": "島民",
    "thread_id": "t20261105-38",
-   "id": "07bc1d"
+   "id": "07bc1d",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/07bc1d.jpg?v=88876c",
+    "og": "/img/kiji/07bc1d-og.jpg?v=88876c",
+    "s": "/img/kiji/07bc1d-s.jpg?v=88876c",
+    "m": "/img/kiji/07bc1d-m.jpg?v=88876c",
+    "caption": "八丈町役場の中",
+    "credit": "",
+    "file": "own/yakuba-naka-2.jpg"
+   }
   },
   {
    "headline": "包丁研ぎ学ぶ食育セミナー",
@@ -305,7 +315,17 @@
    "label": "くらし",
    "audience": "島民",
    "thread_id": "t20261105-40",
-   "id": "f82993"
+   "id": "f82993",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/f82993.jpg?v=c76a39",
+    "og": "/img/kiji/f82993-og.jpg?v=c76a39",
+    "s": "/img/kiji/f82993-s.jpg?v=c76a39",
+    "m": "/img/kiji/f82993-m.jpg?v=c76a39",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "",
+    "file": "own/yakuba-8.jpg"
+   }
   },
   {
    "headline": "台風基礎支援金の申請期限を延長",
