@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:09:53+09:00",
+ "built": "2026-11-20T02:15:23+09:00",
  "prev": "/2026/10/18/",
  "next": "/2026/10/20/",
  "alerts": [],
@@ -138,13 +138,13 @@
    "id": "02a399",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/02a399.jpg?v=2d5004",
-    "og": "/img/kiji/02a399-og.jpg?v=2d5004",
-    "s": "/img/kiji/02a399-s.jpg?v=2d5004",
-    "m": "/img/kiji/02a399-m.jpg?v=2d5004",
-    "caption": "八丈島・底土港客船待合所",
+    "src": "/img/kiji/02a399.jpg?v=39ddc4",
+    "og": "/img/kiji/02a399-og.jpg?v=39ddc4",
+    "s": "/img/kiji/02a399-s.jpg?v=39ddc4",
+    "m": "/img/kiji/02a399-m.jpg?v=39ddc4",
+    "caption": "東海汽船の橘丸と築地大橋・勝どきの夜景2",
     "credit": "",
-    "file": "ac/4917189.jpg"
+    "file": "ac/26160851.jpg"
    }
   },
   {
@@ -287,9 +287,9 @@
  "ichimen_week": [
   {
    "date": "2026-10-18",
-   "url": "/2026/10/18/77516d/",
+   "url": "/2026/10/18/35a122/",
    "headlines": [
-    "町議選きょう投票 18時まで"
+    "町議選、きょう投開票"
    ]
   },
   {

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-18T16:01:37+09:00",
+ "built": "2026-11-20T02:15:56+09:00",
  "prev": "/2026/10/28/",
  "next": "/2026/10/30/",
  "alerts": [],
@@ -193,13 +193,13 @@
   "id": "412980",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/412980.jpg?v=95c8f3",
-   "og": "/img/kiji/412980-og.jpg?v=95c8f3",
-   "s": "/img/kiji/412980-s.jpg?v=95c8f3",
-   "m": "/img/kiji/412980-m.jpg?v=95c8f3",
-   "caption": "八丈島のクジラ",
+   "src": "/img/kiji/412980.jpg?v=f33845",
+   "og": "/img/kiji/412980-og.jpg?v=f33845",
+   "s": "/img/kiji/412980-s.jpg?v=f33845",
+   "m": "/img/kiji/412980-m.jpg?v=f33845",
+   "caption": "八丈島のクジラたち",
    "credit": "",
-   "file": "ac/28831032.jpg"
+   "file": "ac/29043868.jpg"
   }
  },
  "side": [],
@@ -285,13 +285,13 @@
    "id": "720007",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/720007.jpg?v=c9609a",
-    "og": "/img/kiji/720007-og.jpg?v=c9609a",
-    "s": "/img/kiji/720007-s.jpg?v=c9609a",
-    "m": "/img/kiji/720007-m.jpg?v=c9609a",
-    "caption": "八丈島の郷土料理 島寿司",
+    "src": "/img/kiji/720007.jpg?v=beffd9",
+    "og": "/img/kiji/720007-og.jpg?v=beffd9",
+    "s": "/img/kiji/720007-s.jpg?v=beffd9",
+    "m": "/img/kiji/720007-m.jpg?v=beffd9",
+    "caption": "しまずし 島寿司 握り寿司 八丈島",
     "credit": "",
-    "file": "ac/28481632.jpg"
+    "file": "ac/22434204.jpg"
    }
   },
   {
