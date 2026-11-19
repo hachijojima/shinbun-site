@@ -1,0 +1,377 @@
+{
+ "date": "2026-09-29",
+ "edition": "朝刊",
+ "published": "05:30",
+ "proof": false,
+ "built": "2026-11-20T07:29:58+09:00",
+ "prev": "/2026/09/28/",
+ "next": "/2026/10/01/",
+ "alerts": [],
+ "weather": {
+  "issued": "2026-09-29T05:00",
+  "area": "伊豆諸島南部",
+  "days": [
+   {
+    "label": "きょう",
+    "weather": "雨",
+    "main": "雨",
+    "hachijo": "雨",
+    "wind": "",
+    "wave": "",
+    "wind_full": "",
+    "wave_full": "",
+    "pops": [],
+    "min": 21,
+    "max": 29
+   }
+  ]
+ },
+ "koyomi": {
+  "sunrise": "5:33",
+  "sunset": "17:30",
+  "moon": 17.3,
+  "tide": {
+   "place": "八丈島(神湊)",
+   "high": [
+    [
+     "6:38",
+     139
+    ],
+    [
+     "18:07",
+     140
+    ]
+   ],
+   "low": [
+    [
+     "0:05",
+     20
+    ],
+    [
+     "12:19",
+     62
+    ]
+   ]
+  }
+ },
+ "unko": null,
+ "sora": {
+  "status": "就航予定",
+  "reason": "",
+  "url": "https://www.ana.co.jp/fs/dom/jp/",
+  "at": null
+ },
+ "number": null,
+ "top": {
+  "headline": "台風26号に備え町が呼びかけ",
+  "body": [
+   "八丈町は、台風26号が八丈島に接近する予報だとして、対策を呼びかけている。家の周りの物の飛散防止、防災無線戸別受信機の電池、雨戸の確認、水の汲み置きを挙げた。今後の気象情報にも注意するよう求めている。",
+   "ダイビングスズミによると、神湊は29日から舟留め、潜水禁止になる。先週は消滅する予想だった台風26号が発達し、八丈島へ向けて加速しているという。同店は次の台風も来そうだとしている。",
+   "気象庁によると、八丈島の28日の降水量は1.5ミリ、最高気温は27.5度、最低気温は22.1度だった。気象庁のベストトラックによると、1951年以降、台風の中心が八丈島から100キロ以内に来たのは56回ある。前回は2025年10月13日の台風第23号で、約46キロ、970ヘクトパスカルだった。",
+   "町は19日、台風25号の接近を前に南原線など町道3路線を午後5時から通行止めにすると知らせた。温泉施設は20日と21日に臨時休業するとした。22日から26日までは、台風25号に伴う災害ゴミをクリーンセンターと南原処理場で無償で受け入れた。",
+   "八丈町役場の代表電話は04996-2-1121。開庁時間は8時30分から17時15分まで。"
+  ],
+  "figure": null,
+  "sources": [
+   {
+    "label": "八丈町",
+    "url": "https://x.com/HachijoTown/status/2104451039495962797"
+   },
+   {
+    "label": "ダイビングスズミ",
+    "url": "https://x.com/dbsuzumi/status/2104530391935885328"
+   }
+  ],
+  "label": "くらし",
+  "audience": "両方",
+  "thread_id": "t20260929-100",
+  "id": "dc592e",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/dc592e.jpg?v=6a5f24",
+   "og": "/img/kiji/dc592e-og.jpg?v=6a5f24",
+   "s": "/img/kiji/dc592e-s.jpg?v=6a5f24",
+   "m": "/img/kiji/dc592e-m.jpg?v=6a5f24",
+   "caption": "神湊漁港",
+   "credit": "",
+   "file": "own/kaminato-gyoko-1.jpg"
+  }
+ },
+ "side": [],
+ "shorts": [
+  {
+   "headline": "大賀郷小で八丈方言週間の授業",
+   "body": [
+    "大賀郷小学校は28日、八丈方言週間を始めた。同校によると、1年生が「八丈方言かるた」に載る言葉から気になるものを探し、発表した。",
+    "1年生の中には、「ねずみ」を八丈方言でどう言うかに興味をもった児童がいた。今週は全学年が方言の授業に取り組み、地域の人が授業に入って方言を教える。",
+    "同校は今年度、創立150周年を迎えている。広報はちじょう2021年1月号によると、6年生が学芸会で八丈方言の劇「夢からさめた夢」を上演した。文化庁の支援を受けた取り組みだった。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町立大賀郷小学校",
+     "url": "https://okago-es.8jo.ed.jp/n/nfec5dcffc87d"
+    },
+    {
+     "label": "広報はちじょう2021年1月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23130343/hachijo2101.pdf"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20260929-101",
+   "id": "505f6c",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/505f6c.jpg?v=22291e",
+    "og": "/img/kiji/505f6c-og.jpg?v=22291e",
+    "s": "/img/kiji/505f6c-s.jpg?v=22291e",
+    "m": "/img/kiji/505f6c-m.jpg?v=22291e",
+    "caption": "八丈町立大賀郷小学校",
+    "credit": "",
+    "file": "own/okago-sho-7.jpg"
+   }
+  },
+  {
+   "headline": "八丈島ブース、すみだまつりに",
+   "body": [
+    "墨田区で10月3日・4日に開かれる第51回すみだまつり・第56回こどもまつりに、今年も八丈島ブースが出展する。あしたば加工工場が伝えた。",
+    "催しはすみだまつり実行委員会、墨田区、一般社団法人墨田区観光協会の主催で、時間は10時から17時まで。こどもまつりは16時まで。会場は錦糸公園、ひがしんアリーナ(墨田区総合体育館)、楽天地ビルほかである。入場は無料。",
+    "中身は模擬店・物産展、行政・企業のPRブース、スポーツ体験、子ども向け体験コーナーである。ステージは新日本フィルまちかどコンサート、親善大使認定式、芸能大会、下町寄席などがある。",
+    "こどもまつりには、ひがしんアリーナでの子どもの遊びコーナーと子どもパレードがある。問い合わせはすみだまつり実行委員会(墨田区役所14階 文化芸術振興課内)、電話03-5608-6181。",
+    "同工場は都内の物産展に毎年参加しているという。2025年10月18日には、KITTE大阪(B1サンクンガーデン)の「島のめぐみ」に八丈島ブースで参加すると知らせた。被災後初の催事参加で、商品をかき集めたという。9月8日には、東京産業労働局の支援で10月23日から25日の「東京味わいフェスタ2026」に参加すると伝えた。昨年は台風被災により直前で参加を辞退したという。",
+    "広報はちじょう2008年4月号によると、東京の各区のまつりなど島外のイベントに八丈島ブースを出す方針が示されていた。"
+   ],
+   "sources": [
+    {
+     "label": "あしたば加工工場",
+     "url": "https://x.com/ashitabaya8jo/status/2104333760590422168"
+    },
+    {
+     "label": "墨田区観光協会",
+     "url": "https://visit-sumida.jp/event/sumidamatsuri51kodomomaturi56/"
+    },
+    {
+     "label": "すみだ五彩の芸術祭",
+     "url": "https://sumida-artfest.jp/programs/3978/"
+    },
+    {
+     "label": "広報はちじょう2008年4月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23150141/hachijo0804.pdf"
+    }
+   ],
+   "label": "産業",
+   "audience": "両方",
+   "thread_id": "t20260929-102",
+   "id": "be6890",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/be6890.jpg?v=f5793f",
+    "og": "/img/kiji/be6890-og.jpg?v=f5793f",
+    "s": "/img/kiji/be6890-s.jpg?v=f5793f",
+    "m": "/img/kiji/be6890-m.jpg?v=f5793f",
+    "caption": "えこ・あぐりまーと(八丈島農産物直売所)",
+    "credit": "",
+    "file": "own/eco-agurimart-1.jpg"
+   }
+  },
+  {
+   "headline": "タコスカップ、28日に表彰式",
+   "body": [
+    "八丈島の海で年に一度開くサーフィン大会「タコスカップ」の表彰式が、28日にあった。八丈町によると、表彰式の後は八丈太鼓の演奏と「マーレーズ」のライブがあった。",
+    "第43回の今年は、26日・27日の2日間の日程で、26日に汐間海岸で開幕した。",
+    "昨年の第42回は、2025年9月27日に汐間海岸で開いた。町は2025年9月27日、翌日に全ヒートを終えて横間海岸で表彰とパーティーがあると知らせていた。町は2025年9月29日に、2日間の大会が終わったと知らせた。表彰式、BBQ、じゃんけん大会、八丈太鼓、マーレーズのライブがあったという。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町",
+     "url": "https://x.com/hachijomachi/status/2104388924340891906"
+    }
+   ],
+   "label": "文化",
+   "audience": "両方",
+   "thread_id": "t20260926-88",
+   "followup": true,
+   "id": "7198a6",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/7198a6.jpg?v=4d1b84",
+    "og": "/img/kiji/7198a6-og.jpg?v=4d1b84",
+    "s": "/img/kiji/7198a6-s.jpg?v=4d1b84",
+    "m": "/img/kiji/7198a6-m.jpg?v=4d1b84",
+    "caption": "八丈太鼓",
+    "credit": "",
+    "file": "own/hachijo-taiko-1.jpg"
+   }
+  },
+  {
+   "headline": "日商簿記検定174回が中止",
+   "body": [
+    "八丈町商工会は、第174回日商簿記検定試験の中止を決めた。同商工会によると、28日に中止のお知らせをホームページに載せた。",
+    "同商工会は、回ごとのお知らせをホームページに載せてきた。2024年9月30日の第168回から2025年12月24日の第172回までが載り、第173回は2026年4月20日に載せた。",
+    "令和8年度の施行日程は2026年3月25日に載せ、4月20日に修正版へ差し替えている。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町商工会",
+     "url": "https://x.com/hachisho8/status/2104359072644604371"
+    }
+   ],
+   "label": "産業",
+   "audience": "島民",
+   "thread_id": "t20260929-103",
+   "id": "a17b3c",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/a17b3c.jpg?v=e51268",
+    "og": "/img/kiji/a17b3c-og.jpg?v=e51268",
+    "s": "/img/kiji/a17b3c-s.jpg?v=e51268",
+    "m": "/img/kiji/a17b3c-m.jpg?v=e51268",
+    "caption": "八丈町商工会",
+    "credit": "",
+    "file": "own/shokokai-2.jpg"
+   }
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-09-29",
+   "end": null,
+   "text": "大賀郷小 創立150周年ANA航空教室",
+   "url": "https://okago-es.8jo.ed.jp/n/n5a08d18d1f69"
+  },
+  {
+   "date": "2026-09-29",
+   "end": "2026-09-30",
+   "text": "大賀郷小 2学期学校公開",
+   "url": "https://okago-es.8jo.ed.jp/n/n9ab0724062d4"
+  },
+  {
+   "date": "2026-09-29",
+   "end": null,
+   "text": "八丈服部屋敷でショメ節の舞台",
+   "url": "https://x.com/hattoriyashiki/status/2104481243978965145"
+  },
+  {
+   "date": "2026-10-02",
+   "end": null,
+   "text": "樫立踊りと八丈太鼓の披露・行列",
+   "url": "https://x.com/hattoriyashiki/status/2105794890575773767"
+  },
+  {
+   "date": "2026-10-03",
+   "end": null,
+   "text": "中学校の陸上競技記録会(富士中)",
+   "url": "https://fuji-jhs.8jo.ed.jp/n/ncbc83ec2f142"
+  },
+  {
+   "date": "2026-10-03",
+   "end": null,
+   "text": "ちょんこめ感謝祭",
+   "url": "https://x.com/umikaze8jo/status/2106179752918990883"
+  },
+  {
+   "date": "2026-10-04",
+   "end": null,
+   "text": "八丈町役場の防災イベント",
+   "url": "https://x.com/hachijomachi/status/2106568208245571691"
+  },
+  {
+   "date": "2026-10-06",
+   "end": null,
+   "text": "樫立踊り・八丈太鼓の休演",
+   "url": "https://x.com/hattoriyashiki/status/2107234166018646243"
+  }
+ ],
+ "letters": [],
+ "corrections": [],
+ "column": null,
+ "kyoku": null,
+ "ronten": null,
+ "weekly": [],
+ "ichimen_week": [
+  {
+   "date": "2026-09-28",
+   "url": "/2026/09/28/c32071/",
+   "headlines": [
+    "八丈島で能登聲祭の練習会"
+   ]
+  },
+  {
+   "date": "2026-09-27",
+   "url": "/2026/09/27/21274a/",
+   "headlines": [
+    "タコスカップ、27日ファイナル"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "url": "/2026/09/26/b91f68/",
+   "headlines": [
+    "こころみクリニックで接種開始"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "url": "/2026/09/25/05a2a8/",
+   "headlines": [
+    "台風25号の家屋被害、税務課へ"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "url": "/2026/09/24/95601e/",
+   "headlines": [
+    "橘丸が6日ぶりに入港"
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "url": "/2026/09/23/06d62c/",
+   "headlines": [
+    "八丈島の停電が全て復旧"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "url": "/2026/09/22/442dd6/",
+   "headlines": [
+    "台風25号が八丈島の近くを通過"
+   ]
+  }
+ ],
+ "population": {
+  "as_of": "2026-09-01",
+  "people": 6523,
+  "people_diff": -18,
+  "households": 4049,
+  "households_diff": -5,
+  "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/08/02163126/hachijo2610.pdf",
+  "ido": {
+   "in": 22,
+   "birth": 3,
+   "out": 31,
+   "death": 11
+  }
+ },
+ "giin": [],
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年9月29日(水)",
+   "pic": "",
+   "hi": "25",
+   "lo": "19",
+   "rn": "降水なし"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年9月29日(火)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><path d=\"M24 7C13.5 7 6 14.5 5 24c2.2-2 4.6-2 6.4 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.8-2 4.2-2 6.4 0C42 14.5 34.5 7 24 7z\" fill=\"#2f7fd8\"/><path d=\"M24 24v14a3.5 3.5 0 0 1-7 0\" fill=\"none\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M24 4v3\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg></span>",
+   "hi": "29",
+   "lo": "21",
+   "rn": ""
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
+ },
+ "chrome": "6682e570d36b"
+}
