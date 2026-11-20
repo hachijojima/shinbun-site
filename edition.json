@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-21T05:42:54+09:00",
+ "built": "2026-11-21T05:45:38+09:00",
  "prev": "/2026/11/20/",
  "next": null,
  "alerts": [
@@ -217,35 +217,57 @@
  "side": [],
  "shorts": [
   {
-   "headline": "墓所前トイレ、山下議員が質問",
+   "headline": "大賀郷小、26日に持久走記録会",
    "body": [
-    "9月4日、八丈町議会の山下則子議員が一般質問で取り上げた。令和8年第三回定例会での質問で、題目は宇喜多秀家公墓所前駐車場への公共トイレ設置と、時間外選定療養費の内容の見直しである。",
-    "八丈町議会によると、題目は「宇喜多秀家公墓所前駐車場に公共トイレを」と「時間外選定療養費の内容の見直し」。",
-    "広報はちじょう2021年3月号は、時間外選定療養費について、令和3年4月1日から5,500円を負担すると案内した。緊急性がないのに時間外の受診を希望した場合が対象で、救急車の利用者などは対象外とされた。同年4月号は3月号の記事を訂正し、土曜日の臨時診療は徴収の対象外とした。"
+    "八丈町立大賀郷小学校は26日11時から、大賀郷園地で持久走記録会を行う予定。終了は11時50分の予定。",
+    "児童は中休みに、5分間で何周走れるかを練習している。同校によると、平日の午前中のため、保護者や地域の人に応援を呼びかけている。"
    ],
    "sources": [
     {
-     "label": "八丈町議会",
-     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/11/18135731/%EF%BC%91%E5%8F%B7-R8.9.4.pdf"
-    },
-    {
-     "label": "広報はちじょう2021年3月号",
-     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23130340/hachijo2103.pdf"
+     "label": "大賀郷小学校",
+     "url": "https://okago-es.8jo.ed.jp/n/n40c128d3393e"
     }
    ],
-   "label": "町政",
+   "label": "教育",
    "audience": "島民",
-   "thread_id": "t20261121-298",
-   "id": "c662af",
+   "thread_id": "t20261121-299",
+   "id": "4a6382",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/c662af.jpg?v=3c9435",
-    "og": "/img/kiji/c662af-og.jpg?v=3c9435",
-    "s": "/img/kiji/c662af-s.jpg?v=3c9435",
-    "m": "/img/kiji/c662af-m.jpg?v=3c9435",
-    "caption": "公園のトイレ",
+    "src": "/img/kiji/4a6382.jpg?v=486172",
+    "og": "/img/kiji/4a6382-og.jpg?v=486172",
+    "s": "/img/kiji/4a6382-s.jpg?v=486172",
+    "m": "/img/kiji/4a6382-m.jpg?v=486172",
+    "caption": "大賀郷園地",
     "credit": "",
-    "file": "ac/25540679.jpg"
+    "file": "own/okago-enchi-1.jpg"
+   }
+  },
+  {
+   "headline": "三根小5年が精米作業",
+   "body": [
+    "八丈町立三根小学校の5年生が20日、収穫した米の精米作業を行った。同校によると、12月2日に「もちもちクッキング」を予定している。",
+    "児童はまず手で作業し、続いて精米機を使った。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町立三根小学校",
+     "url": "https://mitsune-es.8jo.ed.jp/n/n7342e12a6a85"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20261121-300",
+   "id": "5532be",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/5532be.jpg?v=d6f767",
+    "og": "/img/kiji/5532be-og.jpg?v=d6f767",
+    "s": "/img/kiji/5532be-s.jpg?v=d6f767",
+    "m": "/img/kiji/5532be-m.jpg?v=d6f767",
+    "caption": "八丈町立三根小学校",
+    "credit": "",
+    "file": "own/mitsune-sho-11.jpg"
    }
   },
   {
@@ -281,57 +303,35 @@
    }
   },
   {
-   "headline": "三根小5年が精米作業",
+   "headline": "墓所前トイレ、山下議員が質問",
    "body": [
-    "八丈町立三根小学校の5年生が20日、収穫した米の精米作業を行った。同校によると、12月2日に「もちもちクッキング」を予定している。",
-    "児童はまず手で作業し、続いて精米機を使った。"
+    "9月4日、八丈町議会の山下則子議員が一般質問で取り上げた。令和8年第三回定例会での質問で、題目は宇喜多秀家公墓所前駐車場への公共トイレ設置と、時間外選定療養費の内容の見直しである。",
+    "八丈町議会によると、題目は「宇喜多秀家公墓所前駐車場に公共トイレを」と「時間外選定療養費の内容の見直し」。",
+    "広報はちじょう2021年3月号は、時間外選定療養費について、令和3年4月1日から5,500円を負担すると案内した。緊急性がないのに時間外の受診を希望した場合が対象で、救急車の利用者などは対象外とされた。同年4月号は3月号の記事を訂正し、土曜日の臨時診療は徴収の対象外とした。"
    ],
    "sources": [
     {
-     "label": "八丈町立三根小学校",
-     "url": "https://mitsune-es.8jo.ed.jp/n/n7342e12a6a85"
-    }
-   ],
-   "label": "教育",
-   "audience": "島民",
-   "thread_id": "t20261121-300",
-   "id": "5532be",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/5532be.jpg?v=d6f767",
-    "og": "/img/kiji/5532be-og.jpg?v=d6f767",
-    "s": "/img/kiji/5532be-s.jpg?v=d6f767",
-    "m": "/img/kiji/5532be-m.jpg?v=d6f767",
-    "caption": "八丈町立三根小学校",
-    "credit": "",
-    "file": "own/mitsune-sho-11.jpg"
-   }
-  },
-  {
-   "headline": "大賀郷小、26日に持久走記録会",
-   "body": [
-    "八丈町立大賀郷小学校は26日11時から、大賀郷園地で持久走記録会を行う予定。終了は11時50分の予定。",
-    "児童は中休みに、5分間で何周走れるかを練習している。同校によると、平日の午前中のため、保護者や地域の人に応援を呼びかけている。"
-   ],
-   "sources": [
+     "label": "八丈町議会",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/11/18135731/%EF%BC%91%E5%8F%B7-R8.9.4.pdf"
+    },
     {
-     "label": "大賀郷小学校",
-     "url": "https://okago-es.8jo.ed.jp/n/n40c128d3393e"
+     "label": "広報はちじょう2021年3月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23130340/hachijo2103.pdf"
     }
    ],
-   "label": "教育",
+   "label": "町政",
    "audience": "島民",
-   "thread_id": "t20261121-299",
-   "id": "4a6382",
+   "thread_id": "t20261121-298",
+   "id": "c662af",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4a6382.jpg?v=486172",
-    "og": "/img/kiji/4a6382-og.jpg?v=486172",
-    "s": "/img/kiji/4a6382-s.jpg?v=486172",
-    "m": "/img/kiji/4a6382-m.jpg?v=486172",
-    "caption": "大賀郷園地",
+    "src": "/img/kiji/c662af.jpg?v=3c9435",
+    "og": "/img/kiji/c662af-og.jpg?v=3c9435",
+    "s": "/img/kiji/c662af-s.jpg?v=3c9435",
+    "m": "/img/kiji/c662af-m.jpg?v=3c9435",
+    "caption": "公園のトイレ",
     "credit": "",
-    "file": "own/okago-enchi-1.jpg"
+    "file": "ac/25540679.jpg"
    }
   }
  ],
