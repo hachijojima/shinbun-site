@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-21T01:37:30+09:00",
+ "built": "2026-11-22T01:52:16+09:00",
  "prev": "/2026/09/28/",
  "next": "/2026/09/30/",
  "alerts": [],
@@ -165,13 +165,13 @@
    "id": "be6890",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/be6890.jpg?v=c0df1c",
-    "og": "/img/kiji/be6890-og.jpg?v=c0df1c",
-    "s": "/img/kiji/be6890-s.jpg?v=c0df1c",
-    "m": "/img/kiji/be6890-m.jpg?v=c0df1c",
-    "caption": "八丈島大里の玉石垣が並ぶ静かな路地",
+    "src": "/img/kiji/be6890.jpg?v=c9a62f",
+    "og": "/img/kiji/be6890-og.jpg?v=c9a62f",
+    "s": "/img/kiji/be6890-s.jpg?v=c9a62f",
+    "m": "/img/kiji/be6890-m.jpg?v=c9a62f",
+    "caption": "八丈太鼓",
     "credit": "",
-    "file": "ac/34740616.jpg"
+    "file": "own/hachijo-taiko-2.jpg"
    }
   },
   {
