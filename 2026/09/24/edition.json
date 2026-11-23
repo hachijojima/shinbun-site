@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T07:31:11+09:00",
+ "built": "2026-11-24T07:48:36+09:00",
  "prev": "/2026/09/23/",
  "next": "/2026/09/25/",
  "alerts": [],
@@ -278,7 +278,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "YUKI",
+  "title": "メランコリニスタ",
+  "text": "『メランコリニスタ』には、少し変わった言葉の響きと、身体を軽くするリズムがある。YUKIは憂鬱をただ暗い感情として歌わない。気分が沈む日にも、その気分の中で遊べる余地が残っていることを、声の軽やかさが教える。ふざけたような言葉が、実は気分を切り替えるための小さな道具になっている。踊っているうちに、自分の面倒まで少し見られるようになります。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/01/03/c80103f0-edc7-1070-0cd2-d0ffadc829fd/jacket_ESCL03837B00Z_550.jpg/300x300bb.jpg",
+   "album": "POWERS OF TEN",
+   "url": "https://music.apple.com/jp/album/%E3%83%A1%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%AA%E3%83%8B%E3%82%B9%E3%82%BF/1536266686?i=1536266703&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -366,5 +375,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

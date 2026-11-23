@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-19T07:55:54+09:00",
+ "built": "2026-11-24T07:49:13+09:00",
  "prev": "/2026/09/26/",
  "next": "/2026/09/28/",
  "alerts": [],
@@ -289,7 +289,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "早川義夫",
+  "title": "サルビアの花",
+  "text": "別の歌手によるヒットでも知られる作品だが、作り手自身の声には、きれいな失恋歌だけでは済まない迫力がある。叶わなかった恋を丁寧に説明するより、近くへ戻りたいという願いがそのまま言葉になる。声が揺れても整えない。恋を失うことの格好悪さを引き受けたまま歌うから、やさしい花の名が胸に残ります。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/d8/eb/94d8eb18-dda3-cb3b-a22a-85bc8210ff3c/4547366604627.jpg/300x300bb.jpg",
+   "album": "かっこいいことはなんてかっこ悪いんだろう",
+   "url": "https://music.apple.com/jp/album/%E3%82%B5%E3%83%AB%E3%83%93%E3%82%A2%E3%81%AE%E8%8A%B1/1674482601?i=1674482899&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [
   {
@@ -408,5 +417,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

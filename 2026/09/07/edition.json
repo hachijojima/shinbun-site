@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T14:06:55+09:00",
+ "built": "2026-11-24T07:45:07+09:00",
  "prev": "/2026/09/06/",
  "next": "/2026/09/08/",
  "alerts": [],
@@ -283,7 +283,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "環ROY",
+  "title": "ワンダフル",
+  "text": "普通の褒め言葉を、ラップの拍の上で何度も別の角度から響かせる。難しい単語を積み重ねなくても、一語を置く位置や間を変えるだけで、意味はずいぶん動く。ビートが軽やかなぶん、言葉は大げさな宣言にならず、日常会話の近くに留まる。いつも使っている言葉が音楽の中で少し違って聞こえる。その変化こそ、この曲の面白さです。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/06/32/94/063294e7-58ff-968a-38c4-fe84e087b504/POP-140_ROY.jpg/300x300bb.jpg",
+   "album": "ラッキー",
+   "url": "https://music.apple.com/jp/album/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%95%E3%83%AB/623238398?i=623238657&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -364,5 +373,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-20T08:06:32+09:00",
+ "built": "2026-11-24T07:49:50+09:00",
  "prev": "/2026/09/29/",
  "next": "/2026/10/01/",
  "alerts": [],
@@ -282,7 +282,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "少年ナイフ",
+  "title": "ロケットにのって",
+  "text": "宇宙旅行を本当にできるかどうかという話より、ロケットを思い浮かべた瞬間に跳ねるギターの楽しさがある。英語題は「Riding on the Rocket」。2026年には現在のメンバーで再録した盤にも収められた。短いフレーズを繰り返すほど、曲が遠くまで飛んでいく。難しい空想を簡単な歌へ戻してしまう、その力が気持ちいいのです。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/a2/01/18/mzi.gvgokcqq.jpg/300x300bb.jpg",
+   "album": "PRETTY LITTLE BAKA GUY",
+   "url": "https://music.apple.com/jp/album/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%81%AB%E3%81%AE%E3%81%A3%E3%81%A6/378772077?i=378772108&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -370,5 +379,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-17T06:40:46+09:00",
+ "built": "2026-11-24T07:47:34+09:00",
  "prev": "/2026/09/18/",
  "next": "/2026/09/20/",
  "alerts": [],
@@ -234,7 +234,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "宇多田ヒカル",
+  "title": "光",
+  "text": "ゲーム『キングダム ハーツ』と結びついた記憶を持つ人も多い。だが画面を離れても、歌声と伴奏の距離が変わるたび、親しい人へ近づこうとする切実さが残る。声は明るい言葉だけを直線的に運ばず、少し立ち止まるように響く。大きな世界を描く作品の主題歌が、同時にたった一人の相手へ向けた小さな歌にも聞こえます。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/56/a0/60/56a06095-5611-a2e9-2166-3c3d433fc431/00602567242031.rgb.jpg/300x300bb.jpg",
+   "album": "光 - EP",
+   "url": "https://music.apple.com/jp/album/%E5%85%89/1444860450?i=1444860451&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -322,5 +331,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

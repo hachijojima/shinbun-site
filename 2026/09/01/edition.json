@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T08:44:33+09:00",
+ "built": "2026-11-24T07:43:53+09:00",
  "prev": "/2026/08/01/",
  "next": "/2026/09/02/",
  "alerts": [],
@@ -242,7 +242,11 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "Arvo Pärt",
+  "title": "Spiegel im Spiegel",
+  "text": "同じ音型を繰り返すピアノの上を、弦楽器の長い旋律がゆっくり往復します。アルヴォ・ペルトは音を増やすのでなく、ひとつを鳴らす責任を重くした。鏡と鏡の間に景色が果てしなく続くように、短い動きの中へ広い時間が現れる。次の音を急がない演奏には、聴く側も呼吸を合わせたくなる。静けさは音の欠落ではなく、音がいられる場所なのです。"
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [],
@@ -280,5 +284,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

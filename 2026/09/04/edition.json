@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T06:58:19+09:00",
+ "built": "2026-11-24T07:44:30+09:00",
  "prev": "/2026/09/03/",
  "next": "/2026/09/05/",
  "alerts": [],
@@ -249,7 +249,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "Nujabes",
+  "title": "Horizon",
+  "text": "穏やかなビートへ短い旋律を重ねることで、同じ拍の中に遠さと近さを作る。大きな展開がなくても、音が少し入れ替わるだけで聞こえる景色は変わる。地平線という言葉を夕焼けの絵へ変えるより、ループがどの瞬間に違って聞こえ始めるかを聴きたい。静かな反復の精度があります。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/7e/a1/797ea11f-b90c-c4c5-f874-6a6ccd2c22a7/HPD5.jpg/300x300bb.jpg",
+   "album": "Modal Soul",
+   "url": "https://music.apple.com/jp/album/horizon/1078914477?i=1078915010&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -309,5 +318,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

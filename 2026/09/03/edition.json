@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:08:41+09:00",
+ "built": "2026-11-24T07:44:18+09:00",
  "prev": "/2026/09/02/",
  "next": "/2026/09/04/",
  "alerts": [],
@@ -239,7 +239,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "Houy Meas & Dara Chom Chan",
+  "title": "Nek Na Min Rom (Who Isn't Dancing)",
+  "text": "「Nek Na Min Rom」は、カンボジアの歌手Houy MeasとDara Chom Chanによる録音です。題名は「踊らないのは誰？」と問いかけるような意味を持ち、演奏には人々を輪へ誘う軽やかさがあります。古い録音を聴くとき、その後に起きた歴史だけで曲を見ないことも大切です。ここには確かに、誰かと踊り、楽しんでいた人たちの時間が残っています。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/41/5e/0d/415e0d17-0b77-7c04-3b71-9366cad59f84/cover.jpg/300x300bb.jpg",
+   "album": "Cambodian Nuggets",
+   "url": "https://music.apple.com/jp/album/nek-na-min-rom-who-isnt-dancing/1465637962?i=1465638220&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -292,5 +301,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

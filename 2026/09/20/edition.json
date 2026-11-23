@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-17T07:23:31+09:00",
+ "built": "2026-11-24T07:47:47+09:00",
  "prev": "/2026/09/19/",
  "next": "/2026/09/21/",
  "alerts": [],
@@ -271,7 +271,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "Bauhaus",
+  "title": "Dark Entries",
+  "text": "バウハウスの「Dark Entries」では、ポストパンクの硬いビートの上を、ピーター・マーフィーの声が芝居のように身をくねらせる。暗さをひとつの色に塗りつぶさず、ギターはざらつき、リズムは急に鋭くなる。怖さと滑稽さが並んでしまうところにも、このバンドの魅力があります。陰鬱な雰囲気を作るためだけの曲ではない。闇の中にも、舞台を駆け回る身体がある。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/31/1b/52311bf9-0be0-564c-d532-790f12c259da/652637001389.png/300x300bb.jpg",
+   "album": "In the Flat Field",
+   "url": "https://music.apple.com/us/album/dark-entries/1025316248?i=1025316253&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [
   {
@@ -390,5 +399,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-22T01:52:16+09:00",
+ "built": "2026-11-24T07:49:38+09:00",
  "prev": "/2026/09/28/",
  "next": "/2026/09/30/",
  "alerts": [],
@@ -285,7 +285,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "伊東ゆかり",
+  "title": "恋のしずく",
+  "text": "一滴ずつ落ちてくるものほど、止めることが難しいのでしょう。伊東ゆかりは「恋のしずく」を大きな悲劇として歌い上げず、きれいな発音の中に少しずつ熱をにじませます。旋律が高くなっても姿勢は崩れず、むしろ抑えた声の奥に気持ちが集まってくる。昭和歌謡の巧みさは派手な編曲だけにありません。短い語尾をどう残すか、そのわずかな違いが一曲の温度を決めています。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7e/39/c0/7e39c0eb-bf90-2371-7d4c-0d402457182c/COKM-44091.jpg/300x300bb.jpg",
+   "album": "伊東ゆかり シングルコレクション",
+   "url": "https://music.apple.com/jp/album/%E6%81%8B%E3%81%AE%E3%81%97%E3%81%9A%E3%81%8F/1658452751?i=1658453047&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -373,5 +382,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-17T07:37:05+09:00",
+ "built": "2026-11-24T07:48:00+09:00",
  "prev": "/2026/09/20/",
  "next": "/2026/09/22/",
  "alerts": [],
@@ -242,7 +242,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "imase",
+  "title": "Have a nice day",
+  "text": "肩の力を抜いた歌声と軽いビートで、何でもない一日を少し明るくします。幸福を大きく宣言するより、街を歩くときの小さな弾みを大事にしている。音は洒落ていても、近寄りがたさがない。予定通りにいかない日だって、最後にひとついいことがあれば十分かもしれません。そんな気分をくれるポップソングです。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/d8/8c/b8d88c20-c0df-fee6-0166-44db0afa3353/21UM1IM50112.rgb.jpg/300x300bb.jpg",
+   "album": "Have a nice day - Single",
+   "url": "https://music.apple.com/jp/album/have-a-nice-day/1598758500?i=1598758504&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -330,5 +339,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

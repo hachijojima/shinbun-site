@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:41:37+09:00",
+ "built": "2026-11-24T07:44:06+09:00",
  "prev": "/2026/09/01/",
  "next": "/2026/09/03/",
  "alerts": [],
@@ -234,7 +234,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "Sauti Sol",
+  "title": "Melanin",
+  "text": "肌の色を誰の言葉で褒めるのか。その問いをケニアのSauti Solは「Melanin」という甘いポップソングの中心に置きました。なめらかな声と軽やかなリズムに、身体の美しさを自分たちで言い表そうとする気持ちが重なる。踊りながら聴ける曲だから、主張が軽いわけではありません。誰かに決められた基準を、無理に借りずに歌う。その明るさがまっすぐ届いてきます。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/86/f3/a686f301-69e7-7c4b-894f-f36566725b72/0602435697697_cover.jpg/300x300bb.jpg",
+   "album": "Afrikan Sauce",
+   "url": "https://music.apple.com/jp/album/melanin-feat-patoranking/1720051793?i=1720051795&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -280,5 +289,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-19T07:15:48+09:00",
+ "built": "2026-11-24T07:49:01+09:00",
  "prev": "/2026/09/25/",
  "next": "/2026/09/27/",
  "alerts": [],
@@ -268,7 +268,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "UA",
+  "title": "スカートの砂",
+  "text": "UAの声が伸びると、歌の表面にざらりとした感触が残ります。言葉がゆったり伸びる瞬間と、リズムが身体を押してくる瞬間が交互に訪れる。砂は払えば消えるようで、いつまでも服の隅に残っているものでもある。そこから余計な物語を作らなくても、UAの声が持つ奔放さだけで景色が変わる。整いきらない気持ちも、そのまま声の中へ入っています。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/1b/d2/c3/mzi.nlbydsgu.tif/300x300bb.jpg",
+   "album": "turbo",
+   "url": "https://music.apple.com/jp/album/%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88%E3%81%AE%E7%A0%82-radio-mix/111172527?i=111172013&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -356,5 +365,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

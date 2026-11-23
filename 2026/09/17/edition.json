@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-18T15:53:48+09:00",
+ "built": "2026-11-24T07:47:09+09:00",
  "prev": "/2026/09/16/",
  "next": "/2026/09/18/",
  "alerts": [],
@@ -253,7 +253,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "高橋幸宏",
+  "title": "Something in the Air",
+  "text": "電子音の細かな配置の中へ、抑えた歌声を静かに入れる。リズムは正確でも、声はその拍へぴたりと貼りつかず、わずかな揺れを残す。YMOのドラマーとしての姿を知っていると、音をたくさん鳴らさないことで作る緊張にも気づく。機械の整った拍と人の声のあいだに、思いがけない隙間が見えます。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/87/29/4a8729a9-9fe8-e308-0876-159464fd2eb3/4547366701920.jpg/300x300bb.jpg",
+   "album": "On that day, everyone - Single",
+   "url": "https://music.apple.com/jp/album/something-in-the-air-2024-new-mix/1767553724?i=1767553884&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -341,5 +350,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

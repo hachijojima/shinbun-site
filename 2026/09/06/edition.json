@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:08:53+09:00",
+ "built": "2026-11-24T07:44:55+09:00",
  "prev": "/2026/09/05/",
  "next": "/2026/09/07/",
  "alerts": [],
@@ -236,7 +236,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "鬼束ちひろ",
+  "title": "私とワルツを",
+  "text": "三拍子に似た揺れが穏やかな踊りの時間を作るようで、歌声はその安心をすぐ裏切る。声が低く沈む部分にも、高く張り詰める部分にも、簡単には手放せない孤独が残る。踊る相手を求める歌なのに、誰かと一緒にいることの怖さも聞こえる。柔らかいリズムと切実な声の、釣り合わなさが強く残ります。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/52/de/5e/52de5e88-af21-5e1c-d29f-c3cb5edf93de/00600406719164.rgb.jpg/300x300bb.jpg",
+   "album": "the ultimate collection",
+   "url": "https://music.apple.com/jp/album/%E7%A7%81%E3%81%A8%E3%83%AF%E3%83%AB%E3%83%84%E3%82%92/1440785199?i=1440785529&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [
   {
@@ -336,5 +345,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

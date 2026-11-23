@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T17:39:30+09:00",
+ "built": "2026-11-24T07:46:19+09:00",
  "prev": "/2026/09/12/",
  "next": "/2026/09/14/",
  "alerts": [],
@@ -241,7 +241,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "Dos Monos",
+  "title": "Fable Now",
+  "text": "整った物語を聞かせるより、物語が壊れながら生まれていく瞬間を鳴らしているようです。三人のラップは同じ方向を向かず、言葉の塊がぶつかり、奇妙なリズムを作り出す。ヒップホップの技術を磨くほど、もっと変な場所へ進めるのがこのグループの面白さでしょう。何が起きているかすぐに説明できなくても、音の衝突を追うだけで十分に刺激的。耳が落ち着く暇を与えません。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/43/95/8a/43958afb-4b63-3383-15f7-66e07d957c61/190295206659.jpg/300x300bb.jpg",
+   "album": "Fable Now - Single",
+   "url": "https://music.apple.com/jp/album/fable-now/1513930263?i=1513930264&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [
   {
@@ -360,5 +369,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

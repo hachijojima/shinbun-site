@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:09:00+09:00",
+ "built": "2026-11-24T07:45:19+09:00",
  "prev": "/2026/09/07/",
  "next": "/2026/09/09/",
  "alerts": [],
@@ -253,7 +253,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "D.A.N.",
+  "title": "Ghana",
+  "text": "低音がゆっくり巡るあいだ、小さな電子音が現れては消えます。D.A.N.の「Ghana」では、歌声も前に出すぎず、音と音の間に別の景色を作る。踊れるのに騒がしくない。夜に似合うのに暗いだけでもない。相反する感触が身体へ少しずつなじんでいくうち、同じ拍を聴いている時間そのものが楽しくなります。静かな熱が、いつまでも続いています。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/83/4a/8b/834a8bac-e5e9-85f3-5d9b-84d371753999/859752890687_cover.jpg/300x300bb.jpg",
+   "album": "D.A.N.",
+   "url": "https://music.apple.com/jp/album/ghana/1098082629?i=1098082893&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -341,5 +350,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

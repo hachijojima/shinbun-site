@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-19T06:34:43+09:00",
+ "built": "2026-11-24T07:48:49+09:00",
  "prev": "/2026/09/24/",
  "next": "/2026/09/26/",
  "alerts": [],
@@ -273,7 +273,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "斉藤和義",
+  "title": "やさしくなりたい",
+  "text": "優しさを願う歌なのに、ギターはざらつき、ドラムは強く打つ。簡単に穏やかな人になれるとは思っていないから、この音が必要なのだろう。ドラマ『家政婦のミタ』の主題歌として知られるが、曲の中の葛藤は誰かの物語だけに閉じない。優しくできなかった自分への苛立ちも、歌の勢いになっています。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/ad/d3/6c/mzi.egderegb.jpg/300x300bb.jpg",
+   "album": "やさしくなりたい - Single",
+   "url": "https://music.apple.com/jp/album/%E3%82%84%E3%81%95%E3%81%97%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84/473598892?i=473598893&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -361,5 +370,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

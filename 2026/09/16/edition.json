@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T22:36:00+09:00",
+ "built": "2026-11-24T07:46:57+09:00",
  "prev": "/2026/09/15/",
  "next": "/2026/09/17/",
  "alerts": [],
@@ -243,7 +243,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "Gilberto Gil",
+  "title": "Domingo no Parque",
+  "text": "1967年にジルベルト・ジルが発表した、日曜日の公園を舞台にした物語歌。明るいリズムと管弦楽の色彩が動くほど、登場人物の間に生まれる緊張が大きくなる。楽しげな音楽だから幸せな話とは限らない。ブラジルの新しいポップスが、フォークの語り口と大胆な編曲を同じ曲の中へ持ち込んだ瞬間です。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/58/11/a7/5811a72c-4064-5c51-cc7c-ea1855604748/00191018262471_Cover.jpg/300x300bb.jpg",
+   "album": "Gilberto Gil (1968)",
+   "url": "https://music.apple.com/us/album/domingo-no-parque/1576811183?i=1576811360&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -331,5 +340,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-20T06:44:00+09:00",
+ "built": "2026-11-24T07:49:25+09:00",
  "prev": "/2026/09/27/",
  "next": "/2026/09/29/",
  "alerts": [],
@@ -274,7 +274,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "Homecomings",
+  "title": "I Want You Back",
+  "text": "誰かへ戻ってきてほしいという願いを、過剰な泣き声にしない。ギターは軽やかに動き、声は遠くへ投げるより、同じ部屋から話しかけるように響く。その落ち着いた距離が、言えなかったことの多さを感じさせる。大きなサビで気持ちを決着させず、日々の中へ持ち帰れる形のまま歌が終わります。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/21/04/9a/21049ae4-0f35-f3bf-0e66-0a84582967ee/dj.bovdwumf.jpg/300x300bb.jpg",
+   "album": "Somehow, Somewhere",
+   "url": "https://music.apple.com/jp/album/i-want-you-back/947853321?i=947853359&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -362,5 +371,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

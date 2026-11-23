@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:41:16+09:00",
+ "built": "2026-11-24T07:45:55+09:00",
  "prev": "/2026/09/10/",
  "next": "/2026/09/12/",
  "alerts": [],
@@ -259,7 +259,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "Nass El Ghiwane",
+  "title": "Mahmouma",
+  "text": "幾人もの声が呼びかけ合い、打楽器の反復が歌を遠くへ押し出します。モロッコのNass El Ghiwaneは、伝統の響きを都会の若者が生きる時代へ持ち込んだグループです。「Mahmouma」も、ひとりの名人芸を眺める歌ではありません。声が重なるたび、聴き手まで輪に加わったような力が生まれる。何度も繰り返すことが、音楽を大勢のものにしていくのです。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/47/92/92/4792925e-8766-ef71-4da3-025b43f84c27/3700551754557_cover.jpg/300x300bb.jpg",
+   "album": "Les stars du Maroc, 35 titres",
+   "url": "https://music.apple.com/jp/album/mahmouma/715462050?i=715462472&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -347,5 +356,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

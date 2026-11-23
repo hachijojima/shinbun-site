@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:08:49+09:00",
+ "built": "2026-11-24T07:44:43+09:00",
  "prev": "/2026/09/04/",
  "next": "/2026/09/06/",
  "alerts": [],
@@ -257,7 +257,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "Café Tacvba",
+  "title": "La Ingrata",
+  "text": "弾むリズムと暗い歌詞が、初めから噛み合わないまま進んでいきます。恋愛をめぐる歌の中に暴力的な言葉があり、バンド自身も後年、その扱いを問い直しました。演奏の陽気さだけを取り出して楽しむと、声が語っているものを見落とします。録音は変わらなくても、聴く人や歌う人の考えは変わっていく。その時間まで背負って、いまも聞こえてきます。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/95/95/2d959591-9063-f01e-da83-b02d8d6a8651/s06.bsbqejds.jpg/300x300bb.jpg",
+   "album": "Re",
+   "url": "https://music.apple.com/us/album/la-ingrata/36401122?i=36401148&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -324,5 +333,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T14:34:19+09:00",
+ "built": "2026-11-24T07:46:07+09:00",
  "prev": "/2026/09/11/",
  "next": "/2026/09/13/",
  "alerts": [],
@@ -280,7 +280,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "森田童子",
+  "title": "蒼き夜は",
+  "text": "森田童子の声には、夜をきれいな色に塗り直すつもりがありません。誰かを待っているのか、何かが終わったあとにいるのか。歌われない部分の方が大きく聞こえる夜があります。伴奏は控えめで、言葉を言い切らないまま次の音へ渡していく。歌を聴いているあいだより、声が消えたあとの部屋の方が深く静かになる。そんな余韻を、急いで消したくありません。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/95/b0/6d95b0d9-2fc9-7236-da49-c0c2bd6b2dce/23UM1IM35450.rgb.jpg/300x300bb.jpg",
+   "album": "セルロイドの少女 - Single",
+   "url": "https://music.apple.com/jp/album/%E8%92%BC%E3%81%8D%E5%A4%9C%E3%81%AF/1716541802?i=1716541806&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -368,5 +377,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

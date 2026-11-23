@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T23:59:38+09:00",
+ "built": "2026-11-24T07:47:22+09:00",
  "prev": "/2026/09/17/",
  "next": "/2026/09/19/",
  "alerts": [],
@@ -249,7 +249,11 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "ゆるふわギャング",
+  "title": "Palm Tree",
+  "text": "「Palm Tree」でゆるふわギャングは、ヤシの木の下にいるような気楽さと、どこか現実から離れている感覚を重ねます。ゆったりしたビートの上をラップが進み、強い主張よりも声の揺れそのものが耳に残る。南国の景色を描くための音楽というより、今いる場所の空気を少し変えるための音楽です。遠くへ行かずに気分だけ旅に出る、そんな身軽さがあります。"
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -337,5 +341,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

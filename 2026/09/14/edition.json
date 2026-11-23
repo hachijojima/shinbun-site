@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T18:07:58+09:00",
+ "built": "2026-11-24T07:46:31+09:00",
  "prev": "/2026/09/13/",
  "next": "/2026/09/15/",
  "alerts": [],
@@ -246,7 +246,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "Broadcast",
+  "title": "Tears in the Typing Pool",
+  "text": "Broadcastが2005年に発表した『Tender Buttons』で、「Tears in the Typing Pool」はむしろ音の少なさが際立つ。トリッシュ・キーナンの声とアコースティックギターが、電子音を重ねるグループの別の顔を見せます。言い終わった声のあとに弦の響きが残る。機械仕掛けの音楽を削ぎ落としても、彼らの持っていた不可解な美しさは消えない。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/21/6c/06/mzi.qtoyurxv.jpg/300x300bb.jpg",
+   "album": "Tender Buttons",
+   "url": "https://music.apple.com/jp/album/tears-in-the-typing-pool/257859388?i=257859576&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -334,5 +343,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

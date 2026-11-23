@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-20T02:14:51+09:00",
+ "built": "2026-11-24T07:46:44+09:00",
  "prev": "/2026/09/14/",
  "next": "/2026/09/16/",
  "alerts": [],
@@ -254,7 +254,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "Sufjan Stevens",
+  "title": "Casimir Pulaski Day",
+  "text": "小さなギターの音と、息に近い声が病室の記憶を運びます。Sufjan Stevensの「Casimir Pulaski Day」では、日々の出来事に祈りの言葉が重なっていく。信じるものがあっても、悲しみに理由が見つかるとは限りません。答えが出なくても、思い出すことだけは続いてしまう。伴奏を大きくしないからこそ、その行き場のなさが長く耳に残ります。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/47/9e/a3/479ea382-2686-3ea9-3def-d67d81fb2ee3/mzi.lhtprasx.jpg/300x300bb.jpg",
+   "album": "Illinois",
+   "url": "https://music.apple.com/us/album/casimir-pulaski-day/328074546?i=328074589&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -342,5 +351,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

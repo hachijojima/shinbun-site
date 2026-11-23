@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-18T07:41:54+09:00",
+ "built": "2026-11-24T07:48:24+09:00",
  "prev": "/2026/09/22/",
  "next": "/2026/09/24/",
  "alerts": [],
@@ -271,7 +271,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "山口百恵",
+  "title": "夢先案内人",
+  "text": "夢の中の恋を歌う旋律が、柔らかな編曲の中をゆっくり進む。山口百恵の声にはまだ若さがあるが、浮き立つ気持ちを必要以上に見せない。華やかな歌謡曲の装いと、相手がいつ消えてしまうか分からない夜の気配が同居する。夢から覚める前の短い時間を、低い歌声が静かに引き延ばします。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/cd/8b/78cd8bd1-864a-a7c2-0c39-f7bc69821926/jacket_MHCL30295B00Z_550.jpg/300x300bb.jpg",
+   "album": "ゴールデン☆アイドル 山口百恵",
+   "url": "https://music.apple.com/jp/album/%E5%A4%A2%E5%85%88%E6%A1%88%E5%86%85%E4%BA%BA/1536788479?i=1536788636&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -359,5 +368,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T07:00:20+09:00",
+ "built": "2026-11-24T07:45:43+09:00",
  "prev": "/2026/09/09/",
  "next": "/2026/09/11/",
  "alerts": [],
@@ -274,7 +274,16 @@
  "letters": [],
  "corrections": [],
  "column": null,
- "kyoku": null,
+ "kyoku": {
+  "artist": "君島大空",
+  "title": "19℃",
+  "text": "温度を数字で示すことで、かえって言葉にできない感覚を際立たせます。ギターの細かな動きと、輪郭が変わり続ける声。歌はひとつの感情に落ち着くことを拒み、親しさと不安が同じ場所を行き来する。室温を測ることはできても、そこで誰かと過ごした時間は測れない。精密な音の配置が、その曖昧さを残しています。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3d/9a/37/3d9a376d-53c8-89de-7ea1-f2aaafbec471/4526180608103_APLSDIGI-18_JK.jpg/300x300bb.jpg",
+   "album": "19℃ - Single",
+   "url": "https://music.apple.com/jp/album/19/1636620544?i=1636620545&uo=4"
+  }
+ },
  "ronten": null,
  "weekly": [],
  "ichimen_week": [
@@ -362,5 +371,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }
