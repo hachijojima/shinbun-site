@@ -1,0 +1,236 @@
+{
+ "date": "2026-08-01",
+ "edition": "朝刊",
+ "published": "05:30",
+ "proof": false,
+ "built": "2026-11-24T06:55:51+09:00",
+ "prev": null,
+ "next": "/2026/09/01/",
+ "alerts": [],
+ "weather": {
+  "issued": "2026-08-01T05:00",
+  "area": "伊豆諸島南部",
+  "days": [
+   {
+    "label": "きょう",
+    "weather": "くもり",
+    "main": "くもり",
+    "hachijo": "くもり",
+    "wind": "",
+    "wave": "",
+    "wind_full": "",
+    "wave_full": "",
+    "pops": [],
+    "min": 27,
+    "max": 31
+   }
+  ]
+ },
+ "koyomi": {
+  "sunrise": "4:53",
+  "sunset": "18:41",
+  "moon": 17.3,
+  "tide": {
+   "place": "八丈島(神湊)",
+   "high": [
+    [
+     "6:02",
+     144
+    ],
+    [
+     "19:19",
+     144
+    ]
+   ],
+   "low": [
+    [
+     "0:24",
+     80
+    ],
+    [
+     "12:38",
+     32
+    ]
+   ]
+  }
+ },
+ "unko": null,
+ "sora": null,
+ "number": null,
+ "top": {
+  "headline": "鉢巻道路、一部区間通行止め",
+  "body": [
+   "八丈島観光協会は、八丈富士牧場線(鉢巻道路)の一部区間を7月29日から通行止めと案内している。全線ではなく、一部区間の通行止めである。",
+   "観光協会はお知らせで、通行止めの詳細は八丈町の公式サイトで確認するよう案内している。"
+  ],
+  "figure": null,
+  "sources": [
+   {
+    "label": "八丈島観光協会",
+    "url": "https://www.hachijo.gr.jp/newsrelease/%e5%85%ab%e4%b8%88%e5%af%8c%e5%a3%ab%e7%89%a7%e5%a0%b4%e7%b7%9a%ef%bc%88%e9%89%a2%e5%b7%bb%e9%81%93%e8%b7%af%ef%bc%89%e3%81%ae%e4%b8%80%e9%83%a8%e5%8c%ba%e9%96%93%e9%80%9a%e8%a1%8c%e6%ad%a2%e3%82%81/"
+   }
+  ],
+  "label": "町政",
+  "audience": "両方",
+  "thread_id": "t20260801-1",
+  "id": "f119a5",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/f119a5.jpg?v=e04f7b",
+   "og": "/img/kiji/f119a5-og.jpg?v=e04f7b",
+   "s": "/img/kiji/f119a5-s.jpg?v=e04f7b",
+   "m": "/img/kiji/f119a5-m.jpg?v=e04f7b",
+   "caption": "八丈富士 お鉢巡りの路",
+   "credit": "",
+   "file": "ac/33631531.jpg"
+  }
+ },
+ "side": [],
+ "shorts": [
+  {
+   "headline": "八丈支庁の林道 全線通行止め",
+   "body": [
+    "八丈島観光協会は7月30日、八丈支庁管内の林道を全線通行止めにすると案内した。",
+    "同協会は「八丈支庁管内の林道 全線通行止めのご案内」として、お知らせに掲載した。"
+   ],
+   "sources": [
+    {
+     "label": "八丈島観光協会",
+     "url": "https://www.hachijo.gr.jp/newsrelease/%e5%85%ab%e4%b8%88%e6%94%af%e5%ba%81%e7%ae%a1%e5%86%85%e3%81%ae%e6%9e%97%e9%81%93-%e5%85%a8%e7%b7%9a%e9%80%9a%e8%a1%8c%e6%ad%a2%e3%82%81%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85%e3%80%807-30%e6%9c%a8/"
+    }
+   ],
+   "label": "町政",
+   "audience": "両方",
+   "thread_id": "t20260801-2",
+   "id": "2e2232",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/2e2232.jpg?v=435fc5",
+    "og": "/img/kiji/2e2232-og.jpg?v=435fc5",
+    "s": "/img/kiji/2e2232-s.jpg?v=435fc5",
+    "m": "/img/kiji/2e2232-m.jpg?v=435fc5",
+    "caption": "東京都八丈支庁",
+    "credit": "",
+    "file": "own/shicho-3.jpg"
+   }
+  },
+  {
+   "headline": "文化フェスティバル出演者募集",
+   "body": [
+    "八丈町は、第37回八丈島文化フェスティバルの作品展部門の出展者と舞台部門の出演者を募集している。応募期間は8月1日から9月1日まで。期間内必着。",
+    "作品展部門は2027年1月9日から11日、舞台部門は1月17日に開く。広報はちじょう2020年3月号によると、第31回は舞台部門15団体、作品展部門12組が出展した。",
+    "申し込みは、舞台部門が「舞台部門申し込みフォーム」、作品展部門が「作品部門申請フォーム」のWebフォームから。八丈島文化協会で募集要項と申込書を受け取り、直接申し込むこともできる。申し込み前に、同協会のホームページで募集要項を確認するよう案内している。",
+    "八丈島文化協会は三根4869-1の富士見地区公会堂内管理事務所内にある。電話は04996-2-2833。管理事務所は月・火・木・金の9時30分から11時30分まで開き、祝日は休み。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町",
+     "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260701-01-2/"
+    },
+    {
+     "label": "広報はちじょう2020年3月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23131527/hachijo2003.pdf"
+    }
+   ],
+   "label": "文化",
+   "audience": "島民",
+   "thread_id": "t20260801-3",
+   "id": "2f0d68",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/2f0d68.jpg?v=82de26",
+    "og": "/img/kiji/2f0d68-og.jpg?v=82de26",
+    "s": "/img/kiji/2f0d68-s.jpg?v=82de26",
+    "m": "/img/kiji/2f0d68-m.jpg?v=82de26",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "",
+    "file": "own/yakuba-4.jpg"
+   }
+  },
+  {
+   "headline": "観光協会、バスツアー乗客募集",
+   "body": [
+    "八丈島観光協会は7月31日、2026年夏季の観光バスツアーの乗客募集を案内した。"
+   ],
+   "sources": [
+    {
+     "label": "八丈島観光協会",
+     "url": "https://www.hachijo.gr.jp/newsrelease/%e8%a6%b3%e5%85%89%e3%83%90%e3%82%b9%e3%83%84%e3%82%a2%e3%83%bc%e3%80%902026%e5%a4%8f%e5%ad%a3%e3%80%91%e4%b9%97%e5%ae%a2%e5%8b%9f%e9%9b%86%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/"
+    }
+   ],
+   "label": "産業",
+   "audience": "来島者",
+   "thread_id": "t20260801-4",
+   "id": "6f8f1d",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/6f8f1d.jpg?v=0a7d4e",
+    "og": "/img/kiji/6f8f1d-og.jpg?v=0a7d4e",
+    "s": "/img/kiji/6f8f1d-s.jpg?v=0a7d4e",
+    "m": "/img/kiji/6f8f1d-m.jpg?v=0a7d4e",
+    "caption": "八丈島観光協会",
+    "credit": "",
+    "file": "own/kanko-kyokai-1.jpg"
+   }
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-08-01",
+   "end": "2026-08-31",
+   "text": "観光バスツアー【2026夏季】乗客募集 （8月1日～8月31日）",
+   "url": "https://www.hachijo.gr.jp/blogs/bus-tour_2026summer/"
+  }
+ ],
+ "letters": [],
+ "corrections": [],
+ "column": null,
+ "kyoku": {
+  "artist": "Shing02",
+  "title": "400",
+  "text": "「400」という数字の意味を解くより、ラップの一小節に耳を澄ませたい。語尾を詰めたり、次の拍まで引き延ばしたりする声の運動が、一定のビートに別の尺度を作る。流れてゆく言葉をすべて捉えようとすると、かえってリズムを見失う。意味と音が同じ速度で届かないことまで含めて、ラップの面白さがあります。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ad/fe/f1/adfef1e9-cf7f-f317-3aaa-0b881c59cdc6/4935228989751_cover.jpg/300x300bb.jpg",
+   "album": "400 - EP",
+   "url": "https://music.apple.com/jp/album/400-vocal/1465862499?i=1465862504&uo=4"
+  }
+ },
+ "ronten": null,
+ "weekly": [],
+ "ichimen_week": [],
+ "population": {
+  "as_of": "2026-07-01",
+  "people": 6554,
+  "people_diff": 3,
+  "households": 4060,
+  "households_diff": 1,
+  "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/31161410/hachijo2608.pdf",
+  "ido": {
+   "in": 30,
+   "birth": 1,
+   "out": 20,
+   "death": 7
+  }
+ },
+ "giin": [],
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年8月1日(日)",
+   "pic": "",
+   "hi": "30",
+   "lo": "26",
+   "rn": "降水なし"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年8月1日(土)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><path d=\"M13 37h23a8.5 8.5 0 0 0 1.4-16.9A12 12 0 0 0 14.6 19 9 9 0 0 0 13 37z\" fill=\"#a9b2ba\"/></svg></span>",
+   "hi": "31",
+   "lo": "27",
+   "rn": ""
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=8"
+ },
+ "chrome": "6682e570d36b"
+}
