@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-23T16:18:32+09:00",
+ "built": "2026-11-23T16:22:00+09:00",
  "prev": "/2026/11/22/",
  "next": null,
  "alerts": [
@@ -195,6 +195,7 @@
   "label": "町政",
   "audience": "島民",
   "thread_id": "t20261123-306",
+  "edited": "2026-11-23T16:18:32+09:00",
   "id": "df41de",
   "photo": {
    "type": "img",
@@ -205,11 +206,64 @@
    "caption": "八丈島空港",
    "credit": "",
    "file": "ac/26619779.jpg"
-  },
-  "edited": "2026-11-23T16:18:32+09:00"
+  }
  },
  "side": [],
  "shorts": [
+  {
+   "headline": "八丈高園芸科が全国大会に出場",
+   "body": [
+    "東京都立八丈高等学校は、園芸科通信の11月号(NO.4)を13日付で学校サイトに掲載した。特集は、園芸科の生徒が高知県・徳島県で開かれた日本学校農業クラブ全国大会に出場したこと。",
+    "通信は10月の活動を紹介している。"
+   ],
+   "sources": [
+    {
+     "label": "東京都立八丈高等学校",
+     "url": "https://www.metro.ed.jp/hachijo-h/news/2026/11/vol.html"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20261123-308",
+   "id": "3e5a54",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/3e5a54.jpg?v=6aea60",
+    "og": "/img/kiji/3e5a54-og.jpg?v=6aea60",
+    "s": "/img/kiji/3e5a54-s.jpg?v=6aea60",
+    "m": "/img/kiji/3e5a54-m.jpg?v=6aea60",
+    "caption": "東京都立八丈高等学校",
+    "credit": "",
+    "file": "own/hachijo-koko-2.jpg"
+   }
+  },
+  {
+   "headline": "議会改革委が報告書 新委員会へ",
+   "body": [
+    "八丈町議会の議会改革特別委員会が9月4日、調査を終えて報告書を提出した。委員会は今の任期いっぱいで幕を閉じ、議会制度調査特別委員会が新たに置かれる。議会BCPの策定は、次期議会に向けた提言とした。",
+    "町議会によると、委員会は令和6年9月10日の本会議で設置された。令和4年11月の議会運営委員会で、議長が議会基本条例をつくることと、議員研修会をさまざまな形で開くことを諮問した。委員会は住民との関係強化と政策機能強化の2面から課題を検討し、提言をまとめた。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町議会",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/11/18135731/%EF%BC%91%E5%8F%B7-R8.9.4.pdf"
+    }
+   ],
+   "label": "町政",
+   "audience": "島民",
+   "thread_id": "t20261123-309",
+   "id": "4c34e8",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/4c34e8.jpg?v=70dca9",
+    "og": "/img/kiji/4c34e8-og.jpg?v=70dca9",
+    "s": "/img/kiji/4c34e8-s.jpg?v=70dca9",
+    "m": "/img/kiji/4c34e8-m.jpg?v=70dca9",
+    "caption": "八丈町役場",
+    "credit": "",
+    "file": "own/yakuba-12.jpg"
+   }
+  },
   {
    "headline": "三原小かんも掘り、収穫増",
    "body": [
@@ -263,60 +317,6 @@
     "caption": "東京都立八丈高等学校",
     "credit": "",
     "file": "own/hachijo-koko-1.jpg"
-   }
-  },
-  {
-   "headline": "八丈高園芸科が全国大会に出場",
-   "body": [
-    "東京都立八丈高等学校は、園芸科通信の11月号(NO.4)を13日付で学校サイトに掲載した。特集は、園芸科の生徒が高知県・徳島県で開かれた日本学校農業クラブ全国大会に出場したこと。",
-    "通信は10月の活動を紹介している。"
-   ],
-   "sources": [
-    {
-     "label": "東京都立八丈高等学校",
-     "url": "https://www.metro.ed.jp/hachijo-h/news/2026/11/vol.html"
-    }
-   ],
-   "label": "教育",
-   "audience": "島民",
-   "thread_id": "t20261123-308",
-   "id": "3e5a54",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/3e5a54.jpg?v=6aea60",
-    "og": "/img/kiji/3e5a54-og.jpg?v=6aea60",
-    "s": "/img/kiji/3e5a54-s.jpg?v=6aea60",
-    "m": "/img/kiji/3e5a54-m.jpg?v=6aea60",
-    "caption": "東京都立八丈高等学校",
-    "credit": "",
-    "file": "own/hachijo-koko-2.jpg"
-   }
-  },
-  {
-   "headline": "議会改革委が報告書 新委員会へ",
-   "body": [
-    "八丈町議会の議会改革特別委員会が9月4日、調査を終えて報告書を提出した。委員会は今の任期いっぱいで幕を閉じ、議会制度調査特別委員会が新たに置かれる。議会BCPの策定は、次期議会に向けた提言とした。",
-    "町議会によると、委員会は令和6年9月10日の本会議で設置された。令和4年11月の議会運営委員会で、議長が議会基本条例をつくることと、議員研修会をさまざまな形で開くことを諮問した。委員会は住民との関係強化と政策機能強化の2面から課題を検討し、提言をまとめた。"
-   ],
-   "sources": [
-    {
-     "label": "八丈町議会",
-     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/11/18135731/%EF%BC%91%E5%8F%B7-R8.9.4.pdf"
-    }
-   ],
-   "label": "町政",
-   "audience": "島民",
-   "thread_id": "t20261123-309",
-   "id": "4c34e8",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/4c34e8.jpg?v=70dca9",
-    "og": "/img/kiji/4c34e8-og.jpg?v=70dca9",
-    "s": "/img/kiji/4c34e8-s.jpg?v=70dca9",
-    "m": "/img/kiji/4c34e8-m.jpg?v=70dca9",
-    "caption": "八丈町役場",
-    "credit": "",
-    "file": "own/yakuba-12.jpg"
    }
   }
  ],
