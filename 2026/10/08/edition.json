@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T07:20:53+09:00",
+ "built": "2026-11-24T07:28:40+09:00",
  "prev": "/2026/10/07/",
  "next": "/2026/10/09/",
  "alerts": [],
@@ -195,48 +195,6 @@
     "caption": "八丈町営バス",
     "credit": "",
     "file": "own/bus-3.jpg"
-   }
-  },
-  {
-   "headline": "大賀郷小、運動会は11月3日",
-   "body": [
-    "大賀郷小学校の運動会が11月3日に開かれる予定だ。当日7時から大漁旗と万国旗の装飾、テント・長机・椅子の設置があり、同校が手伝う人を募っている。",
-    "同校によると、告知は6日に出された。会場は大賀郷小学校で、子どもたちが練習の成果を仲間と力を合わせて発揮するとして、地域の人に声援を呼びかけている。駐車場の案内と種目の詳細は、同校の告知ページに掲載されている。",
-    "大賀郷小は今年度、創立150周年を迎える。広報はちじょう2026年6月号によると、運動会のほか学芸会と記念フェスティバルを予定している。2023年度も11月3日に運動会を開き、全校児童が練習や準備に取り組んだと、広報はちじょう2023年12月号が伝えている。",
-    "東京都教育委員会の資料によると、令和8年5月1日現在の在籍児童は98人(特別支援学級を含む)。"
-   ],
-   "sources": [
-    {
-     "label": "八丈町立大賀郷小学校",
-     "url": "https://okago-es.8jo.ed.jp/n/nba3e14b22603"
-    },
-    {
-     "label": "東京都教育委員会",
-     "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/school"
-    },
-    {
-     "label": "広報はちじょう2023年12月号",
-     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23122719/hachijo2312.pdf"
-    },
-    {
-     "label": "広報はちじょう2026年6月号",
-     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/05/27202107/hachijo2606.pdf"
-    }
-   ],
-   "label": "教育",
-   "audience": "島民",
-   "thread_id": "t20261004-17",
-   "followup": true,
-   "id": "0bfda2",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/0bfda2.jpg?v=22291e",
-    "og": "/img/kiji/0bfda2-og.jpg?v=22291e",
-    "s": "/img/kiji/0bfda2-s.jpg?v=22291e",
-    "m": "/img/kiji/0bfda2-m.jpg?v=22291e",
-    "caption": "八丈町立大賀郷小学校",
-    "credit": "",
-    "file": "own/okago-sho-7.jpg"
    }
   }
  ],
