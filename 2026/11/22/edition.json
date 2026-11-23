@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-22T07:26:30+09:00",
+ "built": "2026-11-24T01:30:47+09:00",
  "prev": "/2026/11/21/",
  "next": "/2026/11/23/",
  "alerts": [
@@ -502,17 +502,30 @@
  },
  "giin": [
   {
-   "name": "佐々木丈",
-   "slug": "sasaki-takeshi",
-   "at": "2026-11-19T07:38:06+09:00",
-   "url": "https://note.com/sasaki8joe/n/ncd2a2d8ae6a0",
-   "what": "社協バザー",
+   "name": "山下則子",
+   "slug": "yamashita-noriko",
+   "at": "2026-11-21T12:40:45+09:00",
+   "url": "https://x.com/norikoba1014/status/2123984936726393127",
+   "what": "恒例バザーの売り子",
    "kind": "地域",
    "duty": true,
-   "when": "3日前",
-   "day": "2026-11-19",
+   "when": "きのう",
+   "day": "2026-11-21",
    "pt": 2,
    "medal": "🥇"
+  },
+  {
+   "name": "佐々木丈",
+   "slug": "sasaki-takeshi",
+   "at": "2026-11-21T22:10:01+09:00",
+   "url": "https://x.com/greenblue8jo/status/2124128197264675159",
+   "what": "社協バザー再掲",
+   "kind": "話題",
+   "duty": false,
+   "when": "きのう",
+   "day": "2026-11-21",
+   "pt": 1,
+   "medal": "🥈"
   },
   {
    "name": "浅沼碧海",
@@ -525,20 +538,7 @@
    "when": "4日前",
    "day": "2026-11-18",
    "pt": 1,
-   "medal": "🥈"
-  },
-  {
-   "name": "山下則子",
-   "slug": "yamashita-noriko",
-   "at": "2026-11-18T15:47:40+09:00",
-   "url": "https://x.com/norikoba1014/status/2122944811175137395",
-   "what": "スマホ教室",
-   "kind": "話題",
-   "duty": false,
-   "when": "4日前",
-   "day": "2026-11-18",
-   "pt": 1,
-   "medal": "🥈"
+   "medal": "🥉"
   },
   {
    "name": "伊藤奨",
