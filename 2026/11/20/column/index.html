@@ -79,7 +79,7 @@ h1,h2,h3,p{margin:0}
 .tk{display:flex;flex-direction:column;gap:var(--sh)}.tk>.l,.tk>.r{display:flex;flex-direction:column;gap:var(--sh);min-width:0}
 @media (min-width:1000px){.tk{display:grid;grid-template-columns:var(--cols-bun);gap:0 var(--gut);align-items:start}}
 @media (max-width:999px){.tk>.r{display:contents}.tk>.r>.atama{order:-1}}
-.tk section>.band:first-child,.tk .l>:first-child,.tk .r>:first-child{margin-top:0!important}
+.tk section>.band:first-child,.tk .l>*,.tk .r>*{margin-top:0!important;margin-bottom:0!important}
 /* 図の見出し:帯の下に、図から読めることを太字の一文。添える文は1〜2文 */
 .mi{margin:0 0 var(--sp-xs);font-weight:700;font-size:var(--fs-b);line-height:1.5}
 .cap{margin:0 0 var(--sp-m);font-size:var(--fs-ui);line-height:1.7;color:var(--ink-2)}
