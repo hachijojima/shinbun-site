@@ -46,10 +46,10 @@ h1,h2,h3,p{margin:0}
 .gyou>li.fold-x{display:none}
 @media (max-width:640px){.gyou>li{grid-template-columns:minmax(0,1fr) auto}.gyou>li>.fu{grid-column:1/-1}}
 /* 一般質問の行:名前 → 題目(会議録へ)→ 問・答。題目ごとに間をあける */
-.gyou.qs>li{grid-template-columns:9.5em minmax(0,1fr)}.gyou.qs .who{display:block;font-weight:700}
+.gyou.qs>li{grid-template-columns:9.5em minmax(0,1fr);padding:var(--sp-s) 0}.gyou.qs .who{display:block;font-weight:700;color:var(--ink);white-space:normal}
 .gyou.qs .dai{display:block}.gyou.qs .dai+.dai{margin-top:var(--sp-s)}.gyou.qs .dai>a{font-weight:700}
 .gyou.qs .qa{display:block;color:var(--ink-2)}.gyou.qs .qa i{font-style:normal;font-size:var(--fs-m);color:var(--ink-3);margin-right:var(--sp-s)}
-@media (max-width:640px){.gyou.qs>li{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:640px){.gyou.qs>li{grid-template-columns:minmax(0,1fr)}.gyou.qs .who{display:inline;margin-left:var(--sp-s)}}
 /* 表:罫線を持つのは表だけ。見出しの行は札の字、下に黒の細線。字は一覧の字1つ、数は右寄せ・等幅。内訳(tr.uchi)は字下げと灰 */
 .tw{overflow-x:auto}.tw table{border-collapse:collapse;width:100%;font-size:var(--fs-ui);line-height:1.6;font-feature-settings:"tnum"}
 .tw th,.tw td{border-bottom:1px solid var(--hair);padding:var(--sp-s);text-align:left;vertical-align:top;white-space:nowrap}
