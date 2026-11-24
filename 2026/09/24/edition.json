@@ -119,10 +119,6 @@
     {
      "label": "高校野球ドットコム",
      "url": "https://www.hb-nippon.com/games/47934"
-    },
-    {
-     "label": "高校野球ドットコム",
-     "url": "https://www.hb-nippon.com/teams/1688"
     }
    ],
    "label": "教育",
@@ -161,7 +157,17 @@
    "label": "教育",
    "audience": "両方",
    "thread_id": "t20260924-82",
-   "id": "dc0b98"
+   "id": "dc0b98",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/dc0b98.jpg?v=24b011",
+    "og": "/img/kiji/dc0b98-og.jpg?v=24b011",
+    "s": "/img/kiji/dc0b98-s.jpg?v=24b011",
+    "m": "/img/kiji/dc0b98-m.jpg?v=24b011",
+    "caption": "東京都立八丈高等学校",
+    "credit": "",
+    "file": "own/hachijo-koko-4.jpg"
+   }
   },
   {
    "headline": "花の会、27日に笑いヨガ講座",
@@ -304,7 +310,7 @@
    "date": "2026-09-21",
    "url": "/2026/09/21/264e06/",
    "headlines": [
-    "台風25号、八丈島が暴風域に"
+    "ＫＭ総合事務所が記帳の求人"
    ]
   },
   {
@@ -370,5 +376,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

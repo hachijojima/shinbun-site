@@ -115,16 +115,22 @@
     {
      "label": "八丈島観光協会",
      "url": "https://www.hachijo.gr.jp/2026?post_type=events"
-    },
-    {
-     "label": "八丈島観光協会",
-     "url": "https://ameblo.jp/team8jo/entry-11412694762.html"
     }
    ],
    "label": "文化",
    "audience": "両方",
    "thread_id": "t20260926-90",
-   "id": "1e7e2e"
+   "id": "1e7e2e",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/1e7e2e.jpg?v=6d0941",
+    "og": "/img/kiji/1e7e2e-og.jpg?v=6d0941",
+    "s": "/img/kiji/1e7e2e-s.jpg?v=6d0941",
+    "m": "/img/kiji/1e7e2e-m.jpg?v=6d0941",
+    "caption": "マラソン",
+    "credit": "",
+    "file": "ac/25590365.jpg"
+   }
   },
   {
    "headline": "住宅修理補助、30日に期限",
@@ -283,7 +289,7 @@
    "date": "2026-09-25",
    "url": "/2026/09/25/05a2a8/",
    "headlines": [
-    "台風25号の家屋被害、税務課へ連絡を"
+    "台風被害、家屋は税務課へ"
    ]
   },
   {
@@ -311,7 +317,7 @@
    "date": "2026-09-21",
    "url": "/2026/09/21/264e06/",
    "headlines": [
-    "台風25号、八丈島が暴風域に"
+    "ＫＭ総合事務所が記帳の求人"
    ]
   },
   {
@@ -363,5 +369,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

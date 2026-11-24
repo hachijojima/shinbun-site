@@ -246,7 +246,17 @@
    "thread_id": "t20261028-10",
    "followup": true,
    "id": "543a97",
-   "edited": "2026-11-03T18:34:59+09:00"
+   "edited": "2026-11-03T18:34:59+09:00",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/543a97.jpg?v=44cce7",
+    "og": "/img/kiji/543a97-og.jpg?v=44cce7",
+    "s": "/img/kiji/543a97-s.jpg?v=44cce7",
+    "m": "/img/kiji/543a97-m.jpg?v=44cce7",
+    "caption": "大阪港岸壁に接岸する大型クルーズ客船",
+    "credit": "",
+    "file": "ac/35434757.jpg"
+   }
   },
   {
    "headline": "ビジターセンターの11月行事",
@@ -463,7 +473,7 @@
    "date": "2026-10-29",
    "url": "/2026/10/29/412980/",
    "headlines": [
-    "地域振興補助、第3回募集は12月1日から"
+    "放課後指導員、週1日から募集"
    ]
   },
   {
@@ -576,7 +586,7 @@
    "medal": ""
   }
  ],
- "chrome": "49fcb4c71b8e",
+ "chrome": "c5183eeccfdc",
  "hyakunen": {
   "then": {
    "ago": "100年前",

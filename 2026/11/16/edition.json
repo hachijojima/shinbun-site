@@ -194,10 +194,6 @@
    {
     "label": "JA八丈島",
     "url": "https://www.jahachijo.jp/news/r8/month-11/sikyo20261111.html"
-   },
-   {
-    "label": "JA八丈島",
-    "url": "https://www.jahachijo.jp/news/r8/month-11/sikyo20261111.pdf"
    }
   ],
   "label": "産業",
@@ -255,14 +251,6 @@
     {
      "label": "現代ビジネス",
      "url": "https://news.livedoor.com/article/detail/32815260/"
-    },
-    {
-     "label": "現代ビジネス",
-     "url": "https://news.livedoor.com/article/detail/32821305/"
-    },
-    {
-     "label": "現代ビジネス",
-     "url": "https://news.livedoor.com/article/detail/32579182/"
     }
    ],
    "label": "産業",
@@ -411,7 +399,7 @@
    "date": "2026-11-15",
    "url": "/2026/11/15/78475d/",
    "headlines": [
-    "台風ごみ処理13%、完了は28年3月"
+    "台風ごみ13%、完了28年3月"
    ]
   },
   {
@@ -425,7 +413,7 @@
    "date": "2026-11-13",
    "url": "/2026/11/13/1bf95c/",
    "headlines": [
-    "おさかな朝市、年内最後は12月5日"
+    "おさかな朝市、年内最後12月5日"
    ]
   },
   {
@@ -446,7 +434,7 @@
    "date": "2026-11-10",
    "url": "/2026/11/10/e538ec/",
    "headlines": [
-    "あさぬま、来年から日曜定休"
+    "あさぬま、来年から日曜休業"
    ]
   },
   {
@@ -538,5 +526,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

@@ -104,14 +104,6 @@
     {
      "label": "八丈町商工会",
      "url": "https://x.com/hachisho8/status/2104359072644604371"
-    },
-    {
-     "label": "八丈町商工会",
-     "url": "https://r.goope.jp/hachisho/info/2026-09"
-    },
-    {
-     "label": "八丈町商工会",
-     "url": "https://hachisho.princia.net/news/view/391"
     }
    ],
    "label": "産業",
@@ -301,7 +293,7 @@
    "date": "2026-09-28",
    "url": "/2026/09/28/662149/",
    "headlines": [
-    "台風26号、30日から伊豆諸島は荒天警戒"
+    "愛らんどリーグ2026の映像"
    ]
   },
   {
@@ -322,7 +314,7 @@
    "date": "2026-09-25",
    "url": "/2026/09/25/05a2a8/",
    "headlines": [
-    "台風25号の家屋被害、税務課へ連絡を"
+    "台風被害、家屋は税務課へ"
    ]
   },
   {
@@ -381,5 +373,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

@@ -316,10 +316,6 @@
     {
      "label": "八丈高校",
      "url": "https://www.metro.ed.jp/hachijo-h/news/2026/11/2_11.html"
-    },
-    {
-     "label": "八丈高校",
-     "url": "https://www.metro.ed.jp/hachijo-h/news/2026/10/newsentry_207.html"
     }
    ],
    "label": "教育",
@@ -558,5 +554,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

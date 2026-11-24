@@ -150,10 +150,6 @@
     {
      "label": "ホテルニューオータニ",
      "url": "https://prtimes.jp/main/html/rd/p/000003941.000014571.html"
-    },
-    {
-     "label": "ホテルニューオータニ",
-     "url": "https://www.newotani.co.jp/tokyo/restaurant/bellavista/kumamoto-fukkou/"
     }
    ],
    "label": "産業",
@@ -186,10 +182,6 @@
     {
      "label": "広報はちじょう 2023年8月号",
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23122659/hachijo2308.pdf"
-    },
-    {
-     "label": "大賀郷中",
-     "url": "https://okago-jhs.8jo.ed.jp/n/n648b8535e92f"
     }
    ],
    "label": "教育",
@@ -307,7 +299,7 @@
    "date": "2026-09-21",
    "url": "/2026/09/21/264e06/",
    "headlines": [
-    "台風25号、八丈島が暴風域に"
+    "ＫＭ総合事務所が記帳の求人"
    ]
   },
   {
@@ -380,5 +372,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

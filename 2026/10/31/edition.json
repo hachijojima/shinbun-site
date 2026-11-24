@@ -333,7 +333,17 @@
    "audience": "島民",
    "thread_id": "t20261031-33",
    "followup": true,
-   "id": "533986"
+   "id": "533986",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/533986.jpg?v=d6e055",
+    "og": "/img/kiji/533986-og.jpg?v=d6e055",
+    "s": "/img/kiji/533986-s.jpg?v=d6e055",
+    "m": "/img/kiji/533986-m.jpg?v=d6e055",
+    "caption": "大賀郷公民館",
+    "credit": "",
+    "file": "own/okago-kominkan-1.jpg"
+   }
   }
  ],
  "agenda": [
@@ -418,7 +428,7 @@
    "date": "2026-10-29",
    "url": "/2026/10/29/412980/",
    "headlines": [
-    "地域振興補助、第3回募集は12月1日から"
+    "放課後指導員、週1日から募集"
    ]
   },
   {
@@ -538,7 +548,7 @@
    "medal": ""
   }
  ],
- "chrome": "49fcb4c71b8e",
+ "chrome": "c5183eeccfdc",
  "hyakunen": {
   "then": {
    "ago": "100年前",

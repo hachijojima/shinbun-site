@@ -178,7 +178,17 @@
    "label": "産業",
    "audience": "島民",
    "thread_id": "t20260909-36",
-   "id": "2e90d5"
+   "id": "2e90d5",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/2e90d5.jpg?v=c9e2cc",
+    "og": "/img/kiji/2e90d5-og.jpg?v=c9e2cc",
+    "s": "/img/kiji/2e90d5-s.jpg?v=c9e2cc",
+    "m": "/img/kiji/2e90d5-m.jpg?v=c9e2cc",
+    "caption": "東京都八丈支庁",
+    "credit": "",
+    "file": "own/shicho-2.jpg"
+   }
   },
   {
    "headline": "牛で興す八丈島 チーズ講話28日",
@@ -335,5 +345,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

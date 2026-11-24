@@ -231,7 +231,17 @@
    "label": "くらし",
    "audience": "両方",
    "thread_id": "t20261122-305",
-   "id": "5375f2"
+   "id": "5375f2",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/5375f2.jpg?v=ba042c",
+    "og": "/img/kiji/5375f2-og.jpg?v=ba042c",
+    "s": "/img/kiji/5375f2-s.jpg?v=ba042c",
+    "m": "/img/kiji/5375f2-m.jpg?v=ba042c",
+    "caption": "八丈町保健福祉センター",
+    "credit": "",
+    "file": "own/hoken-fukushi-3.jpg"
+   }
   },
   {
    "headline": "東京アプリ、25日に対面支援",
@@ -473,7 +483,7 @@
    "date": "2026-11-15",
    "url": "/2026/11/15/78475d/",
    "headlines": [
-    "台風ごみ処理13%、完了は28年3月"
+    "台風ごみ13%、完了28年3月"
    ]
   }
  ],
@@ -571,5 +581,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

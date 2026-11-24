@@ -206,10 +206,6 @@
     {
      "label": "広報はちじょう 2017年7月号",
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23134939/hachijo1707.pdf"
-    },
-    {
-     "label": "大賀郷中",
-     "url": "https://okago-jhs.8jo.ed.jp/n/n6753615cd952"
     }
    ],
    "label": "教育",
@@ -276,7 +272,7 @@
    "date": "2026-09-01",
    "url": "/2026/09/01/6ca429/",
    "headlines": [
-    "シルバーパス、更新からPASMOに移行"
+    "シルバーパス、PASMOへ"
    ]
   }
  ],
@@ -314,5 +310,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

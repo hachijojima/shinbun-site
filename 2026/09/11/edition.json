@@ -74,14 +74,6 @@
    {
     "label": "八丈町",
     "url": "https://x.com/hachijomachi/status/2097905794796954010"
-   },
-   {
-    "label": "八丈町",
-    "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260814/"
-   },
-   {
-    "label": "八丈町",
-    "url": "https://www.town.hachijo.tokyo.jp/chousei/hachijojima-g/hj-chouchou/"
    }
   ],
   "label": "町政",
@@ -365,5 +357,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

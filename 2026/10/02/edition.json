@@ -150,7 +150,17 @@
    "label": "くらし",
    "audience": "両方",
    "thread_id": "t20261002-8",
-   "id": "989fa9"
+   "id": "989fa9",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/989fa9.jpg?v=877950",
+    "og": "/img/kiji/989fa9-og.jpg?v=877950",
+    "s": "/img/kiji/989fa9-s.jpg?v=877950",
+    "m": "/img/kiji/989fa9-m.jpg?v=877950",
+    "caption": "八丈町保健福祉センター",
+    "credit": "",
+    "file": "own/hoken-fukushi-2.jpg"
+   }
   },
   {
    "headline": "島の共有サービス「allo」公開",
@@ -252,14 +262,14 @@
    "date": "2026-10-01",
    "url": "/2026/10/01/bab712/",
    "headlines": [
-    "台風26号、八丈島の南を北東へ進む"
+    "台風26号、八丈島南を北東へ"
    ]
   },
   {
    "date": "2026-09-30",
    "url": "/2026/09/30/5f40dd/",
    "headlines": [
-    "台風26号、八丈島で荒天警戒"
+    "台風26号で休演・休業へ"
    ]
   },
   {
@@ -273,7 +283,7 @@
    "date": "2026-09-28",
    "url": "/2026/09/28/662149/",
    "headlines": [
-    "台風26号、30日から伊豆諸島は荒天警戒"
+    "愛らんどリーグ2026の映像"
    ]
   },
   {
@@ -294,7 +304,7 @@
    "date": "2026-09-25",
    "url": "/2026/09/25/05a2a8/",
    "headlines": [
-    "台風25号の家屋被害、税務課へ連絡を"
+    "台風被害、家屋は税務課へ"
    ]
   }
  ],
@@ -332,5 +342,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

@@ -74,7 +74,17 @@
   "label": "くらし",
   "audience": "島民",
   "thread_id": "t20261005-24",
-  "id": "6d31ed"
+  "id": "6d31ed",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/6d31ed.jpg?v=66a5dc",
+   "og": "/img/kiji/6d31ed-og.jpg?v=66a5dc",
+   "s": "/img/kiji/6d31ed-s.jpg?v=66a5dc",
+   "m": "/img/kiji/6d31ed-m.jpg?v=66a5dc",
+   "caption": "粗大ごみ",
+   "credit": "",
+   "file": "ac/28125215.jpg"
+  }
  },
  "side": [],
  "shorts": [
@@ -242,7 +252,7 @@
    "date": "2026-10-04",
    "url": "/2026/10/04/6f7de1/",
    "headlines": [
-    "八丈島沖でダイバー8人救助"
+    "8人、約14キロ流され救助"
    ]
   },
   {
@@ -256,21 +266,21 @@
    "date": "2026-10-02",
    "url": "/2026/10/02/0cc87f/",
    "headlines": [
-    "災害廃棄物、5日から有明で受け入れ"
+    "災害ごみ、5日から南原へ"
    ]
   },
   {
    "date": "2026-10-01",
    "url": "/2026/10/01/bab712/",
    "headlines": [
-    "台風26号、八丈島の南を北東へ進む"
+    "台風26号、八丈島南を北東へ"
    ]
   },
   {
    "date": "2026-09-30",
    "url": "/2026/09/30/5f40dd/",
    "headlines": [
-    "台風26号、八丈島で荒天警戒"
+    "台風26号で休演・休業へ"
    ]
   },
   {
@@ -284,7 +294,7 @@
    "date": "2026-09-28",
    "url": "/2026/09/28/662149/",
    "headlines": [
-    "台風26号、30日から伊豆諸島は荒天警戒"
+    "愛らんどリーグ2026の映像"
    ]
   }
  ],
@@ -322,5 +332,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

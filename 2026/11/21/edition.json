@@ -241,7 +241,17 @@
    "label": "産業",
    "audience": "島民",
    "thread_id": "t20261121-301",
-   "id": "26817f"
+   "id": "26817f",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/26817f.jpg?v=5e5ec8",
+    "og": "/img/kiji/26817f-og.jpg?v=5e5ec8",
+    "s": "/img/kiji/26817f-s.jpg?v=5e5ec8",
+    "m": "/img/kiji/26817f-m.jpg?v=5e5ec8",
+    "caption": "東京国際フォーラム",
+    "credit": "",
+    "file": "ac/26827758.jpg"
+   }
   },
   {
    "headline": "秀家墓所前、トイレ設置予定なし",
@@ -292,10 +302,6 @@
     {
      "label": "大賀郷小",
      "url": "https://okago-es.8jo.ed.jp/n/n40c128d3393e"
-    },
-    {
-     "label": "大賀郷小",
-     "url": "https://okago-es.8jo.ed.jp/n/nf017d87ec7b0"
     }
    ],
    "label": "教育",
@@ -456,7 +462,7 @@
    "date": "2026-11-15",
    "url": "/2026/11/15/78475d/",
    "headlines": [
-    "台風ごみ処理13%、完了は28年3月"
+    "台風ごみ13%、完了28年3月"
    ]
   },
   {
@@ -561,5 +567,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

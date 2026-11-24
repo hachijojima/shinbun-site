@@ -408,7 +408,7 @@
    "date": "2026-11-15",
    "url": "/2026/11/15/78475d/",
    "headlines": [
-    "台風ごみ処理13%、完了は28年3月"
+    "台風ごみ13%、完了28年3月"
    ]
   },
   {
@@ -422,7 +422,7 @@
    "date": "2026-11-13",
    "url": "/2026/11/13/1bf95c/",
    "headlines": [
-    "おさかな朝市、年内最後は12月5日"
+    "おさかな朝市、年内最後12月5日"
    ]
   },
   {
@@ -534,5 +534,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

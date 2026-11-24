@@ -128,7 +128,17 @@
    "audience": "島民",
    "thread_id": "t20260916-58",
    "followup": true,
-   "id": "7608bb"
+   "id": "7608bb",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/7608bb.jpg?v=84cb7f",
+    "og": "/img/kiji/7608bb-og.jpg?v=84cb7f",
+    "s": "/img/kiji/7608bb-s.jpg?v=84cb7f",
+    "m": "/img/kiji/7608bb-m.jpg?v=84cb7f",
+    "caption": "八丈島の焼酎",
+    "credit": "",
+    "file": "own/shochu-7.jpg"
+   }
   },
   {
    "headline": "島寿司デリが27日で営業終了",
@@ -298,7 +308,7 @@
    "date": "2026-09-28",
    "url": "/2026/09/28/662149/",
    "headlines": [
-    "台風26号、30日から伊豆諸島は荒天警戒"
+    "愛らんどリーグ2026の映像"
    ]
   },
   {
@@ -319,7 +329,7 @@
    "date": "2026-09-25",
    "url": "/2026/09/25/05a2a8/",
    "headlines": [
-    "台風25号の家屋被害、税務課へ連絡を"
+    "台風被害、家屋は税務課へ"
    ]
   },
   {
@@ -371,5 +381,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

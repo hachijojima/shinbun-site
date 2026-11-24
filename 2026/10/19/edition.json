@@ -133,7 +133,17 @@
    "label": "教育",
    "audience": "両方",
    "thread_id": "t20261019-70",
-   "id": "98ba49"
+   "id": "98ba49",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/98ba49.jpg?v=245d05",
+    "og": "/img/kiji/98ba49-og.jpg?v=245d05",
+    "s": "/img/kiji/98ba49-s.jpg?v=245d05",
+    "m": "/img/kiji/98ba49-m.jpg?v=245d05",
+    "caption": "東京都立八丈高等学校",
+    "credit": "",
+    "file": "own/hachijo-koko-5.jpg"
+   }
   },
   {
    "headline": "空の日、規模縮小し18日に開催",
@@ -281,14 +291,14 @@
    "date": "2026-10-17",
    "url": "/2026/10/17/a43f89/",
    "headlines": [
-    "こども性暴力防止法、窓口を案内"
+    "性暴力防止法、学校の対応案内"
    ]
   },
   {
    "date": "2026-10-16",
    "url": "/2026/10/16/23ef9e/",
    "headlines": [
-    "義援金と補助金の通知、全世帯に発送"
+    "義援金・補助金、全世帯へ通知"
    ]
   },
   {
@@ -420,5 +430,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

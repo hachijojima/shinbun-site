@@ -255,16 +255,22 @@
     {
      "label": "優婆夷宝明神社",
      "url": "https://ubai-houmei.tokyo/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%84%AA%E5%A9%86%E5%A4%B7%E5%AF%B6%E6%98%8E%E7%A5%9E%E7%A4%BE%E4%BE%8B%E7%A5%AD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/"
-    },
-    {
-     "label": "優婆夷宝明神社",
-     "url": "https://ubai-houmei.tokyo/"
     }
    ],
    "label": "文化",
    "audience": "島民",
    "thread_id": "t20261113-85",
-   "id": "38d86a"
+   "id": "38d86a",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/38d86a.jpg?v=2efec8",
+    "og": "/img/kiji/38d86a-og.jpg?v=2efec8",
+    "s": "/img/kiji/38d86a-s.jpg?v=2efec8",
+    "m": "/img/kiji/38d86a-m.jpg?v=2efec8",
+    "caption": "優婆夷宝明神社の社殿",
+    "credit": "",
+    "file": "ac/24824871.jpg"
+   }
   },
   {
    "headline": "ピアノステップ 申込16日まで",
@@ -310,10 +316,6 @@
     {
      "label": "東京都公園協会",
      "url": "https://www.tokyo-park.or.jp/park/hachijo/news/info/2026/hachijo_info_205.html"
-    },
-    {
-     "label": "東京都公園協会",
-     "url": "https://www.tokyo-park.or.jp/park/hachijo/creature/detail/0285.html"
     }
    ],
    "label": "文化",
@@ -408,7 +410,7 @@
    "date": "2026-11-10",
    "url": "/2026/11/10/e538ec/",
    "headlines": [
-    "あさぬま、来年から日曜定休"
+    "あさぬま、来年から日曜休業"
    ]
   },
   {
@@ -521,5 +523,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

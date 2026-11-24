@@ -288,10 +288,6 @@
     {
      "label": "東京ドキュメンタリー映画祭",
      "url": "https://tdff-neoneo.com/lineup/"
-    },
-    {
-     "label": "東京ドキュメンタリー映画祭",
-     "url": "https://tdff-neoneo.com/"
     }
    ],
    "label": "教育",
@@ -429,7 +425,7 @@
    "date": "2026-10-29",
    "url": "/2026/10/29/412980/",
    "headlines": [
-    "地域振興補助、第3回募集は12月1日から"
+    "放課後指導員、週1日から募集"
    ]
   },
   {
@@ -540,5 +536,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

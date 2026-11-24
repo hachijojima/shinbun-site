@@ -203,7 +203,17 @@
    "label": "文化",
    "audience": "両方",
    "thread_id": "t20261018-153",
-   "id": "5e740f"
+   "id": "5e740f",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/5e740f.jpg?v=02c61c",
+    "og": "/img/kiji/5e740f-og.jpg?v=02c61c",
+    "s": "/img/kiji/5e740f-s.jpg?v=02c61c",
+    "m": "/img/kiji/5e740f-m.jpg?v=02c61c",
+    "caption": "黄八丈、切り房の帯締め",
+    "credit": "",
+    "file": "ac/31823967.jpg"
+   }
   }
  ],
  "agenda": [
@@ -316,14 +326,14 @@
    "date": "2026-10-17",
    "url": "/2026/10/17/a43f89/",
    "headlines": [
-    "こども性暴力防止法、窓口を案内"
+    "性暴力防止法、学校の対応案内"
    ]
   },
   {
    "date": "2026-10-16",
    "url": "/2026/10/16/23ef9e/",
    "headlines": [
-    "義援金と補助金の通知、全世帯に発送"
+    "義援金・補助金、全世帯へ通知"
    ]
   },
   {
@@ -436,5 +446,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

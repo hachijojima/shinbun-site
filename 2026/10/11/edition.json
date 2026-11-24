@@ -110,16 +110,22 @@
     {
      "label": "江戸川区",
      "url": "https://www.city.edogawa.tokyo.jp/kumin_fes/gaiyou/index.html"
-    },
-    {
-     "label": "江戸川区",
-     "url": "https://www.city.edogawa.tokyo.jp/kumin_fes/stage.html"
     }
    ],
    "label": "産業",
    "audience": "島民",
    "thread_id": "t20261011-43",
-   "id": "15adb6"
+   "id": "15adb6",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/15adb6.jpg?v=4d1b84",
+    "og": "/img/kiji/15adb6-og.jpg?v=4d1b84",
+    "s": "/img/kiji/15adb6-s.jpg?v=4d1b84",
+    "m": "/img/kiji/15adb6-m.jpg?v=4d1b84",
+    "caption": "八丈太鼓",
+    "credit": "",
+    "file": "own/hachijo-taiko-1.jpg"
+   }
   },
   {
    "headline": "参宮橋で八丈島焼酎祭",
@@ -288,7 +294,7 @@
    "date": "2026-10-08",
    "url": "/2026/10/08/fa54e0/",
    "headlines": [
-    "災害廃棄物、搬入先を有明興業に変更"
+    "災害ごみ、搬入先を南原へ"
    ]
   },
   {
@@ -309,14 +315,14 @@
    "date": "2026-10-05",
    "url": "/2026/10/05/6d31ed/",
    "headlines": [
-    "災害ごみ、きょうから南原で受け入れ"
+    "災害ごみ、きょう南原へ"
    ]
   },
   {
    "date": "2026-10-04",
    "url": "/2026/10/04/6f7de1/",
    "headlines": [
-    "八丈島沖でダイバー8人救助"
+    "8人、約14キロ流され救助"
    ]
   }
  ],
@@ -354,5 +360,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

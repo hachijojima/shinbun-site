@@ -303,7 +303,17 @@
    ],
    "label": "産業",
    "audience": "両方",
-   "id": "d6b658"
+   "id": "d6b658",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/d6b658.jpg?v=df4759",
+    "og": "/img/kiji/d6b658-og.jpg?v=df4759",
+    "s": "/img/kiji/d6b658-s.jpg?v=df4759",
+    "m": "/img/kiji/d6b658-m.jpg?v=df4759",
+    "caption": "八丈島の焼酎",
+    "credit": "",
+    "file": "own/shochu-10.jpg"
+   }
   }
  ],
  "agenda": {
@@ -398,7 +408,7 @@
    "date": "2026-10-23",
    "url": "/2026/10/23/41ec0a/",
    "headlines": [
-    "ミス八丈島、名称を観光大使に"
+    "ミス八丈島、観光大使へ改称"
    ]
   },
   {
@@ -426,7 +436,7 @@
    "date": "2026-10-19",
    "url": "/2026/10/19/540c1f/",
    "headlines": [
-    "町議選に12人当選 投票率66.53%"
+    "町議12人当選、投票率66.5%"
    ]
   },
   {
@@ -458,7 +468,7 @@
   "url": "https://x.com/ANA_flight_info/status/2113914643257389230",
   "at": "2026-10-24T17:45:00+09:00"
  },
- "chrome": "49fcb4c71b8e",
+ "chrome": "c5183eeccfdc",
  "hyakunen": {
   "then": {
    "ago": "100年前",

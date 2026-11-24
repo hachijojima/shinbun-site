@@ -179,7 +179,7 @@
   ],
   "sources": [
    {
-    "label": "八丈町 災害廃棄物等処理実行計画（第3版）",
+    "label": "八丈町 災害廃棄物等処理実行計画",
     "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260902-3/"
    },
    {
@@ -438,7 +438,7 @@
    "date": "2026-11-13",
    "url": "/2026/11/13/1bf95c/",
    "headlines": [
-    "おさかな朝市、年内最後は12月5日"
+    "おさかな朝市、年内最後12月5日"
    ]
   },
   {
@@ -459,7 +459,7 @@
    "date": "2026-11-10",
    "url": "/2026/11/10/e538ec/",
    "headlines": [
-    "あさぬま、来年から日曜定休"
+    "あさぬま、来年から日曜休業"
    ]
   },
   {
@@ -558,5 +558,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

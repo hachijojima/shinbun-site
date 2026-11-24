@@ -210,10 +210,6 @@
     {
      "label": "三原中",
      "url": "https://mihara-jhs.8jo.ed.jp/n/ne7492eb4770c"
-    },
-    {
-     "label": "三原中",
-     "url": "https://x.com/Mihara_JHS/status/2094267269513883876"
     }
    ],
    "label": "教育",
@@ -260,7 +256,7 @@
    "date": "2026-09-01",
    "url": "/2026/09/01/6ca429/",
    "headlines": [
-    "シルバーパス、更新からPASMOに移行"
+    "シルバーパス、PASMOへ"
    ]
   }
  ],
@@ -298,5 +294,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

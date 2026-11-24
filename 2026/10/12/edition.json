@@ -149,7 +149,17 @@
    "label": "くらし",
    "audience": "両方",
    "thread_id": "t20261012-44",
-   "id": "c19545"
+   "id": "c19545",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/c19545.jpg?v=e51268",
+    "og": "/img/kiji/c19545-og.jpg?v=e51268",
+    "s": "/img/kiji/c19545-s.jpg?v=e51268",
+    "m": "/img/kiji/c19545-m.jpg?v=e51268",
+    "caption": "八丈町商工会",
+    "credit": "",
+    "file": "own/shokokai-2.jpg"
+   }
   },
   {
    "headline": "明日葉コーラ、東京駅に",
@@ -272,7 +282,7 @@
    "date": "2026-10-08",
    "url": "/2026/10/08/fa54e0/",
    "headlines": [
-    "災害廃棄物、搬入先を有明興業に変更"
+    "災害ごみ、搬入先を南原へ"
    ]
   },
   {
@@ -293,7 +303,7 @@
    "date": "2026-10-05",
    "url": "/2026/10/05/6d31ed/",
    "headlines": [
-    "災害ごみ、きょうから南原で受け入れ"
+    "災害ごみ、きょう南原へ"
    ]
   }
  ],
@@ -331,5 +341,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

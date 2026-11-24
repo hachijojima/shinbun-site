@@ -203,10 +203,6 @@
     {
      "label": "皆集酒場ひかり",
      "url": "https://prtimes.jp/main/html/rd/p/000000005.000167371.html"
-    },
-    {
-     "label": "皆集酒場ひかり",
-     "url": "https://x.com/Hikari8jo135/status/2095451723653583274"
     }
    ],
    "label": "産業",
@@ -345,5 +341,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }

@@ -77,10 +77,6 @@
    {
     "label": "ウェザーニュース",
     "url": "https://weathernews.jp/news/202609/300231/"
-   },
-   {
-    "label": "ウェザーニュース",
-    "url": "https://weathernews.jp/news/202609/300071/"
    }
   ],
   "label": "くらし",
@@ -116,7 +112,17 @@
    "label": "くらし",
    "audience": "島民",
    "thread_id": "t20260926-91",
-   "id": "88d834"
+   "id": "88d834",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/88d834.jpg?v=a1f31c",
+    "og": "/img/kiji/88d834-og.jpg?v=a1f31c",
+    "s": "/img/kiji/88d834-s.jpg?v=a1f31c",
+    "m": "/img/kiji/88d834-m.jpg?v=a1f31c",
+    "caption": "こころみクリニック",
+    "credit": "",
+    "file": "own/kokoromi-clinic-2.jpg"
+   }
   },
   {
    "headline": "17日おじゃれで子供向け催し",
@@ -189,10 +195,6 @@
     {
      "label": "三原小",
      "url": "https://mihara-es.8jo.ed.jp/n/n3585a605d346"
-    },
-    {
-     "label": "三原小",
-     "url": "https://mihara-es.8jo.ed.jp/n/n5cf33d798c12"
     },
     {
      "label": "東京都教育委員会「子供の学びの原動力を育む取組」",
@@ -276,5 +278,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }
