@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:50:20+09:00",
+ "built": "2026-11-25T03:37:14+09:00",
  "prev": "/2026/09/21/",
  "next": "/2026/09/23/",
  "alerts": [],
@@ -91,13 +91,13 @@
   "id": "442dd6",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/442dd6.jpg?v=71bce7",
-   "og": "/img/kiji/442dd6-og.jpg?v=71bce7",
-   "s": "/img/kiji/442dd6-s.jpg?v=71bce7",
-   "m": "/img/kiji/442dd6-m.jpg?v=71bce7",
-   "caption": "八丈島空港 (東京都八丈町)",
+   "src": "/img/kiji/442dd6.jpg?v=ece1db",
+   "og": "/img/kiji/442dd6-og.jpg?v=ece1db",
+   "s": "/img/kiji/442dd6-s.jpg?v=ece1db",
+   "m": "/img/kiji/442dd6-m.jpg?v=ece1db",
+   "caption": "災害",
    "credit": "",
-   "file": "ac/1640810.jpg"
+   "file": "ac/3700830.jpg"
   }
  },
  "side": [],
@@ -146,7 +146,17 @@
    "label": "文化",
    "audience": "島民",
    "thread_id": "t20260922-78",
-   "id": "e8e91a"
+   "id": "e8e91a",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/e8e91a.jpg?v=d4ca53",
+    "og": "/img/kiji/e8e91a-og.jpg?v=d4ca53",
+    "s": "/img/kiji/e8e91a-s.jpg?v=d4ca53",
+    "m": "/img/kiji/e8e91a-m.jpg?v=d4ca53",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "",
+    "file": "own/yakuba-5.jpg"
+   }
   },
   {
    "headline": "三原小で不審者対応の避難訓練",
@@ -268,7 +278,7 @@
    "date": "2026-09-21",
    "url": "/2026/09/21/264e06/",
    "headlines": [
-    "台風25号、八丈島が暴風域に"
+    "ＫＭ総合事務所が記帳の求人"
    ]
   },
   {
@@ -348,5 +358,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "49fcb4c71b8e"
+ "chrome": "c5183eeccfdc"
 }
