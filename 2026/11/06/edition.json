@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-16T12:10:25+09:00",
+ "built": "2026-11-24T10:59:38+09:00",
  "prev": "/2026/11/05/",
  "next": "/2026/11/07/",
  "alerts": [
@@ -196,110 +196,66 @@
  },
  "number": null,
  "top": {
-  "headline": "優婆夷例祭 沖山興業より米100キロ",
+  "headline": "東海汽船、島民割引きっぷ発売",
   "body": [
-   "優婆夷宝明神社の例祭で8日に行われる大抽選会に、米100キロが景品として登場する。祭礼の公式Xによると、沖山興業の社長が提供したもの。「持って帰れるかな？？」と投稿し、景品の大きさを伝えている。",
-   "抽選会には、大吉丸からお食事券、Guesthouse sasaosouから島レモンリキュール「エイト」など、多数の景品が提供される。抽選券の配布は8日の16時から17時まで。8日は演芸と夜店もある。",
-   "令和八年の例祭は、7日に神輿、8日に演芸・夜店・抽選会、13日に式典がある。優婆夷宝明神社は、八丈島・八丈小島・青ヶ島の総鎮守。"
+   "東海汽船株式会社は、島嶼在住者を対象にした島民特別割引往復きっぷを期間限定で発売している。八丈島—東京の往復は大人7,500円から20,000円。設定日は6日から2027年1月31日までの帰着。",
+   "子どもは3,750円から10,000円。有効期間は出発日より最大7日間。除外日は大型客船運休日。",
+   "予約は出発日から前日までに受け付ける。申し込みは東海汽船お客様センター(03-5472-9999、毎日9時30分から18時)かインターネットで行う。"
   ],
-  "figure": {
-   "type": "period",
-   "start": "2026-11-07",
-   "end": "2026-11-13",
-   "label": "優婆夷宝明神社例祭(7日神輿、8日演芸・夜店・抽選会、13日式典)"
-  },
   "sources": [
    {
-    "label": "優婆夷宝明神社例祭",
-    "url": "https://x.com/go_sha1113/status/2118146277955272791"
-   },
-   {
-    "label": "内閣府",
-    "url": "https://www8.cao.go.jp/ocean/kokkyouritou/ritou_kankou/event/event_8.html"
-   },
-   {
-    "label": "Guest house sasaosou",
-    "url": "https://x.com/sasaosou/status/2118274867057566094"
+    "label": "東海汽船",
+    "url": "https://www.tokaikisen.co.jp/news/840711/"
    }
   ],
-  "label": "文化",
-  "audience": "両方",
-  "thread_id": "t20261026-3",
-  "followup": true,
-  "edited": "2026-11-06T08:41:59+09:00",
-  "id": "44d450",
+  "label": "くらし",
+  "audience": "島民",
+  "thread_id": "t20261106-42",
+  "id": "ad8076",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/44d450.jpg?v=2efec8",
-   "og": "/img/kiji/44d450-og.jpg?v=2efec8",
-   "s": "/img/kiji/44d450-s.jpg?v=2efec8",
-   "m": "/img/kiji/44d450-m.jpg?v=2efec8",
-   "caption": "八丈島・優婆夷宝明神社の社殿",
+   "src": "/img/kiji/ad8076.jpg?v=f170fc",
+   "og": "/img/kiji/ad8076-og.jpg?v=f170fc",
+   "s": "/img/kiji/ad8076-s.jpg?v=f170fc",
+   "m": "/img/kiji/ad8076-m.jpg?v=f170fc",
+   "caption": "橘丸 八丈島 八重根港",
    "credit": "",
-   "file": "ac/24824871.jpg"
+   "file": "ac/34194384.jpg"
   }
  },
  "side": [],
  "shorts": [
   {
-   "headline": "東海汽船、島民割引きっぷ発売",
+   "headline": "優婆夷例祭、沖山興業から米100キロ",
    "body": [
-    "東海汽船株式会社は、島嶼在住者を対象にした島民特別割引往復きっぷを期間限定で発売している。八丈島—東京の往復は大人7,500円から20,000円。設定日は6日から2027年1月31日までの帰着。",
-    "子どもは3,750円から10,000円。有効期間は出発日より最大7日間。除外日は大型客船運休日。",
-    "予約は出発日から前日までに受け付ける。申し込みは東海汽船お客様センター(03-5472-9999、毎日9時30分から18時)かインターネットで行う。"
+    "優婆夷宝明神社の例祭で8日に行われる大抽選会に、米100キロが景品として登場する。祭礼の公式発信によると、沖山興業の社長が提供したもの。",
+    "抽選会には島内の事業者から食事券や島レモンリキュールなどの景品も寄せられている。抽選券の配布は8日16時から17時まで。例祭は7日に神輿、8日に演芸・夜店・抽選会、13日に式典を予定している。"
    ],
    "sources": [
     {
-     "label": "東海汽船",
-     "url": "https://www.tokaikisen.co.jp/news/840711/"
-    }
-   ],
-   "label": "くらし",
-   "audience": "島民",
-   "thread_id": "t20261106-42",
-   "id": "ad8076",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/ad8076.jpg?v=f170fc",
-    "og": "/img/kiji/ad8076-og.jpg?v=f170fc",
-    "s": "/img/kiji/ad8076-s.jpg?v=f170fc",
-    "m": "/img/kiji/ad8076-m.jpg?v=f170fc",
-    "caption": "橘丸 八丈島 八重根港",
-    "credit": "",
-    "file": "ac/34194384.jpg"
-   }
-  },
-  {
-   "headline": "生徒がショメ節を創作、大賀郷中",
-   "body": [
-    "八丈町立大賀郷中学校によると、同校の2年生が5日、八丈方言の授業でオリジナルのショメ節を作り、生徒同士で披露し合った。",
-    "生徒はゲストティーチャーを招いた授業で、方言辞書から入れたい言葉を選んだ。7・7・7・5の音律に合わせて歌にした。授業の後半に、完成した歌を披露し合った。",
-    "広報はちじょう2025年2月号によると、教育委員会は15年ほど続ける八丈方言の普及活動を進めている。ショメ節百句、島ことばかるた、紙芝居などを案内している。"
-   ],
-   "sources": [
-    {
-     "label": "八丈町立大賀郷中学校",
-     "url": "https://okago-jhs.8jo.ed.jp/n/ncbd49c792d9b"
+     "label": "優婆夷宝明神社例祭",
+     "url": "https://x.com/go_sha1113/status/2118146277955272791"
     },
     {
-     "label": "広報はちじょう2025年2月号",
-     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23114354/hachijo2502.pdf"
+     "label": "優婆夷宝明神社",
+     "url": "https://ubai-houmei.tokyo/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%84%AA%E5%A9%86%E5%A4%B7%E5%AF%B6%E6%98%8E%E7%A5%9E%E7%A4%BE%E4%BE%8B%E7%A5%AD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/"
     }
    ],
-   "label": "教育",
-   "audience": "島民",
-   "thread_id": "t20261028-10",
+   "label": "文化",
+   "audience": "両方",
+   "thread_id": "t20261026-3",
    "followup": true,
-   "id": "24e58e",
+   "edited": "2026-11-06T08:41:59+09:00",
+   "id": "44d450",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/24e58e.jpg?v=d53855",
-    "og": "/img/kiji/24e58e-og.jpg?v=d53855",
-    "s": "/img/kiji/24e58e-s.jpg?v=d53855",
-    "m": "/img/kiji/24e58e-m.jpg?v=d53855",
-    "caption": "八丈町立大賀郷中学校",
+    "src": "/img/kiji/44d450.jpg?v=2efec8",
+    "og": "/img/kiji/44d450-og.jpg?v=2efec8",
+    "s": "/img/kiji/44d450-s.jpg?v=2efec8",
+    "m": "/img/kiji/44d450-m.jpg?v=2efec8",
+    "caption": "八丈島・優婆夷宝明神社の社殿",
     "credit": "",
-    "file": "own/okago-chu-1.jpg"
+    "file": "ac/24824871.jpg"
    }
   },
   {
@@ -331,6 +287,38 @@
    }
   },
   {
+   "headline": "生徒がショメ節を創作、大賀郷中",
+   "body": [
+    "八丈町立大賀郷中学校によると、同校の2年生が5日、八丈方言の授業でオリジナルのショメ節を作り、生徒同士で披露し合った。",
+    "生徒はゲストティーチャーを招いた授業で、方言辞書から入れたい言葉を選んだ。7・7・7・5の音律に合わせて歌にした。授業の後半に、完成した歌を披露し合った。"
+   ],
+   "sources": [
+    {
+     "label": "大賀郷中",
+     "url": "https://okago-jhs.8jo.ed.jp/n/ncbd49c792d9b"
+    },
+    {
+     "label": "広報はちじょう 2025年2月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23114354/hachijo2502.pdf"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20261028-10",
+   "followup": true,
+   "id": "24e58e",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/24e58e.jpg?v=d53855",
+    "og": "/img/kiji/24e58e-og.jpg?v=d53855",
+    "s": "/img/kiji/24e58e-s.jpg?v=d53855",
+    "m": "/img/kiji/24e58e-m.jpg?v=d53855",
+    "caption": "八丈町立大賀郷中学校",
+    "credit": "",
+    "file": "own/okago-chu-1.jpg"
+   }
+  },
+  {
    "headline": "いまみれん 新曲11日に配信",
    "body": [
     "八丈島出身のシンガーソングライター、いまみれんが11日、新曲「泣くなよレイデー」を配信リリースする。この日は本人の24歳の誕生日にあたる。",
@@ -339,7 +327,7 @@
    ],
    "sources": [
     {
-     "label": "news.joysound.com",
+     "label": "JOYSOUND",
      "url": "https://news.joysound.com/article/696621"
     }
    ],
@@ -419,16 +407,16 @@
  "ichimen_week": [
   {
    "date": "2026-11-05",
-   "url": "/2026/11/05/f84924/",
+   "url": "/2026/11/05/07bc1d/",
    "headlines": [
-    "新宿御苑の催し、八丈島から出展"
+    "町の申請フォーム、4日使えず"
    ]
   },
   {
    "date": "2026-11-04",
    "url": "/2026/11/04/85fbd0/",
    "headlines": [
-    "24時間八丈太鼓、12月12日開催"
+    "生活再建支援金、申請は27年11月まで"
    ]
   },
   {
@@ -461,9 +449,9 @@
   },
   {
    "date": "2026-10-30",
-   "url": "/2026/10/30/5b7d9f/",
+   "url": "/2026/10/30/4ce2d9/",
    "headlines": [
-    "焼酎推進条例、11月1日に施行"
+    "橘丸、修理終え東京へ回航"
    ]
   }
  ],
@@ -561,5 +549,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "6682e570d36b"
+ "chrome": "49fcb4c71b8e"
 }

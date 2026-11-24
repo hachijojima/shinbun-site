@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-19T01:59:06+09:00",
+ "built": "2026-11-24T10:58:03+09:00",
  "prev": "/2026/10/30/",
  "next": "/2026/11/01/",
  "alerts": [
@@ -239,7 +239,7 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/10/30114611/hachijo2611.pdf"
     },
     {
-     "label": "広報はちじょう2026年9月号",
+     "label": "広報はちじょう 2026年9月号",
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/07/31155211/hachijo2609.pdf"
     }
    ],
@@ -267,20 +267,16 @@
    ],
    "sources": [
     {
-     "label": "三原中学校",
+     "label": "三原中",
      "url": "https://mihara-jhs.8jo.ed.jp/n/n29943fb9d15e"
     },
     {
-     "label": "大賀郷小学校",
+     "label": "大賀郷小",
      "url": "https://okago-es.8jo.ed.jp/n/nb37005691d32"
     },
     {
-     "label": "三根小学校",
+     "label": "三根小",
      "url": "https://mitsune-es.8jo.ed.jp/n/n9a393a91dbf4"
-    },
-    {
-     "label": "広報はちじょう2025年6月号",
-     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23114417/hachijo2506.pdf"
     }
    ],
    "label": "教育",
@@ -327,33 +323,31 @@
    }
   },
   {
-   "headline": "大賀郷小、テニピン教室へ",
+   "headline": "八丈島の民謡、きょう公開練習",
    "body": [
-    "八丈町立大賀郷小学校は、創立150周年を祝う取り組みの第4弾として、11月24日にテニピン教室を開く。講師はレックインドアテニススクールの人で、手にはめるラケットを使ってラリーを続ける。",
-    "同校によると、子供の計画委員会が150周年の取り組みを計画し、「学校を飾る」プロジェクトを進めている。教員の声掛けから始めたのではなく、子供が考えて計画し、教員が支える形だという。3月13日の創立記念日に何をするかも子供が考えている。",
-    "11月9日には5・6年生を対象に、講師の「がん専門看護師」による「がん教育」の特別授業を行う。同校は、この授業を「正しい知識を身に付け、自分の健康や大切な人の命について考える機会」としている。",
-    "同校は11月6日にも、5・6年生を対象にミニ講演会「石油と地球の未来」を開くと案内した。講師はENEOS Xplora株式会社の人で、地域の人も参観できる。"
+    "東京文化財ウィーク2026の公開事業として「八丈島の民謡 公開練習会」が31日13時30分から16時まで、大賀郷公民館で開かれる。入場無料。",
+    "主催は八丈島民謡保存会。東京都教育庁八丈出張所が文化財ウィークの八丈町の公開事業として案内している。"
    ],
    "sources": [
     {
-     "label": "大賀郷小学校",
-     "url": "https://okago-es.8jo.ed.jp/n/nbfccfbeef39d"
+     "label": "東京都教育庁八丈出張所",
+     "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_propert/week/2026"
     }
    ],
-   "label": "教育",
+   "label": "文化",
    "audience": "島民",
    "thread_id": "t20261031-33",
    "followup": true,
    "id": "533986",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/533986.jpg?v=d2d4af",
-    "og": "/img/kiji/533986-og.jpg?v=d2d4af",
-    "s": "/img/kiji/533986-s.jpg?v=d2d4af",
-    "m": "/img/kiji/533986-m.jpg?v=d2d4af",
-    "caption": "八丈町立大賀郷小学校",
+    "src": "/img/kiji/533986.jpg?v=d6e055",
+    "og": "/img/kiji/533986-og.jpg?v=d6e055",
+    "s": "/img/kiji/533986-s.jpg?v=d6e055",
+    "m": "/img/kiji/533986-m.jpg?v=d6e055",
+    "caption": "大賀郷公民館",
     "credit": "",
-    "file": "own/okago-sho-2.jpg"
+    "file": "own/okago-kominkan-1.jpg"
    }
   }
  ],
@@ -430,16 +424,16 @@
  "ichimen_week": [
   {
    "date": "2026-10-30",
-   "url": "/2026/10/30/5b7d9f/",
+   "url": "/2026/10/30/4ce2d9/",
    "headlines": [
-    "焼酎推進条例、11月1日に施行"
+    "橘丸、修理終え東京へ回航"
    ]
   },
   {
    "date": "2026-10-29",
    "url": "/2026/10/29/412980/",
    "headlines": [
-    "冬のホエールウォッチング募集"
+    "地域振興補助、第3回募集は12月1日から"
    ]
   },
   {
@@ -453,28 +447,28 @@
    "date": "2026-10-27",
    "url": "/2026/10/27/2b621d/",
    "headlines": [
-    "橘丸、28日の出渠へ"
+    "橘丸、28日出渠を目指す"
    ]
   },
   {
    "date": "2026-10-26",
-   "url": "/2026/10/26/012175/",
+   "url": "/2026/10/26/4a9b3b/",
    "headlines": [
-    "八丈島・小島のパネル展示"
+    "八丈町は震度1 深発地震"
    ]
   },
   {
    "date": "2026-10-25",
-   "url": "/2026/10/25/35d678/",
+   "url": "/2026/10/25/f39860/",
    "headlines": [
-    "八丈高校、アシタバ料理で銅賞"
+    "町HPなど4サイト対策済み"
    ]
   },
   {
    "date": "2026-10-24",
-   "url": "/2026/10/24/024e63/",
+   "url": "/2026/10/24/825bc2/",
    "headlines": [
-    "資料館がグッドデザイン賞に"
+    "119ライデンに不正アクセス"
    ]
   }
  ],
@@ -559,7 +553,7 @@
    "medal": ""
   }
  ],
- "chrome": "6682e570d36b",
+ "chrome": "49fcb4c71b8e",
  "hyakunen": {
   "then": {
    "ago": "100年前",
