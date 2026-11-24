@@ -63,6 +63,11 @@ h1,h2,h3,p{margin:0}
 .hero li{border:0;padding:0}.hero b{font-size:var(--fs-n4);font-weight:800;line-height:1;font-feature-settings:"tnum";letter-spacing:-.02em}
 .hero small{font-size:var(--fs-ui);font-weight:700;margin-left:2px}.hero span{display:block;font-size:var(--fs-m);color:var(--ink-2);margin-top:var(--sp-xs);line-height:1.5}
 @media (max-width:640px){.hero{grid-template-columns:repeat(2,minmax(0,1fr))}}
+/* 棒の順位(.rank):名前 | 棒 | 数。線は引かない。数は太字の等幅、単位は札の字 */
+.rank{list-style:none;padding:0;margin:0}.rank li{display:grid;grid-template-columns:minmax(0,15em) minmax(0,1fr) 4em;gap:var(--sp-m);align-items:center;padding:var(--sp-xs) 0;font-size:var(--fs-ui)}
+.rank .bar{height:10px}.rank .bar i{display:block;height:10px;background:var(--tamamushi);border-radius:0 4px 4px 0}
+.rank .c{text-align:right;font-weight:800;font-size:var(--fs-b);font-feature-settings:"tnum";white-space:nowrap}.rank .c small{font-size:var(--fs-m);font-weight:400;color:var(--ink-3);margin-left:1px}
+@media (max-width:560px){.rank li{grid-template-columns:minmax(0,1fr) 4em}.rank .bar{grid-column:1/-1;grid-row:2}}
 /* 頭の欄(看板の数字):どのページも右の列の頭に1つ。数字は1つの大きさ(PC 80px・スマホ 52px)、社の色。就任○日目も同じ部品 */
 .atama{display:flex;flex-direction:column;gap:var(--sp-s);padding-bottom:var(--sp-m)}
 .atama .n{margin:0;font-weight:800;font-size:var(--fs-n7);line-height:1;letter-spacing:-.02em;font-feature-settings:"tnum";color:var(--tamamushi);white-space:nowrap}
