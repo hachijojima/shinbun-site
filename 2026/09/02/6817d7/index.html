@@ -58,6 +58,11 @@ h1,h2,h3,p{margin:0}
 .tw tr.uchi td{color:var(--ink-2)}.tw tr.uchi td.w{padding-left:2em}
 /* 注(凡例・出典):欄の最後に小さく */
 .note{margin:var(--sp-s) 0 0;font-size:var(--fs-m);line-height:1.7;color:var(--ink-3)}.note a{text-decoration:underline}
+/* 数字の並び(.hero):頭の欄の下に置く2〜4つの数。頭の数字(80px)より2段下の大きさ。頭の欄と同じ数は並べない */
+.hero{list-style:none;padding:0;margin:0 0 var(--sh);display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--sp-m)}
+.hero li{border:0;padding:0}.hero b{font-size:var(--fs-n4);font-weight:800;line-height:1;font-feature-settings:"tnum";letter-spacing:-.02em}
+.hero small{font-size:var(--fs-ui);font-weight:700;margin-left:2px}.hero span{display:block;font-size:var(--fs-m);color:var(--ink-2);margin-top:var(--sp-xs);line-height:1.5}
+@media (max-width:640px){.hero{grid-template-columns:repeat(2,minmax(0,1fr))}}
 /* 頭の欄(看板の数字):どのページも右の列の頭に1つ。数字は1つの大きさ(PC 80px・スマホ 52px)、社の色。就任○日目も同じ部品 */
 .atama{display:flex;flex-direction:column;gap:var(--sp-s);padding-bottom:var(--sp-m)}
 .atama .n{margin:0;font-weight:800;font-size:var(--fs-n7);line-height:1;letter-spacing:-.02em;font-feature-settings:"tnum";color:var(--tamamushi);white-space:nowrap}
