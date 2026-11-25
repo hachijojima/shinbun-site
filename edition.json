@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-26T05:10:09+09:00",
+ "built": "2026-11-26T06:23:38+09:00",
  "prev": "/2026/11/25/",
  "next": null,
  "alerts": [],
@@ -166,61 +166,59 @@
  },
  "number": null,
  "top": {
-  "headline": "ゆーゆー牧場、削蹄見学を中止",
+  "headline": "デマンド夜間運行、14日まで",
   "body": [
-   "八丈島乳業は、ゆーゆー牧場で28日と29日に予定していた削蹄見学会を中止する。八丈島乳業によると、理由は「事情により」で、またの機会にと案内している。",
-   "見学会は、削蹄師の来島に合わせて牛のひづめを削る作業を見るもの。八丈島乳業は7日、28日と29日に削蹄見学と牛の餌やり体験を行うと案内した。予約は不要だった。",
-   "八丈島乳業は2024年12月に、ゆーゆー牧場では半年に一度削蹄していると伝えていた。見学は同月のほか、2025年5月、同年11月1日・2日、2026年5月4日・5日にも案内した。"
+   "八丈島デマンドタクシーによると、AIデマンドタクシーが12月1日から14日まで夜間運行する。通常は8時45分から18時までの運行を、期間中は20時までにする。"
   ],
-  "figure": null,
   "sources": [
    {
-    "label": "八丈島乳業",
-    "url": "https://x.com/milk8jo/status/2125536752123428937"
+    "label": "八丈島デマンドタクシー",
+    "url": "https://x.com/hachijodemand/status/2125435195373596894"
    }
   ],
-  "label": "産業",
+  "label": "くらし",
   "audience": "両方",
-  "thread_id": "t20261126-345",
-  "followup": true,
-  "id": "fc294b",
+  "thread_id": "t20261126-344",
+  "id": "eab8f3",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/fc294b.jpg?v=e6aae8",
-   "og": "/img/kiji/fc294b-og.jpg?v=e6aae8",
-   "s": "/img/kiji/fc294b-s.jpg?v=e6aae8",
-   "m": "/img/kiji/fc294b-m.jpg?v=e6aae8",
-   "caption": "八丈島乳業直営 ゆーゆー牧場",
+   "src": "/img/kiji/eab8f3.jpg?v=daf3d0",
+   "og": "/img/kiji/eab8f3-og.jpg?v=daf3d0",
+   "s": "/img/kiji/eab8f3-s.jpg?v=daf3d0",
+   "m": "/img/kiji/eab8f3-m.jpg?v=daf3d0",
+   "caption": "八丈町営バス",
    "credit": "",
-   "file": "own/yuyu-bokujo-2.jpg"
+   "file": "own/bus-5.jpg"
   }
  },
  "side": [],
  "shorts": [
   {
-   "headline": "デマンド夜間運行、14日まで",
+   "headline": "24時間八丈太鼓、12月12日から",
    "body": [
-    "八丈島デマンドタクシーによると、AIデマンドタクシーが12月1日から14日まで夜間運行する。通常は8時45分から18時までの運行を、期間中は20時までにする。"
+    "第17回24時間チャレンジ八丈太鼓が、12月12日10時から13日10時まで三根で開かれる。",
+    "主催の24時間チャレンジ八丈太鼓実行委員会によると、主会場は三根の旧リードアズーロレストラン。参加者が交代で太鼓を叩き続け、1,000回以上のリレーで音を途切れさせない。24時間のYouTubeライブ配信もある。関連企画として、GOCOOのJERAさんによるワークショップを含む太鼓ワークショップ2026がある。",
+    "和太鼓バンドGOCOO＋TAWOO Special Unitの来島も決まっている。"
    ],
    "sources": [
     {
-     "label": "八丈島デマンドタクシー",
-     "url": "https://x.com/hachijodemand/status/2125435195373596894"
+     "label": "24時間八丈太鼓",
+     "url": "https://oms.tokyo/8taiko/"
     }
    ],
-   "label": "くらし",
+   "label": "文化",
    "audience": "両方",
-   "thread_id": "t20261126-344",
-   "id": "eab8f3",
+   "thread_id": "t20261126-347",
+   "id": "79a5e0",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/eab8f3.jpg?v=daf3d0",
-    "og": "/img/kiji/eab8f3-og.jpg?v=daf3d0",
-    "s": "/img/kiji/eab8f3-s.jpg?v=daf3d0",
-    "m": "/img/kiji/eab8f3-m.jpg?v=daf3d0",
-    "caption": "八丈町営バス",
+    "src": "/img/kiji/79a5e0.jpg?v=c9a62f",
+    "og": "/img/kiji/79a5e0-og.jpg?v=c9a62f",
+    "s": "/img/kiji/79a5e0-s.jpg?v=c9a62f",
+    "m": "/img/kiji/79a5e0-m.jpg?v=c9a62f",
+    "caption": "八丈太鼓",
     "credit": "",
-    "file": "own/bus-5.jpg"
+    "file": "own/hachijo-taiko-2.jpg"
    }
   },
   {
@@ -260,34 +258,6 @@
    }
   },
   {
-   "headline": "24時間八丈太鼓、12月12日から",
-   "body": [
-    "第17回24時間チャレンジ八丈太鼓が、12月12日10時から13日10時まで三根で開かれる。",
-    "主催の24時間チャレンジ八丈太鼓実行委員会によると、主会場は三根の旧リードアズーロレストラン。参加者が交代で太鼓を叩き続け、1,000回以上のリレーで音を途切れさせない。24時間のYouTubeライブ配信もある。関連企画として、GOCOOのJERAさんによるワークショップを含む太鼓ワークショップ2026がある。",
-    "和太鼓バンドGOCOO＋TAWOO Special Unitの来島も決まっている。"
-   ],
-   "sources": [
-    {
-     "label": "24時間八丈太鼓",
-     "url": "https://oms.tokyo/8taiko/"
-    }
-   ],
-   "label": "文化",
-   "audience": "両方",
-   "thread_id": "t20261126-347",
-   "id": "79a5e0",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/79a5e0.jpg?v=c9a62f",
-    "og": "/img/kiji/79a5e0-og.jpg?v=c9a62f",
-    "s": "/img/kiji/79a5e0-s.jpg?v=c9a62f",
-    "m": "/img/kiji/79a5e0-m.jpg?v=c9a62f",
-    "caption": "八丈太鼓",
-    "credit": "",
-    "file": "own/hachijo-taiko-2.jpg"
-   }
-  },
-  {
    "headline": "東京アプリ対面支援、欠航で中止",
    "body": [
     "八丈町は25日、八丈町役場1階の八丈町民ギャラリーで開く予定だった東京アプリ対面サポートを、飛行機の欠航のため中止にした。町が25日付で知らせた。",
@@ -319,6 +289,35 @@
     "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
     "credit": "",
     "file": "own/yakuba-10.jpg"
+   }
+  },
+  {
+   "headline": "ゆーゆー牧場、削蹄見学を中止",
+   "body": [
+    "八丈島乳業は、ゆーゆー牧場で28日と29日に予定していた削蹄見学会を中止する。八丈島乳業によると、理由は「事情により」で、またの機会にと案内している。",
+    "見学会は、削蹄師の来島に合わせて牛のひづめを削る作業を見るもの。八丈島乳業は7日、28日と29日に削蹄見学と牛の餌やり体験を行うと案内した。予約は不要だった。",
+    "八丈島乳業は2024年12月に、ゆーゆー牧場では半年に一度削蹄していると伝えていた。見学は同月のほか、2025年5月、同年11月1日・2日、2026年5月4日・5日にも案内した。"
+   ],
+   "sources": [
+    {
+     "label": "八丈島乳業",
+     "url": "https://x.com/milk8jo/status/2125536752123428937"
+    }
+   ],
+   "label": "産業",
+   "audience": "両方",
+   "thread_id": "t20261126-345",
+   "followup": true,
+   "id": "fc294b",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/fc294b.jpg?v=e6aae8",
+    "og": "/img/kiji/fc294b-og.jpg?v=e6aae8",
+    "s": "/img/kiji/fc294b-s.jpg?v=e6aae8",
+    "m": "/img/kiji/fc294b-m.jpg?v=e6aae8",
+    "caption": "八丈島乳業直営 ゆーゆー牧場",
+    "credit": "",
+    "file": "own/yuyu-bokujo-2.jpg"
    }
   }
  ],
