@@ -1,0 +1,311 @@
+{
+ "date": "2026-08-04",
+ "edition": "朝刊",
+ "published": "05:30",
+ "proof": false,
+ "built": "2026-11-25T09:07:07+09:00",
+ "prev": "/2026/08/03/",
+ "next": "/2026/09/01/",
+ "alerts": [],
+ "weather": {
+  "issued": "2026-08-04T05:00",
+  "area": "伊豆諸島南部",
+  "days": [
+   {
+    "label": "きょう",
+    "weather": "くもり 時々 雨",
+    "main": "くもり 時々 雨",
+    "hachijo": "くもり 時々 雨",
+    "wind": "",
+    "wave": "",
+    "wind_full": "",
+    "wave_full": "",
+    "pops": [],
+    "min": 24,
+    "max": 27
+   }
+  ]
+ },
+ "koyomi": {
+  "sunrise": "4:56",
+  "sunset": "18:39",
+  "moon": 20.3,
+  "tide": {
+   "place": "八丈島(神湊)",
+   "high": [
+    [
+     "8:18",
+     130
+    ],
+    [
+     "20:30",
+     140
+    ]
+   ],
+   "low": [
+    [
+     "2:15",
+     63
+    ],
+    [
+     "14:12",
+     66
+    ]
+   ]
+  }
+ },
+ "unko": null,
+ "sora": {
+  "status": "就航予定",
+  "reason": "",
+  "url": "https://www.ana.co.jp/fs/dom/jp/",
+  "at": null
+ },
+ "number": null,
+ "top": {
+  "headline": "東海汽船の処分で都に要望書",
+  "body": [
+   "八丈町と八丈町議会は3日、東海汽船株式会社への行政処分について、東京都に要望書を提出した。町が発表した。",
+   "要望書の題名は「東海汽船株式会社に対する行政処分に関する要望」。町のホームページにPDF(103KB)で公開している。",
+   "東京からの船は、7月28日から8月3日までの7日間とも就航し、欠航はなかった。",
+   "問い合わせは八丈町役場(大賀郷2551番地2)、電話04996-2-1121。開庁は8時30分から17時15分で、土日祝は閉庁する。"
+  ],
+  "figure": null,
+  "sources": [
+   {
+    "label": "八丈町",
+    "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260806/"
+   }
+  ],
+  "label": "町政",
+  "audience": "島民",
+  "thread_id": "t20260802-6",
+  "followup": true,
+  "id": "a051f9",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/a051f9.jpg?v=88afa5",
+   "og": "/img/kiji/a051f9-og.jpg?v=88afa5",
+   "s": "/img/kiji/a051f9-s.jpg?v=88afa5",
+   "m": "/img/kiji/a051f9-m.jpg?v=88afa5",
+   "caption": "東海汽船 橘丸の船内",
+   "credit": "",
+   "file": "ac/32772253.jpg"
+  }
+ },
+ "side": [],
+ "shorts": [
+  {
+   "headline": "再建支援金の申請、9月30日まで",
+   "body": [
+    "八丈町は、台風22号・23号で被害に遭った事業者を支える「八丈町産業・観光再建支援金」の受け付け期限を、9月30日まで延ばした。町が3日に伝えた。",
+    "延長は、6月1日に改めた「八丈町産業・観光再建支援金交付要綱」による。支援金の内容は、町のホームページにある要綱(PDF)で読める。広報はちじょう8月号の折込チラシにも案内がある。",
+    "問い合わせは町産業観光課観光係(電話04996-2-1125)で受ける。町のページにはオンラインの問い合わせフォームもある。町役場(大賀郷2551番地2)の代表番号は04996-2-1121。開庁は8時30分から17時15分で、土日祝日と12月29日から1月3日は閉まっている。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町",
+     "url": "https://x.com/HachijoTown/status/2084114532721660132"
+    }
+   ],
+   "label": "町政",
+   "audience": "島民",
+   "thread_id": "t20260804-16",
+   "id": "385f76",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/385f76.jpg?v=f9e6a6",
+    "og": "/img/kiji/385f76-og.jpg?v=f9e6a6",
+    "s": "/img/kiji/385f76-s.jpg?v=f9e6a6",
+    "m": "/img/kiji/385f76-m.jpg?v=f9e6a6",
+    "caption": "八丈町役場の中",
+    "credit": "",
+    "file": "own/yakuba-naka-4.jpg"
+   }
+  },
+  {
+   "headline": "災害廃棄物、受入方法を変更",
+   "body": [
+    "八丈町は1日から、令和7年の台風第22号・第23号による災害廃棄物の受入方法を変更した。詳細は町のホームページに掲載されている。",
+    "町は「災害廃棄物の受入方法の変更について(令和8年7月1日現在)」を載せた。ページの更新日は3日。問い合わせは町住民課環境係(電話04996-2-1123)で受ける。町役場の開庁時間は8時30分から17時15分で、土日祝日は閉庁する。",
+    "これより前、広報はちじょう2026年4月号は、倒木類や建築系廃棄物などの受入場所と期限の変更を案内した。一部は7月以降も継続して受け入れるとした。町、東京都、東京都環境公社の3者は2025年12月25日、台風による災害廃棄物の処理に関する基本協定を発表した。島外への搬出は令和8年1月中から12月末までの予定。"
+   ],
+   "sources": [
+    {
+     "label": "八丈町",
+     "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260803/"
+    },
+    {
+     "label": "東京都",
+     "url": "https://www.metro.tokyo.lg.jp/information/press/2025/12/2025122518"
+    },
+    {
+     "label": "広報はちじょう2026年4月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/05/27201941/hachijo2604.pdf"
+    }
+   ],
+   "label": "くらし",
+   "audience": "島民",
+   "thread_id": "t20260804-17",
+   "id": "cdd4ff",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/cdd4ff.jpg?v=948365",
+    "og": "/img/kiji/cdd4ff-og.jpg?v=948365",
+    "s": "/img/kiji/cdd4ff-s.jpg?v=948365",
+    "m": "/img/kiji/cdd4ff-m.jpg?v=948365",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "",
+    "file": "own/yakuba-6.jpg"
+   }
+  },
+  {
+   "headline": "青ヶ島のカラスバト、島間を移動",
+   "body": [
+    "青ヶ島村は3日、カラスバトは留鳥ではなく、八丈島や大島などの島々を移動するという研究を紹介した。青ヶ島で繁殖した個体も別の島に移り、翌春戻ってくる傾向が確認されたという。",
+    "紹介した論文は、研究者のAndo氏らの「カラスバトの多島間の生息地利用」。2026年にEcological Researchに載った。伊豆諸島で2022〜2025年にカラスバトを衛星で追跡した。約4〜170kmの島間移動が頻繁にあり、追跡した個体の多くが島を移ったという。著者は、部分的な渡りか、群島全体を柔軟に使う放浪的な動きではないかと述べている。",
+    "研究者の安藤温子氏ら(2025年、日本生態学会全国大会)が発表した。GPS発信機を付けた個体のうち13羽が島間を移動した。最長は八丈島と大島の間の約170kmだった。植林地や笹林も使っていた。",
+    "研究者の安藤氏らの研究(2017年、Bird Research)では、八丈島と八丈小島の間の移動を観察した。1km当たりの確認数は八丈島が1.54羽、八丈小島が69.93羽だった。"
+   ],
+   "sources": [
+    {
+     "label": "青ヶ島村",
+     "url": "https://x.com/Aogashima_Vill/status/2084113274845716689"
+    },
+    {
+     "label": "esj-journals.onlinelibrary.wiley.com",
+     "url": "https://esj-journals.onlinelibrary.wiley.com/doi/10.1111/1440-1703.70047"
+    },
+    {
+     "label": "国立環境研究所",
+     "url": "https://www.nies.go.jp/en/research/researchers/300751.html"
+    }
+   ],
+   "label": "文化",
+   "audience": "両方",
+   "thread_id": "t20260804-18",
+   "id": "632070",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/632070.jpg?v=6c9b21",
+    "og": "/img/kiji/632070-og.jpg?v=6c9b21",
+    "s": "/img/kiji/632070-s.jpg?v=6c9b21",
+    "m": "/img/kiji/632070-m.jpg?v=6c9b21",
+    "caption": "八丈島から見た八丈小島",
+    "credit": "",
+    "file": "ac/27812371.jpg"
+   }
+  },
+  {
+   "headline": "東京諸島でd払い抽選還元",
+   "body": [
+    "d払いによると、八丈島を含む東京諸島の対象店で、d払いの支払いが抽選でdポイントになって戻る。キャンペーン(第2弾)は1日から31日まで続く。還元は支払額の100%、50%、10%、1%の4段階で、エントリーは不要。",
+    "対象は、キャンペーンの公式ポスターを掲示している店。d払いのコード払い(dカード、d払い残高、携帯料金合算)が対象になる。d払いタッチ、d払い(iD)、ドコモ以外のクレジットカード払い、クーポン、自動販売機、券売機は対象外。",
+    "100%は1等、50%は2等、10%は3等、1%は4等にあたる。戻るのは期間・用途限定のdポイントで、1ポイント未満は切り捨てる。上限は1回の支払いで30,000ポイント、期間中で30,000ポイント。",
+    "ポイントの付与は、支払った月の翌月末ごろの予定。付与の6か月後の月末に期限が切れる。準備の状況で日程が変わることがあり、還元総額が予算の上限に達した時点で終わる。",
+    "問い合わせは、d払い自治体キャンペーンコールセンター(0120-114-331)。受け付けは9時30分から17時30分で、土日祝日と年末年始は休み。"
+   ],
+   "sources": [
+    {
+     "label": "NTTドコモ",
+     "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_ouen/island_2nd.html"
+    }
+   ],
+   "label": "産業",
+   "audience": "両方",
+   "thread_id": "t20260804-19",
+   "id": "2809b5",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/2809b5.jpg?v=07b9f7",
+    "og": "/img/kiji/2809b5-og.jpg?v=07b9f7",
+    "s": "/img/kiji/2809b5-s.jpg?v=07b9f7",
+    "m": "/img/kiji/2809b5-m.jpg?v=07b9f7",
+    "caption": "ドコモショップ八丈島店",
+    "credit": "",
+    "file": "own/docomo-1.jpg"
+   }
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-08-11",
+   "end": null,
+   "text": "八丈島納涼花火大会 （10日は前夜祭）",
+   "url": "https://www.hachijo.gr.jp/blogs/hanabi2026/"
+  }
+ ],
+ "letters": [],
+ "corrections": [],
+ "column": null,
+ "kyoku": {
+  "artist": "Mestre Ambrósio",
+  "title": "Se Zé Limeira Sambasse Maracatu",
+  "text": "もし詩人がマラカトゥを踊ったら。そんな長い題名に、ブラジル北東部の音楽の遊び心があります。Mestre Ambrósioは、弦楽器や打楽器を重ね、古い語りの時間を新しいバンドの音へつなぎます。伝統を大切にすることは、静かに保存することだけではない。みんなで動かすことでもあります。",
+  "art": {
+   "img": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/42/ab/6642ab75-75be-13c9-c2b5-13e81d1cdb44/0.jpg/300x300bb.jpg",
+   "album": "Mestre Ambrósio",
+   "url": "https://music.apple.com/jp/album/se-z%C3%A9-limeira-sambasse-maracatu/1522045521?i=1522045524&uo=4"
+  }
+ },
+ "ronten": null,
+ "weekly": [],
+ "ichimen_week": [
+  {
+   "date": "2026-08-03",
+   "url": "/2026/08/03/5bd733/",
+   "headlines": [
+    "八丈島クワガタ、大アゴ小型に"
+   ]
+  },
+  {
+   "date": "2026-08-02",
+   "url": "/2026/08/02/c8bbd7/",
+   "headlines": [
+    "青ヶ島航路が3〜5日欠航"
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "url": "/2026/08/01/2e2232/",
+   "headlines": [
+    "林道の全線通行止めを案内"
+   ]
+  }
+ ],
+ "population": {
+  "as_of": "2026-08-01",
+  "people": 6541,
+  "people_diff": -13,
+  "households": 4054,
+  "households_diff": -6,
+  "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/07/31155211/hachijo2609.pdf",
+  "ido": {
+   "in": 12,
+   "birth": 5,
+   "out": 22,
+   "death": 8
+  }
+ },
+ "giin": [],
+ "hyakunen": {
+  "then": {
+   "ago": "100年前",
+   "dt": "1926年8月4日(水)",
+   "pic": "",
+   "hi": "30",
+   "lo": "25",
+   "rn": "降水なし"
+  },
+  "now": {
+   "ago": "きょう",
+   "dt": "2026年8月4日(火)",
+   "pic": "<span class=\"ic\"><svg viewBox=\"0 0 48 48\"><path d=\"M13 37h23a8.5 8.5 0 0 0 1.4-16.9A12 12 0 0 0 14.6 19 9 9 0 0 0 13 37z\" fill=\"#a9b2ba\"/></svg></span><i class=c>|</i><span class=\"ic s\"><svg viewBox=\"0 0 48 48\"><path d=\"M24 7C13.5 7 6 14.5 5 24c2.2-2 4.6-2 6.4 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.9-2 4.4-2 6.3 0 1.8-2 4.2-2 6.4 0C42 14.5 34.5 7 24 7z\" fill=\"#2f7fd8\"/><path d=\"M24 24v14a3.5 3.5 0 0 1-7 0\" fill=\"none\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M24 4v3\" stroke=\"#2f7fd8\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg></span>",
+   "hi": "27",
+   "lo": "24",
+   "rn": ""
+  },
+  "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=8"
+ },
+ "chrome": "c5183eeccfdc"
+}
