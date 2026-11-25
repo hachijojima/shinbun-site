@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-26T01:50:33+09:00",
+ "built": "2026-11-26T08:52:33+09:00",
  "prev": "/2026/11/24/",
  "next": "/2026/11/26/",
  "alerts": [
@@ -237,13 +237,13 @@
    "id": "614c9c",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/614c9c.jpg?v=4b0032",
-    "og": "/img/kiji/614c9c-og.jpg?v=4b0032",
-    "s": "/img/kiji/614c9c-s.jpg?v=4b0032",
-    "m": "/img/kiji/614c9c-m.jpg?v=4b0032",
-    "caption": "東京電力パワーグリッド",
+    "src": "/img/kiji/614c9c.jpg?v=fc3eca",
+    "og": "/img/kiji/614c9c-og.jpg?v=fc3eca",
+    "s": "/img/kiji/614c9c-s.jpg?v=fc3eca",
+    "m": "/img/kiji/614c9c-m.jpg?v=fc3eca",
+    "caption": "東京都庁第一・第二本庁舎",
     "credit": "",
-    "file": "own/tepco-3.jpg"
+    "file": "ac/35119919.jpg"
    }
   },
   {
