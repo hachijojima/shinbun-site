@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-25T09:36:37+09:00",
+ "built": "2026-11-25T10:10:08+09:00",
  "prev": "/2026/11/24/",
  "next": null,
  "alerts": [
@@ -254,7 +254,7 @@
    ],
    "sources": [
     {
-     "label": "大賀郷小学校",
+     "label": "大賀郷小",
      "url": "https://okago-es.8jo.ed.jp/n/n9d882195a84e"
     }
    ],
@@ -312,7 +312,7 @@
    ],
    "sources": [
     {
-     "label": "三原小学校",
+     "label": "三原小",
      "url": "https://mihara-es.8jo.ed.jp/n/n67cc07d9e932"
     }
    ],
