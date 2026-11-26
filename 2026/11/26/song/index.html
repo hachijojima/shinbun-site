@@ -68,6 +68,9 @@ h1,h2,h3,p{margin:0}
 .rank .bar{height:10px}.rank .bar i{display:block;height:10px;background:var(--tamamushi);border-radius:0 4px 4px 0}
 .rank .c{text-align:right;font-weight:800;font-size:var(--fs-b);font-feature-settings:"tnum";white-space:nowrap}.rank .c small{font-size:var(--fs-m);font-weight:400;color:var(--ink-3);margin-left:1px}
 @media (max-width:560px){.rank li{grid-template-columns:minmax(0,1fr) 4em}.rank .bar{grid-column:1/-1;grid-row:2}}
+/* 就任○日目:帯の行の右端。黒字、帯の高さに収める(2026-11-26 利用者「場所が気持ち悪い」「色も黒」) */
+.ph>.ni{margin:var(--sh) 0 var(--sp-xs);align-self:flex-end;font-size:var(--fs-b);font-weight:700;line-height:1;color:var(--ink);white-space:nowrap}
+.ph>.ni b{font-size:var(--fs-n2);font-weight:800;margin:0 var(--sp-xs);font-feature-settings:"tnum";letter-spacing:-.02em}
 /* 頭の欄(看板の数字):どのページも右の列の頭に1つ。数字は1つの大きさ(PC 80px・スマホ 52px)、社の色。就任○日目も同じ部品 */
 .atama{display:flex;flex-direction:column;gap:var(--sp-s);padding-bottom:var(--sp-m)}
 .atama .n{margin:0;font-weight:800;font-size:var(--fs-n7);line-height:1;letter-spacing:-.02em;font-feature-settings:"tnum";color:var(--tamamushi);white-space:nowrap}
