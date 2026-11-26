@@ -277,7 +277,7 @@ a.hl:hover{text-decoration:underline;text-decoration-thickness:1px;text-underlin
 /* FM八丈島テレビの欄 */
 .tv{display:flex;flex-direction:column;gap:var(--sp-s)}
 .tv .head{display:flex;align-items:center;gap:var(--sp-s)}
-.tv .chl{display:block;min-width:0}.tv .ch{display:block;width:auto;height:auto;max-height:30px;max-width:100%}
+.tv .chl{display:block;min-width:0}.tv .chl img{display:block;width:auto;height:auto;max-height:30px;max-width:100%}
 
 /* ==== 6. 紙面(号のページ)。サイトの基準 ==== */
 #paper{padding-bottom:0}
@@ -340,13 +340,13 @@ a.hl:hover{text-decoration:underline;text-decoration-thickness:1px;text-underlin
 .kurashi .ev{overflow:hidden;text-overflow:ellipsis}.kurashi .ev time{color:var(--ink-2);margin-right:var(--sp-xs)}
 .note .nw{white-space:nowrap}
 /* きょうの一曲 */
-.kyoku .kk{display:flex;gap:var(--sp-s);align-items:flex-start}
-.kyoku img{display:block;width:96px;height:96px;object-fit:cover;flex:none;background:var(--photo)}
-.kyoku h3{font-weight:700;font-feature-settings:"palt"}
-.kyoku .who{font-weight:700;line-height:1.5}
-.kyoku .txt{text-align:justify}
-.kyoku .kiku{display:flex;flex-wrap:wrap;gap:var(--sp-xs) var(--edge);font-size:var(--fs-m);font-weight:700}
-.kyoku .kiku a{text-decoration:underline;text-underline-offset:.2em}
+.kk{display:flex;gap:var(--sp-s);align-items:flex-start}
+.kk img{display:block;width:96px;height:96px;object-fit:cover;flex:none;background:var(--photo)}
+.kk h3{font-weight:700;font-feature-settings:"palt"}
+.kk .who{font-weight:700;line-height:1.5}
+.kk~.txt{text-align:justify}
+#kyoku .kiku{display:flex;flex-wrap:wrap;gap:var(--sp-xs) var(--edge);font-size:var(--fs-m);font-weight:700}
+#kyoku .kiku a{text-decoration:underline;text-underline-offset:.2em}
 /* 論点 */
 .ronten-t{font-size:var(--fs-s);font-weight:700;line-height:1.35}
 .ronten-g{display:grid;gap:var(--sp-s) var(--sp-l)}
