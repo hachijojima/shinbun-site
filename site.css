@@ -6,7 +6,7 @@
   --paper:#fff; --ink:#1f1f1f; --ink-2:#555; --ink-3:#8a8a8a; --hair:#c8c8c8; --rule:#000; --line:1px solid var(--hair); --line-h:1px solid var(--rule);
   --tamamushi:#00562B; --red:#d1001f; --photo:#e4e4e4; --hover:#f4f7f5;
   --min:"Shippori Mincho B1","Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif;
-  --goth:"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP","Yu Gothic",Meiryo,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+  --goth:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Hiragino Kaku Gothic ProN","Hiragino Sans","Noto Sans JP",Meiryo,sans-serif;
   /* 字:6段 */
   --fs-kan:clamp(52px,13vw,80px); --fs-h:clamp(24px,5.6vw,34px); --fs-s:clamp(18px,4.4vw,21px);
   --fs-b:17px; --fs-ui:15px; --fs-m:13px;
@@ -121,7 +121,9 @@ main{padding-top:var(--sh)}
 /* 欄:帯+中身。帯と中身の間は --sp-s */
 .ran,.rail>section,.ichimen-main>section{display:flex;flex-direction:column;gap:var(--sp-s);min-width:0}
 /* 帯と中身の間は --sh(欄と欄の間 --sp-l より狭く、中身の行の間 --sp-s より広い) */
-.ran>.band,.rail>section>.band,.ichimen-main>section>.band{margin-bottom:calc(var(--sh) - var(--sp-s))}
+.ran>.band,.rail>section>.band,.ichimen-main>section>.band,.kiji>.label{margin-bottom:calc(var(--sh) - var(--sp-s))}
+/* 帯・ラベルの直後の中身は、最初の行の上の余白を持たない(帯と中身の間はどこでも --sh) */
+:is(.band,.label)+* >:is(li,p,dt,dd,.wx-row,div):first-child,:is(.band,.label)+* >:first-child>:is(li,p,dt,.wx-row):first-child,:is(.band,.label)+.tw thead tr:first-child>*,:is(.band,.label)+.tw tbody:first-child tr:first-child>*{padding-top:0}
 /* 帯(欄の題):白地に玉虫色の枠。ラベル(ページの名前・記事の分野):玉虫地に白 */
 .band,.label{display:inline-block;align-self:flex-start;min-width:9.5em;white-space:nowrap;font-size:var(--fs-b);font-weight:700;letter-spacing:.06em;line-height:1.6;padding:1px var(--sp-s);border:1px solid var(--tamamushi)}
 .band{background:var(--paper);color:var(--tamamushi)}
@@ -136,7 +138,9 @@ a.label,.band a{text-decoration:underline;text-decoration-thickness:1px;text-und
 .atama{display:flex;flex-direction:column;gap:var(--sp-s)}
 .atama .n{font-size:var(--fs-kan);font-weight:700;line-height:1;letter-spacing:-.02em;font-feature-settings:"tnum";color:var(--tamamushi);white-space:nowrap}
 .atama .n small{font-size:var(--fs-s);font-weight:700;margin:0 var(--sp-xs);letter-spacing:0}
-.atama h2{font-family:var(--min);font-size:var(--fs-h);line-height:1.3;font-weight:700}
+.atama h2{font-size:var(--fs-h);line-height:1.3;font-weight:700}
+/* 明朝は題字と、特集の頭の本紙の言葉(数字の下の一文)だけ */
+.atama .n+h2{font-family:var(--min)}
 /* 人の名前の頭(議員):ゴシック、看板の数字と同じ大きさ */
 .atama h2.na{font-family:var(--goth);font-size:var(--fs-kan);font-weight:700;line-height:1.1;letter-spacing:-.02em}
 .atama .s{font-size:var(--fs-b);line-height:1.75}
@@ -150,7 +154,7 @@ a.label,.band a{text-decoration:underline;text-decoration-thickness:1px;text-und
 /* 一覧の小さな画像:ジャケットは 1:1(64px)、写真(.th)は 3:2(96×64)。どちらも切らずに枠いっぱい */
 .ichiran .jk{flex:none;display:block;width:64px;height:64px;background:var(--photo)}.ichiran .jk.th{width:96px}
 .ichiran .jk img{display:block;width:100%;height:100%;object-fit:cover}
-.jacket{display:block;width:120px;height:120px;align-self:flex-start}
+.kk img.jacket{width:120px;height:120px}
 .ichiran>li>a:not(.jk){display:block;flex:1;min-width:0}
 .ichiran a>b{display:block;font-size:var(--fs-b);line-height:1.5;font-feature-settings:"palt"}
 .ichiran p{font-size:var(--fs-ui);line-height:1.7;color:var(--ink-2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
@@ -159,15 +163,21 @@ a.label,.band a{text-decoration:underline;text-decoration-thickness:1px;text-und
 /* 行:札・題・右端。線は引かず、間で区切る。題は本文の段、2行目は添え、札(日付・時刻・種類)は注 */
 .gyou{display:grid;grid-template-columns:fit-content(11em) minmax(0,1fr) auto;column-gap:var(--sh)}
 .gyou.nofu{grid-template-columns:minmax(0,1fr) auto}
-.gyou>li{grid-column:1/-1;display:grid;grid-template-columns:subgrid;align-items:baseline;padding:var(--sp-xs) 0;font-size:var(--fs-b);line-height:1.7}
+.gyou>li{grid-column:1/-1;display:grid;grid-template-columns:subgrid;align-items:baseline;padding:var(--sp-s) 0;border-bottom:var(--line);font-size:var(--fs-b);line-height:1.7}
+/* カードの中の行の並びは、カードの枠で終わる(最後の行に線を引かない) */
+.card :is(.gyou,.ichiran)>li:last-child{border-bottom:0;padding-bottom:0}
+/* 再放送は、切り替えを入れたときだけ出す */
+.musen:has(#mise-re:not(:checked)) li.re{display:none}
+.kiri{display:flex;align-items:center;gap:var(--sp-xs);font-size:var(--fs-ui);color:var(--ink-2)}
 .gyou>li:first-child{padding-top:0}
 .gyou:not(.nofu)>li>.hon:first-child{grid-column:1/3}
 .gyou .fu{font-size:var(--fs-m);color:var(--ink-3);white-space:nowrap;font-feature-settings:"tnum"}
 .gyou .hon{min-width:0;overflow-wrap:anywhere}.gyou .hon>.sub,.gyou .dai>.sub{display:block;font-size:var(--fs-ui);color:var(--ink-2)}
 .gyou .hon small,.gyou .mg{font-size:var(--fs-m);color:var(--ink-3)}.gyou .mg{white-space:nowrap}
-.gyou.qs>li{padding:var(--sp-s) 0}
+
 .gyou.qs .who{display:block;font-weight:700}.gyou.qs a.who{text-decoration:underline;text-underline-offset:.15em}.gyou .dai,.gyou .dai>.sub{display:block}.gyou .dai+.dai{margin-top:var(--sp-xs)}.gyou.qs .dai>a{font-weight:700}
-.gyou.qs .qa{display:block;font-size:var(--fs-ui);color:var(--ink-2)}.gyou.qs .qa i{font-style:normal;font-size:var(--fs-m);color:var(--ink-3);margin-right:var(--sp-s)}
+/* 問と答:ラベルの列を立て、文の頭をそろえる */
+.gyou.qs .qa{display:grid;grid-template-columns:1.6em minmax(0,1fr);font-size:var(--fs-ui)}.gyou.qs .qa i{font-style:normal;font-weight:700;color:var(--tamamushi)}
 .ran{container-type:inline-size}
 @container (max-width:34em){.gyou{grid-template-columns:minmax(0,1fr) auto}.gyou .fu{grid-column:1;grid-row:1}.gyou:not(.nofu)>li>.hon:first-child{grid-column:1}.gyou>li>.fu+.hon{grid-row:2;grid-column:1/-1}.gyou>li>.fu~:last-child:not(.hon){grid-row:1;grid-column:2}}
 @media (max-width:640px){.gyou{grid-template-columns:minmax(0,1fr) auto}.gyou .fu{grid-column:1;grid-row:1}.gyou:not(.nofu)>li>.hon:first-child{grid-column:1}.gyou>li>.fu+.hon{grid-row:2;grid-column:1/-1}.gyou>li>.fu~:last-child:not(.hon){grid-row:1;grid-column:2}}
@@ -355,7 +365,7 @@ a.hl:hover{text-decoration:underline;text-decoration-thickness:1px;text-underlin
 /* 号の送り・休刊 */
 .gou-note{font-size:var(--fs-m);color:var(--ink-3)}
 .kyukan{text-align:center;padding:var(--sp-l) 0;border-bottom:var(--line)}
-.kyukan h2{font-family:var(--min);font-size:var(--fs-s)}
+.kyukan h2{font-size:var(--fs-s)}
 #paper .top .kick{font-size:var(--fs-ui)}
 
 /* 週間MVP(議員動静):王冠と MVP の印・名前(見出しの段)・pt・連続と通算の札 */
