@@ -119,9 +119,9 @@ main{padding-top:var(--sh)}
 
 /* ==== 5. 部品 ==== */
 /* 欄:帯+中身。帯と中身の間は --sp-s */
-.ran,.rail>section,.ichimen-main>section{display:flex;flex-direction:column;gap:var(--sp-s);min-width:0}
+.ran{display:flex;flex-direction:column;gap:var(--sp-s);min-width:0}
 /* 帯と中身の間は --sh(欄と欄の間 --sp-l より狭く、中身の行の間 --sp-s より広い) */
-.ran>.band,.rail>section>.band,.ichimen-main>section>.band,.kiji>.label{margin-bottom:calc(var(--sh) - var(--sp-s))}
+.ran>.band,.kiji>.label{margin-bottom:calc(var(--sh) - var(--sp-s))}
 /* 帯・ラベルの直後の中身は、最初の行の上の余白を持たない(帯と中身の間はどこでも --sh) */
 :is(.band,.label)+* >:is(li,p,dt,dd,.wx-row,div):first-child,:is(.band,.label)+* >:first-child>:is(li,p,dt,.wx-row):first-child,:is(.band,.label)+.tw thead tr:first-child>*,:is(.band,.label)+.tw tbody:first-child tr:first-child>*{padding-top:0}
 /* 帯(欄の題):白地に玉虫色の枠。ラベル(ページの名前・記事の分野):玉虫地に白 */

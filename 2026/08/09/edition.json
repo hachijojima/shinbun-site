@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-26T07:24:49+09:00",
+ "built": "2026-11-26T21:41:29+09:00",
  "prev": "/2026/08/08/",
  "next": "/2026/08/10/",
  "alerts": [],
@@ -209,13 +209,13 @@
    "id": "2276fa",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/2276fa.jpg?v=c76a39",
-    "og": "/img/kiji/2276fa-og.jpg?v=c76a39",
-    "s": "/img/kiji/2276fa-s.jpg?v=c76a39",
-    "m": "/img/kiji/2276fa-m.jpg?v=c76a39",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/2276fa.jpg?v=54641e",
+    "og": "/img/kiji/2276fa-og.jpg?v=54641e",
+    "s": "/img/kiji/2276fa-s.jpg?v=54641e",
+    "m": "/img/kiji/2276fa-m.jpg?v=54641e",
+    "caption": "港区の麻布台ヒルズ",
     "credit": "",
-    "file": "own/yakuba-8.jpg"
+    "file": "ac/31134232.jpg"
    }
   }
  ],
@@ -364,5 +364,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=8"
  },
- "chrome": "2cad1f91fa7c"
+ "chrome": "e44c4c4aae8a"
 }

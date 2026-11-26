@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-26T06:59:25+09:00",
+ "built": "2026-11-26T21:40:56+09:00",
  "prev": "/2026/08/07/",
  "next": "/2026/08/09/",
  "alerts": [],
@@ -156,13 +156,13 @@
    "id": "671951",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/671951.jpg?v=4e316d",
-    "og": "/img/kiji/671951-og.jpg?v=4e316d",
-    "s": "/img/kiji/671951-s.jpg?v=4e316d",
-    "m": "/img/kiji/671951-m.jpg?v=4e316d",
-    "caption": "小笠原諸島・父島の二見港",
+    "src": "/img/kiji/671951.jpg?v=54641e",
+    "og": "/img/kiji/671951-og.jpg?v=54641e",
+    "s": "/img/kiji/671951-s.jpg?v=54641e",
+    "m": "/img/kiji/671951-m.jpg?v=54641e",
+    "caption": "港区の麻布台ヒルズ",
     "credit": "",
-    "file": "ac/35416211.jpg"
+    "file": "ac/31134232.jpg"
    }
   },
   {
@@ -358,5 +358,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=8"
  },
- "chrome": "2cad1f91fa7c"
+ "chrome": "e44c4c4aae8a"
 }

@@ -322,6 +322,7 @@
    "audience": "両方",
    "thread_id": "t20261113-83",
    "id": "dc8742",
+   "edited": "2026-11-13T11:31:36+09:00",
    "photo": {
     "type": "img",
     "src": "/img/kiji/dc8742.jpg?v=2b3774",
@@ -331,8 +332,7 @@
     "caption": "ツルソバ",
     "credit": "",
     "file": "ac/4164047.jpg"
-   },
-   "edited": "2026-11-13T11:31:36+09:00"
+   }
   }
  ],
  "agenda": [
@@ -523,5 +523,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "2cad1f91fa7c"
+ "chrome": "e44c4c4aae8a"
 }

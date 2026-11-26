@@ -450,6 +450,20 @@
  "weekly": [],
  "ichimen_week": [
   {
+   "date": "2026-08-14",
+   "url": "/2026/08/14/38cabe/",
+   "headlines": [
+    "防災対策課の電話 9-5544に"
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "url": "/2026/08/13/a808e6/",
+   "headlines": [
+    "ムロアジ漁 8月に始まる"
+   ]
+  },
+  {
    "date": "2026-08-12",
    "url": "/2026/08/12/5e00a7/",
    "headlines": [
@@ -519,5 +533,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=8"
  },
- "chrome": "2cad1f91fa7c"
+ "chrome": "e44c4c4aae8a"
 }

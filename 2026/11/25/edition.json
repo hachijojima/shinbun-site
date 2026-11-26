@@ -292,6 +292,7 @@
    "audience": "両方",
    "thread_id": "t20261125-332",
    "id": "d31b39",
+   "edited": "2026-11-25T09:36:36+09:00",
    "photo": {
     "type": "img",
     "src": "/img/kiji/d31b39.jpg?v=13dae6",
@@ -301,8 +302,7 @@
     "caption": "霧の中の八丈島ふれあい牧場と牛たち",
     "credit": "",
     "file": "ac/27267130.jpg"
-   },
-   "edited": "2026-11-25T09:36:36+09:00"
+   }
   },
   {
    "headline": "三原小、かんもで収穫祭",
@@ -552,5 +552,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "2cad1f91fa7c"
+ "chrome": "e44c4c4aae8a"
 }
