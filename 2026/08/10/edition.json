@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-26T14:21:35+09:00",
+ "built": "2026-11-27T00:03:10+09:00",
  "prev": "/2026/08/09/",
  "next": "/2026/08/11/",
  "alerts": [],
@@ -406,13 +406,13 @@
    "id": "cc799e",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/cc799e.jpg?v=62c7ec",
-    "og": "/img/kiji/cc799e-og.jpg?v=62c7ec",
-    "s": "/img/kiji/cc799e-s.jpg?v=62c7ec",
-    "m": "/img/kiji/cc799e-m.jpg?v=62c7ec",
-    "caption": "東京国際フォーラム",
+    "src": "/img/kiji/cc799e.jpg?v=c040ac",
+    "og": "/img/kiji/cc799e-og.jpg?v=c040ac",
+    "s": "/img/kiji/cc799e-s.jpg?v=c040ac",
+    "m": "/img/kiji/cc799e-m.jpg?v=c040ac",
+    "caption": "東京都立八丈高等学校",
     "credit": "",
-    "file": "ac/31072744.jpg"
+    "file": "own/hachijo-koko-3.jpg"
    }
   },
   {
@@ -605,5 +605,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=8"
  },
- "chrome": "e44c4c4aae8a"
+ "chrome": "c2ce6f0b583b"
 }
