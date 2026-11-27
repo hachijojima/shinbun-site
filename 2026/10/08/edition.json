@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:53:28+09:00",
+ "built": "2026-11-27T10:24:23+09:00",
  "prev": "/2026/10/07/",
  "next": "/2026/10/09/",
  "alerts": [],
@@ -85,10 +85,20 @@
     "url": "https://www.kids-digital.metro.tokyo.lg.jp/hachijo/"
    }
   ],
-  "label": "教育・文化",
+  "label": "教育",
   "audience": "島民",
   "thread_id": "t20261008-33",
-  "id": "d8ae60"
+  "id": "d8ae60",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/d8ae60.jpg?v=83c20c",
+   "og": "/img/kiji/d8ae60-og.jpg?v=83c20c",
+   "s": "/img/kiji/d8ae60-s.jpg?v=83c20c",
+   "m": "/img/kiji/d8ae60-m.jpg?v=83c20c",
+   "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+   "credit": "",
+   "file": "own/yakuba-3.jpg"
+  }
  },
  "side": [],
  "shorts": [
@@ -113,7 +123,17 @@
    "label": "くらし",
    "audience": "島民",
    "thread_id": "t20261008-34",
-   "id": "cbe21a"
+   "id": "cbe21a",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/cbe21a.jpg?v=2c24dd",
+    "og": "/img/kiji/cbe21a-og.jpg?v=2c24dd",
+    "s": "/img/kiji/cbe21a-s.jpg?v=2c24dd",
+    "m": "/img/kiji/cbe21a-m.jpg?v=2c24dd",
+    "caption": "八丈町営バス",
+    "credit": "",
+    "file": "own/bus-3.jpg"
+   }
   },
   {
    "headline": "大賀郷中で八丈太鼓の授業開始",
@@ -128,10 +148,20 @@
      "url": "https://okago-jhs.8jo.ed.jp/n/n7ae7d306cf73"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261008-31",
-   "id": "4d270f"
+   "id": "4d270f",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/4d270f.jpg?v=f408f2",
+    "og": "/img/kiji/4d270f-og.jpg?v=f408f2",
+    "s": "/img/kiji/4d270f-s.jpg?v=f408f2",
+    "m": "/img/kiji/4d270f-m.jpg?v=f408f2",
+    "caption": "八丈町立大賀郷中学校",
+    "credit": "",
+    "file": "own/okago-chu-2.jpg"
+   }
   },
   {
    "headline": "大賀郷小、石投げ踊りの太鼓練習",
@@ -150,11 +180,21 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23122719/hachijo2312.pdf"
     }
    ],
-   "label": "教育・文化",
+   "label": "教育",
    "audience": "島民",
    "thread_id": "t20261004-17",
    "followup": true,
-   "id": "cc8a9f"
+   "id": "cc8a9f",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/cc8a9f.jpg?v=d487f3",
+    "og": "/img/kiji/cc8a9f-og.jpg?v=d487f3",
+    "s": "/img/kiji/cc8a9f-s.jpg?v=d487f3",
+    "m": "/img/kiji/cc8a9f-m.jpg?v=d487f3",
+    "caption": "八丈町立大賀郷小学校",
+    "credit": "",
+    "file": "own/okago-sho-6.jpg"
+   }
   },
   {
    "headline": "八丈病院の医師給与、減額せず",
@@ -172,7 +212,18 @@
    ],
    "label": "くらし",
    "audience": "両方",
-   "thread_id": "t20261008-408"
+   "thread_id": "t20261008-408",
+   "id": "ec5453",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/ec5453.jpg?v=502d96",
+    "og": "/img/kiji/ec5453-og.jpg?v=502d96",
+    "s": "/img/kiji/ec5453-s.jpg?v=502d96",
+    "m": "/img/kiji/ec5453-m.jpg?v=502d96",
+    "caption": "町立八丈病院",
+    "credit": "",
+    "file": "own/byoin-4.jpg"
+   }
   }
  ],
  "agenda": [
