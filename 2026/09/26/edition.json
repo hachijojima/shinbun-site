@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T10:16:49+09:00",
+ "built": "2026-11-27T22:51:55+09:00",
  "prev": "/2026/09/25/",
  "next": "/2026/09/27/",
  "alerts": [],
@@ -246,13 +246,13 @@
    "id": "53325f",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/53325f.jpg?v=c883fc",
-    "og": "/img/kiji/53325f-og.jpg?v=c883fc",
-    "s": "/img/kiji/53325f-s.jpg?v=c883fc",
-    "m": "/img/kiji/53325f-m.jpg?v=c883fc",
-    "caption": "有楽町駅前",
+    "src": "/img/kiji/53325f.jpg?v=fc43fc",
+    "og": "/img/kiji/53325f-og.jpg?v=fc43fc",
+    "s": "/img/kiji/53325f-s.jpg?v=fc43fc",
+    "m": "/img/kiji/53325f-m.jpg?v=fc43fc",
+    "caption": "有楽町駅前の風景+#6",
     "credit": "",
-    "file": "ac/26437817.jpg"
+    "file": "ac/29886239.jpg"
    }
   }
  ],

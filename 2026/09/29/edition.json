@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T10:17:27+09:00",
+ "built": "2026-11-27T22:53:13+09:00",
  "prev": "/2026/09/28/",
  "next": "/2026/09/30/",
  "alerts": [],
@@ -184,13 +184,13 @@
    "id": "be6890",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/be6890.jpg?v=c9a62f",
-    "og": "/img/kiji/be6890-og.jpg?v=c9a62f",
-    "s": "/img/kiji/be6890-s.jpg?v=c9a62f",
-    "m": "/img/kiji/be6890-m.jpg?v=c9a62f",
-    "caption": "八丈太鼓",
+    "src": "/img/kiji/be6890.jpg?v=0a7d4e",
+    "og": "/img/kiji/be6890-og.jpg?v=0a7d4e",
+    "s": "/img/kiji/be6890-s.jpg?v=0a7d4e",
+    "m": "/img/kiji/be6890-m.jpg?v=0a7d4e",
+    "caption": "八丈島観光協会",
     "credit": "",
-    "file": "own/hachijo-taiko-2.jpg"
+    "file": "own/kanko-kyokai-1.jpg"
    }
   },
   {

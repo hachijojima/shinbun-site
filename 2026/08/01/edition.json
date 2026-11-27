@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T14:43:40+09:00",
+ "built": "2026-11-27T22:44:48+09:00",
  "prev": null,
  "next": "/2026/08/02/",
  "alerts": [],
@@ -119,13 +119,13 @@
    "id": "2e2232",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/2e2232.jpg?v=435fc5",
-    "og": "/img/kiji/2e2232-og.jpg?v=435fc5",
-    "s": "/img/kiji/2e2232-s.jpg?v=435fc5",
-    "m": "/img/kiji/2e2232-m.jpg?v=435fc5",
-    "caption": "東京都八丈支庁",
+    "src": "/img/kiji/2e2232.jpg?v=868f4a",
+    "og": "/img/kiji/2e2232-og.jpg?v=868f4a",
+    "s": "/img/kiji/2e2232-s.jpg?v=868f4a",
+    "m": "/img/kiji/2e2232-m.jpg?v=868f4a",
+    "caption": "八丈富士 お鉢巡りの路",
     "credit": "",
-    "file": "own/shicho-3.jpg"
+    "file": "ac/33631523.jpg"
    }
   },
   {

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-26T18:50:10+09:00",
+ "built": "2026-11-27T22:48:05+09:00",
  "prev": "/2026/08/12/",
  "next": "/2026/08/14/",
  "alerts": [],
@@ -313,13 +313,13 @@
    "id": "67400e",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/67400e.jpg?v=5719a3",
-    "og": "/img/kiji/67400e-og.jpg?v=5719a3",
-    "s": "/img/kiji/67400e-s.jpg?v=5719a3",
-    "m": "/img/kiji/67400e-m.jpg?v=5719a3",
-    "caption": "八丈島 底土海水浴場",
+    "src": "/img/kiji/67400e.jpg?v=bad508",
+    "og": "/img/kiji/67400e-og.jpg?v=bad508",
+    "s": "/img/kiji/67400e-s.jpg?v=bad508",
+    "m": "/img/kiji/67400e-m.jpg?v=bad508",
+    "caption": "警視庁八丈島警察署",
     "credit": "",
-    "file": "ac/2501637.jpg"
+    "file": "own/keisatsu-4.jpg"
    }
   },
   {

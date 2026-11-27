@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-25T02:59:56+09:00",
+ "built": "2026-11-27T22:54:30+09:00",
  "prev": "/2026/11/23/",
  "next": "/2026/11/25/",
  "alerts": [
@@ -333,13 +333,13 @@
    "id": "0ba932",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/0ba932.jpg?v=80dce4",
-    "og": "/img/kiji/0ba932-og.jpg?v=80dce4",
-    "s": "/img/kiji/0ba932-s.jpg?v=80dce4",
-    "m": "/img/kiji/0ba932-m.jpg?v=80dce4",
-    "caption": "渋谷 街並み",
+    "src": "/img/kiji/0ba932.jpg?v=e8864c",
+    "og": "/img/kiji/0ba932-og.jpg?v=e8864c",
+    "s": "/img/kiji/0ba932-s.jpg?v=e8864c",
+    "m": "/img/kiji/0ba932-m.jpg?v=e8864c",
+    "caption": "八丈島 日本",
     "credit": "",
-    "file": "ac/35583022.jpg"
+    "file": "ac/3237884.jpg"
    }
   }
  ],

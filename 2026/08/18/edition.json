@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T10:23:39+09:00",
+ "built": "2026-11-27T22:50:00+09:00",
  "prev": "/2026/08/17/",
  "next": "/2026/08/19/",
  "alerts": [],
@@ -409,13 +409,13 @@
    "id": "21ff8d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/21ff8d.jpg?v=83c20c",
-    "og": "/img/kiji/21ff8d-og.jpg?v=83c20c",
-    "s": "/img/kiji/21ff8d-s.jpg?v=83c20c",
-    "m": "/img/kiji/21ff8d-m.jpg?v=83c20c",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/21ff8d.jpg?v=8ead67",
+    "og": "/img/kiji/21ff8d-og.jpg?v=8ead67",
+    "s": "/img/kiji/21ff8d-s.jpg?v=8ead67",
+    "m": "/img/kiji/21ff8d-m.jpg?v=8ead67",
+    "caption": "Jアラート・防災無線放送のスピーカー",
     "credit": "",
-    "file": "own/yakuba-3.jpg"
+    "file": "ac/24391822.jpg"
    }
   }
  ],

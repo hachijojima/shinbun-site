@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T07:35:37+09:00",
+ "built": "2026-11-27T22:48:43+09:00",
  "prev": "/2026/08/13/",
  "next": "/2026/08/15/",
  "alerts": [],
@@ -203,13 +203,13 @@
    "id": "38cabe",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/38cabe.jpg?v=7e3ec2",
-    "og": "/img/kiji/38cabe-og.jpg?v=7e3ec2",
-    "s": "/img/kiji/38cabe-s.jpg?v=7e3ec2",
-    "m": "/img/kiji/38cabe-m.jpg?v=7e3ec2",
-    "caption": "災害に備える防災セットの俯瞰写真",
+    "src": "/img/kiji/38cabe.jpg?v=f9e6a6",
+    "og": "/img/kiji/38cabe-og.jpg?v=f9e6a6",
+    "s": "/img/kiji/38cabe-s.jpg?v=f9e6a6",
+    "m": "/img/kiji/38cabe-m.jpg?v=f9e6a6",
+    "caption": "八丈町役場の中",
     "credit": "",
-    "file": "ac/34615312.jpg"
+    "file": "own/yakuba-naka-4.jpg"
    }
   },
   {
