@@ -292,8 +292,6 @@ details>summary{cursor:pointer;font-size:var(--fs-ui);font-weight:700}
    記事のページ・紙面の一面・下の記事のどれもこれ1つ */
 .kiji,#paper .top{display:flex;flex-direction:column;gap:var(--sh);min-width:0}
 .hd{display:flex;flex-direction:column;gap:var(--sp-s);align-items:flex-start}
-/* 出典の畳みは区切りの線を持つので、線の上を --sp-l に */
-:is(.kiji,#paper .top)>.tatami{margin-top:calc(var(--sp-l) - var(--sh))}
 .kiji h2{font-weight:700;font-feature-settings:"palt";letter-spacing:.01em}
 .kiji h3{font-weight:700;font-feature-settings:"palt";letter-spacing:.01em}
 .kick a:hover{text-decoration:underline}
@@ -402,7 +400,7 @@ a.hl:hover{text-decoration:underline;text-decoration-thickness:1px;text-underlin
 /* 論点 */
 .ronten-t{font-size:var(--fs-s);font-weight:700;line-height:var(--lh-t)}
 .ronten-g{display:grid;gap:var(--sp-s) var(--sp-l)}
-.ronten-g h4{font-weight:700;border-bottom:var(--line);padding-bottom:var(--sp-xs)}
+.ronten-g h4{font-weight:700}   /* 見出しとその中身の間に線を引かない(同じものの一部) */
 .ronten-g li{padding:var(--sp-xs) 0;border-bottom:var(--line);line-height:var(--lh-b)}
 /* 号の送り・休刊 */
 .gou{margin-top:var(--sp-l)}   /* 号の送りは段の外(.wrap の中)にある */
@@ -427,7 +425,10 @@ a.hl:hover{text-decoration:underline;text-decoration-thickness:1px;text-underlin
 .card .ch.wk::after{content:none}.card .ch.wk span{color:var(--ink)}
 .ichiran p b{font-weight:700;color:var(--ink)}
 /* 畳み:出典・凡例。ページの最後に1つ */
-.tatami{display:flex;flex-direction:column;gap:var(--sp-xs);border-top:var(--line);padding-top:var(--sh)}
+/* 灰の線は別のものとの境目にだけ引く。畳みが線を持つのは、ページの段(main・.col)に独立して置かれるときだけ。
+   記事の中の畳み(記事の出典)は記事の付けたりなので線を引かない(本文との間は --sh) */
+.tatami{display:flex;flex-direction:column;gap:var(--sp-xs)}
+:is(main,.col)>.tatami{border-top:var(--line);padding-top:var(--sh)}
 .tatami>summary{font-size:var(--fs-m);font-weight:400;color:var(--ink-3)}
 .tatami>.note{max-width:46em}
 /* 図:事業者の地図(地図と、右の地区の並び) */
