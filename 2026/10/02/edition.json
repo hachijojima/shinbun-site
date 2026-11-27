@@ -87,17 +87,7 @@
   "label": "くらし",
   "audience": "島民",
   "thread_id": "t20261002-6",
-  "id": "0cc87f",
-  "photo": {
-   "type": "img",
-   "src": "/img/kiji/0cc87f.jpg?v=dca1d0",
-   "og": "/img/kiji/0cc87f-og.jpg?v=dca1d0",
-   "s": "/img/kiji/0cc87f-s.jpg?v=dca1d0",
-   "m": "/img/kiji/0cc87f-m.jpg?v=dca1d0",
-   "caption": "台風後の八丈島",
-   "credit": "",
-   "file": "ac/3595112.jpg"
-  }
+  "id": "0cc87f"
  },
  "side": [],
  "shorts": [
@@ -119,48 +109,10 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23114515/hachijo2511.pdf"
     }
    ],
-   "label": "文化",
+   "label": "教育・文化",
    "audience": "両方",
    "thread_id": "t20261002-7",
-   "id": "efb39e",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/efb39e.jpg?v=680e4c",
-    "og": "/img/kiji/efb39e-og.jpg?v=680e4c",
-    "s": "/img/kiji/efb39e-s.jpg?v=680e4c",
-    "m": "/img/kiji/efb39e-m.jpg?v=680e4c",
-    "caption": "八丈島歴史民俗資料館",
-    "credit": "",
-    "file": "own/rekimin-1.jpg"
-   }
-  },
-  {
-   "headline": "脳の健康度、きょう測定",
-   "body": [
-    "八丈町は2日、保健福祉センターで「脳の健康度(ブレインパフォーマンス)測定」を行う。時間は9時15分から16時までで、予約制。",
-    "町は、脳の機能は働き盛りの世代から少しずつ変化するとして、身体の健康と同じように日頃から脳の状態にも目を向けるよう呼びかけている。症状が出てから対応するのではなく、自分では見えにくい状態を測定し、健康を意識するきっかけにする企画。",
-    "予約は9月18日から受け付けている。場所は八丈町保健福祉センター。問い合わせと予約は福祉健康課高齢福祉係、電話04996-2-5570。"
-   ],
-   "sources": [
-    {
-     "label": "八丈町",
-     "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260831/"
-    }
-   ],
-   "label": "くらし",
-   "audience": "両方",
-   "thread_id": "t20261002-8",
-   "id": "989fa9",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/989fa9.jpg?v=877950",
-    "og": "/img/kiji/989fa9-og.jpg?v=877950",
-    "s": "/img/kiji/989fa9-s.jpg?v=877950",
-    "m": "/img/kiji/989fa9-m.jpg?v=877950",
-    "caption": "八丈町保健福祉センター",
-    "credit": "",
-    "file": "own/hoken-fukushi-2.jpg"
-   }
+   "id": "efb39e"
   },
   {
    "headline": "島の共有サービス「allo」公開",
@@ -183,17 +135,7 @@
    "label": "くらし",
    "audience": "島民",
    "thread_id": "t20261002-9",
-   "id": "8ae9ca",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/8ae9ca.jpg?v=1ce467",
-    "og": "/img/kiji/8ae9ca-og.jpg?v=1ce467",
-    "s": "/img/kiji/8ae9ca-s.jpg?v=1ce467",
-    "m": "/img/kiji/8ae9ca-m.jpg?v=1ce467",
-    "caption": "八丈町社会福祉協議会",
-    "credit": "",
-    "file": "own/shakyo-1.jpg"
-   }
+   "id": "8ae9ca"
   },
   {
    "headline": "八丈ビューホテルでナイトプール",
@@ -208,20 +150,54 @@
      "url": "https://x.com/OreOre_Island/status/2105471926009471073"
     }
    ],
-   "label": "文化",
+   "label": "教育・文化",
    "audience": "両方",
    "thread_id": "t20261002-10",
-   "id": "d8e2bb",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/d8e2bb.jpg?v=567798",
-    "og": "/img/kiji/d8e2bb-og.jpg?v=567798",
-    "s": "/img/kiji/d8e2bb-s.jpg?v=567798",
-    "m": "/img/kiji/d8e2bb-m.jpg?v=567798",
-    "caption": "八丈ビューホテル",
-    "credit": "",
-    "file": "own/view-hotel-1.jpg"
-   }
+   "id": "d8e2bb"
+  },
+  {
+   "headline": "大賀郷小、運動会へ応援団結成",
+   "body": [
+    "八丈町立大賀郷小学校は1日、11月3日に開く創立150周年記念の運動会に向けて準備を始めた。児童の係活動が始まり、応援団が結成された。団長と副団長が決意を表明した。",
+    "運動会は、創立150周年を迎えた大賀郷小の記念の行事の1つになる。広報はちじょう2026年6月号は、今年度の運動会、学芸会、記念フェスティバルの予定と記念Tシャツを紹介した。9月29日には、記念事業の第3弾としてANAの航空教室を開いた。全校児童は98人(5月1日現在)。",
+    "学校によると、児童からは記念の運動会でやりたいことのアイデアも出ている。",
+    "学校は同じ日に、運動会の日程と順延の扱いを保護者に知らせた。11月3日に開く予定で、天候などで開けない場合は11月4日、5日、6日の順に延ばす。延びたときは授業、給食、振替休日が変わることがある。予定を変えるときは保護者にメールで知らせる。"
+   ],
+   "added": [
+    {
+     "fact": "順延は11月4日、5日、6日の順。順延で授業・給食・振替休日が変わる場合があり、変更は保護者にメールで知らせる",
+     "url": "https://okago-es.8jo.ed.jp/n/n11699b357ed3"
+    },
+    {
+     "fact": "9月29日に創立150周年記念事業の第3弾としてANAの航空教室を開いた",
+     "url": "https://shinbun.hachijojima.jp/2026/09/30/014c81/"
+    },
+    {
+     "fact": "大賀郷小の児童は2026年度98人(5月1日現在)",
+     "url": "https://shinbun.hachijojima.jp/education/schools/okago-elementary/"
+    }
+   ],
+   "sources": [
+    {
+     "label": "大賀郷小学校",
+     "url": "https://okago-es.8jo.ed.jp/n/nc3ac89bcacd6"
+    },
+    {
+     "label": "大賀郷小学校",
+     "url": "https://okago-es.8jo.ed.jp/n/n11699b357ed3"
+    },
+    {
+     "label": "広報はちじょう",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/05/27202107/hachijo2606.pdf"
+    },
+    {
+     "label": "東京都教育委員会",
+     "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/statistics_and_research/list_of_public_school"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20261002-396"
   }
  ],
  "agenda": [

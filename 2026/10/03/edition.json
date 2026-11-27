@@ -94,20 +94,10 @@
     "url": "https://www.tokaikisen.co.jp/news/page/3/"
    }
   ],
-  "label": "くらし",
+  "label": "交通・防災",
   "audience": "両方",
   "thread_id": "t20261003-11",
-  "id": "ebb7da",
-  "photo": {
-   "type": "img",
-   "src": "/img/kiji/ebb7da.jpg?v=f170fc",
-   "og": "/img/kiji/ebb7da-og.jpg?v=f170fc",
-   "s": "/img/kiji/ebb7da-s.jpg?v=f170fc",
-   "m": "/img/kiji/ebb7da-m.jpg?v=f170fc",
-   "caption": "橘丸 八丈島 八重根港",
-   "credit": "",
-   "file": "ac/34194384.jpg"
-  }
+  "id": "ebb7da"
  },
  "side": [],
  "shorts": [
@@ -128,48 +118,7 @@
    "label": "くらし",
    "audience": "島民",
    "thread_id": "t20261003-12",
-   "id": "6d74a5",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/6d74a5.jpg?v=9c1b78",
-    "og": "/img/kiji/6d74a5-og.jpg?v=9c1b78",
-    "s": "/img/kiji/6d74a5-s.jpg?v=9c1b78",
-    "m": "/img/kiji/6d74a5-m.jpg?v=9c1b78",
-    "caption": "スーパーあさぬまの店内",
-    "credit": "",
-    "file": "own/asanuma-5.jpg"
-   }
-  },
-  {
-   "headline": "町議選の投票日は18日",
-   "body": [
-    "八丈町議会議員選挙の投票日は18日の日曜日。町が公式サイトで示している。",
-    "選挙についての問い合わせ先は、八丈町選挙管理委員会事務局(総務課内)で、電話は04996-2-1121。広報はちじょう2022年10月号によると、町議会議員選挙の投票日に大賀郷投票所は役場商工会研修室に置かれた。"
-   ],
-   "sources": [
-    {
-     "label": "八丈町",
-     "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20261018/"
-    },
-    {
-     "label": "広報はちじょう2022年10月号",
-     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23125651/hachijo2210.pdf"
-    }
-   ],
-   "label": "町政",
-   "audience": "島民",
-   "thread_id": "t20261003-15",
-   "id": "58e2d5",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/58e2d5.jpg?v=f7a6f0",
-    "og": "/img/kiji/58e2d5-og.jpg?v=f7a6f0",
-    "s": "/img/kiji/58e2d5-s.jpg?v=f7a6f0",
-    "m": "/img/kiji/58e2d5-m.jpg?v=f7a6f0",
-    "caption": "選挙の期日前投票所の案内看板",
-    "credit": "",
-    "file": "ac/34499925.jpg"
-   }
+   "id": "6d74a5"
   },
   {
    "headline": "八丈島ロードレース受付開始",
@@ -188,20 +137,10 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23142928/hachijo1311.pdf"
     }
    ],
-   "label": "文化",
+   "label": "教育・文化",
    "audience": "両方",
    "thread_id": "t20261003-14",
-   "id": "33fd7a",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/33fd7a.jpg?v=6aea60",
-    "og": "/img/kiji/33fd7a-og.jpg?v=6aea60",
-    "s": "/img/kiji/33fd7a-s.jpg?v=6aea60",
-    "m": "/img/kiji/33fd7a-m.jpg?v=6aea60",
-    "caption": "東京都立八丈高等学校",
-    "credit": "",
-    "file": "own/hachijo-koko-2.jpg"
-   }
+   "id": "33fd7a"
   },
   {
    "headline": "空港ビルで自衛隊派遣の写真展",
@@ -220,20 +159,68 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23131512/hachijo2009.pdf"
     }
    ],
-   "label": "文化",
+   "label": "教育・文化",
    "audience": "両方",
    "thread_id": "t20261003-13",
-   "id": "58cbb7",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/58cbb7.jpg?v=c65a12",
-    "og": "/img/kiji/58cbb7-og.jpg?v=c65a12",
-    "s": "/img/kiji/58cbb7-s.jpg?v=c65a12",
-    "m": "/img/kiji/58cbb7-m.jpg?v=c65a12",
-    "caption": "八丈島空港ターミナル(Hachijojima Airport Terminal Building, Tokyo)",
-    "credit": "",
-    "file": "ac/4920724.jpg"
-   }
+   "id": "58cbb7"
+  },
+  {
+   "headline": "八丈航路の橘丸 20日間使用停止",
+   "body": [
+    "国土交通省関東運輸局は2日、東海汽船株式会社に、東京―八丈島航路の大型客船「橘丸」の使用停止を命じた。期間は9日から28日までの20日間。元日に船長を含む乗組員が航海中に酒を飲み、そのまま当直に就いたことなどを、海上運送法に違反するとした。",
+    "橘丸は竹芝と三宅島、御蔵島、八丈島を結び、島の人と荷物を運ぶ船だ。国の処分基準では、航路ごとの違反点数が16点以上になると、事業の停止を命じることもある。東京―八丈島航路の点数は92点に達した。運輸局は、事業を止めると島の生活交通に大きな障害が出るおそれがあると判断した。東海汽船が出した改善計画にも実効性を認め、事業の停止に代えて船の使用停止とした。",
+    "元日に「さるびあ丸」と橘丸で、船長を含む乗組員が旅客を乗せた航海中に、船ぐるみで酒を飲んだ。そのあと、アルコール検査をしないまま航海当直に就いた。飲んだ量と時刻から計算すると、呼気1リットル中0.15ミリグラムを大きく超えたまま当直に就いた乗組員が、船長を含め複数いた。社長はこの元日飲酒の慣行を知りながら、適切な措置をとっていなかった。",
+    "記録の誤りも見つかった。アルコール検査をしないまま、結果を「ゼロ」と書くことが常態化していた。大型貨客船では、乗り降りの口である舷門を閉めずに出港することも常態化していた。そのうえ、出港前の検査の記録簿には問題なしの印を付けていた。さるびあ丸は2025年11月と12月に舷門を開けたまま航行したが、運輸局に報告しなかった。",
+    "東海汽船は8月28日にも、運輸局から安全統括管理者と運航管理者の解任などを命じられている。安全統括管理者は会社の安全管理の責任者で、運航管理者は船の運航を管理する。今回の命令の対象は八丈島航路にとどまらない。東京―大島―神津島航路では橘丸と「セブンアイランド結」「セブンアイランド友」、熱海―大島航路では結と友が、同じ期間に使えなくなる。",
+    "橘丸は処分の前から旅客を乗せていない。9月28日に主プロペラ装置の一部に不具合が起き、9月30日夜竹芝発の便から旅客の運航を休んでいる。東海汽船によると、三宅島―八丈島の航路にはさるびあ丸が入る。橘丸の運航再開は、修理と検査を終えてから案内する。9月26日から10月2日までの7日間で、東京からの船が八丈島に着いたのは5日、欠航は2日だった。"
+   ],
+   "added": [
+    {
+     "fact": "東京―八丈島航路の違反点数は92点、東京―大島―神津島航路は96点、熱海―大島航路は38点。処分基準では累計16点以上で事業停止命令の対象になりうる",
+     "url": "https://wwwtb.mlit.go.jp/kanto/content/000381527.pdf"
+    },
+    {
+     "fact": "元日にさるびあ丸と橘丸で船長を含む乗組員が旅客運送中に船ぐるみで飲酒し、アルコール検査をせずに航海当直に就いた。ウィドマーク法による計算で、呼気1リットル中0.15ミリグラムを大幅に超えた乗組員が船長を含め複数いた。社長は元日飲酒の慣行を認知しながら適切な措置をとっていなかった",
+     "url": "https://wwwtb.mlit.go.jp/kanto/content/000381527.pdf"
+    },
+    {
+     "fact": "検査未実施なのに結果をゼロと記載、大型貨客船で舷門を閉めずに発航することが常態化、発航前検査記録簿に「○」を記載。さるびあ丸は2025年11月7日と12月24日に舷門を開けたまま運航し、運輸局に報告しなかった",
+     "url": "https://wwwtb.mlit.go.jp/kanto/content/000381527.pdf"
+    },
+    {
+     "fact": "同じ命令で、東京―大島―神津島航路の橘丸・セブンアイランド結・セブンアイランド友、熱海―大島航路のセブンアイランド結・友も10月9日から28日まで使用停止",
+     "url": "https://www.mlit.go.jp/report/press/content/002025375.pdf"
+    },
+    {
+     "fact": "2026年8月28日、東海汽船に安全統括管理者と運航管理者の解任命令、輸送の安全の確保に関する命令、船員法に基づく是正命令が出された",
+     "url": "https://www.mlit.go.jp/report/press/kaiji06_hh_000402.html"
+    },
+    {
+     "fact": "橘丸は9月28日に主プロペラ装置の一部に不具合が起き、9月30日東京夜発便から旅客運航を休止。三宅島―八丈島航路はさるびあ丸が運航し、再開時期は修理と検査の完了後に案内(10月2日17時30分現在の第2報)",
+     "url": "https://www.tokaikisen.co.jp/news/825542/"
+    }
+   ],
+   "sources": [
+    {
+     "label": "国土交通省",
+     "url": "https://www.mlit.go.jp/report/press/content/002025375.pdf"
+    },
+    {
+     "label": "国土交通省",
+     "url": "https://wwwtb.mlit.go.jp/kanto/content/000381527.pdf"
+    },
+    {
+     "label": "国土交通省",
+     "url": "https://www.mlit.go.jp/report/press/kaiji06_hh_000402.html"
+    },
+    {
+     "label": "東海汽船",
+     "url": "https://www.tokaikisen.co.jp/news/825542/"
+    }
+   ],
+   "label": "くらし",
+   "audience": "両方",
+   "thread_id": "t20261003-397"
   }
  ],
  "agenda": [
