@@ -173,6 +173,7 @@ a.label,.band a{text-decoration:underline;text-decoration-thickness:1px;text-und
 :is(.card,.rail) :is(ol,ul)>li{padding:var(--sp-xs) 0;line-height:var(--lh-t);border-bottom:0}
 :is(.card,.rail) :is(ol,ul)>li:last-child{padding-bottom:0}
 :is(.card,.rail) :is(ol,ul)>li *{white-space:nowrap}
+:is(.card,.rail) .ichiran a>b{overflow:hidden;text-overflow:ellipsis}   /* 右の列とカードの中の記事の一覧は1行。収まらない見出しは … */
 :is(.card,.rail) :is(ol,ul)>li>:not(i){min-width:0;overflow:hidden;text-overflow:ellipsis}
 /* カードの行は見出しの一覧:題は太字 */
 .card .gyou .hon{font-weight:700}
@@ -233,13 +234,22 @@ tr.uchi td{color:var(--ink-2)}tr.uchi td.w{padding-left:2em}tfoot td,tr.sum td{f
 .num small,.tobira>a>span small{font-size:var(--fs-ui)}
 
 /* 単位:数字のすぐ後ろ。数字と同じ色・太さで一段小さく、数字との間は 2px */
-:is(.atama .n,.num,.tobira>a>span,.hero b,.hero,.rank .c,.mvp .pt) small{font-weight:700;margin:0 0 0 2px;letter-spacing:0;color:inherit}
+:is(.atama .n,.num,.tobira>a>span,.hero b,.hero,.rank .c,.mvp .pt,.shiki i) small{font-weight:700;margin:0 0 0 2px;letter-spacing:0;color:inherit}
 /* 数字の並び:2〜4つの数(見出しの大きさ) */
 .hero{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--sp-s)}
 .hero b{font-size:var(--fs-h);font-weight:700;line-height:var(--lh-1);font-feature-settings:"tnum";letter-spacing:-.02em}
 .hero small{font-size:var(--fs-ui)}
 .hero span{display:block;font-size:var(--fs-m);color:var(--ink-2);line-height:var(--lh-t)}
 @media (max-width:640px){.hero{grid-template-columns:repeat(2,minmax(0,1fr))}}
+/* 式(はちしん指数の 1pt+1pt)。カード2枚と記号 */
+.shiki{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);align-items:center;gap:var(--sp-m)}
+.shiki .card{align-items:center;text-align:center}
+.shiki .card b{font-size:var(--fs-ui);font-weight:700}
+.shiki .card i{font-style:normal;font-size:var(--fs-kan);font-weight:700;line-height:var(--lh-1);font-feature-settings:"tnum";letter-spacing:-.02em}
+.shiki .card span{font-size:var(--fs-m);color:var(--ink-2);line-height:var(--lh-t)}
+.shiki .kasan i{color:var(--tamamushi)}
+.shiki .op{font-size:var(--fs-h);font-weight:700}
+.ku span{display:inline-block}   /* 句の途中で折り返さない */
 
 /* 図:棒の順位・グラフ・地図。字は段の値を使う */
 .rank>li{display:grid;grid-template-columns:minmax(0,15em) minmax(0,1fr) 4em;gap:var(--sp-xs) var(--sp-s);align-items:center;padding:var(--sp-xs) 0;font-size:var(--fs-b)}
@@ -301,7 +311,7 @@ details>summary{cursor:pointer;font-size:var(--fs-ui);font-weight:700}
 .photo,.kp{display:block;aspect-ratio:3/2;background:var(--photo);overflow:hidden}
 .photo img,.kp img{display:block;width:100%;height:100%;object-fit:cover}
 .kiji .ld{line-height:var(--lh-b);text-align:justify;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.honbun{display:flex;flex-direction:column;gap:var(--sp-s)}   /* 本文の段落の間は --sp-s */
+.honbun{display:flex;flex-direction:column;gap:var(--sh)}   /* 本文の段落の間は --sh(16) */
 .honbun p{text-indent:1em;text-align:justify}
 /* 書いた特集の節:小見出しとその中身(段落・表・箇条書き)で1つの塊。節と節の間は記事の塊の間(--sh)、節の中は --sp-s */
 .setsu{display:flex;flex-direction:column;gap:var(--sp-s);min-width:0}
@@ -335,14 +345,14 @@ a.hl:hover{text-decoration:underline;text-decoration-thickness:1px;text-underlin
   .ronten-g{grid-template-columns:repeat(4,1fr)}
 }
 @media (max-width:999px){
-  .ichimen-main,.rail,.yon{display:contents}
+  .ichimen-main,#paper .rail,.yon{display:contents}
   #paper .top .photo{margin-inline:calc(-1 * var(--edge))}
   .yon .kiji{display:grid;grid-template-columns:minmax(0,1fr) 120px;gap:var(--sp-m);border-top:var(--line);padding-top:var(--sh);margin-top:calc(var(--sh) - var(--sp-l))}
   .yon .kiji .kp{grid-column:2;grid-row:1;align-self:start}
   .yon .kiji .hd{grid-column:1;grid-row:1}
   .yon .kiji .ld,.yon .kiji .honbun{grid-column:1/-1}
   #week{order:2}#giin{order:3}#paper .side{order:4}#paper .short{order:5}#tayori,#ronten{order:6}
-  .rail>.tv{order:7;border-top:var(--line);padding-top:var(--sh);margin-top:calc(var(--sh) - var(--sp-l))}#kyoku{order:8}#shima{order:9}
+  #paper .rail>.tv{order:7;border-top:var(--line);padding-top:var(--sh);margin-top:calc(var(--sh) - var(--sp-l))}#kyoku{order:8}#shima{order:9}
 }
 /* 今週の一面:1日1行 */
 .week a{display:block;font-weight:700}
