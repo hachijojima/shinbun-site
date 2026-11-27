@@ -460,7 +460,8 @@
    "when": "きのう",
    "day": "2026-11-17",
    "pt": 2,
-   "medal": "🥇"
+   "medal": "🥇",
+   "hs": "<span class=\"hs ten2\">活動 週刊活動報告</span>"
   },
   {
    "name": "伊勢崎唯",
@@ -473,7 +474,8 @@
    "when": "きのう",
    "day": "2026-11-17",
    "pt": 1,
-   "medal": "🥈"
+   "medal": "🥈",
+   "hs": "<span class=\"hs\">話題 U-JAPAN思い出</span>"
   },
   {
    "name": "山下則子",
@@ -486,7 +488,8 @@
    "when": "きのう",
    "day": "2026-11-17",
    "pt": 1,
-   "medal": "🥈"
+   "medal": "🥈",
+   "hs": "<span class=\"hs\">話題 福祉バザーの売り尽くし</span>"
   },
   {
    "name": "佐々木丈",
@@ -499,7 +502,8 @@
    "when": "3日前",
    "day": "2026-11-15",
    "pt": 2,
-   "medal": ""
+   "medal": "",
+   "hs": "<span class=\"hs ten2\">地域 相撲ちゃんこ交流会</span>"
   },
   {
    "name": "浅沼碧海",
@@ -512,7 +516,8 @@
    "when": "5日前",
    "day": "2026-11-13",
    "pt": 2,
-   "medal": ""
+   "medal": "",
+   "hs": "<span class=\"hs ten2\">活動 東海汽船アンケート結果</span>"
   }
  ],
  "hyakunen": {
@@ -534,5 +539,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "b0ed720b5293"
+ "chrome": "a451aaca92c3"
 }

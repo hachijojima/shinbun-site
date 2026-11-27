@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T07:30:04+09:00",
+ "built": "2026-11-27T10:21:30+09:00",
  "prev": "/2026/11/03/",
  "next": "/2026/11/05/",
  "alerts": [
@@ -195,11 +195,21 @@
     "url": "https://www.mlit.go.jp/report/press/content/002025375.pdf"
    }
   ],
-  "label": "交通・防災",
+  "label": "くらし",
   "audience": "両方",
   "thread_id": "t20261029-12",
   "followup": true,
-  "id": "b9fdef"
+  "id": "b9fdef",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/b9fdef.jpg?v=b19439",
+   "og": "/img/kiji/b9fdef-og.jpg?v=b19439",
+   "s": "/img/kiji/b9fdef-s.jpg?v=b19439",
+   "m": "/img/kiji/b9fdef-m.jpg?v=b19439",
+   "caption": "東海汽船「橘丸」ファンネル",
+   "credit": "",
+   "file": "ac/4909711.jpg"
+  }
  },
  "side": [],
  "shorts": [
@@ -220,7 +230,17 @@
    "audience": "島民",
    "thread_id": "t20261104-35",
    "id": "c5a034",
-   "edited": "2026-11-04T07:13:10+09:00"
+   "edited": "2026-11-04T07:13:10+09:00",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/c5a034.jpg?v=4ceb84",
+    "og": "/img/kiji/c5a034-og.jpg?v=4ceb84",
+    "s": "/img/kiji/c5a034-s.jpg?v=4ceb84",
+    "m": "/img/kiji/c5a034-m.jpg?v=4ceb84",
+    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "credit": "",
+    "file": "own/yakuba-1.jpg"
+   }
   },
   {
    "headline": "八高野球映画、12月新宿上映",
@@ -236,10 +256,20 @@
      "url": "https://tdff-neoneo.com/lineup/"
     }
    ],
-   "label": "文化・催し",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261104-37",
-   "id": "455826"
+   "id": "455826",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/455826.jpg?v=6aea60",
+    "og": "/img/kiji/455826-og.jpg?v=6aea60",
+    "s": "/img/kiji/455826-s.jpg?v=6aea60",
+    "m": "/img/kiji/455826-m.jpg?v=6aea60",
+    "caption": "東京都立八丈高等学校",
+    "credit": "",
+    "file": "own/hachijo-koko-2.jpg"
+   }
   },
   {
    "headline": "東海汽船、台風で取消手数料免除",
@@ -258,11 +288,21 @@
      "url": "https://www.jma.go.jp/bosai/typhoon/data/TC2637/specifications.json"
     }
    ],
-   "label": "交通・防災",
+   "label": "くらし",
    "audience": "両方",
    "thread_id": "t20261104-34",
    "id": "abb6c8",
-   "edited": "2026-11-04T07:14:20+09:00"
+   "edited": "2026-11-04T07:14:20+09:00",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/abb6c8.jpg?v=d25f46",
+    "og": "/img/kiji/abb6c8-og.jpg?v=d25f46",
+    "s": "/img/kiji/abb6c8-s.jpg?v=d25f46",
+    "m": "/img/kiji/abb6c8-m.jpg?v=d25f46",
+    "caption": "東海汽船「橘丸」回頭",
+    "credit": "",
+    "file": "ac/4916358.jpg"
+   }
   },
   {
    "headline": "OreOre Island、11日まで都心に",
@@ -306,7 +346,7 @@
      "url": "https://x.com/OreOre_Island/status/2117155442069811655"
     },
     {
-     "label": "x.com",
+     "label": "OreOre Island",
      "url": "https://x.com/OreOre_Island"
     },
     {
@@ -320,15 +360,22 @@
     {
      "label": "グレーター トウキョウ フェスティバル実行委員会",
      "url": "https://gtfweb.com/gcd2026/"
-    },
-    {
-     "label": "グレーター トウキョウ フェスティバル実行委員会",
-     "url": "https://x.com/gtfsince2002"
     }
    ],
    "label": "産業",
    "audience": "両方",
-   "thread_id": "t20261104-397"
+   "thread_id": "t20261104-397",
+   "id": "a52da5",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/a52da5.jpg?v=820f1d",
+    "og": "/img/kiji/a52da5-og.jpg?v=820f1d",
+    "s": "/img/kiji/a52da5-s.jpg?v=820f1d",
+    "m": "/img/kiji/a52da5-m.jpg?v=820f1d",
+    "caption": "新宿の高層ビル街と新宿御苑",
+    "credit": "",
+    "file": "ac/26868599.jpg"
+   }
   }
  ],
  "agenda": [
@@ -415,9 +462,9 @@
   },
   {
    "date": "2026-10-29",
-   "url": "/2026/10/29/412980/",
+   "url": "/2026/10/29/d20c8f/",
    "headlines": [
-    "放課後指導員、週1日から募集"
+    "東海汽船が改善計画の進捗を報告"
    ]
   },
   {
@@ -454,7 +501,8 @@
    "when": "きのう",
    "day": "2026-11-03",
    "pt": 1,
-   "medal": "🥇"
+   "medal": "🥇",
+   "hs": "<span class=\"hs\">話題 あいさつ</span>"
   },
   {
    "name": "佐々木丈",
@@ -467,7 +515,8 @@
    "when": "2日前",
    "day": "2026-11-02",
    "pt": 1,
-   "medal": "🥈"
+   "medal": "🥈",
+   "hs": "<span class=\"hs\">意見 お釈迦様の言葉</span>"
   },
   {
    "name": "浅沼碧海",
@@ -480,7 +529,8 @@
    "when": "2日前",
    "day": "2026-11-02",
    "pt": 1,
-   "medal": "🥈"
+   "medal": "🥈",
+   "hs": "<span class=\"hs\">話題 夜勤明け</span>"
   },
   {
    "name": "山下則子",
@@ -493,7 +543,8 @@
    "when": "3日前",
    "day": "2026-11-01",
    "pt": 2,
-   "medal": ""
+   "medal": "",
+   "hs": "<span class=\"hs ten2\">地域 ハッコウチュウFES</span>"
   },
   {
    "name": "岩崎由美",
@@ -506,7 +557,8 @@
    "when": "10月27日",
    "day": "2026-10-27",
    "pt": 1,
-   "medal": ""
+   "medal": "",
+   "hs": "<span class=\"hs\">意見 雨水貯留の補助</span>"
   }
  ],
  "hyakunen": {
@@ -528,5 +580,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "b0ed720b5293"
+ "chrome": "a451aaca92c3"
 }

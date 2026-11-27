@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:52:17+09:00",
+ "built": "2026-11-27T10:18:08+09:00",
  "prev": "/2026/10/01/",
  "next": "/2026/10/03/",
  "alerts": [],
@@ -87,7 +87,17 @@
   "label": "くらし",
   "audience": "島民",
   "thread_id": "t20261002-6",
-  "id": "0cc87f"
+  "id": "0cc87f",
+  "photo": {
+   "type": "img",
+   "src": "/img/kiji/0cc87f.jpg?v=dca1d0",
+   "og": "/img/kiji/0cc87f-og.jpg?v=dca1d0",
+   "s": "/img/kiji/0cc87f-s.jpg?v=dca1d0",
+   "m": "/img/kiji/0cc87f-m.jpg?v=dca1d0",
+   "caption": "台風後の八丈島",
+   "credit": "",
+   "file": "ac/3595112.jpg"
+  }
  },
  "side": [],
  "shorts": [
@@ -109,10 +119,20 @@
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23114515/hachijo2511.pdf"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261002-7",
-   "id": "efb39e"
+   "id": "efb39e",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/efb39e.jpg?v=680e4c",
+    "og": "/img/kiji/efb39e-og.jpg?v=680e4c",
+    "s": "/img/kiji/efb39e-s.jpg?v=680e4c",
+    "m": "/img/kiji/efb39e-m.jpg?v=680e4c",
+    "caption": "八丈島歴史民俗資料館",
+    "credit": "",
+    "file": "own/rekimin-1.jpg"
+   }
   },
   {
    "headline": "島の共有サービス「allo」公開",
@@ -135,7 +155,17 @@
    "label": "くらし",
    "audience": "島民",
    "thread_id": "t20261002-9",
-   "id": "8ae9ca"
+   "id": "8ae9ca",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/8ae9ca.jpg?v=1ce467",
+    "og": "/img/kiji/8ae9ca-og.jpg?v=1ce467",
+    "s": "/img/kiji/8ae9ca-s.jpg?v=1ce467",
+    "m": "/img/kiji/8ae9ca-m.jpg?v=1ce467",
+    "caption": "八丈町社会福祉協議会",
+    "credit": "",
+    "file": "own/shakyo-1.jpg"
+   }
   },
   {
    "headline": "八丈ビューホテルでナイトプール",
@@ -150,10 +180,20 @@
      "url": "https://x.com/OreOre_Island/status/2105471926009471073"
     }
    ],
-   "label": "教育・文化",
+   "label": "文化",
    "audience": "両方",
    "thread_id": "t20261002-10",
-   "id": "d8e2bb"
+   "id": "d8e2bb",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/d8e2bb.jpg?v=567798",
+    "og": "/img/kiji/d8e2bb-og.jpg?v=567798",
+    "s": "/img/kiji/d8e2bb-s.jpg?v=567798",
+    "m": "/img/kiji/d8e2bb-m.jpg?v=567798",
+    "caption": "八丈ビューホテル",
+    "credit": "",
+    "file": "own/view-hotel-1.jpg"
+   }
   },
   {
    "headline": "大賀郷小、運動会へ応援団結成",
@@ -179,12 +219,8 @@
    ],
    "sources": [
     {
-     "label": "大賀郷小学校",
+     "label": "大賀郷小",
      "url": "https://okago-es.8jo.ed.jp/n/nc3ac89bcacd6"
-    },
-    {
-     "label": "大賀郷小学校",
-     "url": "https://okago-es.8jo.ed.jp/n/n11699b357ed3"
     },
     {
      "label": "広報はちじょう",
@@ -197,7 +233,18 @@
    ],
    "label": "教育",
    "audience": "島民",
-   "thread_id": "t20261002-396"
+   "thread_id": "t20261002-396",
+   "id": "0352fd",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/0352fd.jpg?v=d2d4af",
+    "og": "/img/kiji/0352fd-og.jpg?v=d2d4af",
+    "s": "/img/kiji/0352fd-s.jpg?v=d2d4af",
+    "m": "/img/kiji/0352fd-m.jpg?v=d2d4af",
+    "caption": "八丈町立大賀郷小学校",
+    "credit": "",
+    "file": "own/okago-sho-2.jpg"
+   }
   }
  ],
  "agenda": [
@@ -257,9 +304,9 @@
   },
   {
    "date": "2026-09-28",
-   "url": "/2026/09/28/662149/",
+   "url": "/2026/09/28/c32071/",
    "headlines": [
-    "愛らんどリーグ2026の映像"
+    "能登聲祭、最初の練習会は八丈島"
    ]
   },
   {
@@ -271,9 +318,9 @@
   },
   {
    "date": "2026-09-26",
-   "url": "/2026/09/26/b91f68/",
+   "url": "/2026/09/26/d7428e/",
    "headlines": [
-    "こころみクリニックで接種開始"
+    "住宅修理補助、30日に期限"
    ]
   },
   {
@@ -318,5 +365,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "b0ed720b5293"
+ "chrome": "a451aaca92c3"
 }

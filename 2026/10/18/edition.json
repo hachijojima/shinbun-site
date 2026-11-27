@@ -398,7 +398,8 @@
    "when": "きのう",
    "day": "2026-10-17",
    "pt": 1,
-   "medal": "🥇"
+   "medal": "🥇",
+   "hs": "<span class=\"hs\">意見 まちづくりの考え集</span>"
   },
   {
    "name": "山下則子",
@@ -411,7 +412,8 @@
    "when": "きのう",
    "day": "2026-10-17",
    "pt": 1,
-   "medal": "🥇"
+   "medal": "🥇",
+   "hs": "<span class=\"hs\">話題 お礼</span>"
   },
   {
    "name": "佐々木丈",
@@ -424,7 +426,8 @@
    "when": "きのう",
    "day": "2026-10-17",
    "pt": 1,
-   "medal": "🥇"
+   "medal": "🥇",
+   "hs": "<span class=\"hs\">意見 菌ちゃん農法</span>"
   }
  ],
  "hyakunen": {
@@ -446,5 +449,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "b0ed720b5293"
+ "chrome": "a451aaca92c3"
 }

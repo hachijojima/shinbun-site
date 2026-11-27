@@ -439,9 +439,9 @@
   },
   {
    "date": "2026-11-09",
-   "url": "/2026/11/09/c74b34/",
+   "url": "/2026/11/09/fc42bc/",
    "headlines": [
-    "秋の火災予防運動、9日から15日"
+    "船の就航予測、表示基準を改定"
    ]
   }
  ],
@@ -465,7 +465,8 @@
    "when": "きのう",
    "day": "2026-11-15",
    "pt": 2,
-   "medal": "🥇"
+   "medal": "🥇",
+   "hs": "<span class=\"hs ten2\">地域 相撲ちゃんこ交流会</span>"
   },
   {
    "name": "山下則子",
@@ -478,7 +479,8 @@
    "when": "2日前",
    "day": "2026-11-14",
    "pt": 1,
-   "medal": "🥈"
+   "medal": "🥈",
+   "hs": "<span class=\"hs\">話題 ウオーキングフットボール</span>"
   },
   {
    "name": "浅沼碧海",
@@ -491,7 +493,8 @@
    "when": "3日前",
    "day": "2026-11-13",
    "pt": 2,
-   "medal": "🥉"
+   "medal": "🥉",
+   "hs": "<span class=\"hs ten2\">活動 東海汽船アンケート結果</span>"
   },
   {
    "name": "伊藤奨",
@@ -504,7 +507,8 @@
    "when": "6日前",
    "day": "2026-11-10",
    "pt": 2,
-   "medal": ""
+   "medal": "",
+   "hs": "<span class=\"hs ten2\">地域 優婆夷宝明神社の例祭</span>"
   }
  ],
  "hyakunen": {
@@ -526,5 +530,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "b0ed720b5293"
+ "chrome": "a451aaca92c3"
 }

@@ -464,7 +464,8 @@
    "when": "きのう",
    "day": "2026-10-25",
    "pt": 2,
-   "medal": "🥇"
+   "medal": "🥇",
+   "hs": "<span class=\"hs ten2\">活動 町民との意見交換会</span>"
   },
   {
    "name": "佐々木丈",
@@ -477,7 +478,8 @@
    "when": "きのう",
    "day": "2026-10-25",
    "pt": 2,
-   "medal": "🥇"
+   "medal": "🥇",
+   "hs": "<span class=\"hs ten2\">地域 大賀郷中学校音楽会</span>"
   }
  ],
  "kyoku": {
@@ -496,7 +498,7 @@
   "url": "https://x.com/ANA_flight_info/status/2114277030959141282",
   "at": "2026-10-25T17:45:00+09:00"
  },
- "chrome": "b0ed720b5293",
+ "chrome": "a451aaca92c3",
  "hyakunen": {
   "then": {
    "ago": "100年前",

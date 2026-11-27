@@ -274,16 +274,16 @@
  "ichimen_week": [
   {
    "date": "2026-10-06",
-   "url": "/2026/10/06/43468a/",
+   "url": "/2026/10/06/844f61/",
    "headlines": [
-    "町のハラスメント指針が施行"
+    "東海汽船、社長交代へ"
    ]
   },
   {
    "date": "2026-10-05",
-   "url": "/2026/10/05/6d31ed/",
+   "url": "/2026/10/05/6eec2b/",
    "headlines": [
-    "災害ごみ、きょう南原へ"
+    "菜々屋、もやし使う品を休止中"
    ]
   },
   {
@@ -356,5 +356,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "b0ed720b5293"
+ "chrome": "a451aaca92c3"
 }

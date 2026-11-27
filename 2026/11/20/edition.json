@@ -497,7 +497,8 @@
    "when": "きのう",
    "day": "2026-11-19",
    "pt": 2,
-   "medal": "🥇"
+   "medal": "🥇",
+   "hs": "<span class=\"hs ten2\">地域 社協バザー</span>"
   },
   {
    "name": "浅沼碧海",
@@ -510,7 +511,8 @@
    "when": "2日前",
    "day": "2026-11-18",
    "pt": 1,
-   "medal": "🥈"
+   "medal": "🥈",
+   "hs": "<span class=\"hs\">話題 ゲートキーパーの会講演</span>"
   },
   {
    "name": "山下則子",
@@ -523,7 +525,8 @@
    "when": "2日前",
    "day": "2026-11-18",
    "pt": 1,
-   "medal": "🥈"
+   "medal": "🥈",
+   "hs": "<span class=\"hs\">話題 スマホ教室</span>"
   },
   {
    "name": "伊藤奨",
@@ -536,7 +539,8 @@
    "when": "3日前",
    "day": "2026-11-17",
    "pt": 2,
-   "medal": ""
+   "medal": "",
+   "hs": "<span class=\"hs ten2\">活動 週刊活動報告</span>"
   },
   {
    "name": "伊勢崎唯",
@@ -549,7 +553,8 @@
    "when": "3日前",
    "day": "2026-11-17",
    "pt": 1,
-   "medal": ""
+   "medal": "",
+   "hs": "<span class=\"hs\">話題 U-JAPAN思い出</span>"
   }
  ],
  "hyakunen": {
@@ -571,5 +576,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "b0ed720b5293"
+ "chrome": "a451aaca92c3"
 }

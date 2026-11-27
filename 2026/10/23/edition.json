@@ -373,7 +373,8 @@
    "when": "きのう",
    "day": "2026-10-22",
    "pt": 2,
-   "medal": "🥇"
+   "medal": "🥇",
+   "hs": "<span class=\"hs ten2\">活動 議会タブレットの配布</span>"
   },
   {
    "name": "岩崎由美",
@@ -386,7 +387,8 @@
    "when": "3日前",
    "day": "2026-10-20",
    "pt": 1,
-   "medal": "🥈"
+   "medal": "🥈",
+   "hs": "<span class=\"hs\">話題 資料館のグッドデザイン賞</span>"
   },
   {
    "name": "伊勢崎唯",
@@ -399,7 +401,8 @@
    "when": "4日前",
    "day": "2026-10-19",
    "pt": 2,
-   "medal": "🥉"
+   "medal": "🥉",
+   "hs": "<span class=\"hs ten2\">地域 八高ネパール交流の太鼓</span>"
   },
   {
    "name": "伊藤奨",
@@ -412,7 +415,8 @@
    "when": "4日前",
    "day": "2026-10-19",
    "pt": 1,
-   "medal": ""
+   "medal": "",
+   "hs": "<span class=\"hs\">意見 町民へのお願い</span>"
   },
   {
    "name": "浅沼碧海",
@@ -425,7 +429,8 @@
    "when": "4日前",
    "day": "2026-10-19",
    "pt": 1,
-   "medal": ""
+   "medal": "",
+   "hs": "<span class=\"hs\">話題 お礼</span>"
   }
  ],
  "hyakunen": {
@@ -447,5 +452,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=10"
  },
- "chrome": "b0ed720b5293"
+ "chrome": "a451aaca92c3"
 }

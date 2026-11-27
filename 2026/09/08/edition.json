@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:47:22+09:00",
+ "built": "2026-11-27T10:16:10+09:00",
  "prev": "/2026/09/07/",
  "next": "/2026/09/09/",
  "alerts": [],
@@ -172,39 +172,6 @@
    }
   },
   {
-   "headline": "東京島旅DAY、日本橋室町で2日間",
-   "body": [
-    "東京都と東京観光財団が主催する「東京島旅DAY～八丈島・青ヶ島まだまだ復幸中～」が5、6日、東京・日本橋室町のCOREDO室町テラスで開かれた。昨年10月の台風で被災した八丈島・青ヶ島の復興支援と、東京11島への誘客を兼ねた催し。",
-    "ステージには式根島出身の宮川大聖さん、八丈島出身のMIZと天野花さんが出演。ミス八丈島による島の自然や歴史、文化を題材にしたクイズも組まれた。",
-    "会場では11島の特産品を販売し、八丈島・青ヶ島の島焼酎を試飲・販売。島の食材を使ったグルメや、自然・伝統文化を体験するワークショップも展開された。都心で物産だけでなく音楽や文化までまとめて島を紹介する2日間となった。"
-   ],
-   "sources": [
-    {
-     "label": "東京都",
-     "url": "https://www.metro.tokyo.lg.jp/information/press/2026/08/2026081907"
-    },
-    {
-     "label": "東京都「八丈島・青ヶ島、まだまだ復幸中」",
-     "url": "https://shima.metro.tokyo.lg.jp/fukko-chuu/tokyo-shimatabi-day/"
-    }
-   ],
-   "label": "産業",
-   "audience": "島民",
-   "thread_id": "t20260905-20",
-   "followup": true,
-   "id": "be17c6",
-   "photo": {
-    "type": "img",
-    "src": "/img/kiji/be17c6.jpg?v=01c734",
-    "og": "/img/kiji/be17c6-og.jpg?v=01c734",
-    "s": "/img/kiji/be17c6-s.jpg?v=01c734",
-    "m": "/img/kiji/be17c6-m.jpg?v=01c734",
-    "caption": "八丈島の焼酎",
-    "credit": "",
-    "file": "own/shochu-2.jpg"
-   }
-  },
-  {
    "headline": "八丈高校、噴火想定の避難訓練",
    "body": [
     "都立八丈高等学校は1日、全日制で2学期の始業式を行い、噴火を想定した避難訓練を実施した。個人や部活動の表彰も行われた。",
@@ -231,6 +198,60 @@
     "caption": "東京都立八丈高等学校",
     "credit": "",
     "file": "own/hachijo-koko-1.jpg"
+   }
+  },
+  {
+   "headline": "富士中、防災の日に消火訓練",
+   "body": [
+    "三根の八丈町立富士中学校で、防災の日の1日、1年生が初期消火訓練をした。2学期の始業式があったこの日、全校の避難訓練に続いて行い、八丈町消防本部が協力した。2年生も防災の日に合わせて、校舎内の消火器や消火設備、AEDを班ごとに探した。こちらも消防本部が協力した。",
+    "同校によると、1日は全校で避難訓練をした。1年生はその後、消防本部の協力で初期消火に取り組んだ。2年生の活動は、災害への意識を高めるためのグループワーク。校舎を回って、消火器、消火設備、AEDがどこにあるかを確かめた。",
+    "2学期は運動会や合唱コンクールなど行事が続く。同校は12日に運動会を開く。1年生は時間割の中の全校練習のほか、体育の授業や放課後も使って練習している。2年生は実行委員を中心に、全員で練習を進めている。"
+   ],
+   "added": [
+    {
+     "fact": "富士中学校の所在地は三根",
+     "url": "https://www.gakkou.net/chugaku/view/map_204060.html"
+    },
+    {
+     "fact": "富士中の運動会は9月12日",
+     "url": "https://fuji-jhs.8jo.ed.jp/n/nd7a3a7ed09ee"
+    },
+    {
+     "fact": "9月1日に避難訓練があり、そのあと1年生が初期消火訓練をした。手伝ったのは八丈町消防本部",
+     "url": "https://fuji-jhs.8jo.ed.jp/n/n49426d48a8b5"
+    },
+    {
+     "fact": "9月1日は始業式の日で、防災の日だった",
+     "url": "https://fuji-jhs.8jo.ed.jp/n/n7ddd9eb3c4d3"
+    },
+    {
+     "fact": "1年生は時間割の中の全校練習のほか、体育の授業と放課後も使って運動会の練習をしている",
+     "url": "https://fuji-jhs.8jo.ed.jp/n/n49426d48a8b5"
+    },
+    {
+     "fact": "2年生は実行委員を中心に、全員で運動会の練習をしている",
+     "url": "https://fuji-jhs.8jo.ed.jp/n/n7ddd9eb3c4d3"
+    }
+   ],
+   "sources": [
+    {
+     "label": "富士中",
+     "url": "https://fuji-jhs.8jo.ed.jp/n/n7ddd9eb3c4d3"
+    }
+   ],
+   "label": "教育",
+   "audience": "島民",
+   "thread_id": "t20260908-405",
+   "id": "42c9dc",
+   "photo": {
+    "type": "img",
+    "src": "/img/kiji/42c9dc.jpg?v=972153",
+    "og": "/img/kiji/42c9dc-og.jpg?v=972153",
+    "s": "/img/kiji/42c9dc-s.jpg?v=972153",
+    "m": "/img/kiji/42c9dc-m.jpg?v=972153",
+    "caption": "八丈町立富士中学校",
+    "credit": "",
+    "file": "own/fuji-chu-7.jpg"
    }
   }
  ],
@@ -286,9 +307,9 @@
   },
   {
    "date": "2026-09-05",
-   "url": "/2026/09/05/5dbdd4/",
+   "url": "/2026/09/05/f2698f/",
    "headlines": [
-    "東京島旅DAY 室町で2日間"
+    "八高祭6日、分教室カフェも"
    ]
   },
   {
@@ -354,5 +375,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=9"
  },
- "chrome": "b0ed720b5293"
+ "chrome": "a451aaca92c3"
 }
