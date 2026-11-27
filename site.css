@@ -111,7 +111,7 @@ main{padding-top:var(--sh)}
 /* PC は2通り:1本もの 8:4(.dual)と、分野 1:1(.bun)。スマホは1段で、頭の欄が先 */
 @media (min-width:1000px){
   main.dual{display:grid;grid-template-columns:var(--cols-ichi);gap:var(--sp-l) var(--gut);align-items:start}
-  main.dual>.tatami{grid-column:1/-1}   /* 畳みはページの最後に幅いっぱい */
+  main.dual>:is(.tatami,.shiryo){grid-column:1/-1}   /* 畳みはページの最後に幅いっぱい。書いた特集の下の台帳の欄(資料)も幅いっぱい */
   .bun{display:grid;grid-template-columns:var(--cols-bun);gap:var(--sp-l) var(--gut);align-items:start}
 }
 @media (max-width:999px){
@@ -302,6 +302,9 @@ details>summary{cursor:pointer;font-size:var(--fs-ui);font-weight:700}
 .photo img,.kp img{display:block;width:100%;height:100%;object-fit:cover}
 .kiji .ld{line-height:var(--lh-b);text-align:justify;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .honbun p{text-indent:1em;text-align:justify}
+/* 書いた特集の節:小見出しとその中身(段落・表・箇条書き)で1つの塊。節と節の間は記事の塊の間(--sh)、節の中は --sp-s */
+.setsu{display:flex;flex-direction:column;gap:var(--sp-s);min-width:0}
+.ten>li{padding-left:1em;text-indent:-1em}.ten>li::before{content:"・"}
 .honbun a{text-decoration:underline;text-underline-offset:.2em;text-decoration-color:var(--ink-3)}
 a.hl:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.15em}
 .src{display:block}
