@@ -305,7 +305,14 @@ details>summary{cursor:pointer;font-size:var(--fs-ui);font-weight:700}
 /* 書いた特集の節:小見出しとその中身(段落・表・箇条書き)で1つの塊。節と節の間は記事の塊の間(--sh)、節の中は --sp-s */
 .setsu{display:flex;flex-direction:column;gap:var(--sp-s);min-width:0}
 .ten>li{padding-left:1em;text-indent:-1em}.ten>li::before{content:"・"}
-.honbun a{text-decoration:underline;text-underline-offset:.2em;text-decoration-color:var(--ink-3)}
+:is(.honbun,.ten,.setsu .tw,.shashin) a{text-decoration:underline;text-underline-offset:.2em;text-decoration-color:var(--ink-3)}
+/* 書いた特集の本文の画像:写真(棚の写真は 3:2)・史料の画像(形のまま)。説明は画像の下に注の字で、出典は出典の畳みへ。続けて置いた画像は横に並べる(.narabi) */
+.shashin{display:flex;flex-direction:column;gap:var(--sp-s);min-width:0}
+.shashin img{display:block;width:100%;height:auto;background:var(--photo)}
+.shashin figcaption{font-size:var(--fs-m);line-height:var(--lh-b);color:var(--ink-2)}
+.narabi{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(0,1fr);gap:var(--sh);align-items:start}
+/* 書いた特集の資料庫:台帳の欄を畳みの中に(開いたときの中の組みは台帳の特集と同じ) */
+.tatami>.shiryo{padding-top:var(--sh)}
 a.hl:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.15em}
 .src{display:block}
 
@@ -438,7 +445,7 @@ a.hl:hover{text-decoration:underline;text-decoration-thickness:1px;text-underlin
 .hgrid{display:flex;flex-direction:column;gap:var(--sp-s)}
 @media (min-width:1000px){.hgrid{display:grid;grid-template-columns:var(--cols-ichi);gap:0 var(--gut);align-items:start}}
 .hmw{position:relative}
-#hmap{height:clamp(320px,calc(100svh - 240px),460px);border:var(--line)}
+#hmap,.chizu{height:clamp(320px,calc(100svh - 240px),460px);border:var(--line)}   /* .chizu は書いた特集の地図(同じ部品) */
 .hsel{position:absolute;top:8px;right:8px;z-index:1000;display:flex;flex-direction:column;align-items:flex-end;gap:2px}
 .hsel span:not(.vh){font-size:var(--fs-m);background:#fff;padding:0 var(--sp-xs)}
 .hside{max-height:min(72vh,540px);overflow:auto}
