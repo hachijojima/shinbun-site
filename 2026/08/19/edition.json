@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T22:50:39+09:00",
+ "built": "2026-11-27T23:03:25+09:00",
  "prev": "/2026/08/18/",
  "next": "/2026/08/20/",
  "alerts": [],
@@ -125,13 +125,13 @@
   "id": "49156a",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/49156a.jpg?v=2a3569",
-   "og": "/img/kiji/49156a-og.jpg?v=2a3569",
-   "s": "/img/kiji/49156a-s.jpg?v=2a3569",
-   "m": "/img/kiji/49156a-m.jpg?v=2a3569",
-   "caption": "東京の離島 伊豆諸島に属する八丈島のふれあい牧場",
+   "src": "/img/kiji/49156a.jpg?v=52c2b9",
+   "og": "/img/kiji/49156a-og.jpg?v=52c2b9",
+   "s": "/img/kiji/49156a-s.jpg?v=52c2b9",
+   "m": "/img/kiji/49156a-m.jpg?v=52c2b9",
+   "caption": "富士グラウンド",
    "credit": "",
-   "file": "ac/23405393.jpg"
+   "file": "own/fuji-ground-6.jpg"
   }
  },
  "side": [],

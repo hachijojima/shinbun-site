@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T22:49:22+09:00",
+ "built": "2026-11-27T23:02:47+09:00",
  "prev": "/2026/08/16/",
  "next": "/2026/08/18/",
  "alerts": [],
@@ -120,13 +120,13 @@
   "id": "4fc858",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/4fc858.jpg?v=7ded83",
-   "og": "/img/kiji/4fc858-og.jpg?v=7ded83",
-   "s": "/img/kiji/4fc858-s.jpg?v=7ded83",
-   "m": "/img/kiji/4fc858-m.jpg?v=7ded83",
-   "caption": "八丈島の公園の風景",
+   "src": "/img/kiji/4fc858.jpg?v=6e83c7",
+   "og": "/img/kiji/4fc858-og.jpg?v=6e83c7",
+   "s": "/img/kiji/4fc858-s.jpg?v=6e83c7",
+   "m": "/img/kiji/4fc858-m.jpg?v=6e83c7",
+   "caption": "富士グラウンド",
    "credit": "",
-   "file": "ac/3322933.jpg"
+   "file": "own/fuji-ground-4.jpg"
   }
  },
  "side": [],

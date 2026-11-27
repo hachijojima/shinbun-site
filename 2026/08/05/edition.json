@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T22:46:07+09:00",
+ "built": "2026-11-27T22:59:34+09:00",
  "prev": "/2026/08/04/",
  "next": "/2026/08/06/",
  "alerts": [],
@@ -232,13 +232,13 @@
    "id": "c84ed0",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/c84ed0.jpg?v=8e0d37",
-    "og": "/img/kiji/c84ed0-og.jpg?v=8e0d37",
-    "s": "/img/kiji/c84ed0-s.jpg?v=8e0d37",
-    "m": "/img/kiji/c84ed0-m.jpg?v=8e0d37",
-    "caption": "熊本地震からの復興のシンボル・熊本城",
+    "src": "/img/kiji/c84ed0.jpg?v=74c56d",
+    "og": "/img/kiji/c84ed0-og.jpg?v=74c56d",
+    "s": "/img/kiji/c84ed0-s.jpg?v=74c56d",
+    "m": "/img/kiji/c84ed0-m.jpg?v=74c56d",
+    "caption": "JA東京島しょ 八丈",
     "credit": "",
-    "file": "ac/35429646.jpg"
+    "file": "own/ja-2.jpg"
    }
   }
  ],
