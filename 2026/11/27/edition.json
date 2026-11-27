@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T10:13:12+09:00",
+ "built": "2026-11-27T10:46:20+09:00",
  "prev": "/2026/11/26/",
  "next": null,
  "alerts": [],
@@ -736,5 +736,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=11"
  },
- "chrome": "a451aaca92c3"
+ "chrome": "3a25ff1ca077"
 }

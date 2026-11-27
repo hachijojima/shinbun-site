@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-26T21:41:29+09:00",
+ "built": "2026-11-27T10:47:58+09:00",
  "prev": "/2026/08/08/",
  "next": "/2026/08/10/",
  "alerts": [],
@@ -59,17 +59,44 @@
  },
  "number": null,
  "top": {
-  "headline": "花の会、介護の人手調査まとまる",
+  "headline": "花の会の介護人手調査 秋に公表",
   "body": [
-   "NPO法人八丈島花の会によると、8日までに人員不足に関するアンケートの集計、分析、提言がまとまった。アンケートは、この春に伊豆諸島・小笠原の20を超える介護サービス事業者へ行った。",
-   "花の会は来週、協力した事業者に報告書を送る。",
-   "花の会は4月21日、アンケートを実施中と伝えた。集計結果は、秋に淑徳大学の結城教授を招くシンポジウムで発表する予定。"
+   "大賀郷のNPO法人八丈島花の会は8日、伊豆諸島と小笠原の介護事業者に行った人手不足のアンケートについて、集計と分析、提言までまとまったと明らかにした。来週、協力した事業者に報告書を送る。結果はまだ公表されておらず、秋のシンポジウムで公表する予定。",
+   "アンケートは今春、島々の20を超える介護サービス事業者に行った。花の会によると、集計結果は秋に淑徳大学の結城康博教授を招いて開くシンポジウムで発表する予定。結城教授は同大学総合福祉学部の教授で、社会福祉学を専門とする。外国人の介護従事者や、ホームヘルパーの観察項目についての共同研究に加わってきた。",
+   "八丈島の介護は、限られた事業所が支えている。都によると、2024年1月1日現在の町の人口は6,795人。このうち65歳以上は2,734人で、40.2%を占める。島内には特別養護老人ホームが1カ所(定員100人)ある。ほかに訪問介護と通所系が4カ所ずつ、居宅介護支援事業所が2カ所、短期入所が1カ所(20人)ある。",
+   "介護の仕事を始めるための資格を、島内で取る機会は途切れていた。基礎の資格を取る介護職員初任者研修は、町が委託して開いてきた。2023年度は委託先の人手不足で中止になり、2024年度も開かれなかった。島内の介護事業所の人手不足は、2023年12月の八丈町議会定例会の一般質問でも取り上げられた。",
+   "研修が島内で再び開かれたのは今年だ。都は「介護人材の裾野拡大」を掲げ、2025年度から島しょ9町村で無料の初任者研修を始めた。2025年度は三宅村と八丈町で開いた。八丈町では1月25日から3月15日までのうち15日間行われた。",
+   "花の会は2024年5月1日に都の認証を受けたNPO法人で、代表は中村則子さん。認知症や障害があっても誰もが安心して暮らせる「地域共生の町」を目指している。保健・医療・福祉やまちづくりの分野で活動している。"
   ],
   "figure": null,
   "sources": [
    {
     "label": "八丈島花の会",
     "url": "https://x.com/8johana2417/status/2085838643491667994"
+   },
+   {
+    "label": "東京都生活文化局",
+    "url": "https://www.seikatubunka1.metro.tokyo.lg.jp/houjin/npo_houjin/list/ledger/0014508.html"
+   },
+   {
+    "label": "東京都保健医療局",
+    "url": "https://www.hokeniryo.metro.tokyo.lg.jp/shisetsu/jigyosyo/hokenjyo/tousyo/hokenshibosyu/chouson/hachijo"
+   },
+   {
+    "label": "東京都福祉局",
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/ja/kourei/hoken/shoninshakenshu-islands"
+   },
+   {
+    "label": "八丈町",
+    "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/27094928/r060225.pdf"
+   },
+   {
+    "label": "八丈町議会",
+    "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/25165815/20230401.pdf#page=55"
+   },
+   {
+    "label": "研究者・研究課題総覧",
+    "url": "https://nrid.nii.ac.jp/ja/nrid/1000010458622"
    }
   ],
   "label": "くらし",
@@ -78,14 +105,15 @@
   "id": "182816",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/182816.jpg?v=d1547c",
-   "og": "/img/kiji/182816-og.jpg?v=d1547c",
-   "s": "/img/kiji/182816-s.jpg?v=d1547c",
-   "m": "/img/kiji/182816-m.jpg?v=d1547c",
-   "caption": "八丈町保健福祉センター",
+   "src": "/img/kiji/182816.jpg?v=e0af0d",
+   "og": "/img/kiji/182816-og.jpg?v=e0af0d",
+   "s": "/img/kiji/182816-s.jpg?v=e0af0d",
+   "m": "/img/kiji/182816-m.jpg?v=e0af0d",
+   "caption": "八丈町役場の中",
    "credit": "",
-   "file": "own/hoken-fukushi-1.jpg"
-  }
+   "file": "own/yakuba-naka-3.jpg"
+  },
+  "edited": "2026-11-27T10:47:51+09:00"
  },
  "side": [],
  "shorts": [
@@ -364,5 +392,5 @@
   },
   "src": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=1926&month=8"
  },
- "chrome": "a451aaca92c3"
+ "chrome": "3a25ff1ca077"
 }
