@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T10:21:30+09:00",
+ "built": "2026-11-28T18:21:11+09:00",
  "prev": "/2026/11/03/",
  "next": "/2026/11/05/",
  "alerts": [
@@ -360,6 +360,10 @@
     {
      "label": "グレーター トウキョウ フェスティバル実行委員会",
      "url": "https://gtfweb.com/gcd2026/"
+    },
+    {
+     "label": "写真:Jakub Hałun、CC BY 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Shinjuku_Gyoen_National_Garden,_Tokyo,_20240822_1447_5457.jpg"
     }
    ],
    "label": "産業",
@@ -368,13 +372,13 @@
    "id": "a52da5",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/a52da5.jpg?v=820f1d",
-    "og": "/img/kiji/a52da5-og.jpg?v=820f1d",
-    "s": "/img/kiji/a52da5-s.jpg?v=820f1d",
-    "m": "/img/kiji/a52da5-m.jpg?v=820f1d",
-    "caption": "新宿の高層ビル街と新宿御苑",
+    "src": "/img/kiji/a52da5.jpg?v=f60be5",
+    "og": "/img/kiji/a52da5-og.jpg?v=f60be5",
+    "s": "/img/kiji/a52da5-s.jpg?v=f60be5",
+    "m": "/img/kiji/a52da5-m.jpg?v=f60be5",
+    "caption": "新宿御苑",
     "credit": "",
-    "file": "ac/26868599.jpg"
+    "file": "commons/Shinjuku_Gyoen_National_Garden__Tokyo__20240822_1447_5457.jpg"
    }
   }
  ],

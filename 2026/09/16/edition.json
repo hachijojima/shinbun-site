@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:49:05+09:00",
+ "built": "2026-11-28T18:16:24+09:00",
  "prev": "/2026/09/15/",
  "next": "/2026/09/17/",
  "alerts": [],
@@ -82,6 +82,10 @@
    {
     "label": "広報はちじょう 2026年4月号",
     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/05/27201941/hachijo2604.pdf"
+   },
+   {
+    "label": "写真:国土交通省TEC-FORCE（テックフォース）撮影(2025年11月、八丈町。切り抜いて使用)",
+    "url": "https://www.tecforce.jp/202510/index.html"
    }
   ],
   "label": "くらし",
@@ -91,13 +95,13 @@
   "id": "4bd5f6",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/4bd5f6.jpg?v=10a9bb",
-   "og": "/img/kiji/4bd5f6-og.jpg?v=10a9bb",
-   "s": "/img/kiji/4bd5f6-s.jpg?v=10a9bb",
-   "m": "/img/kiji/4bd5f6-m.jpg?v=10a9bb",
-   "caption": "雨上がりの木のトンネル",
+   "src": "/img/kiji/4bd5f6.jpg?v=249c4b",
+   "og": "/img/kiji/4bd5f6-og.jpg?v=249c4b",
+   "s": "/img/kiji/4bd5f6-s.jpg?v=249c4b",
+   "m": "/img/kiji/4bd5f6-m.jpg?v=249c4b",
+   "caption": "台風で倒れた木(八丈町、2025年11月)",
    "credit": "",
-   "file": "ac/31251756.jpg"
+   "file": "commons/tecforce-202510-H002.jpg"
   }
  },
  "side": [],

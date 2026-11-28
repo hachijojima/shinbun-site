@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-25T10:09:21+09:00",
+ "built": "2026-11-28T18:15:35+09:00",
  "prev": "/2026/09/02/",
  "next": "/2026/09/04/",
  "alerts": [],
@@ -74,6 +74,10 @@
    {
     "label": "八丈町",
     "url": "https://www.town.hachijo.tokyo.jp/articles/oshirase-20260902-3/"
+   },
+   {
+    "label": "写真:国土交通省TEC-FORCE（テックフォース）撮影(2025年11月、八丈町。切り抜いて使用)",
+    "url": "https://www.tecforce.jp/202510/index.html"
    }
   ],
   "label": "くらし",
@@ -82,13 +86,13 @@
   "id": "786be3",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/786be3.jpg?v=99cb30",
-   "og": "/img/kiji/786be3-og.jpg?v=99cb30",
-   "s": "/img/kiji/786be3-s.jpg?v=99cb30",
-   "m": "/img/kiji/786be3-m.jpg?v=99cb30",
-   "caption": "崖崩れを起こした八丈島垂戸湾の岩場",
+   "src": "/img/kiji/786be3.jpg?v=24a782",
+   "og": "/img/kiji/786be3-og.jpg?v=24a782",
+   "s": "/img/kiji/786be3-s.jpg?v=24a782",
+   "m": "/img/kiji/786be3-m.jpg?v=24a782",
+   "caption": "台風で倒れた木を調べる職員(八丈町、2025年11月)",
    "credit": "",
-   "file": "ac/27267242.jpg"
+   "file": "commons/tecforce-202510-H001.jpg"
   }
  },
  "side": [],

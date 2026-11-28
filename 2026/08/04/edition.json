@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T17:08:07+09:00",
+ "built": "2026-11-28T18:13:57+09:00",
  "prev": "/2026/08/03/",
  "next": "/2026/08/05/",
  "alerts": [],
@@ -92,6 +92,10 @@
    {
     "label": "関東運輸局",
     "url": "https://wwwtb.mlit.go.jp/kanto/content/000347421.pdf"
+   },
+   {
+    "label": "写真:Tky_910_A3、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E6%B5%B7%E6%B1%BD%E8%88%B9%E6%A9%98%E4%B8%B8.jpg"
    }
   ],
   "label": "町政",
@@ -101,13 +105,13 @@
   "id": "a051f9",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/a051f9.jpg?v=21c004",
-   "og": "/img/kiji/a051f9-og.jpg?v=21c004",
-   "s": "/img/kiji/a051f9-s.jpg?v=21c004",
-   "m": "/img/kiji/a051f9-m.jpg?v=21c004",
-   "caption": "神湊漁港",
+   "src": "/img/kiji/a051f9.jpg?v=231e5f",
+   "og": "/img/kiji/a051f9-og.jpg?v=231e5f",
+   "s": "/img/kiji/a051f9-s.jpg?v=231e5f",
+   "m": "/img/kiji/a051f9-m.jpg?v=231e5f",
+   "caption": "東海汽船の橘丸",
    "credit": "",
-   "file": "own/kaminato-gyoko-3.jpg"
+   "file": "commons/a051f9-1.jpg"
   },
   "edited": "2026-11-27T08:43:49+09:00"
  },
@@ -199,7 +203,7 @@
      "url": "https://www.nies.go.jp/en/research/researchers/300751.html"
     },
     {
-     "label": "写真:Totti、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "label": "写真:Totti、CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Columba_janthina_nitens_inokashira_1.jpg"
     }
    ],

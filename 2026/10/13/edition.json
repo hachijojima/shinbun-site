@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:54:26+09:00",
+ "built": "2026-11-28T18:17:58+09:00",
  "prev": "/2026/10/12/",
  "next": "/2026/10/14/",
  "alerts": [],
@@ -181,6 +181,10 @@
     {
      "label": "For Good",
      "url": "https://for-good.net/project/1003804/support"
+    },
+    {
+     "label": "写真:国土交通省TEC-FORCE（テックフォース）撮影(2025年11月、八丈町。切り抜いて使用)",
+     "url": "https://www.tecforce.jp/202510/index.html"
     }
    ],
    "label": "産業",
@@ -189,13 +193,13 @@
    "id": "a630fb",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/a630fb.jpg?v=99cb30",
-    "og": "/img/kiji/a630fb-og.jpg?v=99cb30",
-    "s": "/img/kiji/a630fb-s.jpg?v=99cb30",
-    "m": "/img/kiji/a630fb-m.jpg?v=99cb30",
-    "caption": "崖崩れを起こした八丈島垂戸湾の岩場",
+    "src": "/img/kiji/a630fb.jpg?v=46c439",
+    "og": "/img/kiji/a630fb-og.jpg?v=46c439",
+    "s": "/img/kiji/a630fb-s.jpg?v=46c439",
+    "m": "/img/kiji/a630fb-m.jpg?v=46c439",
+    "caption": "台風の被害を受けた八丈町の道路(2025年11月)",
     "credit": "",
-    "file": "ac/27267242.jpg"
+    "file": "commons/tecforce-202510-E002.jpg"
    }
   },
   {

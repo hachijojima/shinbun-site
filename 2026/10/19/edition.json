@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T17:40:22+09:00",
+ "built": "2026-11-28T18:19:32+09:00",
  "prev": "/2026/10/18/",
  "next": "/2026/10/20/",
  "alerts": [],
@@ -99,6 +99,10 @@
     {
      "label": "東海汽船",
      "url": "https://www.tokaikisen.co.jp/wordpress/wp-content/uploads/2026/10/428b1782e514156d8f0abd6cc8db463f-2.pdf"
+    },
+    {
+     "label": "写真:東京九州フェリー、CC0(Wikimedia Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:%E3%81%95%E3%82%8B%E3%81%B3%E3%81%82%E4%B8%B8(2%E4%BB%A3).jpg"
     }
    ],
    "label": "くらし",
@@ -108,13 +112,13 @@
    "id": "02a399",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/02a399.jpg?v=2d5004",
-    "og": "/img/kiji/02a399-og.jpg?v=2d5004",
-    "s": "/img/kiji/02a399-s.jpg?v=2d5004",
-    "m": "/img/kiji/02a399-m.jpg?v=2d5004",
-    "caption": "八丈島・底土港客船待合所",
+    "src": "/img/kiji/02a399.jpg?v=c4d96f",
+    "og": "/img/kiji/02a399-og.jpg?v=c4d96f",
+    "s": "/img/kiji/02a399-s.jpg?v=c4d96f",
+    "m": "/img/kiji/02a399-m.jpg?v=c4d96f",
+    "caption": "東海汽船のさるびあ丸",
     "credit": "",
-    "file": "ac/4917189.jpg"
+    "file": "commons/9679a0-1.jpg"
    }
   },
   {
@@ -130,7 +134,7 @@
      "url": "https://www.metro.ed.jp/hachijo-h/news/2026/10/hanasaka.html"
     },
     {
-     "label": "写真:Kakidai、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "label": "写真:Kakidai、CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:GranTokyo_North_Tower_3_(cropped).jpg"
     }
    ],

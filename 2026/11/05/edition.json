@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:59:10+09:00",
+ "built": "2026-11-28T18:21:58+09:00",
  "prev": "/2026/11/04/",
  "next": "/2026/11/06/",
  "alerts": [
@@ -245,6 +245,10 @@
     {
      "label": "広報はちじょう 2026年8月号",
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/31161410/hachijo2608.pdf"
+    },
+    {
+     "label": "写真:国土交通省TEC-FORCE（テックフォース）撮影(2025年11月、八丈町。切り抜いて使用)",
+     "url": "https://www.tecforce.jp/202510/index.html"
     }
    ],
    "label": "町政",
@@ -254,13 +258,13 @@
    "id": "8e7c46",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/8e7c46.jpg?v=dca1d0",
-    "og": "/img/kiji/8e7c46-og.jpg?v=dca1d0",
-    "s": "/img/kiji/8e7c46-s.jpg?v=dca1d0",
-    "m": "/img/kiji/8e7c46-m.jpg?v=dca1d0",
-    "caption": "台風後の八丈島",
+    "src": "/img/kiji/8e7c46.jpg?v=1f1691",
+    "og": "/img/kiji/8e7c46-og.jpg?v=1f1691",
+    "s": "/img/kiji/8e7c46-s.jpg?v=1f1691",
+    "m": "/img/kiji/8e7c46-m.jpg?v=1f1691",
+    "caption": "台風の被害を受けた八丈町の道路(2025年11月)",
     "credit": "",
-    "file": "ac/3595112.jpg"
+    "file": "commons/tecforce-202510-G002.jpg"
    }
   },
   {

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T17:39:31+09:00",
+ "built": "2026-11-28T18:18:46+09:00",
  "prev": "/2026/10/14/",
  "next": "/2026/10/16/",
  "alerts": [],
@@ -221,6 +221,10 @@
     {
      "label": "八丈島観光協会",
      "url": "https://x.com/i/status/2110144814687846499"
+    },
+    {
+     "label": "写真:江戸村のとくぞう、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Salvia_Maru_220604c.jpg"
     }
    ],
    "label": "くらし",
@@ -229,13 +233,13 @@
    "id": "9679a0",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/9679a0.jpg?v=4d43c1",
-    "og": "/img/kiji/9679a0-og.jpg?v=4d43c1",
-    "s": "/img/kiji/9679a0-s.jpg?v=4d43c1",
-    "m": "/img/kiji/9679a0-m.jpg?v=4d43c1",
-    "caption": "底土港",
+    "src": "/img/kiji/9679a0.jpg?v=e6a804",
+    "og": "/img/kiji/9679a0-og.jpg?v=e6a804",
+    "s": "/img/kiji/9679a0-s.jpg?v=e6a804",
+    "m": "/img/kiji/9679a0-m.jpg?v=e6a804",
+    "caption": "東海汽船のさるびあ丸",
     "credit": "",
-    "file": "ac/1972114.jpg"
+    "file": "commons/Salvia_Maru_220604c.jpg"
    }
   }
  ],

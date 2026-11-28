@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T07:34:30+09:00",
+ "built": "2026-11-28T18:14:47+09:00",
  "prev": "/2026/08/05/",
  "next": "/2026/08/07/",
  "alerts": [],
@@ -82,6 +82,10 @@
    {
     "label": "伊豆諸島開発",
     "url": "https://x.com/izu_shibaura/status/2084748975945691642"
+   },
+   {
+    "label": "写真:Ishuty、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+    "url": "https://commons.wikimedia.org/wiki/File:Tachibana_maru_(2014).jpg"
    }
   ],
   "label": "くらし",
@@ -91,13 +95,13 @@
   "id": "5d49e3",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/5d49e3.jpg?v=9a70c7",
-   "og": "/img/kiji/5d49e3-og.jpg?v=9a70c7",
-   "s": "/img/kiji/5d49e3-s.jpg?v=9a70c7",
-   "m": "/img/kiji/5d49e3-m.jpg?v=9a70c7",
-   "caption": "底土港の防波堤整備現場",
+   "src": "/img/kiji/5d49e3.jpg?v=fd823b",
+   "og": "/img/kiji/5d49e3-og.jpg?v=fd823b",
+   "s": "/img/kiji/5d49e3-s.jpg?v=fd823b",
+   "m": "/img/kiji/5d49e3-m.jpg?v=fd823b",
+   "caption": "東海汽船の橘丸",
    "credit": "",
-   "file": "ac/27266276.jpg"
+   "file": "commons/Tachibana_maru__2014_.jpg"
   }
  },
  "side": [],
