@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T11:01:37+09:00",
+ "built": "2026-11-29T00:44:37+09:00",
  "prev": "/2026/11/15/",
  "next": "/2026/11/17/",
  "alerts": [
@@ -203,26 +203,58 @@
   "edited": "2026-11-16T13:08:19+09:00",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/b8ffc3.jpg?v=1eaa61",
-   "og": "/img/kiji/b8ffc3-og.jpg?v=1eaa61",
-   "s": "/img/kiji/b8ffc3-s.jpg?v=1eaa61",
-   "m": "/img/kiji/b8ffc3-m.jpg?v=1eaa61",
+   "src": "/img/kiji/b8ffc3.jpg?v=5ea53f",
+   "og": "/img/kiji/b8ffc3-og.jpg?v=5ea53f",
+   "s": "/img/kiji/b8ffc3-s.jpg?v=5ea53f",
+   "m": "/img/kiji/b8ffc3-m.jpg?v=5ea53f",
    "caption": "フェニックスロベレニー",
    "credit": "",
-   "file": "ac/27447099.jpg"
+   "file": "ac/28974142.jpg"
   }
  },
  "side": [],
  "shorts": [
   {
-   "headline": "八丈島で88.5ミリの雨",
+   "headline": "11月の雨、半月で平年超す",
    "body": [
-    "気象庁によると、八丈島の15日の降水量は88.5ミリだった。最高気温は22.0度、最低気温は17.6度。まとまった雨の一日となった。"
+    "気象庁の八丈島の観測によると、15日の降水量は88.5ミリで、今月の1日の雨量として最も多かった。11月は1日から15日までの合計が366.5ミリになり、11月1か月分の平年値277.4ミリの約1.3倍に、半月で達した。",
+    "15日は明け方から弱い雨が降ったりやんだりし、昼すぎに強まった。毎時の観測では12時から14時までの2時間に37ミリ、19時から21時までに19ミリが降り、雨は日付が変わる頃まで続いた。1時間雨量の最大は25.5ミリ、最大瞬間風速は西南西の風で20.1メートルだった。島内のダイビング店、ダイビングスズミのX投稿によると、島の東側の海は穏やかで潜れたが、海から上がると雨が強まっていた。八丈島サトウダイビングも、風は弱かったが次第に雨が強まったと伝えている。",
+    "今月はまとまった雨が繰り返し降っている。5日に88.0ミリ、10日に55.0ミリ、13日に78.0ミリを観測した。13日は23時からの1時間に32.5ミリの強い雨が降り、13日から15日までの3日間の合計は177.0ミリになった。",
+    "2010年以降の11月で、1か月の雨量が今年の前半の366.5ミリを上回ったのは、2015年の549.5ミリ、2022年の421.5ミリ、2024年の548.5ミリの3回だけだ。残る13年は、1か月かけてもこの量に届かなかった。11月の月間雨量の観測史上10位は2024年の548.5ミリになっている。",
+    "この秋は月によって雨の量が大きく変わっている。9月は平年の2倍を超える843.0ミリが降ったが、10月は129.0ミリで、平年の479.1ミリの3割に満たなかった。"
    ],
    "sources": [
     {
-     "label": "気象庁",
-     "url": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?block_no=47678&day=&month=11&prec_no=44&view=p1&year=2026"
+     "label": "ダイビングスズミ",
+     "url": "https://x.com/dbsuzumi/status/2121984636972867947"
+    },
+    {
+     "label": "八丈島サトウダイビング",
+     "url": "https://x.com/stdiving/status/2121936325007827076"
+    },
+    {
+     "label": "気象庁 過去の気象データ 八丈島 2026年11月の日ごとの値",
+     "url": "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=47678&year=2026&month=11&day=&view="
+    },
+    {
+     "label": "気象庁 過去の気象データ 八丈島 2026年11月15日の1時間ごとの値",
+     "url": "https://www.data.jma.go.jp/stats/etrn/view/hourly_s1.php?prec_no=44&block_no=47678&year=2026&month=11&day=15&view="
+    },
+    {
+     "label": "気象庁 過去の気象データ 八丈島 2026年11月13日の1時間ごとの値",
+     "url": "https://www.data.jma.go.jp/stats/etrn/view/hourly_s1.php?prec_no=44&block_no=47678&year=2026&month=11&day=13&view="
+    },
+    {
+     "label": "気象庁 八丈島の平年値",
+     "url": "https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=44&block_no=47678&year=&month=&day=&view="
+    },
+    {
+     "label": "気象庁 八丈島の月ごとの降水量",
+     "url": "https://www.data.jma.go.jp/stats/etrn/view/monthly_s3.php?prec_no=44&block_no=47678&year=&month=&day=&view=p5"
+    },
+    {
+     "label": "気象庁 八丈島の観測史上1〜10位の値",
+     "url": "https://www.data.jma.go.jp/stats/etrn/view/rank_s.php?prec_no=44&block_no=47678&year=&month=11&day=&view="
     }
    ],
    "label": "くらし",
@@ -231,14 +263,15 @@
    "id": "d1df17",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/d1df17.jpg?v=bdfd22",
-    "og": "/img/kiji/d1df17-og.jpg?v=bdfd22",
-    "s": "/img/kiji/d1df17-s.jpg?v=bdfd22",
-    "m": "/img/kiji/d1df17-m.jpg?v=bdfd22",
-    "caption": "海の中/八丈島",
+    "src": "/img/kiji/d1df17.jpg?v=0d2b7a",
+    "og": "/img/kiji/d1df17-og.jpg?v=0d2b7a",
+    "s": "/img/kiji/d1df17-s.jpg?v=0d2b7a",
+    "m": "/img/kiji/d1df17-m.jpg?v=0d2b7a",
+    "caption": "気象庁の看板",
     "credit": "",
-    "file": "ac/4272244.jpg"
-   }
+    "file": "ac/26856564.jpg"
+   },
+   "edited": "2026-11-29T00:44:10+09:00"
   },
   {
    "headline": "バービーさん一家の八丈島旅",
@@ -259,13 +292,13 @@
    "id": "321139",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/321139.jpg?v=9112df",
-    "og": "/img/kiji/321139-og.jpg?v=9112df",
-    "s": "/img/kiji/321139-s.jpg?v=9112df",
-    "m": "/img/kiji/321139-m.jpg?v=9112df",
-    "caption": "朝焼けと底土海水浴場の砂浜",
+    "src": "/img/kiji/321139.jpg?v=9b881a",
+    "og": "/img/kiji/321139-og.jpg?v=9b881a",
+    "s": "/img/kiji/321139-s.jpg?v=9b881a",
+    "m": "/img/kiji/321139-m.jpg?v=9b881a",
+    "caption": "八丈島の海",
     "credit": "",
-    "file": "ac/27266328.jpg"
+    "file": "ac/26111712.jpg"
    }
   },
   {
