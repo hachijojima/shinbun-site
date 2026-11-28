@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T07:37:48+09:00",
+ "built": "2026-11-28T17:38:42+09:00",
  "prev": "/2026/09/20/",
  "next": "/2026/09/22/",
  "alerts": [],
@@ -66,6 +66,10 @@
    {
     "label": "大竜ファーム",
     "url": "https://x.com/dairyu0317/status/2101124842489803191"
+   },
+   {
+    "label": "写真:frankenstoen from Portland, Oregon、CC BY 2.0(Wikimedia Commons。切り抜いて使用)",
+    "url": "https://commons.wikimedia.org/wiki/File:Shiitakegrowing.jpg"
    }
   ],
   "label": "産業",
@@ -74,13 +78,13 @@
   "id": "1ad1aa",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/1ad1aa.jpg?v=0ba7ca",
-   "og": "/img/kiji/1ad1aa-og.jpg?v=0ba7ca",
-   "s": "/img/kiji/1ad1aa-s.jpg?v=0ba7ca",
-   "m": "/img/kiji/1ad1aa-m.jpg?v=0ba7ca",
-   "caption": "山の麓の農場",
+   "src": "/img/kiji/1ad1aa.jpg?v=1986b1",
+   "og": "/img/kiji/1ad1aa-og.jpg?v=1986b1",
+   "s": "/img/kiji/1ad1aa-s.jpg?v=1986b1",
+   "m": "/img/kiji/1ad1aa-m.jpg?v=1986b1",
+   "caption": "シイタケ",
    "credit": "",
-   "file": "ac/25961464.jpg"
+   "file": "commons/Shiitakegrowing.jpg"
   }
  },
  "side": [],

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T16:44:58+09:00",
+ "built": "2026-11-28T17:39:31+09:00",
  "prev": "/2026/10/14/",
  "next": "/2026/10/16/",
  "alerts": [],
@@ -103,13 +103,13 @@
   "id": "30d910",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/30d910.jpg?v=6f58c5",
-   "og": "/img/kiji/30d910-og.jpg?v=6f58c5",
-   "s": "/img/kiji/30d910-s.jpg?v=6f58c5",
-   "m": "/img/kiji/30d910-m.jpg?v=6f58c5",
-   "caption": "選挙+投票箱",
+   "src": "/img/kiji/30d910.jpg?v=70dca9",
+   "og": "/img/kiji/30d910-og.jpg?v=70dca9",
+   "s": "/img/kiji/30d910-s.jpg?v=70dca9",
+   "m": "/img/kiji/30d910-m.jpg?v=70dca9",
+   "caption": "八丈町役場",
    "credit": "",
-   "file": "ac/3607816.jpg"
+   "file": "own/yakuba-12.jpg"
   },
   "edited": "2026-11-27T16:44:53+09:00"
  },

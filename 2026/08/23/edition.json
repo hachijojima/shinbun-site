@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T12:01:59+09:00",
+ "built": "2026-11-28T17:36:14+09:00",
  "prev": "/2026/08/22/",
  "next": "/2026/09/01/",
  "alerts": [],
@@ -281,6 +281,10 @@
     {
      "label": "Wikipedia「マイマイ新子と千年の魔法」",
      "url": "https://ja.wikipedia.org/wiki/マイマイ新子と千年の魔法"
+    },
+    {
+     "label": "写真:Daibo Taku、CC BY 3.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Kashitate,_Hachijo,_Tokyo_100-1621,_Japan_-_panoramio.jpg"
     }
    ],
    "label": "文化",
@@ -290,13 +294,13 @@
    "id": "3444fa",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/3444fa.jpg?v=baa772",
-    "og": "/img/kiji/3444fa-og.jpg?v=baa772",
-    "s": "/img/kiji/3444fa-s.jpg?v=baa772",
-    "m": "/img/kiji/3444fa-m.jpg?v=baa772",
-    "caption": "八丈島の大賀郷と樫立を結ぶ大坂トンネル",
+    "src": "/img/kiji/3444fa.jpg?v=7e8567",
+    "og": "/img/kiji/3444fa-og.jpg?v=7e8567",
+    "s": "/img/kiji/3444fa-s.jpg?v=7e8567",
+    "m": "/img/kiji/3444fa-m.jpg?v=7e8567",
+    "caption": "樫立",
     "credit": "",
-    "file": "ac/24702422.jpg"
+    "file": "commons/Kashitate_Hachijo_Tokyo_100-1621_Japan_-_panoramio.jpg"
    }
   },
   {
@@ -529,7 +533,7 @@
    "date": "2026-08-20",
    "url": "/2026/08/20/074890/",
    "headlines": [
-    "八丈病院の耳鼻科、きょうあす"
+    "耳鼻科の臨時診療、20・21日"
    ]
   },
   {

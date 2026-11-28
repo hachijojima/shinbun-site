@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T13:54:46+09:00",
+ "built": "2026-11-28T17:34:38+09:00",
  "prev": "/2026/08/20/",
  "next": "/2026/08/22/",
  "alerts": [],
@@ -275,13 +275,13 @@
    "id": "9c583d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/9c583d.jpg?v=d1ab48",
-    "og": "/img/kiji/9c583d-og.jpg?v=d1ab48",
-    "s": "/img/kiji/9c583d-s.jpg?v=d1ab48",
-    "m": "/img/kiji/9c583d-m.jpg?v=d1ab48",
-    "caption": "東京都島しょ農林水産総合センター八丈事業所の案内板",
+    "src": "/img/kiji/9c583d.jpg?v=d7357e",
+    "og": "/img/kiji/9c583d-og.jpg?v=d7357e",
+    "s": "/img/kiji/9c583d-s.jpg?v=d7357e",
+    "m": "/img/kiji/9c583d-m.jpg?v=d7357e",
+    "caption": "ムロアジのくさや",
     "credit": "",
-    "file": "own/norin-center-1.jpg"
+    "file": "ac/26719199.jpg"
    },
    "edited": "2026-11-28T12:05:51+09:00"
   },
@@ -324,6 +324,10 @@
     {
      "label": "隠岐ビト",
      "url": "https://www.okibito.jp/post-12812/"
+    },
+    {
+     "label": "写真:Kuruman、CC BY 2.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Okinoshima_(15066448338).jpg"
     }
    ],
    "label": "教育",
@@ -333,13 +337,13 @@
    "id": "92d0d5",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/92d0d5.jpg?v=7ded83",
-    "og": "/img/kiji/92d0d5-og.jpg?v=7ded83",
-    "s": "/img/kiji/92d0d5-s.jpg?v=7ded83",
-    "m": "/img/kiji/92d0d5-m.jpg?v=7ded83",
-    "caption": "八丈島の公園の風景",
+    "src": "/img/kiji/92d0d5.jpg?v=a6d853",
+    "og": "/img/kiji/92d0d5-og.jpg?v=a6d853",
+    "s": "/img/kiji/92d0d5-s.jpg?v=a6d853",
+    "m": "/img/kiji/92d0d5-m.jpg?v=a6d853",
+    "caption": "隠岐の島町の町並み",
     "credit": "",
-    "file": "ac/3322933.jpg"
+    "file": "commons/Okinoshima_15066448338_.jpg"
    },
    "edited": "2026-11-28T12:11:04+09:00"
   },

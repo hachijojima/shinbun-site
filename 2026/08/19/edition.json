@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T23:03:25+09:00",
+ "built": "2026-11-28T17:33:50+09:00",
  "prev": "/2026/08/18/",
  "next": "/2026/08/20/",
  "alerts": [],
@@ -116,6 +116,10 @@
    {
     "label": "広報はちじょう",
     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23144917/hachijo0909.pdf"
+   },
+   {
+    "label": "写真:DassaiOffice、Public domain(Wikimedia Commons)",
+    "url": "https://commons.wikimedia.org/wiki/File:Oki_SAIGO_KOUOOHASHI.JPG"
    }
   ],
   "label": "教育",
@@ -125,13 +129,13 @@
   "id": "49156a",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/49156a.jpg?v=52c2b9",
-   "og": "/img/kiji/49156a-og.jpg?v=52c2b9",
-   "s": "/img/kiji/49156a-s.jpg?v=52c2b9",
-   "m": "/img/kiji/49156a-m.jpg?v=52c2b9",
-   "caption": "富士グラウンド",
+   "src": "/img/kiji/49156a.jpg?v=e418be",
+   "og": "/img/kiji/49156a-og.jpg?v=e418be",
+   "s": "/img/kiji/49156a-s.jpg?v=e418be",
+   "m": "/img/kiji/49156a-m.jpg?v=e418be",
+   "caption": "隠岐の島町・西郷港の港町",
    "credit": "",
-   "file": "own/fuji-ground-6.jpg"
+   "file": "commons/Oki_SAIGO_KOUOOHASHI.jpg"
   }
  },
  "side": [],
@@ -464,7 +468,7 @@
    "date": "2026-08-12",
    "url": "/2026/08/12/5e00a7/",
    "headlines": [
-    "納涼花火、雨で開始を20時30分に"
+    "雨で花火の開始を19分繰り下げ"
    ]
   }
  ],

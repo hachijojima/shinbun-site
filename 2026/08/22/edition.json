@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T11:19:05+09:00",
+ "built": "2026-11-28T17:35:26+09:00",
  "prev": "/2026/08/21/",
  "next": "/2026/08/23/",
  "alerts": [],
@@ -271,6 +271,10 @@
     {
      "label": "広報はちじょう2009年9月号",
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23144917/hachijo0909.pdf"
+    },
+    {
+     "label": "写真:Snap55、CC BY 3.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Rosoku-is.jpg"
     }
    ],
    "label": "教育",
@@ -280,13 +284,13 @@
    "id": "f98c27",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f98c27.jpg?v=a6a554",
-    "og": "/img/kiji/f98c27-og.jpg?v=a6a554",
-    "s": "/img/kiji/f98c27-s.jpg?v=a6a554",
-    "m": "/img/kiji/f98c27-m.jpg?v=a6a554",
-    "caption": "東京の離島 伊豆諸島に属する八丈島の八丈富士",
+    "src": "/img/kiji/f98c27.jpg?v=cb4114",
+    "og": "/img/kiji/f98c27-og.jpg?v=cb4114",
+    "s": "/img/kiji/f98c27-s.jpg?v=cb4114",
+    "m": "/img/kiji/f98c27-m.jpg?v=cb4114",
+    "caption": "隠岐の島町のローソク島",
     "credit": "",
-    "file": "ac/23405506.jpg"
+    "file": "commons/Rosoku-is.jpg"
    }
   },
   {
@@ -354,6 +358,10 @@
     {
      "label": "東京都市長会・東京都町村会　令和7年度実施報告書",
      "url": "https://www.tokyo-mayors.jp/cmsfiles/contents/0000000/236/R7houkoku.pdf"
+    },
+    {
+     "label": "写真:Mizushimasea、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Small_Worlds_Tokyo_Koto-ku_Tokyo.jpg"
     }
    ],
    "label": "教育",
@@ -362,13 +370,13 @@
    "id": "90e81b",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/90e81b.jpg?v=78c48d",
-    "og": "/img/kiji/90e81b-og.jpg?v=78c48d",
-    "s": "/img/kiji/90e81b-s.jpg?v=78c48d",
-    "m": "/img/kiji/90e81b-m.jpg?v=78c48d",
-    "caption": "グランドピアノのミニチュア",
+    "src": "/img/kiji/90e81b.jpg?v=063f6c",
+    "og": "/img/kiji/90e81b-og.jpg?v=063f6c",
+    "s": "/img/kiji/90e81b-s.jpg?v=063f6c",
+    "m": "/img/kiji/90e81b-m.jpg?v=063f6c",
+    "caption": "スモールワールズTOKYO(東京都江東区)",
     "credit": "",
-    "file": "ac/24266171.jpg"
+    "file": "commons/Small_Worlds_Tokyo_Koto-ku_Tokyo.jpg"
    }
   },
   {
@@ -512,7 +520,7 @@
    "date": "2026-08-20",
    "url": "/2026/08/20/074890/",
    "headlines": [
-    "八丈病院の耳鼻科、きょうあす"
+    "耳鼻科の臨時診療、20・21日"
    ]
   },
   {

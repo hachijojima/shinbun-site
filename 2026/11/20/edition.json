@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T13:20:42+09:00",
+ "built": "2026-11-28T17:41:10+09:00",
  "prev": "/2026/11/19/",
  "next": "/2026/11/21/",
  "alerts": [
@@ -215,6 +215,10 @@
    {
     "label": "広報はちじょう 2018年12月号",
     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23134212/hachijo1812.pdf"
+   },
+   {
+    "label": "写真:Giles Laurent、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+    "url": "https://commons.wikimedia.org/wiki/File:001_Humpback_whale_breaching_in_Ballena_Marine_National_Park_Photo_by_Giles_Laurent.jpg"
    }
   ],
   "label": "文化",
@@ -223,13 +227,13 @@
   "id": "6374f9",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/6374f9.jpg?v=d3b04c",
-   "og": "/img/kiji/6374f9-og.jpg?v=d3b04c",
-   "s": "/img/kiji/6374f9-s.jpg?v=d3b04c",
-   "m": "/img/kiji/6374f9-m.jpg?v=d3b04c",
-   "caption": "大賀郷公民館",
+   "src": "/img/kiji/6374f9.jpg?v=932b33",
+   "og": "/img/kiji/6374f9-og.jpg?v=932b33",
+   "s": "/img/kiji/6374f9-s.jpg?v=932b33",
+   "m": "/img/kiji/6374f9-m.jpg?v=932b33",
+   "caption": "ザトウクジラ",
    "credit": "",
-   "file": "own/okago-kominkan-2.jpg"
+   "file": "commons/001_Humpback_whale_breaching_in_Ballena_Marine_National_Park_Photo_by_Giles_Laur.jpg"
   }
  },
  "side": [],

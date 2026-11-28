@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T17:12:09+09:00",
+ "built": "2026-11-28T17:37:52+09:00",
  "prev": "/2026/09/16/",
  "next": "/2026/09/18/",
  "alerts": [],
@@ -112,6 +112,10 @@
     {
      "label": "大竜ファーム",
      "url": "https://x.com/dairyu0317/status/2100142782874820987"
+    },
+    {
+     "label": "写真:Sakurai Midori、CC BY-SA 3.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Lentinula_edodes_shiitake.JPG"
     }
    ],
    "label": "産業",
@@ -121,13 +125,13 @@
    "id": "eaeb2a",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/eaeb2a.jpg?v=dca1d0",
-    "og": "/img/kiji/eaeb2a-og.jpg?v=dca1d0",
-    "s": "/img/kiji/eaeb2a-s.jpg?v=dca1d0",
-    "m": "/img/kiji/eaeb2a-m.jpg?v=dca1d0",
-    "caption": "台風後の八丈島",
+    "src": "/img/kiji/eaeb2a.jpg?v=34a73d",
+    "og": "/img/kiji/eaeb2a-og.jpg?v=34a73d",
+    "s": "/img/kiji/eaeb2a-s.jpg?v=34a73d",
+    "m": "/img/kiji/eaeb2a-m.jpg?v=34a73d",
+    "caption": "原木に生えたシイタケ",
     "credit": "",
-    "file": "ac/3595112.jpg"
+    "file": "commons/Lentinula_edodes_shiitake.jpg"
    }
   },
   {
@@ -205,7 +209,7 @@
      "url": "https://prtimes.jp/main/html/rd/p/000000005.000167371.html"
     },
     {
-     "label": "写真:KishujiRapid、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "label": "写真:KishujiRapid、CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:JR_Nishi_Akashi_Station_West_Gate_20200523.jpg"
     }
    ],

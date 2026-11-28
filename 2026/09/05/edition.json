@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T07:36:11+09:00",
+ "built": "2026-11-28T17:37:06+09:00",
  "prev": "/2026/09/04/",
  "next": "/2026/09/06/",
  "alerts": [],
@@ -109,6 +109,10 @@
     {
      "label": "八丈島乳業",
      "url": "https://x.com/milk8jo/status/2095814601866932605"
+    },
+    {
+     "label": "写真:Wpcpey、CC BY 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Nihonbashimuromachi_Mitsui_Tower_View_201912.jpg"
     }
    ],
    "label": "産業",
@@ -117,13 +121,13 @@
    "id": "5dbdd4",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/5dbdd4.jpg?v=6396bb",
-    "og": "/img/kiji/5dbdd4-og.jpg?v=6396bb",
-    "s": "/img/kiji/5dbdd4-s.jpg?v=6396bb",
-    "m": "/img/kiji/5dbdd4-m.jpg?v=6396bb",
-    "caption": "八丈島の焼酎",
+    "src": "/img/kiji/5dbdd4.jpg?v=5e606a",
+    "og": "/img/kiji/5dbdd4-og.jpg?v=5e606a",
+    "s": "/img/kiji/5dbdd4-s.jpg?v=5e606a",
+    "m": "/img/kiji/5dbdd4-m.jpg?v=5e606a",
+    "caption": "COREDO室町テラスの入る日本橋室町三井タワー",
     "credit": "",
-    "file": "own/shochu-1.jpg"
+    "file": "commons/Nihonbashimuromachi_Mitsui_Tower_View_201912.jpg"
    }
   },
   {
