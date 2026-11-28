@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T07:42:05+09:00",
+ "built": "2026-11-28T22:45:57+09:00",
  "prev": "/2026/10/25/",
  "next": "/2026/10/27/",
  "alerts": [
@@ -205,13 +205,13 @@
   "id": "08c682",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/08c682.jpg?v=451417",
-   "og": "/img/kiji/08c682-og.jpg?v=451417",
-   "s": "/img/kiji/08c682-s.jpg?v=451417",
-   "m": "/img/kiji/08c682-m.jpg?v=451417",
-   "caption": "クジラが見える八丈島",
+   "src": "/img/kiji/08c682.jpg?v=42cc9a",
+   "og": "/img/kiji/08c682-og.jpg?v=42cc9a",
+   "s": "/img/kiji/08c682-s.jpg?v=42cc9a",
+   "m": "/img/kiji/08c682-m.jpg?v=42cc9a",
+   "caption": "八丈島のクジラ",
    "credit": "",
-   "file": "ac/26037884.jpg"
+   "file": "ac/28831035.jpg"
   }
  },
  "side": [],
@@ -271,14 +271,34 @@
    }
   },
   {
-   "headline": "八丈植物公園、臨時職員を募集",
+   "headline": "植物公園が契約・臨時職員募集",
    "body": [
-    "八丈ビジターセンターは24日、八丈植物公園で臨時職員を募集していると伝えた。"
+    "八丈植物公園で、園の維持管理を担う人を二つの形で募集している。八丈ビジターセンターは23日、臨時職員の募集をXで改めて告知し、募集要項にある月20日の勤務日数は減らせると説明した。同園を管理する公益財団法人東京都公園協会も、16日から求人サイトで月給25万円の契約社員を募っており、採用は12月1日の予定だ。",
+    "臨時職員は長期で働ける人を求めている。ビジターセンターの投稿によると、仕事はキョンの世話、植栽管理、草刈り、伐採、園内巡回、温室管理など。最初の告知は6日で、詳しい募集要項はセンターの窓口で渡している。投稿には時給や締め切りが書かれておらず、要項で確かめる必要がある。問い合わせ先は同センターで、電話04996-2-4811。",
+    "契約社員の求人は、協会が転職サイト「マイナビ転職」に出した。勤務地は大賀郷の八丈植物公園と八丈ビジターセンター。仕事は園内の植栽、伐木、剪定、草刈り、施設の補修・清掃・点検、巡回、気象災害への対応、動物舎の清掃やキョンの餌やりなどだ。勤務は8時30分から17時30分で、シフト制の完全週休2日、年間休日は126日以上とされる。",
+    "給与は月給25万円に特地勤務手当1万7500円が付き、賞与は年2回。協会は初年度の年収を396万円と見込んでいる。契約は1年ごとの更新で、2年目以降は正職員の登用試験を受けられる。応募には普通自動車免許（AT限定可）と、Excel・Wordを使える程度のパソコン技能が必要で、未経験でも応募できる。選考は書類、適性検査、面接の順で、書類の受付は11月12日まで。求人の特徴欄には「急募」「募集人数10名以上」と表示している。協会が8月に出した都内の公園や霊園などで働く一般契約職員の募集要項では、基本報酬は月額24万円だった。",
+    "植物公園は、都環境局が所管する自然公園施設で、1962年に開園した。供用面積は約22.4ヘクタールある。人手の募集は今年に入って2度目になる。ビジターセンターは2月17日にもセンターと植物公園で働く長期の臨時職員を募り、3月16日に締め切った。締め切り直前の3月13日にも、勤務日数の変更を相談できると投稿していた。"
    ],
    "sources": [
     {
+     "label": "島内からの投稿 1件",
+     "url": ""
+    },
+    {
      "label": "八丈ビジターセンター",
-     "url": "https://x.com/8jo_vc"
+     "url": "https://x.com/8jo_vc/status/2113552364510802138"
+    },
+    {
+     "label": "東京都公園協会",
+     "url": "https://tenshoku.mynavi.jp/jobinfo-166908-2-28-1/"
+    },
+    {
+     "label": "東京都公園協会 一般契約職員採用募集要項",
+     "url": "https://www.tokyo-park.or.jp/association/assets/keiyaku_kouen_teien_reien20260801.pdf"
+    },
+    {
+     "label": "東京都環境局 八丈植物公園",
+     "url": "https://www.kankyo1.metro.tokyo.lg.jp/naturepark/know/shisetsu/fureai/hatijo.html"
     }
    ],
    "label": "くらし",
@@ -286,14 +306,15 @@
    "id": "1b0739",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/1b0739.jpg?v=ca24d5",
-    "og": "/img/kiji/1b0739-og.jpg?v=ca24d5",
-    "s": "/img/kiji/1b0739-s.jpg?v=ca24d5",
-    "m": "/img/kiji/1b0739-m.jpg?v=ca24d5",
-    "caption": "八丈植物公園メインエントランス",
+    "src": "/img/kiji/1b0739.jpg?v=9dfbce",
+    "og": "/img/kiji/1b0739-og.jpg?v=9dfbce",
+    "s": "/img/kiji/1b0739-s.jpg?v=9dfbce",
+    "m": "/img/kiji/1b0739-m.jpg?v=9dfbce",
+    "caption": "青空の下の八丈植物公園と八丈富士",
     "credit": "",
-    "file": "ac/27266206.jpg"
-   }
+    "file": "ac/34178683.jpg"
+   },
+   "edited": "2026-11-28T22:45:40+09:00"
   },
   {
    "headline": "八丈島・小島のパネル展示",
@@ -313,13 +334,13 @@
    "id": "012175",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/012175.jpg?v=9d75ab",
-    "og": "/img/kiji/012175-og.jpg?v=9d75ab",
-    "s": "/img/kiji/012175-s.jpg?v=9d75ab",
-    "m": "/img/kiji/012175-m.jpg?v=9d75ab",
-    "caption": "八丈島ビジターセンター入口",
+    "src": "/img/kiji/012175.jpg?v=e9f520",
+    "og": "/img/kiji/012175-og.jpg?v=e9f520",
+    "s": "/img/kiji/012175-s.jpg?v=e9f520",
+    "m": "/img/kiji/012175-m.jpg?v=e9f520",
+    "caption": "東京の離島 伊豆諸島に属する八丈島の八丈小島",
     "credit": "",
-    "file": "ac/5026921.jpg"
+    "file": "ac/23405514.jpg"
    }
   }
  ],
@@ -333,8 +354,14 @@
   {
    "date": "2026-10-28",
    "end": null,
-   "text": "小学校の運動会練習(三根・大賀郷)",
+   "text": "三根小学校の運動会練習",
    "url": "https://mitsune-es.8jo.ed.jp/n/ne086585780de"
+  },
+  {
+   "date": "2026-10-29",
+   "end": null,
+   "text": "小学校の運動会練習(三根・大賀郷)",
+   "url": "https://mitsune-es.8jo.ed.jp/n/n2b5119280883"
   },
   {
    "date": "2026-10-31",
@@ -349,12 +376,6 @@
    "url": "https://fuji-jhs.8jo.ed.jp/n/n28db719f7a29"
   },
   {
-   "date": "2026-10-31",
-   "end": null,
-   "text": "ショメ節の舞台",
-   "url": "https://x.com/hattoriyashiki/status/2116103112641659074"
-  },
-  {
    "date": "2026-11-01",
    "end": null,
    "text": "三原大運動会(三原小学校)",
@@ -363,14 +384,14 @@
   {
    "date": "2026-11-01",
    "end": null,
-   "text": "クルーズ客船「三井オーシャンサクラ」寄港",
-   "url": "https://www.mitsuioceancruises.com/"
+   "text": "発酵中フェス2026",
+   "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/"
   },
   {
    "date": "2026-11-01",
    "end": null,
-   "text": "発酵中フェス・くさや×島焼酎フェス",
-   "url": "https://www.hachijo.gr.jp/blogs/fermentation-fes-2026/"
+   "text": "はむら市民と産業のまつり(2日目)",
+   "url": "https://x.com/okusei_8jo/status/2116706408226017387"
   }
  ],
  "letters": [],
