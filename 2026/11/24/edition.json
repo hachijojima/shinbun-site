@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T17:16:57+09:00",
+ "built": "2026-11-28T19:29:18+09:00",
  "prev": "/2026/11/23/",
  "next": "/2026/11/25/",
  "alerts": [
@@ -199,7 +199,7 @@
     "url": "https://ubai-houmei.tokyo/"
    },
    {
-    "label": "写真:Daibo Taku、CC BY 3.0(Wikimedia Commons。切り抜いて使用)",
+    "label": "写真:Daibo Taku、CC BY 3.0",
     "url": "https://commons.wikimedia.org/wiki/File:Kashitate,_Hachijo,_Tokyo_100-1621,_Japan_-_panoramio_(1).jpg"
    }
   ],
@@ -299,6 +299,10 @@
     {
      "label": "広報はちじょう 2026年6月号",
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/05/27202107/hachijo2606.pdf"
+    },
+    {
+     "label": "写真:Kuldeepburjbhalaike、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Five_Lemons_on_lemon_tree,_Burj_Bhalaike.jpg"
     }
    ],
    "label": "教育",
@@ -308,13 +312,13 @@
    "id": "5072cf",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/5072cf.jpg?v=c9dbed",
-    "og": "/img/kiji/5072cf-og.jpg?v=c9dbed",
-    "s": "/img/kiji/5072cf-s.jpg?v=c9dbed",
-    "m": "/img/kiji/5072cf-m.jpg?v=c9dbed",
-    "caption": "八丈町立大賀郷小学校",
+    "src": "/img/kiji/5072cf.jpg?v=8dbf80",
+    "og": "/img/kiji/5072cf-og.jpg?v=8dbf80",
+    "s": "/img/kiji/5072cf-s.jpg?v=8dbf80",
+    "m": "/img/kiji/5072cf-m.jpg?v=8dbf80",
+    "caption": "木になるレモン",
     "credit": "",
-    "file": "own/okago-sho-3.jpg"
+    "file": "commons/Five_Lemons_on_lemon_tree__Burj_Bhalaike.jpg"
    }
   },
   {
@@ -331,7 +335,7 @@
      "url": "https://for-good.net/project/1004582"
     },
     {
-     "label": "写真:Obsidian Soul、CC0(Wikimedia Commons)",
+     "label": "写真:Obsidian Soul、CC0",
      "url": "https://commons.wikimedia.org/wiki/File:Kalamunggay_(Moringa_oleifera),_Philippines.jpg"
     }
    ],

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T10:20:08+09:00",
+ "built": "2026-11-28T19:25:51+09:00",
  "prev": "/2026/10/11/",
  "next": "/2026/10/13/",
  "alerts": [],
@@ -115,6 +115,10 @@
     {
      "label": "広報はちじょう 2020年2月号",
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23131530/hachijo2002.pdf"
+    },
+    {
+     "label": "写真:U.S. Air Force、Public domain(Wikimedia Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Team_Yokota_welcomes_runners_for_45th_Annual_Frostbite_Road_Race_(9485749).jpg"
     }
    ],
    "label": "文化",
@@ -124,13 +128,13 @@
    "id": "c9d818",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/c9d818.jpg?v=6aea60",
-    "og": "/img/kiji/c9d818-og.jpg?v=6aea60",
-    "s": "/img/kiji/c9d818-s.jpg?v=6aea60",
-    "m": "/img/kiji/c9d818-m.jpg?v=6aea60",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/c9d818.jpg?v=bd730f",
+    "og": "/img/kiji/c9d818-og.jpg?v=bd730f",
+    "s": "/img/kiji/c9d818-s.jpg?v=bd730f",
+    "m": "/img/kiji/c9d818-m.jpg?v=bd730f",
+    "caption": "ロードレース",
     "credit": "",
-    "file": "own/hachijo-koko-2.jpg"
+    "file": "commons/Team_Yokota_welcomes_runners_for_45th_Annual_Frostbite_Road_Race__9485749_.jpg"
    }
   },
   {

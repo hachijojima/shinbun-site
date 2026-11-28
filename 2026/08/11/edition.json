@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-26T16:04:29+09:00",
+ "built": "2026-11-28T19:17:30+09:00",
  "prev": "/2026/08/10/",
  "next": "/2026/08/12/",
  "alerts": [],
@@ -196,6 +196,10 @@
     {
      "label": "八丈高校",
      "url": "https://x.com/tokyo8jouhs/status/2086822543256846402"
+    },
+    {
+     "label": "写真:Chiba ryo、CC BY-SA 3.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Substitution2.jpg"
     }
    ],
    "label": "教育",
@@ -204,13 +208,13 @@
    "id": "435d64",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/435d64.jpg?v=c040ac",
-    "og": "/img/kiji/435d64-og.jpg?v=c040ac",
-    "s": "/img/kiji/435d64-s.jpg?v=c040ac",
-    "m": "/img/kiji/435d64-m.jpg?v=c040ac",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/435d64.jpg?v=4e9d76",
+    "og": "/img/kiji/435d64-og.jpg?v=4e9d76",
+    "s": "/img/kiji/435d64-s.jpg?v=4e9d76",
+    "m": "/img/kiji/435d64-m.jpg?v=4e9d76",
+    "caption": "バレーボールの試合",
     "credit": "",
-    "file": "own/hachijo-koko-3.jpg"
+    "file": "commons/Substitution2.jpg"
    }
   },
   {

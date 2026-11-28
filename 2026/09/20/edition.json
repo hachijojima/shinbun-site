@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:49:55+09:00",
+ "built": "2026-11-28T19:22:58+09:00",
  "prev": "/2026/09/19/",
  "next": "/2026/09/21/",
  "alerts": [],
@@ -176,6 +176,10 @@
     {
      "label": "八丈高校",
      "url": "https://x.com/tokyo8jouhs/status/2101255278025158748"
+    },
+    {
+     "label": "写真:小石川人晃、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Takahagi_City_Baseball_Stadium_05.jpg"
     }
    ],
    "label": "教育",
@@ -185,13 +189,13 @@
    "id": "e9a247",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/e9a247.jpg?v=6aea60",
-    "og": "/img/kiji/e9a247-og.jpg?v=6aea60",
-    "s": "/img/kiji/e9a247-s.jpg?v=6aea60",
-    "m": "/img/kiji/e9a247-m.jpg?v=6aea60",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/e9a247.jpg?v=5d4f9d",
+    "og": "/img/kiji/e9a247-og.jpg?v=5d4f9d",
+    "s": "/img/kiji/e9a247-s.jpg?v=5d4f9d",
+    "m": "/img/kiji/e9a247-m.jpg?v=5d4f9d",
+    "caption": "野球場",
     "credit": "",
-    "file": "own/hachijo-koko-2.jpg"
+    "file": "commons/Takahagi_City_Baseball_Stadium_05.jpg"
    }
   },
   {

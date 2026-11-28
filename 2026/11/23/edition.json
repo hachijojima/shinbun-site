@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T18:58:30+09:00",
+ "built": "2026-11-28T19:28:37+09:00",
  "prev": "/2026/11/22/",
  "next": "/2026/11/24/",
  "alerts": [
@@ -223,6 +223,10 @@
     {
      "label": "八丈高校",
      "url": "https://www.metro.ed.jp/hachijo-h/news/2026/11/vol.html"
+    },
+    {
+     "label": "写真:ikm、CC BY-SA 3.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Nankoku-City_-_panoramio.jpg"
     }
    ],
    "label": "教育",
@@ -231,13 +235,13 @@
    "id": "3e5a54",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/3e5a54.jpg?v=6aea60",
-    "og": "/img/kiji/3e5a54-og.jpg?v=6aea60",
-    "s": "/img/kiji/3e5a54-s.jpg?v=6aea60",
-    "m": "/img/kiji/3e5a54-m.jpg?v=6aea60",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/3e5a54.jpg?v=b8ad31",
+    "og": "/img/kiji/3e5a54-og.jpg?v=b8ad31",
+    "s": "/img/kiji/3e5a54-s.jpg?v=b8ad31",
+    "m": "/img/kiji/3e5a54-m.jpg?v=b8ad31",
+    "caption": "高知県南国市",
     "credit": "",
-    "file": "own/hachijo-koko-2.jpg"
+    "file": "commons/Nankoku-City_-_panoramio.jpg"
    },
    "edited": "2026-11-23T17:16:26+09:00"
   },

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T06:37:06+09:00",
+ "built": "2026-11-28T19:20:36+09:00",
  "prev": "/2026/08/15/",
  "next": "/2026/08/17/",
  "alerts": [],
@@ -268,6 +268,10 @@
     {
      "label": "八丈島新聞",
      "url": "https://shinbun.hachijojima.jp/2026/08/14/b17017/"
+    },
+    {
+     "label": "写真:USAG- Humphreys、CC BY 2.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:ESPN_Armed_Forces_Classic_-_Game_Day_-_U.S._Army_Garrison_Humphreys,_South_Korea_-_9_Nov._2013_(10829287284).jpg"
     }
    ],
    "label": "教育",
@@ -276,13 +280,13 @@
    "id": "427fea",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/427fea.jpg?v=24b011",
-    "og": "/img/kiji/427fea-og.jpg?v=24b011",
-    "s": "/img/kiji/427fea-s.jpg?v=24b011",
-    "m": "/img/kiji/427fea-m.jpg?v=24b011",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/427fea.jpg?v=b5b8b3",
+    "og": "/img/kiji/427fea-og.jpg?v=b5b8b3",
+    "s": "/img/kiji/427fea-s.jpg?v=b5b8b3",
+    "m": "/img/kiji/427fea-m.jpg?v=b5b8b3",
+    "caption": "バスケットボール",
     "credit": "",
-    "file": "own/hachijo-koko-4.jpg"
+    "file": "commons/ESPN_Armed_Forces_Classic_-_Game_Day_-_U.S._Army_Garrison_Humphreys__South_Korea.jpg"
    }
   },
   {
@@ -499,7 +503,7 @@
    "date": "2026-08-12",
    "url": "/2026/08/12/5e00a7/",
    "headlines": [
-    "納涼花火、雨で開始を20時30分に"
+    "雨で花火の開始を19分繰り下げ"
    ]
   },
   {

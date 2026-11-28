@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:50:43+09:00",
+ "built": "2026-11-28T19:23:42+09:00",
  "prev": "/2026/09/23/",
  "next": "/2026/09/25/",
  "alerts": [],
@@ -119,6 +119,10 @@
     {
      "label": "高校野球ドットコム",
      "url": "https://www.hb-nippon.com/games/47934"
+    },
+    {
+     "label": "写真:小石川人晃、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Takahagi_City_Baseball_Stadium_04.jpg"
     }
    ],
    "label": "教育",
@@ -128,13 +132,13 @@
    "id": "c44137",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/c44137.jpg?v=3ebb69",
-    "og": "/img/kiji/c44137-og.jpg?v=3ebb69",
-    "s": "/img/kiji/c44137-s.jpg?v=3ebb69",
-    "m": "/img/kiji/c44137-m.jpg?v=3ebb69",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/c44137.jpg?v=6cd3c1",
+    "og": "/img/kiji/c44137-og.jpg?v=6cd3c1",
+    "s": "/img/kiji/c44137-s.jpg?v=6cd3c1",
+    "m": "/img/kiji/c44137-m.jpg?v=6cd3c1",
+    "caption": "野球場",
     "credit": "",
-    "file": "own/hachijo-koko-1.jpg"
+    "file": "commons/Takahagi_City_Baseball_Stadium_04.jpg"
    }
   },
   {

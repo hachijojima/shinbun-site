@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T18:54:03+09:00",
+ "built": "2026-11-28T19:26:32+09:00",
  "prev": "/2026/10/19/",
  "next": "/2026/10/21/",
  "alerts": [],
@@ -75,6 +75,10 @@
    {
     "label": "伊勢崎唯町議",
     "url": "https://x.com/YuiIsezaki8jo/status/2112101764405375082"
+   },
+   {
+    "label": "写真:Krish Dulal、CC BY-SA 3.0(Wikimedia Commons。切り抜いて使用)",
+    "url": "https://commons.wikimedia.org/wiki/File:Madal_nepal_krish.jpg"
    }
   ],
   "label": "教育",
@@ -83,13 +87,13 @@
   "id": "f601d6",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/f601d6.jpg?v=c9a62f",
-   "og": "/img/kiji/f601d6-og.jpg?v=c9a62f",
-   "s": "/img/kiji/f601d6-s.jpg?v=c9a62f",
-   "m": "/img/kiji/f601d6-m.jpg?v=c9a62f",
-   "caption": "八丈太鼓",
+   "src": "/img/kiji/f601d6.jpg?v=46c0ad",
+   "og": "/img/kiji/f601d6-og.jpg?v=46c0ad",
+   "s": "/img/kiji/f601d6-s.jpg?v=46c0ad",
+   "m": "/img/kiji/f601d6-m.jpg?v=46c0ad",
+   "caption": "ネパールの太鼓マダル",
    "credit": "",
-   "file": "own/hachijo-taiko-2.jpg"
+   "file": "commons/Madal_nepal_krish.jpg"
   }
  },
  "side": [],

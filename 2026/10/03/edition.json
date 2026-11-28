@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T10:18:47+09:00",
+ "built": "2026-11-28T19:24:25+09:00",
  "prev": "/2026/10/02/",
  "next": "/2026/10/04/",
  "alerts": [],
@@ -155,6 +155,10 @@
     {
      "label": "広報はちじょう2013年11月号",
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23142928/hachijo1311.pdf"
+    },
+    {
+     "label": "写真:U.S. Air Force、Public domain(Wikimedia Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Frostbite_Road_Race_brings_together_Team_Yokota,_local_communities_(8836647).jpg"
     }
    ],
    "label": "文化",
@@ -163,13 +167,13 @@
    "id": "33fd7a",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/33fd7a.jpg?v=6aea60",
-    "og": "/img/kiji/33fd7a-og.jpg?v=6aea60",
-    "s": "/img/kiji/33fd7a-s.jpg?v=6aea60",
-    "m": "/img/kiji/33fd7a-m.jpg?v=6aea60",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/33fd7a.jpg?v=2b867c",
+    "og": "/img/kiji/33fd7a-og.jpg?v=2b867c",
+    "s": "/img/kiji/33fd7a-s.jpg?v=2b867c",
+    "m": "/img/kiji/33fd7a-m.jpg?v=2b867c",
+    "caption": "ロードレース",
     "credit": "",
-    "file": "own/hachijo-koko-2.jpg"
+    "file": "commons/Frostbite_Road_Race_brings_together_Team_Yokota__local_communities__8836647_.jpg"
    }
   },
   {
@@ -313,7 +317,7 @@
    "date": "2026-10-01",
    "url": "/2026/10/01/bab712/",
    "headlines": [
-    "台風26号、八丈島南を北東へ"
+    "9月の雨843ミリ、歴代5位"
    ]
   },
   {

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:49:30+09:00",
+ "built": "2026-11-28T19:22:11+09:00",
  "prev": "/2026/09/17/",
  "next": "/2026/09/19/",
  "alerts": [],
@@ -144,6 +144,10 @@
     {
      "label": "八丈高校",
      "url": "https://x.com/tokyo8jouhs/status/2100413289008333099"
+    },
+    {
+     "label": "写真:京浜にけ、CC BY-SA 3.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Saitama_Akigase_Park_1.JPG"
     }
    ],
    "label": "教育",
@@ -152,13 +156,13 @@
    "id": "55ae1d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/55ae1d.jpg?v=245d05",
-    "og": "/img/kiji/55ae1d-og.jpg?v=245d05",
-    "s": "/img/kiji/55ae1d-s.jpg?v=245d05",
-    "m": "/img/kiji/55ae1d-m.jpg?v=245d05",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/55ae1d.jpg?v=a365e4",
+    "og": "/img/kiji/55ae1d-og.jpg?v=a365e4",
+    "s": "/img/kiji/55ae1d-s.jpg?v=a365e4",
+    "m": "/img/kiji/55ae1d-m.jpg?v=a365e4",
+    "caption": "秋ヶ瀬公園(さいたま市)",
     "credit": "",
-    "file": "own/hachijo-koko-5.jpg"
+    "file": "commons/Saitama_Akigase_Park_1.jpg"
    }
   },
   {

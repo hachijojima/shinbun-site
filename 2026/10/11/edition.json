@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:54:03+09:00",
+ "built": "2026-11-28T19:25:08+09:00",
  "prev": "/2026/10/10/",
  "next": "/2026/10/12/",
  "alerts": [],
@@ -195,6 +195,10 @@
     {
      "label": "三原中",
      "url": "https://mihara-jhs.8jo.ed.jp/n/n678226ef7652"
+    },
+    {
+     "label": "写真:Hey Paul Studios from Kansas City, MO, United States、CC BY 2.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Feather_Stitch_Green,_Blue,_and_Grey_Embroidery_Hoop_Art._Hand_Embroidered._(8355465843).jpg"
     }
    ],
    "label": "教育",
@@ -203,13 +207,13 @@
    "id": "4feb93",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4feb93.jpg?v=221655",
-    "og": "/img/kiji/4feb93-og.jpg?v=221655",
-    "s": "/img/kiji/4feb93-s.jpg?v=221655",
-    "m": "/img/kiji/4feb93-m.jpg?v=221655",
-    "caption": "八丈町立三原中学校",
+    "src": "/img/kiji/4feb93.jpg?v=92a6c8",
+    "og": "/img/kiji/4feb93-og.jpg?v=92a6c8",
+    "s": "/img/kiji/4feb93-s.jpg?v=92a6c8",
+    "m": "/img/kiji/4feb93-m.jpg?v=92a6c8",
+    "caption": "刺繍",
     "credit": "",
-    "file": "own/mihara-chu-4.jpg"
+    "file": "commons/Feather_Stitch_Green__Blue__and_Grey_Embroidery_Hoop_Art._Hand_Embroidered.__835.jpg"
    }
   }
  ],

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T22:50:00+09:00",
+ "built": "2026-11-28T19:21:25+09:00",
  "prev": "/2026/08/17/",
  "next": "/2026/08/19/",
  "alerts": [],
@@ -279,6 +279,10 @@
     {
      "label": "東京都高体連バスケットボール女子専門部",
      "url": "https://hsw.tokyobasketball.jp/2026/2026_kaki_result.pdf"
+    },
+    {
+     "label": "写真:Jeramey Jannene (Grassferry49)、CC BY-SA 3.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Joseph_Craig_High_School_Gym.jpg"
     }
    ],
    "label": "教育",
@@ -288,13 +292,13 @@
    "id": "18b7ac",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/18b7ac.jpg?v=c040ac",
-    "og": "/img/kiji/18b7ac-og.jpg?v=c040ac",
-    "s": "/img/kiji/18b7ac-s.jpg?v=c040ac",
-    "m": "/img/kiji/18b7ac-m.jpg?v=c040ac",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/18b7ac.jpg?v=982766",
+    "og": "/img/kiji/18b7ac-og.jpg?v=982766",
+    "s": "/img/kiji/18b7ac-s.jpg?v=982766",
+    "m": "/img/kiji/18b7ac-m.jpg?v=982766",
+    "caption": "バスケットボールのコート",
     "credit": "",
-    "file": "own/hachijo-koko-3.jpg"
+    "file": "commons/Joseph_Craig_High_School_Gym.jpg"
    }
   },
   {
@@ -501,7 +505,7 @@
    "date": "2026-08-12",
    "url": "/2026/08/12/5e00a7/",
    "headlines": [
-    "納涼花火、雨で開始を20時30分に"
+    "雨で花火の開始を19分繰り下げ"
    ]
   },
   {

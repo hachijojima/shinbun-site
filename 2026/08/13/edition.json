@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T23:01:28+09:00",
+ "built": "2026-11-28T19:19:02+09:00",
  "prev": "/2026/08/12/",
  "next": "/2026/08/14/",
  "alerts": [],
@@ -362,6 +362,10 @@
     {
      "label": "八丈島観光協会",
      "url": "https://x.com/Go_Hachijo_JP/status/2087453492663513363"
+    },
+    {
+     "label": "写真:Ivan Bandura、CC BY 2.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Japan_VS_Korea_(7791394080).jpg"
     }
    ],
    "label": "教育",
@@ -371,13 +375,13 @@
    "id": "40bc23",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/40bc23.jpg?v=245d05",
-    "og": "/img/kiji/40bc23-og.jpg?v=245d05",
-    "s": "/img/kiji/40bc23-s.jpg?v=245d05",
-    "m": "/img/kiji/40bc23-m.jpg?v=245d05",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/40bc23.jpg?v=7f0d15",
+    "og": "/img/kiji/40bc23-og.jpg?v=7f0d15",
+    "s": "/img/kiji/40bc23-s.jpg?v=7f0d15",
+    "m": "/img/kiji/40bc23-m.jpg?v=7f0d15",
+    "caption": "バレーボールの試合",
     "credit": "",
-    "file": "own/hachijo-koko-5.jpg"
+    "file": "commons/Japan_VS_Korea__7791394080_.jpg"
    }
   },
   {
@@ -490,7 +494,7 @@
    "date": "2026-08-12",
    "url": "/2026/08/12/5e00a7/",
    "headlines": [
-    "納涼花火、雨で開始を20時30分に"
+    "雨で花火の開始を19分繰り下げ"
    ]
   },
   {
