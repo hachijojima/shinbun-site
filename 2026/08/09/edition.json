@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T10:47:58+09:00",
+ "built": "2026-11-28T17:09:47+09:00",
  "prev": "/2026/08/08/",
  "next": "/2026/08/10/",
  "alerts": [],
@@ -195,6 +195,10 @@
     {
      "label": "つり人社",
      "url": "https://web.tsuribito.co.jp/suburb/wada-kazuhiro-hachijojima"
+    },
+    {
+     "label": "写真:Shizhao、CC BY-SA 3.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Oplegnathus_punctatus_at_Beijing_Zoo.JPG"
     }
    ],
    "label": "産業",
@@ -203,13 +207,13 @@
    "id": "69db9c",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/69db9c.jpg?v=b06f24",
-    "og": "/img/kiji/69db9c-og.jpg?v=b06f24",
-    "s": "/img/kiji/69db9c-s.jpg?v=b06f24",
-    "m": "/img/kiji/69db9c-m.jpg?v=b06f24",
-    "caption": "東京都・八丈町 春の八丈小島の風景",
+    "src": "/img/kiji/69db9c.jpg?v=50274a",
+    "og": "/img/kiji/69db9c-og.jpg?v=50274a",
+    "s": "/img/kiji/69db9c-s.jpg?v=50274a",
+    "m": "/img/kiji/69db9c-m.jpg?v=50274a",
+    "caption": "イシガキダイ",
     "credit": "",
-    "file": "ac/29272141.jpg"
+    "file": "commons/Oplegnathus_punctatus_at_Beijing_Zoo.jpg"
    }
   },
   {

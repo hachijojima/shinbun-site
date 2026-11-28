@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T08:43:53+09:00",
+ "built": "2026-11-28T17:08:07+09:00",
  "prev": "/2026/08/03/",
  "next": "/2026/08/05/",
  "alerts": [],
@@ -197,6 +197,10 @@
     {
      "label": "国立環境研究所",
      "url": "https://www.nies.go.jp/en/research/researchers/300751.html"
+    },
+    {
+     "label": "写真:Totti、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Columba_janthina_nitens_inokashira_1.jpg"
     }
    ],
    "label": "文化",
@@ -205,13 +209,13 @@
    "id": "632070",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/632070.jpg?v=6c9b21",
-    "og": "/img/kiji/632070-og.jpg?v=6c9b21",
-    "s": "/img/kiji/632070-s.jpg?v=6c9b21",
-    "m": "/img/kiji/632070-m.jpg?v=6c9b21",
-    "caption": "八丈島から見た八丈小島",
+    "src": "/img/kiji/632070.jpg?v=3f20cd",
+    "og": "/img/kiji/632070-og.jpg?v=3f20cd",
+    "s": "/img/kiji/632070-s.jpg?v=3f20cd",
+    "m": "/img/kiji/632070-m.jpg?v=3f20cd",
+    "caption": "カラスバト(井の頭自然文化園)",
     "credit": "",
-    "file": "ac/27812371.jpg"
+    "file": "commons/Columba_janthina_nitens_inokashira_1.jpg"
    }
   },
   {

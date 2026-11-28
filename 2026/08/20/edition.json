@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T12:48:43+09:00",
+ "built": "2026-11-28T17:11:23+09:00",
  "prev": "/2026/08/19/",
  "next": "/2026/08/21/",
  "alerts": [],
@@ -424,6 +424,10 @@
     {
      "label": "西野園芸のブログ「百合日記」",
      "url": "https://yurinikki.exblog.jp/13099259/"
+    },
+    {
+     "label": "写真:Joydeep、CC BY-SA 3.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Capsicum_frutescens,_Burdwan,_West_Bengal,_India_03_05_2013.jpg"
     }
    ],
    "label": "産業",
@@ -432,13 +436,13 @@
    "id": "29d7bb",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/29d7bb.jpg?v=610d52",
-    "og": "/img/kiji/29d7bb-og.jpg?v=610d52",
-    "s": "/img/kiji/29d7bb-s.jpg?v=610d52",
-    "m": "/img/kiji/29d7bb-m.jpg?v=610d52",
-    "caption": "新鮮な八丈島の島寿司",
+    "src": "/img/kiji/29d7bb.jpg?v=a95d98",
+    "og": "/img/kiji/29d7bb-og.jpg?v=a95d98",
+    "s": "/img/kiji/29d7bb-s.jpg?v=a95d98",
+    "m": "/img/kiji/29d7bb-m.jpg?v=a95d98",
+    "caption": "キダチトウガラシ(島唐辛子と同じ種類のとうがらし)",
     "credit": "",
-    "file": "ac/31605450.jpg"
+    "file": "commons/Capsicum_frutescens_Burdwan_West_Bengal_India_03_05_2013.jpg"
    },
    "edited": "2026-11-28T12:48:37+09:00"
   }

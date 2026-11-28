@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T11:02:36+09:00",
+ "built": "2026-11-28T17:16:09+09:00",
  "prev": "/2026/11/20/",
  "next": "/2026/11/22/",
  "alerts": [
@@ -273,6 +273,10 @@
     {
      "label": "東京都教育委員会",
      "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_property"
+    },
+    {
+     "label": "写真:さかおり、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Ukita_Hideie%27s_grave_in_Hachijojima_02.jpg"
     }
    ],
    "label": "町政",
@@ -282,13 +286,13 @@
    "edited": "2026-11-21T07:17:51+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/c662af.jpg?v=3c9435",
-    "og": "/img/kiji/c662af-og.jpg?v=3c9435",
-    "s": "/img/kiji/c662af-s.jpg?v=3c9435",
-    "m": "/img/kiji/c662af-m.jpg?v=3c9435",
-    "caption": "公園のトイレ",
+    "src": "/img/kiji/c662af.jpg?v=143159",
+    "og": "/img/kiji/c662af-og.jpg?v=143159",
+    "s": "/img/kiji/c662af-s.jpg?v=143159",
+    "m": "/img/kiji/c662af-m.jpg?v=143159",
+    "caption": "八丈島にある宇喜多秀家の墓",
     "credit": "",
-    "file": "ac/25540679.jpg"
+    "file": "commons/Ukita_Hideie_s_grave_in_Hachijojima_02.jpg"
    }
   },
   {

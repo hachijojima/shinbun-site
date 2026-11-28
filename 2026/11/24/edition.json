@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T22:54:30+09:00",
+ "built": "2026-11-28T17:16:57+09:00",
  "prev": "/2026/11/23/",
  "next": "/2026/11/25/",
  "alerts": [
@@ -197,6 +197,10 @@
    {
     "label": "優婆夷宝明神社",
     "url": "https://ubai-houmei.tokyo/"
+   },
+   {
+    "label": "写真:Daibo Taku、CC BY 3.0(Wikimedia Commons。切り抜いて使用)",
+    "url": "https://commons.wikimedia.org/wiki/File:Kashitate,_Hachijo,_Tokyo_100-1621,_Japan_-_panoramio_(1).jpg"
    }
   ],
   "label": "文化",
@@ -205,13 +209,13 @@
   "id": "3b198b",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/3b198b.jpg?v=2efec8",
-   "og": "/img/kiji/3b198b-og.jpg?v=2efec8",
-   "s": "/img/kiji/3b198b-s.jpg?v=2efec8",
-   "m": "/img/kiji/3b198b-m.jpg?v=2efec8",
-   "caption": "八丈島・優婆夷宝明神社の社殿",
+   "src": "/img/kiji/3b198b.jpg?v=7a5adc",
+   "og": "/img/kiji/3b198b-og.jpg?v=7a5adc",
+   "s": "/img/kiji/3b198b-s.jpg?v=7a5adc",
+   "m": "/img/kiji/3b198b-m.jpg?v=7a5adc",
+   "caption": "樫立",
    "credit": "",
-   "file": "ac/24824871.jpg"
+   "file": "commons/Kashitate_Hachijo_Tokyo_100-1621_Japan_-_panoramio_1_.jpg"
   }
  },
  "side": [],
@@ -325,6 +329,10 @@
     {
      "label": "For Good",
      "url": "https://for-good.net/project/1004582"
+    },
+    {
+     "label": "写真:Obsidian Soul、CC0(Wikimedia Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Kalamunggay_(Moringa_oleifera),_Philippines.jpg"
     }
    ],
    "label": "産業",
@@ -333,13 +341,13 @@
    "id": "0ba932",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/0ba932.jpg?v=e8864c",
-    "og": "/img/kiji/0ba932-og.jpg?v=e8864c",
-    "s": "/img/kiji/0ba932-s.jpg?v=e8864c",
-    "m": "/img/kiji/0ba932-m.jpg?v=e8864c",
-    "caption": "八丈島 日本",
+    "src": "/img/kiji/0ba932.jpg?v=e84f76",
+    "og": "/img/kiji/0ba932-og.jpg?v=e84f76",
+    "s": "/img/kiji/0ba932-s.jpg?v=e84f76",
+    "m": "/img/kiji/0ba932-m.jpg?v=e84f76",
+    "caption": "モリンガの葉",
     "credit": "",
-    "file": "ac/3237884.jpg"
+    "file": "commons/Kalamunggay_Moringa_oleifera_Philippines.jpg"
    }
   }
  ],

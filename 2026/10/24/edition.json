@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:56:34+09:00",
+ "built": "2026-11-28T17:13:44+09:00",
  "prev": "/2026/10/23/",
  "next": "/2026/10/25/",
  "alerts": [
@@ -298,6 +298,10 @@
     {
      "label": "宮古市「客船『三井オーシャンサクラ』入港歓迎事業概要」",
      "url": "https://www.city.miyako.iwate.jp/material/files/group/1/portfes2026.pdf"
+    },
+    {
+     "label": "写真:Piergiuliano Chesi、CC BY 3.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Seabourn_Sojourn_06_IMO_9417098_@chesi.JPG"
     }
    ],
    "label": "産業",
@@ -305,13 +309,13 @@
    "id": "d18050",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/d18050.jpg?v=775ad9",
-    "og": "/img/kiji/d18050-og.jpg?v=775ad9",
-    "s": "/img/kiji/d18050-s.jpg?v=775ad9",
-    "m": "/img/kiji/d18050-m.jpg?v=775ad9",
-    "caption": "港 八丈島",
+    "src": "/img/kiji/d18050.jpg?v=049334",
+    "og": "/img/kiji/d18050-og.jpg?v=049334",
+    "s": "/img/kiji/d18050-s.jpg?v=049334",
+    "m": "/img/kiji/d18050-m.jpg?v=049334",
+    "caption": "客船「三井オーシャンサクラ」(シーボーン・ソジャーンの名で運航していたころ)",
     "credit": "",
-    "file": "ac/586682.jpg"
+    "file": "commons/Seabourn_Sojourn_06_IMO_9417098_chesi.jpg"
    }
   }
  ],

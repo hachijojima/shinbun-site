@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T23:02:47+09:00",
+ "built": "2026-11-28T17:10:33+09:00",
  "prev": "/2026/08/16/",
  "next": "/2026/08/18/",
  "alerts": [],
@@ -111,6 +111,10 @@
    {
     "label": "広報はちじょう",
     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23150126/hachijo0809.pdf"
+   },
+   {
+    "label": "写真:Saigen Jiro、CC0(Wikimedia Commons)",
+    "url": "https://commons.wikimedia.org/wiki/File:Terminal_building_and_Ferry_Kuniga_in_port_of_Saigo_(Shimane).JPG"
    }
   ],
   "label": "教育",
@@ -120,13 +124,13 @@
   "id": "4fc858",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/4fc858.jpg?v=6e83c7",
-   "og": "/img/kiji/4fc858-og.jpg?v=6e83c7",
-   "s": "/img/kiji/4fc858-s.jpg?v=6e83c7",
-   "m": "/img/kiji/4fc858-m.jpg?v=6e83c7",
-   "caption": "富士グラウンド",
+   "src": "/img/kiji/4fc858.jpg?v=33b4e2",
+   "og": "/img/kiji/4fc858-og.jpg?v=33b4e2",
+   "s": "/img/kiji/4fc858-s.jpg?v=33b4e2",
+   "m": "/img/kiji/4fc858-m.jpg?v=33b4e2",
+   "caption": "隠岐の島町・西郷港のターミナルとフェリー",
    "credit": "",
-   "file": "own/fuji-ground-4.jpg"
+   "file": "commons/Terminal_building_and_Ferry_Kuniga_in_port_of_Saigo_Shimane_.jpg"
   }
  },
  "side": [],
@@ -174,6 +178,10 @@
     {
      "label": "東京都公園協会",
      "url": "https://www.tokyo-park.or.jp/park/hachijo/news/greenhouse/2026/2026_8_15.html"
+    },
+    {
+     "label": "写真:Basile Morin、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Plumeria_(Frangipani)_flowers.jpg"
     }
    ],
    "label": "文化",
@@ -182,13 +190,13 @@
    "id": "a9084e",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/a9084e.jpg?v=4f1406",
-    "og": "/img/kiji/a9084e-og.jpg?v=4f1406",
-    "s": "/img/kiji/a9084e-s.jpg?v=4f1406",
-    "m": "/img/kiji/a9084e-m.jpg?v=4f1406",
-    "caption": "植物園のブーゲンビリア",
+    "src": "/img/kiji/a9084e.jpg?v=c0a2ba",
+    "og": "/img/kiji/a9084e-og.jpg?v=c0a2ba",
+    "s": "/img/kiji/a9084e-s.jpg?v=c0a2ba",
+    "m": "/img/kiji/a9084e-m.jpg?v=c0a2ba",
+    "caption": "プルメリアの花",
     "credit": "",
-    "file": "ac/3693237.jpg"
+    "file": "commons/Plumeria_Frangipani_flowers.jpg"
    }
   },
   {
@@ -473,7 +481,7 @@
    "date": "2026-08-12",
    "url": "/2026/08/12/5e00a7/",
    "headlines": [
-    "納涼花火、雨で開始を20時30分に"
+    "雨で花火の開始を19分繰り下げ"
    ]
   },
   {

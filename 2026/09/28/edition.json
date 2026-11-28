@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T07:38:52+09:00",
+ "built": "2026-11-28T17:12:55+09:00",
  "prev": "/2026/09/27/",
  "next": "/2026/09/29/",
  "alerts": [],
@@ -194,6 +194,10 @@
     {
      "label": "八丈島アルケロンダイビングクラブ",
      "url": "https://x.com/Archelon8jo/status/2103545541665943637"
+    },
+    {
+     "label": "写真:NOAA、Public domain(Wikimedia Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Triaenodon_obesus_moc.jpg"
     }
    ],
    "label": "文化",
@@ -202,13 +206,13 @@
    "id": "12951a",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/12951a.jpg?v=a3c4f2",
-    "og": "/img/kiji/12951a-og.jpg?v=a3c4f2",
-    "s": "/img/kiji/12951a-s.jpg?v=a3c4f2",
-    "m": "/img/kiji/12951a-m.jpg?v=a3c4f2",
-    "caption": "東京 八丈島 アオウミガメ",
+    "src": "/img/kiji/12951a.jpg?v=79f1f8",
+    "og": "/img/kiji/12951a-og.jpg?v=79f1f8",
+    "s": "/img/kiji/12951a-s.jpg?v=79f1f8",
+    "m": "/img/kiji/12951a-m.jpg?v=79f1f8",
+    "caption": "ネムリブカ",
     "credit": "",
-    "file": "ac/4955156.jpg"
+    "file": "commons/Triaenodon_obesus_moc.jpg"
    }
   }
  ],

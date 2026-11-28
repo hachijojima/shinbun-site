@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:58:15+09:00",
+ "built": "2026-11-28T17:14:32+09:00",
  "prev": "/2026/10/31/",
  "next": "/2026/11/02/",
  "alerts": [
@@ -239,6 +239,10 @@
     {
      "label": "三井オーシャンサクラ デビュークルーズ概要",
      "url": "https://www.city.miyako.iwate.jp/material/files/group/1/portfes2026.pdf"
+    },
+    {
+     "label": "写真:Piergiuliano Chesi、CC BY 3.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Seabourn_Sojourn_04_IMO_9417098_@chesi.JPG"
     }
    ],
    "label": "産業",
@@ -249,13 +253,13 @@
    "edited": "2026-11-03T18:34:59+09:00",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/543a97.jpg?v=44cce7",
-    "og": "/img/kiji/543a97-og.jpg?v=44cce7",
-    "s": "/img/kiji/543a97-s.jpg?v=44cce7",
-    "m": "/img/kiji/543a97-m.jpg?v=44cce7",
-    "caption": "大阪港岸壁に接岸する大型クルーズ客船",
+    "src": "/img/kiji/543a97.jpg?v=9bc4b7",
+    "og": "/img/kiji/543a97-og.jpg?v=9bc4b7",
+    "s": "/img/kiji/543a97-s.jpg?v=9bc4b7",
+    "m": "/img/kiji/543a97-m.jpg?v=9bc4b7",
+    "caption": "客船「三井オーシャンサクラ」(シーボーン・ソジャーンの名で運航していたころ)",
     "credit": "",
-    "file": "ac/35434757.jpg"
+    "file": "commons/Seabourn_Sojourn_04_IMO_9417098_chesi.jpg"
    }
   },
   {

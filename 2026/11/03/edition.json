@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:58:43+09:00",
+ "built": "2026-11-28T17:15:20+09:00",
  "prev": "/2026/11/02/",
  "next": "/2026/11/04/",
  "alerts": [],
@@ -315,6 +315,10 @@
     {
      "label": "フジドリームエアラインズ",
      "url": "https://x.com/FDA_fujidream/status/2117195354831794194"
+    },
+    {
+     "label": "写真:Contri、CC BY-SA 2.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:FDA_Fuji_Dream_Airlines_Embraer_ERJ-175_(JA05FJ).jpg"
     }
    ],
    "label": "産業",
@@ -323,13 +327,13 @@
    "id": "cd4291",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/cd4291.jpg?v=c65a12",
-    "og": "/img/kiji/cd4291-og.jpg?v=c65a12",
-    "s": "/img/kiji/cd4291-s.jpg?v=c65a12",
-    "m": "/img/kiji/cd4291-m.jpg?v=c65a12",
-    "caption": "八丈島空港ターミナル(Hachijojima Airport Terminal Building, Tokyo)",
+    "src": "/img/kiji/cd4291.jpg?v=e955b0",
+    "og": "/img/kiji/cd4291-og.jpg?v=e955b0",
+    "s": "/img/kiji/cd4291-s.jpg?v=e955b0",
+    "m": "/img/kiji/cd4291-m.jpg?v=e955b0",
+    "caption": "フジドリームエアラインズ(FDA)の機体",
     "credit": "",
-    "file": "ac/4920724.jpg"
+    "file": "commons/FDA_Fuji_Dream_Airlines_Embraer_ERJ-175_JA05FJ_.jpg"
    }
   }
  ],

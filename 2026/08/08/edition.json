@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T23:00:12+09:00",
+ "built": "2026-11-28T17:08:58+09:00",
  "prev": "/2026/08/07/",
  "next": "/2026/08/09/",
  "alerts": [],
@@ -188,6 +188,10 @@
     {
      "label": "広報はちじょう2012年6月号",
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23143554/hachijo1206.pdf"
+    },
+    {
+     "label": "写真:DassaiOffice、Public domain(Wikimedia Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Oki_SAIGO_KOU.JPG"
     }
    ],
    "label": "教育",
@@ -196,13 +200,13 @@
    "id": "f9f5cd",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f9f5cd.jpg?v=f6a68a",
-    "og": "/img/kiji/f9f5cd-og.jpg?v=f6a68a",
-    "s": "/img/kiji/f9f5cd-s.jpg?v=f6a68a",
-    "m": "/img/kiji/f9f5cd-m.jpg?v=f6a68a",
-    "caption": "富士グラウンド",
+    "src": "/img/kiji/f9f5cd.jpg?v=d2eba7",
+    "og": "/img/kiji/f9f5cd-og.jpg?v=d2eba7",
+    "s": "/img/kiji/f9f5cd-s.jpg?v=d2eba7",
+    "m": "/img/kiji/f9f5cd-m.jpg?v=d2eba7",
+    "caption": "隠岐の島町の西郷港",
     "credit": "",
-    "file": "own/fuji-ground-2.jpg"
+    "file": "commons/Oki_SAIGO_KOU.jpg"
    }
   },
   {
@@ -220,6 +224,10 @@
     {
      "label": "広報はちじょう2016年7月号",
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23135950/hachijo1607.pdf"
+    },
+    {
+     "label": "写真:アラツク、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Hikawa_town_hall.jpg"
     }
    ],
    "label": "町政",
@@ -228,13 +236,13 @@
    "id": "e9332f",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/e9332f.jpg?v=ad4c23",
-    "og": "/img/kiji/e9332f-og.jpg?v=ad4c23",
-    "s": "/img/kiji/e9332f-s.jpg?v=ad4c23",
-    "m": "/img/kiji/e9332f-m.jpg?v=ad4c23",
-    "caption": "熊本地震からの復興のシンボル・熊本城",
+    "src": "/img/kiji/e9332f.jpg?v=a51996",
+    "og": "/img/kiji/e9332f-og.jpg?v=a51996",
+    "s": "/img/kiji/e9332f-s.jpg?v=a51996",
+    "m": "/img/kiji/e9332f-m.jpg?v=a51996",
+    "caption": "熊本県氷川町の町役場",
     "credit": "",
-    "file": "ac/35429647.jpg"
+    "file": "commons/Hikawa_town_hall.jpg"
    }
   }
  ],

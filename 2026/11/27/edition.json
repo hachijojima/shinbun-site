@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T21:25:24+09:00",
+ "built": "2026-11-28T17:17:45+09:00",
  "prev": "/2026/11/26/",
  "next": "/2026/11/28/",
  "alerts": [],
@@ -300,6 +300,10 @@
     {
      "label": "三原中",
      "url": "https://mihara-jhs.8jo.ed.jp/n/n64fb5663f9b6"
+    },
+    {
+     "label": "写真:Syced、CC0(Wikimedia Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Keio_University_Old_Library_and_NEC_Super_tower_at_MITA_Campus,_Tokyo.jpg"
     }
    ],
    "label": "教育",
@@ -308,13 +312,13 @@
    "id": "dd9b42",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/dd9b42.jpg?v=221655",
-    "og": "/img/kiji/dd9b42-og.jpg?v=221655",
-    "s": "/img/kiji/dd9b42-s.jpg?v=221655",
-    "m": "/img/kiji/dd9b42-m.jpg?v=221655",
-    "caption": "八丈町立三原中学校",
+    "src": "/img/kiji/dd9b42.jpg?v=9356ad",
+    "og": "/img/kiji/dd9b42-og.jpg?v=9356ad",
+    "s": "/img/kiji/dd9b42-s.jpg?v=9356ad",
+    "m": "/img/kiji/dd9b42-m.jpg?v=9356ad",
+    "caption": "慶應義塾大学三田キャンパスの旧図書館",
     "credit": "",
-    "file": "own/mihara-chu-4.jpg"
+    "file": "commons/Keio_University_Old_Library_and_NEC_Super_tower_at_MITA_Campus_Tokyo.jpg"
    }
   },
   {
