@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T10:56:11+09:00",
+ "built": "2026-11-28T16:45:02+09:00",
  "prev": "/2026/10/21/",
  "next": "/2026/10/23/",
  "alerts": [],
@@ -165,14 +165,29 @@
    }
   },
   {
-   "headline": "八丈町、22日にエクササイズ",
+   "headline": "脳活Eサロン、きょう14時から",
    "body": [
-    "22日にエクササイズが開かれる。八丈町が21日に案内した。年齢不問で、予約は要らない。"
+    "八丈町福祉健康課は22日14時から15時まで、保健福祉センターで「脳活Eサロン」を開く。頭と体を一緒に動かすエクササイズの集まりで、年齢を問わず予約なしで参加できる。広報はちじょう10月号によると、いつもの島外講師とオンラインでつないで行う体操は今月は休みで、代わりに町職員による催しを予定している。",
+    "サロンは、参加者同士で話をしながら頭と体を楽しく動かし、脳を活性化させることを狙っている。今年は木曜の午後に開いてきた。1月、4月、7月、8月、9月の各回は、株式会社ルネサンスの小池克昌さんと会場をオンラインでつないで体操した。10月号には町職員による催しとだけ書かれていて、具体的な内容は載っていない。",
+    "持ち物は上履きとタオル、飲み物。担当は福祉健康課高齢福祉係で、初めての人も、1人でも友人と一緒でも参加できるとしている。",
+    "町は同じ10月号の11ページで、認知症予防とフレイル予防を取り上げた。フレイルは、年を取って心身の活力が落ち、介護が必要になる手前の状態をいう。記事では「これまでの調査では、運動でも食事でも、1人で実践するより誰かと一緒に実践するほうが活動量や精神的な健康度がさらに高くなる」と紹介し、体操や趣味の活動、茶話会といった地域の集まりを使って健康づくりを続けるよう呼びかけている。"
    ],
    "sources": [
     {
      "label": "八丈町",
      "url": "https://x.com/hachijomachi/status/2112716471545815279"
+    },
+    {
+     "label": "八丈町「広報はちじょう」2026年10月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/08/02163126/hachijo2610.pdf"
+    },
+    {
+     "label": "八丈町「広報はちじょう」2026年9月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/07/31155211/hachijo2609.pdf"
+    },
+    {
+     "label": "八丈町「広報はちじょう」2026年8月号",
+     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/31161410/hachijo2608.pdf"
     }
    ],
    "label": "くらし",
@@ -181,14 +196,15 @@
    "id": "2eddab",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/2eddab.jpg?v=d6c0e2",
-    "og": "/img/kiji/2eddab-og.jpg?v=d6c0e2",
-    "s": "/img/kiji/2eddab-s.jpg?v=d6c0e2",
-    "m": "/img/kiji/2eddab-m.jpg?v=d6c0e2",
-    "caption": "八丈町コミュニティセンター",
+    "src": "/img/kiji/2eddab.jpg?v=d1547c",
+    "og": "/img/kiji/2eddab-og.jpg?v=d1547c",
+    "s": "/img/kiji/2eddab-s.jpg?v=d1547c",
+    "m": "/img/kiji/2eddab-m.jpg?v=d1547c",
+    "caption": "八丈町保健福祉センター",
     "credit": "",
-    "file": "own/komyuniti-2.jpg"
-   }
+    "file": "own/hoken-fukushi-1.jpg"
+   },
+   "edited": "2026-11-28T16:44:53+09:00"
   },
   {
    "headline": "高輪地区まつりに八丈町が出展",
