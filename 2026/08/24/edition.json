@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T20:28:07+09:00",
+ "built": "2026-11-28T20:34:39+09:00",
  "prev": "/2026/08/23/",
  "next": "/2026/09/01/",
  "alerts": [],
@@ -122,6 +122,10 @@
    {
     "label": "国土交通省",
     "url": "https://www.mlit.go.jp/report/press/kaiji06_hh_000343.html"
+   },
+   {
+    "label": "写真:Tky_910_A3、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+    "url": "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E6%B5%B7%E6%B1%BD%E8%88%B9%E6%A9%98%E4%B8%B8.jpg"
    }
   ],
   "label": "町政",
@@ -131,13 +135,13 @@
   "id": "ec9442",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/ec9442.jpg?v=f10a9f",
-   "og": "/img/kiji/ec9442-og.jpg?v=f10a9f",
-   "s": "/img/kiji/ec9442-s.jpg?v=f10a9f",
-   "m": "/img/kiji/ec9442-m.jpg?v=f10a9f",
-   "caption": "竹芝桟橋",
+   "src": "/img/kiji/ec9442.jpg?v=231e5f",
+   "og": "/img/kiji/ec9442-og.jpg?v=231e5f",
+   "s": "/img/kiji/ec9442-s.jpg?v=231e5f",
+   "m": "/img/kiji/ec9442-m.jpg?v=231e5f",
+   "caption": "東海汽船の橘丸",
    "credit": "",
-   "file": "ac/2019977.jpg"
+   "file": "commons/a051f9-1.jpg"
   }
  },
  "side": [],
@@ -200,13 +204,13 @@
    "id": "4b74ac",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4b74ac.jpg?v=964017",
-    "og": "/img/kiji/4b74ac-og.jpg?v=964017",
-    "s": "/img/kiji/4b74ac-s.jpg?v=964017",
-    "m": "/img/kiji/4b74ac-m.jpg?v=964017",
-    "caption": "秋の八丈富士withすすき",
+    "src": "/img/kiji/4b74ac.jpg?v=11c2a8",
+    "og": "/img/kiji/4b74ac-og.jpg?v=11c2a8",
+    "s": "/img/kiji/4b74ac-s.jpg?v=11c2a8",
+    "m": "/img/kiji/4b74ac-m.jpg?v=11c2a8",
+    "caption": "東京都・八丈島 南原千畳敷の風景",
     "credit": "",
-    "file": "ac/28400442.jpg"
+    "file": "ac/29362283.jpg"
    }
   },
   {
@@ -259,6 +263,10 @@
     {
      "label": "八丈島文化協会「八丈ウインズフェス（文化交流事業）」",
      "url": "https://8jobunka.jimdofree.com/%E4%B8%BB%E5%82%AC%E4%BA%8B%E6%A5%AD/%E5%85%AB%E4%B8%88%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%BA%E3%83%95%E3%82%A7%E3%82%B9-%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81%E4%BA%8B%E6%A5%AD/"
+    },
+    {
+     "label": "写真:Pedroacevedo、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:San-francisco-lesbian-gay-freedom-band-40th-anniversary-concert-band.jpg"
     }
    ],
    "label": "文化",
@@ -268,13 +276,13 @@
    "id": "8cbdb7",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/8cbdb7.jpg?v=948365",
-    "og": "/img/kiji/8cbdb7-og.jpg?v=948365",
-    "s": "/img/kiji/8cbdb7-s.jpg?v=948365",
-    "m": "/img/kiji/8cbdb7-m.jpg?v=948365",
-    "caption": "八丈町役場・八丈町多目的ホール おじゃれ",
+    "src": "/img/kiji/8cbdb7.jpg?v=a9663b",
+    "og": "/img/kiji/8cbdb7-og.jpg?v=a9663b",
+    "s": "/img/kiji/8cbdb7-s.jpg?v=a9663b",
+    "m": "/img/kiji/8cbdb7-m.jpg?v=a9663b",
+    "caption": "資料写真:ホールで演奏する吹奏楽団(八丈島の催しの写真ではありません)",
     "credit": "",
-    "file": "own/yakuba-6.jpg"
+    "file": "commons/San-francisco-lesbian-gay-freedom-band-40th-anniversary-concert-band.jpg"
    }
   },
   {
@@ -356,6 +364,10 @@
     {
      "label": "癒香公式サイト「2025星空YOGA 開催」",
      "url": "https://yuko.8jyo.info/2025/07/10/2025%E6%98%9F%E7%A9%BAyoga-%E9%96%8B%E5%82%AC-%EF%BD%9E%E4%BB%8A%E5%B9%B4%E3%82%82%E6%98%9F%E7%A9%BA%E3%81%AE%E4%B8%8B%E3%81%A7%EF%BD%9E/"
+    },
+    {
+     "label": "写真:Vuemobi Media、CC BY-SA 2.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Outdoor_Yoga_At_the_Park.jpg"
     }
    ],
    "label": "文化",
@@ -364,13 +376,13 @@
    "id": "b1adb1",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/b1adb1.jpg?v=d3b496",
-    "og": "/img/kiji/b1adb1-og.jpg?v=d3b496",
-    "s": "/img/kiji/b1adb1-s.jpg?v=d3b496",
-    "m": "/img/kiji/b1adb1-m.jpg?v=d3b496",
-    "caption": "東京の離島 伊豆諸島に属する八丈島の海岸",
+    "src": "/img/kiji/b1adb1.jpg?v=217679",
+    "og": "/img/kiji/b1adb1-og.jpg?v=217679",
+    "s": "/img/kiji/b1adb1-s.jpg?v=217679",
+    "m": "/img/kiji/b1adb1-m.jpg?v=217679",
+    "caption": "屋外でのヨガのイメージ(資料写真・米テキサス州オースティンの公園で撮影、八丈島のものではない)",
     "credit": "",
-    "file": "ac/23405108.jpg"
+    "file": "commons/Outdoor_Yoga_At_the_Park.jpg"
    }
   },
   {
@@ -424,13 +436,13 @@
    "id": "3efecc",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/3efecc.jpg?v=36873c",
-    "og": "/img/kiji/3efecc-og.jpg?v=36873c",
-    "s": "/img/kiji/3efecc-s.jpg?v=36873c",
-    "m": "/img/kiji/3efecc-m.jpg?v=36873c",
-    "caption": "八丈島の天の川",
+    "src": "/img/kiji/3efecc.jpg?v=c392b5",
+    "og": "/img/kiji/3efecc-og.jpg?v=c392b5",
+    "s": "/img/kiji/3efecc-s.jpg?v=c392b5",
+    "m": "/img/kiji/3efecc-m.jpg?v=c392b5",
+    "caption": "東京都・八丈町+八丈島の星空と夜景",
     "credit": "",
-    "file": "ac/26922211.jpg"
+    "file": "ac/29272140.jpg"
    }
   }
  ],
