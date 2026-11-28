@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-25T10:09:52+09:00",
+ "built": "2026-11-28T16:20:56+09:00",
  "prev": "/2026/11/17/",
  "next": "/2026/11/19/",
  "alerts": [
@@ -201,13 +201,13 @@
   "id": "fb1593",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/fb1593.jpg?v=55c6b5",
-   "og": "/img/kiji/fb1593-og.jpg?v=55c6b5",
-   "s": "/img/kiji/fb1593-s.jpg?v=55c6b5",
-   "m": "/img/kiji/fb1593-m.jpg?v=55c6b5",
-   "caption": "体育館を解体したあとの富士中学校",
+   "src": "/img/kiji/fb1593.jpg?v=f7a41f",
+   "og": "/img/kiji/fb1593-og.jpg?v=f7a41f",
+   "s": "/img/kiji/fb1593-s.jpg?v=f7a41f",
+   "m": "/img/kiji/fb1593-m.jpg?v=f7a41f",
+   "caption": "八丈町立富士中学校",
    "credit": "",
-   "file": "own/fuji-chu-9.jpg"
+   "file": "own/fuji-chu-2.jpg"
   },
   "edited": "2026-11-18T06:19:21+09:00"
  },
@@ -234,13 +234,13 @@
    "id": "b262cb",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/b262cb.jpg?v=01c734",
-    "og": "/img/kiji/b262cb-og.jpg?v=01c734",
-    "s": "/img/kiji/b262cb-s.jpg?v=01c734",
-    "m": "/img/kiji/b262cb-m.jpg?v=01c734",
+    "src": "/img/kiji/b262cb.jpg?v=dfb649",
+    "og": "/img/kiji/b262cb-og.jpg?v=dfb649",
+    "s": "/img/kiji/b262cb-s.jpg?v=dfb649",
+    "m": "/img/kiji/b262cb-m.jpg?v=dfb649",
     "caption": "八丈島の焼酎",
     "credit": "",
-    "file": "own/shochu-2.jpg"
+    "file": "own/shochu-8.jpg"
    }
   },
   {
