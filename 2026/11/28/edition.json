@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T11:53:59+09:00",
+ "built": "2026-11-28T12:21:25+09:00",
  "prev": "/2026/11/27/",
  "next": null,
  "alerts": [
@@ -590,13 +590,13 @@
    "id": "916bbb",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/916bbb.jpg?v=245d05",
-    "og": "/img/kiji/916bbb-og.jpg?v=245d05",
-    "s": "/img/kiji/916bbb-s.jpg?v=245d05",
-    "m": "/img/kiji/916bbb-m.jpg?v=245d05",
+    "src": "/img/kiji/916bbb.jpg?v=c040ac",
+    "og": "/img/kiji/916bbb-og.jpg?v=c040ac",
+    "s": "/img/kiji/916bbb-s.jpg?v=c040ac",
+    "m": "/img/kiji/916bbb-m.jpg?v=c040ac",
     "caption": "東京都立八丈高等学校",
     "credit": "",
-    "file": "own/hachijo-koko-5.jpg"
+    "file": "own/hachijo-koko-3.jpg"
    }
   }
  ],
