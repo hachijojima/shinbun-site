@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T11:02:12+09:00",
+ "built": "2026-11-28T15:20:57+09:00",
  "prev": "/2026/11/18/",
  "next": "/2026/11/20/",
  "alerts": [
@@ -274,13 +274,13 @@
    "id": "266d60",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/266d60.jpg?v=f5d11a",
-    "og": "/img/kiji/266d60-og.jpg?v=f5d11a",
-    "s": "/img/kiji/266d60-s.jpg?v=f5d11a",
-    "m": "/img/kiji/266d60-m.jpg?v=f5d11a",
-    "caption": "八丈島登龍峠の案内板と八丈富士",
+    "src": "/img/kiji/266d60.jpg?v=889f3a",
+    "og": "/img/kiji/266d60-og.jpg?v=889f3a",
+    "s": "/img/kiji/266d60-s.jpg?v=889f3a",
+    "m": "/img/kiji/266d60-m.jpg?v=889f3a",
+    "caption": "八丈植物公園の森の中",
     "credit": "",
-    "file": "ac/28441934.jpg"
+    "file": "ac/27266216.jpg"
    }
   },
   {
@@ -306,13 +306,13 @@
    "id": "e9388d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/e9388d.jpg?v=5c7e6e",
-    "og": "/img/kiji/e9388d-og.jpg?v=5c7e6e",
-    "s": "/img/kiji/e9388d-s.jpg?v=5c7e6e",
-    "m": "/img/kiji/e9388d-m.jpg?v=5c7e6e",
+    "src": "/img/kiji/e9388d.jpg?v=235829",
+    "og": "/img/kiji/e9388d-og.jpg?v=235829",
+    "s": "/img/kiji/e9388d-s.jpg?v=235829",
+    "m": "/img/kiji/e9388d-m.jpg?v=235829",
     "caption": "八丈町立三根小学校",
     "credit": "",
-    "file": "own/mitsune-sho-10.jpg"
+    "file": "own/mitsune-sho-15.jpg"
    }
   },
   {
@@ -335,13 +335,13 @@
    "id": "286147",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/286147.jpg?v=0a7d4e",
-    "og": "/img/kiji/286147-og.jpg?v=0a7d4e",
-    "s": "/img/kiji/286147-s.jpg?v=0a7d4e",
-    "m": "/img/kiji/286147-m.jpg?v=0a7d4e",
-    "caption": "八丈島観光協会",
+    "src": "/img/kiji/286147.jpg?v=be6dc5",
+    "og": "/img/kiji/286147-og.jpg?v=be6dc5",
+    "s": "/img/kiji/286147-s.jpg?v=be6dc5",
+    "m": "/img/kiji/286147-m.jpg?v=be6dc5",
+    "caption": "光の差し込む海/八丈島",
     "credit": "",
-    "file": "own/kanko-kyokai-1.jpg"
+    "file": "ac/3958397.jpg"
    }
   }
  ],
