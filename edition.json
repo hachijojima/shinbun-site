@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T08:57:39+09:00",
+ "built": "2026-11-28T11:20:52+09:00",
  "prev": "/2026/11/27/",
  "next": null,
  "alerts": [
@@ -411,13 +411,13 @@
    "id": "e8b601",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/e8b601.jpg?v=5bbf34",
-    "og": "/img/kiji/e8b601-og.jpg?v=5bbf34",
-    "s": "/img/kiji/e8b601-s.jpg?v=5bbf34",
-    "m": "/img/kiji/e8b601-m.jpg?v=5bbf34",
-    "caption": "橘丸 八丈島 八重根港",
+    "src": "/img/kiji/e8b601.jpg?v=88afa5",
+    "og": "/img/kiji/e8b601-og.jpg?v=88afa5",
+    "s": "/img/kiji/e8b601-s.jpg?v=88afa5",
+    "m": "/img/kiji/e8b601-m.jpg?v=88afa5",
+    "caption": "東海汽船 橘丸の船内",
     "credit": "",
-    "file": "ac/34194382.jpg"
+    "file": "ac/32772253.jpg"
    }
   },
   {
@@ -508,13 +508,13 @@
    "id": "0e31af",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/0e31af.jpg?v=ce3773",
-    "og": "/img/kiji/0e31af-og.jpg?v=ce3773",
-    "s": "/img/kiji/0e31af-s.jpg?v=ce3773",
-    "m": "/img/kiji/0e31af-m.jpg?v=ce3773",
-    "caption": "八丈富士から望む八重根港",
+    "src": "/img/kiji/0e31af.jpg?v=809f84",
+    "og": "/img/kiji/0e31af-og.jpg?v=809f84",
+    "s": "/img/kiji/0e31af-s.jpg?v=809f84",
+    "m": "/img/kiji/0e31af-m.jpg?v=809f84",
+    "caption": "八丈島・八重根港ターミナル",
     "credit": "",
-    "file": "ac/34534916.jpg"
+    "file": "ac/4939567.jpg"
    }
   },
   {
