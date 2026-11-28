@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T12:20:42+09:00",
+ "built": "2026-11-28T13:20:42+09:00",
  "prev": "/2026/11/19/",
  "next": "/2026/11/21/",
  "alerts": [
@@ -258,13 +258,13 @@
    "id": "355527",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/355527.jpg?v=5405c7",
-    "og": "/img/kiji/355527-og.jpg?v=5405c7",
-    "s": "/img/kiji/355527-s.jpg?v=5405c7",
-    "m": "/img/kiji/355527-m.jpg?v=5405c7",
+    "src": "/img/kiji/355527.jpg?v=389856",
+    "og": "/img/kiji/355527-og.jpg?v=389856",
+    "s": "/img/kiji/355527-s.jpg?v=389856",
+    "m": "/img/kiji/355527-m.jpg?v=389856",
     "caption": "八丈町立三根小学校",
     "credit": "",
-    "file": "own/mitsune-sho-1.jpg"
+    "file": "own/mitsune-sho-14.jpg"
    }
   },
   {
@@ -303,13 +303,13 @@
    "id": "cffc4d",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/cffc4d.jpg?v=c78a5a",
-    "og": "/img/kiji/cffc4d-og.jpg?v=c78a5a",
-    "s": "/img/kiji/cffc4d-s.jpg?v=c78a5a",
-    "m": "/img/kiji/cffc4d-m.jpg?v=c78a5a",
-    "caption": "社会福祉法人 養和会",
+    "src": "/img/kiji/cffc4d.jpg?v=067c61",
+    "og": "/img/kiji/cffc4d-og.jpg?v=067c61",
+    "s": "/img/kiji/cffc4d-s.jpg?v=067c61",
+    "m": "/img/kiji/cffc4d-m.jpg?v=067c61",
+    "caption": "南原千畳岩の宇喜多秀家公の石像",
     "credit": "",
-    "file": "own/yowakai-1.jpg"
+    "file": "ac/27266913.jpg"
    }
   },
   {
