@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T17:16:09+09:00",
+ "built": "2026-11-28T18:57:44+09:00",
  "prev": "/2026/11/20/",
  "next": "/2026/11/22/",
  "alerts": [
@@ -275,7 +275,7 @@
      "url": "https://www.kyoiku.metro.tokyo.lg.jp/about/hatijyou/cultural_property"
     },
     {
-     "label": "写真:さかおり、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "label": "写真:さかおり、CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Ukita_Hideie%27s_grave_in_Hachijojima_02.jpg"
     }
    ],
@@ -342,13 +342,13 @@
    "id": "5532be",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/5532be.jpg?v=d6f767",
-    "og": "/img/kiji/5532be-og.jpg?v=d6f767",
-    "s": "/img/kiji/5532be-s.jpg?v=d6f767",
-    "m": "/img/kiji/5532be-m.jpg?v=d6f767",
-    "caption": "八丈町立三根小学校",
+    "src": "/img/kiji/5532be.jpg?v=a780bf",
+    "og": "/img/kiji/5532be-og.jpg?v=a780bf",
+    "s": "/img/kiji/5532be-s.jpg?v=a780bf",
+    "m": "/img/kiji/5532be-m.jpg?v=a780bf",
+    "caption": "稲穂",
     "credit": "",
-    "file": "own/mitsune-sho-11.jpg"
+    "file": "ac/35322727.jpg"
    }
   }
  ],

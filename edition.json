@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T16:28:12+09:00",
+ "built": "2026-11-28T19:00:45+09:00",
  "prev": "/2026/11/27/",
  "next": null,
  "alerts": [
@@ -328,6 +328,10 @@
     {
      "label": "八丈町「広報はちじょう」2025年12月号 教育委員会だより",
      "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23114506/hachijo2512.pdf"
+    },
+    {
+     "label": "写真:Syced、CC0(Wikimedia Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Embassy_of_Ecuador,_Tokyo.jpg"
     }
    ],
    "label": "教育",
@@ -336,13 +340,13 @@
    "id": "60a210",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/60a210.jpg?v=288866",
-    "og": "/img/kiji/60a210-og.jpg?v=288866",
-    "s": "/img/kiji/60a210-s.jpg?v=288866",
-    "m": "/img/kiji/60a210-m.jpg?v=288866",
-    "caption": "八丈町立富士中学校",
+    "src": "/img/kiji/60a210.jpg?v=045569",
+    "og": "/img/kiji/60a210-og.jpg?v=045569",
+    "s": "/img/kiji/60a210-s.jpg?v=045569",
+    "m": "/img/kiji/60a210-m.jpg?v=045569",
+    "caption": "駐日エクアドル大使館",
     "credit": "",
-    "file": "own/fuji-chu-1.jpg"
+    "file": "commons/Embassy_of_Ecuador__Tokyo.jpg"
    },
    "edited": "2026-11-28T11:32:47+09:00"
   },
@@ -581,6 +585,10 @@
     {
      "label": "八丈高校公式X",
      "url": "https://x.com/tokyo8jouhs/status/2125461527729934746"
+    },
+    {
+     "label": "写真:Waka77、Public domain(Wikimedia Commons)",
+     "url": "https://commons.wikimedia.org/wiki/File:Komazawa_Stadium1.JPG"
     }
    ],
    "label": "教育",
@@ -590,13 +598,13 @@
    "id": "916bbb",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/916bbb.jpg?v=c040ac",
-    "og": "/img/kiji/916bbb-og.jpg?v=c040ac",
-    "s": "/img/kiji/916bbb-s.jpg?v=c040ac",
-    "m": "/img/kiji/916bbb-m.jpg?v=c040ac",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/916bbb.jpg?v=3fa215",
+    "og": "/img/kiji/916bbb-og.jpg?v=3fa215",
+    "s": "/img/kiji/916bbb-s.jpg?v=3fa215",
+    "m": "/img/kiji/916bbb-m.jpg?v=3fa215",
+    "caption": "駒沢オリンピック公園総合運動場陸上競技場",
     "credit": "",
-    "file": "own/hachijo-koko-3.jpg"
+    "file": "commons/Komazawa_Stadium1.JPG"
    }
   }
  ],

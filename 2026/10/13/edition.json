@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T18:17:58+09:00",
+ "built": "2026-11-28T18:52:34+09:00",
  "prev": "/2026/10/12/",
  "next": "/2026/10/14/",
  "alerts": [],
@@ -83,13 +83,13 @@
   "id": "ed42a4",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/ed42a4.jpg?v=c040ac",
-   "og": "/img/kiji/ed42a4-og.jpg?v=c040ac",
-   "s": "/img/kiji/ed42a4-s.jpg?v=c040ac",
-   "m": "/img/kiji/ed42a4-m.jpg?v=c040ac",
-   "caption": "東京都立八丈高等学校",
+   "src": "/img/kiji/ed42a4.jpg?v=0beb0f",
+   "og": "/img/kiji/ed42a4-og.jpg?v=0beb0f",
+   "s": "/img/kiji/ed42a4-s.jpg?v=0beb0f",
+   "m": "/img/kiji/ed42a4-m.jpg?v=0beb0f",
+   "caption": "アシタバ",
    "credit": "",
-   "file": "own/hachijo-koko-3.jpg"
+   "file": "ac/35294928.jpg"
   }
  },
  "side": [],
@@ -183,7 +183,7 @@
      "url": "https://for-good.net/project/1003804/support"
     },
     {
-     "label": "写真:国土交通省TEC-FORCE（テックフォース）撮影(2025年11月、八丈町。切り抜いて使用)",
+     "label": "写真:国土交通省TEC-FORCE（テックフォース）撮影",
      "url": "https://www.tecforce.jp/202510/index.html"
     }
    ],

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T17:17:45+09:00",
+ "built": "2026-11-28T19:00:01+09:00",
  "prev": "/2026/11/26/",
  "next": "/2026/11/28/",
  "alerts": [],
@@ -302,7 +302,7 @@
      "url": "https://mihara-jhs.8jo.ed.jp/n/n64fb5663f9b6"
     },
     {
-     "label": "写真:Syced、CC0(Wikimedia Commons)",
+     "label": "写真:Syced、CC0",
      "url": "https://commons.wikimedia.org/wiki/File:Keio_University_Old_Library_and_NEC_Super_tower_at_MITA_Campus,_Tokyo.jpg"
     }
    ],
@@ -438,13 +438,13 @@
    "id": "9bc092",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/9bc092.jpg?v=d487f3",
-    "og": "/img/kiji/9bc092-og.jpg?v=d487f3",
-    "s": "/img/kiji/9bc092-s.jpg?v=d487f3",
-    "m": "/img/kiji/9bc092-m.jpg?v=d487f3",
-    "caption": "八丈町立大賀郷小学校",
+    "src": "/img/kiji/9bc092.jpg?v=4fbe45",
+    "og": "/img/kiji/9bc092-og.jpg?v=4fbe45",
+    "s": "/img/kiji/9bc092-s.jpg?v=4fbe45",
+    "m": "/img/kiji/9bc092-m.jpg?v=4fbe45",
+    "caption": "大賀郷園地",
     "credit": "",
-    "file": "own/okago-sho-6.jpg"
+    "file": "ac/25887486.jpg"
    }
   },
   {

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T17:11:23+09:00",
+ "built": "2026-11-28T18:48:45+09:00",
  "prev": "/2026/08/19/",
  "next": "/2026/08/21/",
  "alerts": [],
@@ -381,13 +381,13 @@
    "id": "f17456",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f17456.jpg?v=24b011",
-    "og": "/img/kiji/f17456-og.jpg?v=24b011",
-    "s": "/img/kiji/f17456-s.jpg?v=24b011",
-    "m": "/img/kiji/f17456-m.jpg?v=24b011",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/f17456.jpg?v=b8a7da",
+    "og": "/img/kiji/f17456-og.jpg?v=b8a7da",
+    "s": "/img/kiji/f17456-s.jpg?v=b8a7da",
+    "m": "/img/kiji/f17456-m.jpg?v=b8a7da",
+    "caption": "東京都・八丈町+冬の八丈島の星空",
     "credit": "",
-    "file": "own/hachijo-koko-4.jpg"
+    "file": "ac/29272139.jpg"
    },
    "edited": "2026-11-28T12:42:13+09:00"
   },
@@ -426,7 +426,7 @@
      "url": "https://yurinikki.exblog.jp/13099259/"
     },
     {
-     "label": "写真:Joydeep、CC BY-SA 3.0(Wikimedia Commons。切り抜いて使用)",
+     "label": "写真:Joydeep、CC BY-SA 3.0",
      "url": "https://commons.wikimedia.org/wiki/File:Capsicum_frutescens,_Burdwan,_West_Bengal,_India_03_05_2013.jpg"
     }
    ],

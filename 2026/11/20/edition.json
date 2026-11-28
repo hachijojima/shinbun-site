@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T17:41:10+09:00",
+ "built": "2026-11-28T18:57:02+09:00",
  "prev": "/2026/11/19/",
  "next": "/2026/11/21/",
  "alerts": [
@@ -217,7 +217,7 @@
     "url": "https://prd-hachijo.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/03/23134212/hachijo1812.pdf"
    },
    {
-    "label": "写真:Giles Laurent、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+    "label": "写真:Giles Laurent、CC BY-SA 4.0",
     "url": "https://commons.wikimedia.org/wiki/File:001_Humpback_whale_breaching_in_Ballena_Marine_National_Park_Photo_by_Giles_Laurent.jpg"
    }
   ],
@@ -262,13 +262,13 @@
    "id": "355527",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/355527.jpg?v=389856",
-    "og": "/img/kiji/355527-og.jpg?v=389856",
-    "s": "/img/kiji/355527-s.jpg?v=389856",
-    "m": "/img/kiji/355527-m.jpg?v=389856",
-    "caption": "八丈町立三根小学校",
+    "src": "/img/kiji/355527.jpg?v=081cdc",
+    "og": "/img/kiji/355527-og.jpg?v=081cdc",
+    "s": "/img/kiji/355527-s.jpg?v=081cdc",
+    "m": "/img/kiji/355527-m.jpg?v=081cdc",
+    "caption": "八丈島「八丈植物公園」入口",
     "credit": "",
-    "file": "own/mitsune-sho-14.jpg"
+    "file": "ac/5026926.jpg"
    }
   },
   {

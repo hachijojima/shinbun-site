@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-27T10:24:23+09:00",
+ "built": "2026-11-28T18:51:05+09:00",
  "prev": "/2026/10/07/",
  "next": "/2026/10/09/",
  "alerts": [],
@@ -154,13 +154,13 @@
    "id": "4d270f",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/4d270f.jpg?v=f408f2",
-    "og": "/img/kiji/4d270f-og.jpg?v=f408f2",
-    "s": "/img/kiji/4d270f-s.jpg?v=f408f2",
-    "m": "/img/kiji/4d270f-m.jpg?v=f408f2",
-    "caption": "八丈町立大賀郷中学校",
+    "src": "/img/kiji/4d270f.jpg?v=4d1b84",
+    "og": "/img/kiji/4d270f-og.jpg?v=4d1b84",
+    "s": "/img/kiji/4d270f-s.jpg?v=4d1b84",
+    "m": "/img/kiji/4d270f-m.jpg?v=4d1b84",
+    "caption": "八丈太鼓",
     "credit": "",
-    "file": "own/okago-chu-2.jpg"
+    "file": "own/hachijo-taiko-1.jpg"
    }
   },
   {
@@ -317,7 +317,7 @@
    "date": "2026-10-01",
    "url": "/2026/10/01/bab712/",
    "headlines": [
-    "台風26号、八丈島南を北東へ"
+    "9月の雨843ミリ、歴代5位"
    ]
   }
  ],

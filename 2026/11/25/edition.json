@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-26T08:52:33+09:00",
+ "built": "2026-11-28T18:59:16+09:00",
  "prev": "/2026/11/24/",
  "next": "/2026/11/26/",
  "alerts": [
@@ -323,13 +323,13 @@
    "id": "f7757e",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/f7757e.jpg?v=9e77c6",
-    "og": "/img/kiji/f7757e-og.jpg?v=9e77c6",
-    "s": "/img/kiji/f7757e-s.jpg?v=9e77c6",
-    "m": "/img/kiji/f7757e-m.jpg?v=9e77c6",
-    "caption": "八丈町立三原中学校",
+    "src": "/img/kiji/f7757e.jpg?v=941d5d",
+    "og": "/img/kiji/f7757e-og.jpg?v=941d5d",
+    "s": "/img/kiji/f7757e-s.jpg?v=941d5d",
+    "m": "/img/kiji/f7757e-m.jpg?v=941d5d",
+    "caption": "さつまいも",
     "credit": "",
-    "file": "own/mihara-chu-13.jpg"
+    "file": "ac/35479134.jpg"
    }
   }
  ],

@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T17:37:06+09:00",
+ "built": "2026-11-28T18:49:32+09:00",
  "prev": "/2026/09/04/",
  "next": "/2026/09/06/",
  "alerts": [],
@@ -111,7 +111,7 @@
      "url": "https://x.com/milk8jo/status/2095814601866932605"
     },
     {
-     "label": "写真:Wpcpey、CC BY 4.0(Wikimedia Commons。切り抜いて使用)",
+     "label": "写真:Wpcpey、CC BY 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Nihonbashimuromachi_Mitsui_Tower_View_201912.jpg"
     }
    ],
@@ -201,6 +201,10 @@
     {
      "label": "八丈高校「令和8年度版学校パンフレット」",
      "url": "https://www.toritsuko.metro.tokyo.lg.jp/wp/wp-content/uploads/2025/10/令和8年度版学校パンフレット八丈定）.pdf"
+    },
+    {
+     "label": "写真:妖精書士、CC BY-SA 4.0(Wikimedia Commons。切り抜いて使用)",
+     "url": "https://commons.wikimedia.org/wiki/File:Tosho_Kaikan_Building,2014.JPG"
     }
    ],
    "label": "教育",
@@ -209,13 +213,13 @@
    "id": "63d550",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/63d550.jpg?v=24b011",
-    "og": "/img/kiji/63d550-og.jpg?v=24b011",
-    "s": "/img/kiji/63d550-s.jpg?v=24b011",
-    "m": "/img/kiji/63d550-m.jpg?v=24b011",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/63d550.jpg?v=8a0d6f",
+    "og": "/img/kiji/63d550-og.jpg?v=8a0d6f",
+    "s": "/img/kiji/63d550-s.jpg?v=8a0d6f",
+    "m": "/img/kiji/63d550-m.jpg?v=8a0d6f",
+    "caption": "島嶼会館(港区海岸)",
     "credit": "",
-    "file": "own/hachijo-koko-4.jpg"
+    "file": "commons/Tosho_Kaikan_Building_2014.JPG"
    }
   }
  ],

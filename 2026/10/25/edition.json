@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T18:20:22+09:00",
+ "built": "2026-11-28T18:54:49+09:00",
  "prev": "/2026/10/24/",
  "next": "/2026/10/26/",
  "alerts": [
@@ -193,13 +193,13 @@
   "id": "35d678",
   "photo": {
    "type": "img",
-   "src": "/img/kiji/35d678.jpg?v=c040ac",
-   "og": "/img/kiji/35d678-og.jpg?v=c040ac",
-   "s": "/img/kiji/35d678-s.jpg?v=c040ac",
-   "m": "/img/kiji/35d678-m.jpg?v=c040ac",
-   "caption": "東京都立八丈高等学校",
+   "src": "/img/kiji/35d678.jpg?v=82bd39",
+   "og": "/img/kiji/35d678-og.jpg?v=82bd39",
+   "s": "/img/kiji/35d678-s.jpg?v=82bd39",
+   "m": "/img/kiji/35d678-m.jpg?v=82bd39",
+   "caption": "生命力が強い アシタバ",
    "credit": "",
-   "file": "own/hachijo-koko-3.jpg"
+   "file": "ac/26992216.jpg"
   }
  },
  "side": [],
@@ -325,7 +325,7 @@
      "url": "https://www.town.hachijo.tokyo.jp/chousei/hachijojima-g/r7-houshin/"
     },
     {
-     "label": "写真:国土交通省TEC-FORCE（テックフォース）撮影(2025年11月、八丈町。切り抜いて使用)",
+     "label": "写真:国土交通省TEC-FORCE（テックフォース）撮影",
      "url": "https://www.tecforce.jp/202510/index.html"
     }
    ],

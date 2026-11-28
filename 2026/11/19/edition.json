@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T15:20:57+09:00",
+ "built": "2026-11-28T18:56:16+09:00",
  "prev": "/2026/11/18/",
  "next": "/2026/11/20/",
  "alerts": [
@@ -241,13 +241,13 @@
    "id": "ffbb48",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/ffbb48.jpg?v=2d5191",
-    "og": "/img/kiji/ffbb48-og.jpg?v=2d5191",
-    "s": "/img/kiji/ffbb48-s.jpg?v=2d5191",
-    "m": "/img/kiji/ffbb48-m.jpg?v=2d5191",
-    "caption": "八丈町立三根小学校",
+    "src": "/img/kiji/ffbb48.jpg?v=926061",
+    "og": "/img/kiji/ffbb48-og.jpg?v=926061",
+    "s": "/img/kiji/ffbb48-s.jpg?v=926061",
+    "m": "/img/kiji/ffbb48-m.jpg?v=926061",
+    "caption": "ムロアジ",
     "credit": "",
-    "file": "own/mitsune-sho-9.jpg"
+    "file": "ac/27260028.jpg"
    }
   },
   {

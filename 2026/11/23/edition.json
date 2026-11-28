@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-24T11:03:00+09:00",
+ "built": "2026-11-28T18:58:30+09:00",
  "prev": "/2026/11/22/",
  "next": "/2026/11/24/",
  "alerts": [
@@ -296,13 +296,13 @@
    "id": "7bd615",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/7bd615.jpg?v=573b80",
-    "og": "/img/kiji/7bd615-og.jpg?v=573b80",
-    "s": "/img/kiji/7bd615-s.jpg?v=573b80",
-    "m": "/img/kiji/7bd615-m.jpg?v=573b80",
-    "caption": "八丈町立三原中学校",
+    "src": "/img/kiji/7bd615.jpg?v=814c2d",
+    "og": "/img/kiji/7bd615-og.jpg?v=814c2d",
+    "s": "/img/kiji/7bd615-s.jpg?v=814c2d",
+    "m": "/img/kiji/7bd615-m.jpg?v=814c2d",
+    "caption": "生い茂るさつまいも畑",
     "credit": "",
-    "file": "own/mihara-chu-10.jpg"
+    "file": "ac/35231820.jpg"
    }
   },
   {

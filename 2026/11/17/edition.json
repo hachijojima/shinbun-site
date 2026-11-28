@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T18:24:42+09:00",
+ "built": "2026-11-28T18:55:31+09:00",
  "prev": "/2026/11/16/",
  "next": "/2026/11/18/",
  "alerts": [
@@ -334,13 +334,13 @@
    "id": "0e08f3",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/0e08f3.jpg?v=22291e",
-    "og": "/img/kiji/0e08f3-og.jpg?v=22291e",
-    "s": "/img/kiji/0e08f3-s.jpg?v=22291e",
-    "m": "/img/kiji/0e08f3-m.jpg?v=22291e",
-    "caption": "八丈町立大賀郷小学校",
+    "src": "/img/kiji/0e08f3.jpg?v=4d1b84",
+    "og": "/img/kiji/0e08f3-og.jpg?v=4d1b84",
+    "s": "/img/kiji/0e08f3-s.jpg?v=4d1b84",
+    "m": "/img/kiji/0e08f3-m.jpg?v=4d1b84",
+    "caption": "八丈太鼓",
     "credit": "",
-    "file": "own/okago-sho-7.jpg"
+    "file": "own/hachijo-taiko-1.jpg"
    }
   }
  ],

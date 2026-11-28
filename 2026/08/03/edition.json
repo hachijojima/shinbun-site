@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-25T06:47:50+09:00",
+ "built": "2026-11-28T18:47:14+09:00",
  "prev": "/2026/08/02/",
  "next": "/2026/08/04/",
  "alerts": [],
@@ -181,13 +181,13 @@
    "id": "1cefe9",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/1cefe9.jpg?v=245d05",
-    "og": "/img/kiji/1cefe9-og.jpg?v=245d05",
-    "s": "/img/kiji/1cefe9-s.jpg?v=245d05",
-    "m": "/img/kiji/1cefe9-m.jpg?v=245d05",
-    "caption": "東京都立八丈高等学校",
+    "src": "/img/kiji/1cefe9.jpg?v=c392b5",
+    "og": "/img/kiji/1cefe9-og.jpg?v=c392b5",
+    "s": "/img/kiji/1cefe9-s.jpg?v=c392b5",
+    "m": "/img/kiji/1cefe9-m.jpg?v=c392b5",
+    "caption": "東京都・八丈町+八丈島の星空と夜景",
     "credit": "",
-    "file": "own/hachijo-koko-5.jpg"
+    "file": "ac/29272140.jpg"
    }
   },
   {
