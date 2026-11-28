@@ -3,7 +3,7 @@
  "edition": "朝刊",
  "published": "05:30",
  "proof": false,
- "built": "2026-11-28T17:21:03+09:00",
+ "built": "2026-11-28T18:24:42+09:00",
  "prev": "/2026/11/16/",
  "next": "/2026/11/18/",
  "alerts": [
@@ -240,13 +240,13 @@
    "id": "c36492",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/c36492.jpg?v=d6c0e2",
-    "og": "/img/kiji/c36492-og.jpg?v=d6c0e2",
-    "s": "/img/kiji/c36492-s.jpg?v=d6c0e2",
-    "m": "/img/kiji/c36492-m.jpg?v=d6c0e2",
+    "src": "/img/kiji/c36492.jpg?v=f9a071",
+    "og": "/img/kiji/c36492-og.jpg?v=f9a071",
+    "s": "/img/kiji/c36492-s.jpg?v=f9a071",
+    "m": "/img/kiji/c36492-m.jpg?v=f9a071",
     "caption": "八丈町コミュニティセンター",
     "credit": "",
-    "file": "own/komyuniti-2.jpg"
+    "file": "own/komyuniti-4.jpg"
    }
   },
   {
@@ -273,13 +273,13 @@
    "id": "c38f3b",
    "photo": {
     "type": "img",
-    "src": "/img/kiji/c38f3b.jpg?v=b8384d",
-    "og": "/img/kiji/c38f3b-og.jpg?v=b8384d",
-    "s": "/img/kiji/c38f3b-s.jpg?v=b8384d",
-    "m": "/img/kiji/c38f3b-m.jpg?v=b8384d",
-    "caption": "八丈町商工会の研修室",
+    "src": "/img/kiji/c38f3b.jpg?v=89564c",
+    "og": "/img/kiji/c38f3b-og.jpg?v=89564c",
+    "s": "/img/kiji/c38f3b-s.jpg?v=89564c",
+    "m": "/img/kiji/c38f3b-m.jpg?v=89564c",
+    "caption": "八丈植物公園の森の中の遊歩道",
     "credit": "",
-    "file": "own/shokokai-kenshu-2.jpg"
+    "file": "ac/27266222.jpg"
    }
   },
   {
